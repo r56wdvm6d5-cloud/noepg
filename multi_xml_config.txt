@@ -3,7 +3,7 @@
 # Format: CHANNEL_ID|URL|DISPLAY_NAME
 
 9256|https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LYXJhY2hp&date=20260326&channel_id=9256|Nat Geo HD
-9220|https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LYXJhY2hp&date=20260324&channel_id=9220|Discovery Channel
+9220|https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LYXJhY2hp&date=20260324&channel_id=9220|Animal Planet
 # Add more channels like this:
 # 1234|https://example.com/epg.xml?channel=1234|Channel Name
 # 5678|https://another-site.com/epg.xml?channel=5678|Another Channel
