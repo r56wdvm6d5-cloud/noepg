@@ -1,0 +1,26 @@
+# Multiple XML Sources Configuration
+# Add your XML URLs here, one per line
+# Format: CHANNEL_ID|URL|DISPLAY_NAME
+# Note: Date will be automatically updated to current date
+
+9256|https://epg.pw/api/epg.xml?channel_id=9256|Nat Geo HD
+
+9220|https://epg.pw/api/epg.xml?channel_id=9220|Animal Planet
+
+470867|https://epg.pw/api/epg.xml?channel_id=470867|Crime Plus Investigation SD
+
+9498|https://epg.pw/api/epg.xml?channel_id=9498|Crime+Inv HD
+
+
+470674|https://epg.pw/api/epg.xml?channel_id=470674|Discovery Channel
+
+465294|https://epg.pw/api/epg.xml?channel_id=465294|Investigation Discovery HD
+
+9455|https://epg.pw/api/epg.xml?channel_id=9455|Sky History2
+
+ 464932|https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9Ib25nX0tvbmc%3D&date=20260327&channel_id=464932|Destination America HD
+
+9410|https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LYXJhY2hp&date=20260327&channel_id=9410|SONY TV HD
+
+
+9510|https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9LYXJhY2hp&date=20260325&channel_id=9510|SONY BV HD
