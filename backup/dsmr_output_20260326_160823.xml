@@ -1,8 +1,7 @@
 <?xml version="1.0" ?>
-<tv date="20260326160823 " generator-info-name="Multi-XML-Processor" generator-info-url="https://github.com/r56wdvm6d5-cloud/epguk" source-info-name="Multi-Source-EPG">
+<tv date="20260326151019 " generator-info-name="XML-REFRESH-PROCESSOR" generator-info-url="https://github.com/your-repo" source-info-name="REFRESHED-EPG">
   <channel id="9256">
-    <display-name lang="United Kingdom of Great Britain and Northern Ireland">Nat Geo HD</display-name>
-    <icon src=""/>
+    <display-name lang="en">Nat Geo HD</display-name>
   </channel>
   <programme channel="9256" start="20260326000000 +0500" stop="20260326010000 +0500">
     <title lang="zh">Air Crash Investigation</title>
