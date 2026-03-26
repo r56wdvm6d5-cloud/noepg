@@ -143,8 +143,8 @@ update_github_pages() {
     # Switch to gh-pages branch
     git checkout gh-pages
     
-    # Copy latest EPG file
-    cp "../$ROOT_OUTPUT_FILE" epg.xml
+    # Copy latest EPG file from main branch
+    git show main:$ROOT_OUTPUT_FILE > epg.xml
     
     # Commit and push to gh-pages
     git add epg.xml
