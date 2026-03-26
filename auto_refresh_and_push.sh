@@ -8,6 +8,7 @@ set -e
 # Configuration
 REPO_DIR="/Users/ah/CascadeProjects/windsurf-project"
 OUTPUT_FILE="output/dsmr_output.xml"
+ROOT_OUTPUT_FILE="epg.xml"
 GITHUB_REPO_URL="https://github.com/r56wdvm6d5-cloud/epguk"
 BRANCH="main"
 COMMIT_MESSAGE="Auto-update EPG XML - $(date '+%Y-%m-%d %H:%M:%S')"
