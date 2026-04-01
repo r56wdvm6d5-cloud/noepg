@@ -18,20 +18,30 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
         
     - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+        
+    - name: Install dependencies
       run: |
-        python3 -m pip install --upgrade pip
-        pip3 install requests beautifulsoup4 lxml pytz
+        python -m pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml pytz
         
     - name: Run EPG generation script
       run: |
-        python3 tvmaze_epg.py
+        python tvmaze_epg.py
         
     - name: Commit and push changes
       run: |
-        git add epg.xml
         git config user.name "github-actions[bot]"
         git config user.email "github-actions[bot]@users.noreply.github.com"
-        git commit -m "Auto-update EPG - $(date '+%Y-%m-%d %H:%M:%S')"
-        git push
+        git add epg.xml
+        if git diff --cached --quiet; then
+          git commit -m "Auto-update EPG - $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        else
+          echo "No changes to commit"
+        fi
