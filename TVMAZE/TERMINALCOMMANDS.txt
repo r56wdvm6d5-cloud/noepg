@@ -1,0 +1,252 @@
+# TVMAZE TERMINALCOMMANDS
+
+## Installation and Setup
+
+### Install Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Run the EPG Generator
+```bash
+python tvmaze_epg.py
+```
+
+## Custom Configuration
+
+### Run with Custom Settings
+You can modify the configuration in the script or create a custom version:
+
+```python
+# Example: Generate EPG for specific countries and channels
+custom_config = {
+    'timezone': pytz.timezone("US/Eastern"),
+    'days': 7,                    # Fetch 7 days instead of 3
+    'countries': ["US"],           # Only US channels
+    'target_channels': ["ABC", "NBC", "CBS", "FOX"],
+    'request_delay': 0.2,          # Slower requests for reliability
+    'output_file': "custom_epg.xml"
+}
+```
+
+### Quick Test Commands
+
+#### Test with minimal data (1 day, US only)
+```bash
+# Modify script to use:
+# 'days': 1,
+# 'countries': ["US"],
+# 'target_channels': ["ABC"]
+python tvmaze_epg.py
+```
+
+#### Test with all countries (more comprehensive)
+```bash
+# Modify script to use:
+# 'days': 2,
+# 'countries': ["US", "GB", "CA", "AU", "NZ"],
+# 'target_channels': []  # Empty list = all channels
+python tvmaze_epg.py
+```
+
+## File Operations
+
+### Check Generated EPG File
+```bash
+ls -la epg.xml
+```
+
+### View EPG File Content
+```bash
+head -50 epg.xml
+```
+
+### Validate XML Structure
+```bash
+xmllint --noout epg.xml
+```
+
+### Count Programs in EPG
+```bash
+grep -c "<programme" epg.xml
+```
+
+### Count Channels in EPG
+```bash
+grep -c "<channel" epg.xml
+```
+
+## Troubleshooting Commands
+
+### Check Python Version
+```bash
+python --version
+```
+
+### Check Installed Packages
+```bash
+pip list | grep -E "(requests|pytz)"
+```
+
+### Test API Connection
+```bash
+curl -s "https://api.tvmaze.com/schedule?country=US&date=2024-04-01" | head -200
+```
+
+### Check Network Connectivity
+```bash
+ping api.tvmaze.com
+```
+
+### Run with Verbose Logging
+```bash
+# Add to script: logging.basicConfig(level=logging.DEBUG)
+python tvmaze_epg.py
+```
+
+## Automation Commands
+
+### Create Daily Cron Job
+```bash
+# Edit crontab
+crontab -e
+
+# Add line for daily execution at 2 AM
+0 2 * * * cd /path/to/TVMAZE && python tvmaze_epg.py
+```
+
+### Create Weekly Script
+```bash
+#!/bin/bash
+# weekly_epg_update.sh
+cd /path/to/TVMAZE
+python tvmaze_epg.py
+echo "EPG updated: $(date)" >> epg_update.log
+```
+
+### Monitor EPG Generation
+```bash
+# Watch log file in real-time
+tail -f tvmaze_epg.log
+
+# Or if using system logging
+tail -f /var/log/tvmaze_epg.log
+```
+
+## File Management
+
+### Backup Current EPG
+```bash
+cp epg.xml epg_backup_$(date +%Y%m%d).xml
+```
+
+### Clean Old Backups
+```bash
+# Keep only last 7 days of backups
+find . -name "epg_backup_*.xml" -mtime +7 -delete
+```
+
+### Compare EPG Files
+```bash
+diff epg.xml epg_backup_20240301.xml
+```
+
+## Performance Testing
+
+### Time the EPG Generation
+```bash
+time python tvmaze_epg.py
+```
+
+### Test with Different Request Delays
+```bash
+# Fast (may hit rate limits)
+# 'request_delay': 0.05
+
+# Normal (recommended)
+# 'request_delay': 0.1
+
+# Slow (more reliable)
+# 'request_delay': 0.5
+```
+
+## Integration Commands
+
+### Serve EPG via HTTP
+```bash
+# Simple HTTP server
+python -m http.server 8080 --directory .
+
+# Access at: http://localhost:8080/epg.xml
+```
+
+### Upload to Server (example with scp)
+```bash
+scp epg.xml user@server:/path/to/epg/directory/
+```
+
+### Sync to Cloud Storage (example with rclone)
+```bash
+rclone copy epg.xml remote:epg/
+```
+
+## Development Commands
+
+### Run Python Syntax Check
+```bash
+python -m py_compile tvmaze_epg.py
+```
+
+### Run with Python Debugger
+```bash
+python -m pdb tvmaze_epg.py
+```
+
+### Profile Performance
+```bash
+python -m cProfile -s cumtime tvmaze_epg.py
+```
+
+### Check Code Style
+```bash
+pip install flake8
+flake8 tvmaze_epg.py
+```
+
+## Environment Setup
+
+### Create Virtual Environment
+```bash
+python -m venv tvmaze_env
+source tvmaze_env/bin/activate  # On Windows: tvmaze_env\Scripts\activate
+pip install -r requirements.txt
+```
+
+### Deactivate Virtual Environment
+```bash
+deactivate
+```
+
+## Quick Start Summary
+
+```bash
+# 1. Install dependencies
+pip install -r requirements.txt
+
+# 2. Run the generator
+python tvmaze_epg.py
+
+# 3. Check output
+ls -la epg.xml
+
+# 4. View content
+head -30 epg.xml
+```
+
+## Notes
+
+- The script generates `epg.xml` in the current directory
+- Default configuration fetches 3 days of data for 5 countries
+- Rate limiting prevents API abuse
+- All errors are logged with timestamps
+- The XML output follows the XMLTV standard format
