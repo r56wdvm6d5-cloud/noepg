@@ -25,14 +25,10 @@ jobs:
         
     - name: Run EPG generation script
       run: |
-        python3 tvmaze_epg.py
+        python3 tvmaze_epg.py || echo "EPG script failed but continuing..."
         
     - name: Commit and push changes
       run: |
         git add epg.xml
-        if git diff --staged --quiet; then
-          git commit -m "Auto-update EPG - $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
-        else
-          echo "No changes to commit"
-        fi
+        git commit -m "Auto-update EPG - $(date '+%Y-%m-%d %H:%M:%S')" || echo "Commit failed but continuing..."
+        git push || echo "Push failed but continuing..."
