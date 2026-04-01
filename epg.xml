@@ -562,11 +562,6 @@
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260401210000 -0400" stop="20260401220400 -0400" channel="FOX.US">
-    <title>The Masked Singer</title>
-    <desc>Based on an international hit, which already is a viral phenomenon with more than half a billion fans worldwide, and the No. 1 top-trending video of 2017 on YouTube, The Masked Singer features celebrities facing off against one another with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. Ken Jeong, Jenny McCarthy, Nicole Scherzinger and Robin Thicke serve on the panel and play detective, alongside host Nick Cannon.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260401210000 -0400" stop="20260401220000 -0400" channel="National Geographic.US">
     <title>To Catch a Smuggler</title>
     <desc>Stationed at JFK International Airport—one of the largest hubs for international travel in America—officers with U.S. Customs and Border Protection (CBP) and U.S. Immigration and Customs Enforcement (ICE) crack down on criminals attempting to smuggle illegal goods and drugs into the United States. It's a job where everything—the safety of their team, and the security of the nation—is at stake. But for these officers, it's just another day at JFK.</desc>
@@ -622,7 +617,7 @@
     <desc>On the ABC News Specials, the stories that need to be covered in great detailed are featured.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260401210000 -0400" stop="20260401213000 -0400" channel="NBC.US">
+  <programme start="20260401210000 -0400" stop="20260401212000 -0400" channel="NBC.US">
     <title>NBC News Special Report</title>
     <desc>Special events are covered by the NBC news team.</desc>
     <category>TV Show</category>
@@ -630,6 +625,11 @@
   <programme start="20260401212000 -0400" stop="20260401222000 -0400" channel="NBC.US">
     <title>Chicago Fire</title>
     <desc>No job is more stressful, dangerous or exhilarating than those of the Firefighters, Rescue Squad and Paramedics of Chicago Firehouse 51. These are the courageous men and women who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death. These are their stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401212000 -0400" stop="20260401222400 -0400" channel="FOX.US">
+    <title>The Masked Singer</title>
+    <desc>Based on an international hit, which already is a viral phenomenon with more than half a billion fans worldwide, and the No. 1 top-trending video of 2017 on YouTube, The Masked Singer features celebrities facing off against one another with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. Ken Jeong, Jenny McCarthy, Nicole Scherzinger and Robin Thicke serve on the panel and play detective, alongside host Nick Cannon.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401213000 -0400" stop="20260401220000 -0400" channel="A&amp;E.US">
@@ -650,11 +650,6 @@
   <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="NBC.US">
-    <title>Chicago P.D.</title>
-    <desc>District 21 of the Chicago Police Department is made up of two distinctly different groups. There are the uniformed cops who patrol the beat and go head to head with the city's street crimes. And there's the Intelligence Unit, the team that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond. These are their stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="Newsmax.US">
@@ -690,6 +685,11 @@
   <programme start="20260401222000 -0400" stop="20260401232000 -0400" channel="CBS.US">
     <title>America's Culinary Cup</title>
     <desc>America's Culinary Cup will feature a cast of the nation's most decorated chefs as they compete in the kitchen.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401222000 -0400" stop="20260401232000 -0400" channel="NBC.US">
+    <title>Chicago P.D.</title>
+    <desc>District 21 of the Chicago Police Department is made up of two distinctly different groups. There are the uniformed cops who patrol the beat and go head to head with the city's street crimes. And there's the Intelligence Unit, the team that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond. These are their stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401230000 -0400" stop="20260402000000 -0400" channel="MS NOW.US">
