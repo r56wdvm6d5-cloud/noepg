@@ -1,0 +1,196 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/r56wdvm6d5-cloud/noepg/main/epg.xml"
+#EXTINF:-1 group-title="TV SHOWS",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 group-title="TV SHOWS",ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 group-title="TV SHOWS",BBC One
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47744.m3u8
+#EXTINF:-1 group-title="TV SHOWS",BBC Two HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47745.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Bravo
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/22562.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Bravo PLUS 1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 group-title="TV SHOWS",ABC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40780.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBS
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40755.m3u8
+#EXTINF:-1 group-title="TV SHOWS",FOX
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40709.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC 
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40579.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40570.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40761.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40759.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40758.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40757.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS",CTV
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40577.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS",CTV
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40595.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40585.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40731.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS",CTV
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40733.m3u8
+
+#EXTINF:-1 group-title="TV SHOWS",CTV
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40732.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Channel 4
+https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8
+#EXTINF:-1 group-title="TV SHOWS",5
+https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40578.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40598.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40752.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40751.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Comedy Central HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15933.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Crave4
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40653.m3u8
+#EXTINF:-1 group-title="TV SHOWS",E4
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47772.m3u8
+#EXTINF:-1 group-title="TV SHOWS",True Crime
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47754.m3u8
+#EXTINF:-1 group-title="TV SHOWS",True Crime Xtra
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47753.m3u8
+#EXTINF:-1 group-title="TV SHOWS",US CBS
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/22560.m3u8
+#EXTINF:-1 group-title="TV SHOWS",US PBS East
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/23222.m3u8
+#EXTINF:-1 group-title="TV SHOWS",ABC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/23363.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBS
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40756.m3u8
+#EXTM3U
+# MISSING EPG CHANNELS FROM M3U
+#EXTINF:-1 group-title="TV SHOWS",Channel 5 HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47759.m3u8
+#EXTINF:-1 group-title="TV SHOWS",A&amp;E
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15966.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CA ABC WEST
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40780.m3u8
+#EXTINF:-1 group-title="TV SHOWS",WABC-DT
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/23363.m3u8
+#EXTINF:-1 group-title="TV SHOWS",ABC TV
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 group-title="TV SHOWS",ABC ME
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 group-title="TV SHOWS",BBC Alba
+#EXTINF:-1 group-title="TV SHOWS",BBC One EastHD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47744.m3u8
+#EXTINF:-1 group-title="TV SHOWS",BBC Two
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47745.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Bravo HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/22562.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Bravo PLUS 1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC Calgary HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40579.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC Montreal
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40761.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC Ottawa
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40759.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC Toronto HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40758.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC Vancouver
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40757.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CBC Halifax
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40570.m3u8
+#EXTINF:-1 group-title="TV SHOWS",WCBS-DT
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40756.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CA CBS WEST
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40755.m3u8
+#EXTINF:-1 group-title="TV SHOWS",US CBS
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/22560.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CNBC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15902.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CNN HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/23340.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV COMEDY CHANNEL
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40746.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV DRAMA CHANNEL
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40766.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Toronto HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40733.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Halifax
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40595.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Montreal
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40585.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Two - Ottawa
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40734.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Ottawa
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40731.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Calgary HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40577.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Vancouver HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40732.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV Two - Vancouver/Victoria
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40736.m3u8
+#EXTINF:-1 group-title="TV SHOWS",CTV SCI-FI CHANNEL HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40620.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Channel 4 HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47758.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv Calgary
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40578.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv Montreal
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40598.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv Toronto HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40752.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Citytv Vancouver
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40751.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Comedy Central HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15933.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Discovery Channel HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/22549.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Crave4
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40653.m3u8
+#EXTINF:-1 group-title="TV SHOWS",E4 HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47772.m3u8
+#EXTINF:-1 group-title="TV SHOWS",ESPN
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15951.m3u8
+#EXTINF:-1 group-title="TV SHOWS",FOX
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40709.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Fox News Channel
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/40708.m3u8
+#EXTINF:-1 group-title="TV SHOWS",History
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15912.m3u8
+#EXTINF:-1 group-title="TV SHOWS",ITV1 HD
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47784.m3u8
+#EXTINF:-1 group-title="TV SHOWS",NBC
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/49424.m3u8
+#EXTINF:-1 group-title="TV SHOWS",National Geographic
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/22503.m3u8
+#EXTINF:-1 group-title="TV SHOWS",US NewsNation (WGN AMERICA)
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/23232.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Newsmax
+#EXTINF:-1 group-title="TV SHOWS",PBS 
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/23222.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Quest
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47804.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Sky Arts
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47811.m3u8
+#EXTINF:-1 group-title="TV SHOWS",Syndication
+#EXTINF:-1 group-title="TV SHOWS",True Crime Xtra
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47753.m3u8
+#EXTINF:-1 group-title="TV SHOWS",True Crime
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/47754.m3u8
+#EXTINF:-1 group-title="TV SHOWS",THE CW
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15960.m3u8
+#EXTINF:-1 group-title="TV SHOWS",STARZ
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/49164.m3u8
+#EXTINF:-1 group-title="TV SHOWS",HBO
+http://kstv.us:8080/live/3Ha18eA6y4/Dirt$hip2786@/15913.m3u8

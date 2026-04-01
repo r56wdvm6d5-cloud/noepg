@@ -52,7 +52,7 @@ if [ ! -d "$REPO_DIR" ]; then
     print_status "Cloning repository..."
     git clone "$REPO_URL" "$REPO_DIR"
     if [ $? -ne 0 ]; then
-        print_error "Failed to clone repository. Please check URL and your permissions."
+        print_error "Failed to clone repository. Please check the URL and your permissions."
         exit 1
     fi
 else
