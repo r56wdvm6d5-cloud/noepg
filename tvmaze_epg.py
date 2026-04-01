@@ -21,7 +21,7 @@ TARGET_CHANNELS = [
     "ABC", "NBC", "CBS", "FOX", "The CW",
     
     # US News Channels
-    "CNN", "Fox News Channel", "MS NOW", "Newsmax", "NewsNation", "CNBC",
+    "CNN", "Fox News Channel", "MS NOW", "NewsNation", "CNBC",
     
     # US Cable Channels
     "ESPN", "Comedy Central", "Bravo", "A&E", "History", "Discovery", 
