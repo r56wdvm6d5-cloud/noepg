@@ -497,6 +497,11 @@
     <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260401190000 -0400" stop="20260401193000 -0400" channel="ESPN.US">
+    <title>NBA Countdown</title>
+    <desc>NBA Countdown serves as the primer for game telecasts on both ABC and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league. Seats at the table are reserved for host Sage Steele and analysts Doug Collins and Jalen Rose. The latter two impart wisdom based on many years of combined playing and coaching experience. Doris Burke contributes analysis on the program's Wednesday editions.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260401200000 -0400" stop="20260401210000 -0400" channel="NBC.US">
     <title>Chicago Med</title>
     <desc>An emotional thrill ride through the day-to-day chaos of the city's newest state-of-the-art trauma center and into the lives of the courageous doctors, nurses and staff who hold it all together. This is one of those days.</desc>
@@ -615,6 +620,11 @@
   <programme start="20260401210000 -0400" stop="20260401212000 -0400" channel="ABC.US">
     <title>ABC News Special Report</title>
     <desc>On the ABC News Specials, the stories that need to be covered in great detailed are featured.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401210000 -0400" stop="20260401213000 -0400" channel="NBC.US">
+    <title>NBC News Special Report</title>
+    <desc>Special events are covered by the NBC news team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401212000 -0400" stop="20260401222000 -0400" channel="NBC.US">
@@ -1300,6 +1310,11 @@
   <programme start="20260402233500 -0400" stop="20260403003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260402233500 -0400" stop="20260403003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260402000000 -0400" stop="20260402020000 -0400" channel="CNN.US">
