@@ -27,6 +27,12 @@ jobs:
       with:
         python-version: '3.12'
         
+    # Verify Node.js version
+    - name: Check Node.js version
+      run: |
+        node --version
+        echo "✅ Using Node.js $(node --version)"
+        
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
