@@ -10,6 +10,7 @@ on:
 jobs:
   update-epg:
     runs-on: ubuntu-latest
+    container: python:3.12-slim
     
     steps:
     - name: Checkout repository
@@ -18,16 +19,14 @@ jobs:
         git config --global user.email "action@github.com"
         git config --global user.name "GitHub Action"
         
-    - name: Set up Python
+    - name: Install dependencies
       run: |
-        sudo apt-get update
-        sudo apt-get install -y python3 python3-pip
-        python3 -m pip install --upgrade pip
-        pip3 install requests beautifulsoup4 lxml pytz
+        pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml pytz
         
     - name: Run EPG generation script
       run: |
-        python3 tvmaze_epg.py
+        python tvmaze_epg.py
         
     - name: Commit and push changes
       run: |
