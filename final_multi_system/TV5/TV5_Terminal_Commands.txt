@@ -1,0 +1,388 @@
+# TV5 Terminal Commands
+
+This file contains all terminal commands for the TV5 Multi-XML Processor system.
+
+## Directory Navigation
+```bash
+# Navigate to TV5 processor directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 multi_processor"
+
+# Navigate to TV5 config directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+
+# Navigate to TV5 output directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github"
+```
+
+## TV5 Auto-Refresh Commands
+
+### Start TV5 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./TV5\ auto_refresh.sh start
+```
+
+### Stop TV5 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./TV5\ auto_refresh.sh stop
+```
+
+### Check TV5 Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./TV5\ auto_refresh.sh status
+```
+
+### Restart TV5 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./TV5\ auto_refresh.sh restart
+```
+
+### Run TV5 Once (Manual)
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./refresh_config.sh
+```
+
+## TV5 Manual Processing Commands
+
+### Run TV5 Processor Directly
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 multi_processor"
+python3 "TV5 multi_xml_processor.py" --config "../TV5 config_txt/TV5.txt" --output "../TV5 Github/TV5_epg.xml"
+```
+
+### Run TV5 Processor with Verbose Logging
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 multi_processor"
+python3 "TV5 multi_xml_processor.py" --config "../TV5 config_txt/TV5.txt" --output "../TV5 Github/TV5_epg.xml" --verbose
+```
+
+## TV5 File Management Commands
+
+### View TV5 Config File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5.txt"
+```
+
+### Edit TV5 Config File
+```bash
+nano "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5.txt"
+```
+
+### View TV5 Output File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml"
+```
+
+### Check TV5 Output File Size
+```bash
+ls -lh "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml"
+```
+
+### View TV5 Log File
+```bash
+tail -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/auto_refresh.log"
+```
+
+### View Last 20 Lines of TV5 Log
+```bash
+tail -20 "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/auto_refresh.log"
+```
+
+### Clear TV5 Log File
+```bash
+> "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/auto_refresh.log"
+```
+
+## TV5 Process Management Commands
+
+### Check if TV5 Process is Running
+```bash
+ps aux | grep "TV5 auto_refresh"
+```
+
+### Kill TV5 Process Manually
+```bash
+pkill -f "TV5 auto_refresh"
+```
+
+### Check TV5 PID File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/.auto_refresh.pid"
+```
+
+## TV5 Testing Commands
+
+### Test TV5 Config File
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 multi_processor"
+python3 -c "
+import sys
+sys.path.append('.')
+from 'TV5 multi_xml_processor' import MultiXMLProcessor
+processor = MultiXMLProcessor()
+sources = processor.load_config('../TV5 config_txt/TV5.txt')
+print(f'Loaded {len(sources)} sources:')
+for source in sources:
+    print(f'  {source["channel_id"]}: {source["display_name"]}')
+"
+```
+
+### Validate TV5 XML Output
+```bash
+xmllint --noout "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml"
+```
+
+## TV5 Backup Commands
+
+### Create TV5 Backup
+```bash
+cp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg_backup_$(date +%Y%m%d_%H%M%S).xml"
+```
+
+### Backup TV5 Config
+```bash
+cp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5.txt" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5_backup_$(date +%Y%m%d_%H%M%S).txt"
+```
+
+## TV5 Quick Start Sequence
+
+### Complete TV5 Setup and Start
+```bash
+# Navigate to TV5 config directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+
+# Make script executable (if needed)
+chmod +x "TV5 auto_refresh.sh"
+chmod +x refresh_config.sh
+
+# Run once to test
+./refresh_config.sh
+
+# Check output
+ls -la "../TV5 Github/"
+
+# Start auto-refresh if test successful
+./TV5\ auto_refresh.sh start
+
+# Check status
+./TV5\ auto_refresh.sh status
+```
+
+## TV5 Troubleshooting Commands
+
+### Check TV5 File Permissions
+```bash
+ls -la "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5 auto_refresh.sh"
+```
+
+### Fix TV5 Script Permissions
+```bash
+chmod +x "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5 auto_refresh.sh"
+chmod +x "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/refresh_config.sh"
+```
+
+### Check Python Dependencies for TV5
+```bash
+python3 -c "import requests, xml.etree.ElementTree as ET, xml.dom.minidom; print('All TV5 dependencies available')"
+```
+
+### Monitor TV5 Output in Real-time
+```bash
+watch -n 30 'ls -la "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/"'
+```
+
+## TV5 Performance Monitoring Commands
+
+### Count TV5 Channels and Programs
+```bash
+# Count channels
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml"
+
+# Count programs
+grep -c "<programme " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml"
+
+# Get channel list
+grep -o '<display-name[^>]*>[^<]*</display-name>' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" | head -20
+```
+
+### Monitor TV5 Processing Time
+```bash
+# Time the refresh process
+time "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/refresh_config.sh"
+```
+
+## TV5 Comparison Commands (TV5 vs DOC2 vs Original)
+
+### Compare TV5 vs DOC2 Output Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Doc2/Doc2 Github/Doc2_Doc2_epg.xml"
+```
+
+### Compare TV5 vs Original Output Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+```
+
+### Compare Config Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5.txt" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/multi_xml_config.txt"
+```
+
+## TV5 System Integration Commands
+
+### Check Main System Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt"
+./auto_refresh.sh status
+```
+
+### Check TV5 System Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./TV5\ auto_refresh.sh status
+```
+
+### Compare Main System vs TV5
+```bash
+# Compare output sizes
+wc -l "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+wc -l "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml"
+
+# Compare channel counts
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml"
+```
+
+## TV5 Cleanup Commands
+
+### Remove Old TV5 Output Files
+```bash
+find "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github" -name "*.xml" -mtime +7 -delete
+```
+
+### Clean TV5 Log Files (keep last 100 lines)
+```bash
+tail -100 "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/auto_refresh.log" > temp && mv temp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/auto_refresh.log"
+```
+
+### Clean TV5 Backup Files (keep last 5)
+```bash
+ls -t "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg_backup_"*.xml | tail -n +6 | xargs rm -f
+```
+
+## TV5 Advanced Commands
+
+### Test Individual TV5 Channels
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 multi_processor"
+python3 -c "
+import sys
+sys.path.append('.')
+from 'TV5 multi_xml_processor' import MultiXMLProcessor
+processor = MultiXMLProcessor()
+# Test first channel only
+sources = processor.load_config('../TV5 config_txt/TV5.txt')
+if sources:
+    test_source = sources[0]
+    print(f'Testing channel: {test_source["display_name"]}')
+    success = processor.process_source(test_source)
+    print(f'Success: {success}')
+"
+```
+
+### Validate TV5 XML Structure
+```bash
+# Check for well-formed XML
+xmllint --noout "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" && echo "XML is well-formed"
+
+# Check TV XML schema elements
+grep -q "<tv " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" && echo "TV root element found"
+grep -q "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" && echo "Channel elements found"
+grep -q "<programme " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" && echo "Programme elements found"
+```
+
+### TV5 Statistics
+```bash
+echo "=== TV5 EPG Statistics ==="
+echo "File size: $(du -h "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" | cut -f1)"
+echo "Total lines: $(wc -l < "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml")"
+echo "Channels: $(grep -c '<channel ' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml")"
+echo "Programs: $(grep -c '<programme ' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml")"
+echo "Last modified: $(stat -f "%Sm" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml")"
+```
+
+## TV5 Full Path Commands (For Direct Execution)
+
+### TV5 Auto-Refresh Management (Full Paths)
+```bash
+# Start TV5 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5\ config_txt/TV5\ auto_refresh.sh start
+
+# Stop TV5 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5\ config_txt/TV5\ auto_refresh.sh stop
+
+# Check TV5 status
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5\ config_txt/TV5\ auto_refresh.sh status
+
+# Restart TV5 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5\ config_txt/TV5\ auto_refresh.sh restart
+```
+
+### TV5 Manual Refresh (Full Path)
+```bash
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5\ config_txt/refresh_config.sh
+```
+
+### TV5 Processor (Full Path)
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5\ multi_processor && python3 "TV5 multi_xml_processor.py" --config "../TV5 config_txt/TV5.txt" --output "../TV5 Github/TV5_epg.xml"
+```
+
+## TV5 Emergency Commands
+
+### Force Stop All TV5 Processes
+```bash
+pkill -f "TV5 auto_refresh"
+pkill -f "TV5 multi_xml_processor"
+rm -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/.auto_refresh.pid"
+```
+
+### Reset TV5 System
+```bash
+# Stop processes
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./TV5\ auto_refresh.sh stop
+
+# Clean logs
+> auto_refresh.log
+
+# Restart
+./TV5\ auto_refresh.sh start
+```
+
+### TV5 Health Check
+```bash
+echo "=== TV5 System Health Check ==="
+echo "1. Config file exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5.txt" && echo "✓ Config file found" || echo "✗ Config file missing"
+
+echo "2. Processor script exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 multi_processor/TV5 multi_xml_processor.py" && echo "✓ Processor found" || echo "✗ Processor missing"
+
+echo "3. Auto-refresh script exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt/TV5 auto_refresh.sh" && echo "✓ Auto-refresh found" || echo "✗ Auto-refresh missing"
+
+echo "4. Output directory exists:"
+test -d "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github" && echo "✓ Output directory found" || echo "✗ Output directory missing"
+
+echo "5. Auto-refresh status:"
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 config_txt"
+./TV5\ auto_refresh.sh status 2>/dev/null || echo "✗ Auto-refresh not running"
+
+echo "6. Output file status:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV5/TV5 Github/TV5_epg.xml" && echo "✓ Output file exists" || echo "✗ Output file missing"
+```

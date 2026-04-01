@@ -1,0 +1,125 @@
+# Terminal Commands Guide
+
+## Manual Refresh
+
+### Refresh Config Dates
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./refresh_config.sh
+```
+
+### Process XML Manually
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && python3 multi_xml_processor.py --config ../config_txt/multi_xml_config.txt --output ../Github/epg_combined.xml
+```
+
+## Auto-Refresh Management
+
+### Start Services
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./auto_refresh.sh start
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && ./auto_refresh_processor.sh start
+```
+
+### Stop Services
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./auto_refresh.sh stop
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && ./auto_refresh_processor.sh stop
+```
+
+### Restart Services
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./auto_refresh.sh restart
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && ./auto_refresh_processor.sh restart
+```
+
+### Quick Restart (One-liner)
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./auto_refresh.sh restart && cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && ./auto_refresh_processor.sh restart
+```
+
+## Status Check
+
+### Check Service Status
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./auto_refresh.sh status
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && ./auto_refresh_processor.sh status
+```
+
+### Check Running Processes
+```bash
+ps aux | grep auto_refresh
+```
+
+### Check Recent Logs
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && tail -5 auto_refresh.log
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && tail -5 auto_refresh_processor.log
+```
+
+### Check Output File Timestamp
+```bash
+ls -la /Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml
+```
+
+## Launch Daemon Management
+
+### Check Launch Daemon Status
+```bash
+launchctl list | grep epg
+```
+
+### Stop Launch Daemons
+```bash
+launchctl stop com.epgrefresh
+launchctl stop com.epgprocessor
+```
+
+### Start Launch Daemons
+```bash
+launchctl start com.epgrefresh
+launchctl start com.epgprocessor
+```
+
+### Uninstall Launch Daemons
+```bash
+launchctl unload ~/Library/LaunchAgents/com.epgrefresh.plist
+launchctl unload ~/Library/LaunchAgents/com.epgprocessor.plist
+rm ~/Library/LaunchAgents/com.epgrefresh.plist
+rm ~/Library/LaunchAgents/com.epgprocessor.plist
+```
+
+## Troubleshooting
+
+### If Auto-Refresh Stops Working
+1. Check processes: `ps aux | grep auto_refresh`
+2. Check logs: `tail -10 config_txt/auto_refresh.log`
+3. Restart services: Use restart commands above
+4. If still issues, stop and restart launch daemons
+
+### If No Output File
+1. Check directory: `ls -la /Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/`
+2. Run manual processor to test
+3. Check config file format: `cat /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/multi_xml_config.txt`
+
+### If Dates Not Updating
+1. Check config file: `cat /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/multi_xml_config.txt`
+2. Run manual refresh: `cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./refresh_config.sh`
+3. Verify backup created: `ls -la /Users/ah/CascadeProjects/windsurf-project/final_multi_system/add_backup/`
+
+## Quick Reference
+
+| Action | Command |
+|--------|---------|
+| Manual refresh | `cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./refresh_config.sh && cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && python3 multi_xml_processor.py --config ../config_txt/multi_xml_config.txt --output ../Github/epg_combined.xml` |
+| Restart all | `cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./auto_refresh.sh restart && cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && ./auto_refresh_processor.sh restart` |
+| Check status | `ps aux | grep auto_refresh && cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && ./auto_refresh.sh status && cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && ./auto_refresh_processor.sh status` |
+| View logs | `cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt && tail -10 auto_refresh.log && echo "---" && cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor && tail -10 auto_refresh_processor.log` |
+
+## File Locations
+
+- **Config**: `/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/multi_xml_config.txt`
+- **Output**: `/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml`
+- **Logs**: `/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/auto_refresh.log`, `/Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor/auto_refresh_processor.log`
+- **Scripts**: `/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/auto_refresh.sh`, `/Users/ah/CascadeProjects/windsurf-project/final_multi_system/multi_processor/auto_refresh_processor.sh`
+- **Backups**: `/Users/ah/CascadeProjects/windsurf-project/final_multi_system/add_backup/multi_xml_config.txt.backup`
+

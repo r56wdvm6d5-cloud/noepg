@@ -1,0 +1,18 @@
+# Multiple XML Sources Configuration - DOC2 Workflow (15 channels)
+# Add your XML URLs here, one per line
+# Format: CHANNEL_ID|URL|DISPLAY_NAME
+# Note: Date will be automatically updated to current date
+
+205306|https://epg.pw/api/epg.xml?channel_id=205306|True Crime Xtra
+486749|https://epg.pw/api/epg.xml?channel_id=486749|True Crime
+486692|https://epg.pw/api/epg.xml?channel_id=486692|Channel 4 HD
+486845|https://epg.pw/api/epg.xml?channel_id=486845|Channel 5 HD
+486733|https://epg.pw/api/epg.xml?channel_id=486733|Challenge
+470301|https://epg.pw/api/epg.xml?channel_id=470301|CHCH-DT
+470612|https://epg.pw/api/epg.xml?channel_id=470612|Citytv Calgary
+470911|https://epg.pw/api/epg.xml?channel_id=470911|Citytv Montreal
+470862|https://epg.pw/api/epg.xml?channel_id=470862|Citytv Toronto HD
+470496|https://epg.pw/api/epg.xml?channel_id=470496|Citytv Vancouver
+465363|https://epg.pw/api/epg.xml?channel_id=465363|Cleo TV HD
+======================================================================================
+

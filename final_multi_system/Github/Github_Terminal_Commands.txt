@@ -1,0 +1,141 @@
+# GitHub EPG Monitoring System - Terminal Commands
+# Master Multi-XML Processor Github Push Commands
+# PATH: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github
+
+# ========================================
+# MONITORING CONTROL COMMANDS
+# ========================================
+
+# Start EPG file monitoring (runs in background)
+./monitor_epg_changes.sh start
+
+# Stop EPG file monitoring
+./monitor_epg_changes.sh stop
+
+# Restart EPG file monitoring
+./monitor_epg_changes.sh restart
+
+# Check current monitoring status
+./monitor_epg_changes.sh status
+
+# ========================================
+# MANUAL PUSH COMMANDS
+# ========================================
+
+# Manual push of EPG combined XML to GitHub
+./auto_push_epg.sh
+
+# ========================================
+# STATUS CHECK COMMANDS
+# ========================================
+
+# Check if monitoring process is running
+ps aux | grep monitor_epg_changes.sh | grep -v grep
+
+# Check the stored monitoring PID
+cat .monitor_pid
+
+# Verify specific PID is running
+ps -p $(cat .monitor_pid)
+
+# ========================================
+# LOG FILES COMMANDS
+# ========================================
+
+# View monitoring log (last 20 lines)
+tail -20 monitor.log
+
+# View auto-push log (last 20 lines)
+tail -20 auto_push.log
+
+# View complete monitoring log
+cat monitor.log
+
+# View complete auto-push log
+cat auto_push.log
+
+# Follow monitoring log in real-time
+tail -f monitor.log
+
+# Follow auto-push log in real-time
+tail -f auto_push.log
+
+# ========================================
+# GIT STATUS COMMANDS
+# ========================================
+
+# Check git status of repository
+git status
+
+# Check recent commits
+git log --oneline -10
+
+# Check if file has changes (compare with last commit)
+git diff HEAD -- epg_combined.xml
+
+# ========================================
+# FILE VERIFICATION COMMANDS
+# ========================================
+
+# Check if EPG file exists
+ls -la epg_combined.xml
+
+# Check file size and modification time
+ls -lh epg_combined.xml
+
+# Check file hash (MD5)
+md5sum epg_combined.xml
+
+# ========================================
+# TROUBLESHOOTING COMMANDS
+# ========================================
+
+# Clean up stale PID file if monitoring is not running
+rm -f .monitor_pid
+
+# Force kill monitoring process (if stuck)
+kill -9 $(cat .monitor_pid)
+
+# Check git remote configuration
+git remote -v
+
+# Test git connectivity
+git remote show origin
+
+# ========================================
+# AUTO-START COMMANDS
+# ========================================
+
+# Create launch daemon for auto-start at boot (requires sudo)
+# sudo cp com.epg.monitor.plist /Library/LaunchDaemons/
+# sudo launchctl load /Library/LaunchDaemons/com.epg.monitor.plist
+
+# ========================================
+# QUICK START SEQUENCE
+# ========================================
+
+# Complete sequence to start monitoring system
+echo "Starting EPG Monitoring System..."
+./monitor_epg_changes.sh stop
+sleep 2
+./monitor_epg_changes.sh start
+./monitor_epg_changes.sh status
+
+# ========================================
+# QUICK STOP SEQUENCE
+# ========================================
+
+# Complete sequence to stop monitoring system
+echo "Stopping EPG Monitoring System..."
+./monitor_epg_changes.sh stop
+./monitor_epg_changes.sh status
+
+# ========================================
+# WORKING DIRECTORY
+# ========================================
+
+# Always run commands from this directory:
+# PATH: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github
+
+# Change to working directory:
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github

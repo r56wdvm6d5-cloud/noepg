@@ -1,0 +1,640 @@
+Fri Mar 27 18:46:41 PKT 2026: Auto-refresh started
+Fri Mar 27 19:30:36 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 19:30:36,995 - INFO - Loaded 16 XML sources from config
+2026-03-27 19:30:36,995 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470602
+2026-03-27 19:30:38,142 - INFO - Extracted 40 programs for channel 470602
+2026-03-27 19:30:38,142 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=454797
+2026-03-27 19:30:38,824 - INFO - Extracted 35 programs for channel 454797
+2026-03-27 19:30:38,824 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=454799
+2026-03-27 19:30:39,372 - INFO - Extracted 52 programs for channel 454799
+2026-03-27 19:30:39,372 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486857
+2026-03-27 19:30:39,924 - INFO - Extracted 63 programs for channel 486857
+2026-03-27 19:30:39,924 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=465012
+2026-03-27 19:30:40,669 - INFO - Extracted 57 programs for channel 465012
+2026-03-27 19:30:40,669 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9410
+2026-03-27 19:30:41,379 - INFO - Extracted 48 programs for channel 9410
+2026-03-27 19:30:41,379 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470651
+2026-03-27 19:30:42,095 - INFO - Extracted 70 programs for channel 470651
+2026-03-27 19:30:42,095 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=464992
+2026-03-27 19:30:42,814 - INFO - Extracted 70 programs for channel 464992
+2026-03-27 19:30:42,814 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=467161
+2026-03-27 19:30:43,520 - INFO - Extracted 61 programs for channel 467161
+2026-03-27 19:30:43,520 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=467472
+2026-03-27 19:30:44,239 - INFO - Extracted 57 programs for channel 467472
+2026-03-27 19:30:44,239 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=467679
+2026-03-27 19:30:44,953 - INFO - Extracted 53 programs for channel 467679
+2026-03-27 19:30:44,953 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486777
+2026-03-27 19:30:45,671 - INFO - Extracted 52 programs for channel 486777
+2026-03-27 19:30:45,671 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=3357
+2026-03-27 19:30:46,387 - INFO - Extracted 47 programs for channel 3357
+2026-03-27 19:30:46,387 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=3269
+2026-03-27 19:30:47,114 - INFO - Extracted 94 programs for channel 3269
+2026-03-27 19:30:47,115 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486671
+2026-03-27 19:30:47,851 - INFO - Extracted 45 programs for channel 486671
+2026-03-27 19:30:47,851 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=465071
+2026-03-27 19:30:48,640 - INFO - Extracted 83 programs for channel 465071
+2026-03-27 19:30:48,640 - INFO - Successfully processed 16/16 sources
+2026-03-27 19:30:48,699 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 19:30:48,699 - INFO - Total channels: 16
+2026-03-27 19:30:48,699 - INFO - Total programs: 927
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Fri Mar 27 20:00:48 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 20:00:48,954 - INFO - Loaded 0 XML sources from config
+2026-03-27 20:00:48,955 - ERROR - No valid sources found in configuration
+TV2 refresh failed
+Fri Mar 27 20:30:48 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 20:30:48,967 - INFO - Loaded 13 XML sources from config
+2026-03-27 20:30:48,967 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-27 20:30:50,067 - INFO - Extracted 66 programs for channel 470669
+2026-03-27 20:30:50,068 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-27 20:30:50,630 - INFO - Extracted 45 programs for channel 486880
+2026-03-27 20:30:50,630 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-27 20:30:51,189 - INFO - Extracted 51 programs for channel 486673
+2026-03-27 20:30:51,190 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-27 20:30:51,705 - INFO - Extracted 59 programs for channel 9176
+2026-03-27 20:30:51,705 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-27 20:30:52,221 - INFO - Extracted 47 programs for channel 2379
+2026-03-27 20:30:52,221 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-27 20:30:52,781 - INFO - Extracted 89 programs for channel 486713
+2026-03-27 20:30:52,782 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-27 20:30:53,319 - INFO - Extracted 71 programs for channel 470530
+2026-03-27 20:30:53,319 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-27 20:30:53,839 - INFO - Extracted 96 programs for channel 470700
+2026-03-27 20:30:53,839 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-27 20:30:54,369 - INFO - Extracted 103 programs for channel 470498
+2026-03-27 20:30:54,370 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-27 20:30:54,949 - INFO - Extracted 103 programs for channel 470853
+2026-03-27 20:30:54,950 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-27 20:30:55,491 - INFO - Extracted 86 programs for channel 470511
+2026-03-27 20:30:55,491 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-27 20:30:56,057 - INFO - Extracted 109 programs for channel 470410
+2026-03-27 20:30:56,057 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-27 20:30:56,645 - INFO - Extracted 55 programs for channel 468311
+2026-03-27 20:30:56,645 - INFO - Successfully processed 13/13 sources
+2026-03-27 20:30:56,738 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 20:30:56,738 - INFO - Total channels: 13
+2026-03-27 20:30:56,738 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Fri Mar 27 21:00:56 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 21:00:57,080 - INFO - Loaded 13 XML sources from config
+2026-03-27 21:00:57,080 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-27 21:00:58,029 - INFO - Extracted 66 programs for channel 470669
+2026-03-27 21:00:58,029 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-27 21:00:59,671 - INFO - Extracted 45 programs for channel 486880
+2026-03-27 21:00:59,671 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-27 21:01:00,253 - INFO - Extracted 51 programs for channel 486673
+2026-03-27 21:01:00,254 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-27 21:01:01,767 - INFO - Extracted 59 programs for channel 9176
+2026-03-27 21:01:01,767 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-27 21:01:02,338 - INFO - Extracted 47 programs for channel 2379
+2026-03-27 21:01:02,339 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-27 21:01:03,096 - INFO - Extracted 89 programs for channel 486713
+2026-03-27 21:01:03,096 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-27 21:01:03,621 - INFO - Extracted 71 programs for channel 470530
+2026-03-27 21:01:03,621 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-27 21:01:04,204 - INFO - Extracted 96 programs for channel 470700
+2026-03-27 21:01:04,205 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-27 21:01:04,754 - INFO - Extracted 103 programs for channel 470498
+2026-03-27 21:01:04,755 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-27 21:01:05,286 - INFO - Extracted 103 programs for channel 470853
+2026-03-27 21:01:05,286 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-27 21:01:05,891 - INFO - Extracted 86 programs for channel 470511
+2026-03-27 21:01:05,891 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-27 21:01:06,419 - INFO - Extracted 109 programs for channel 470410
+2026-03-27 21:01:06,419 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-27 21:01:07,023 - INFO - Extracted 55 programs for channel 468311
+2026-03-27 21:01:07,024 - INFO - Successfully processed 13/13 sources
+2026-03-27 21:01:07,118 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 21:01:07,118 - INFO - Total channels: 13
+2026-03-27 21:01:07,118 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Fri Mar 27 21:31:07 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 21:31:07,433 - INFO - Loaded 13 XML sources from config
+2026-03-27 21:31:07,433 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-27 21:31:08,424 - INFO - Extracted 66 programs for channel 470669
+2026-03-27 21:31:08,424 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-27 21:31:08,988 - INFO - Extracted 45 programs for channel 486880
+2026-03-27 21:31:08,989 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-27 21:31:09,504 - INFO - Extracted 51 programs for channel 486673
+2026-03-27 21:31:09,505 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-27 21:31:10,012 - INFO - Extracted 59 programs for channel 9176
+2026-03-27 21:31:10,012 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-27 21:31:10,561 - INFO - Extracted 47 programs for channel 2379
+2026-03-27 21:31:10,561 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-27 21:31:11,112 - INFO - Extracted 89 programs for channel 486713
+2026-03-27 21:31:11,112 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-27 21:31:11,672 - INFO - Extracted 71 programs for channel 470530
+2026-03-27 21:31:11,672 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-27 21:31:12,190 - INFO - Extracted 96 programs for channel 470700
+2026-03-27 21:31:12,190 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-27 21:31:12,762 - INFO - Extracted 103 programs for channel 470498
+2026-03-27 21:31:12,762 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-27 21:31:13,290 - INFO - Extracted 103 programs for channel 470853
+2026-03-27 21:31:13,290 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-27 21:31:13,857 - INFO - Extracted 86 programs for channel 470511
+2026-03-27 21:31:13,857 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-27 21:31:14,373 - INFO - Extracted 109 programs for channel 470410
+2026-03-27 21:31:14,373 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-27 21:31:14,894 - INFO - Extracted 55 programs for channel 468311
+2026-03-27 21:31:14,894 - INFO - Successfully processed 13/13 sources
+2026-03-27 21:31:14,991 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 21:31:14,991 - INFO - Total channels: 13
+2026-03-27 21:31:14,991 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Fri Mar 27 22:01:15 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 22:01:15,586 - INFO - Loaded 13 XML sources from config
+2026-03-27 22:01:15,587 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-27 22:01:16,597 - INFO - Extracted 66 programs for channel 470669
+2026-03-27 22:01:16,597 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-27 22:01:17,147 - INFO - Extracted 45 programs for channel 486880
+2026-03-27 22:01:17,147 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-27 22:01:17,716 - INFO - Extracted 51 programs for channel 486673
+2026-03-27 22:01:17,717 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-27 22:01:18,274 - INFO - Extracted 59 programs for channel 9176
+2026-03-27 22:01:18,274 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-27 22:01:19,304 - INFO - Extracted 47 programs for channel 2379
+2026-03-27 22:01:19,305 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-27 22:01:20,511 - INFO - Extracted 89 programs for channel 486713
+2026-03-27 22:01:20,511 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-27 22:01:21,305 - INFO - Extracted 71 programs for channel 470530
+2026-03-27 22:01:21,305 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-27 22:01:21,855 - INFO - Extracted 96 programs for channel 470700
+2026-03-27 22:01:21,855 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-27 22:01:22,389 - INFO - Extracted 103 programs for channel 470498
+2026-03-27 22:01:22,389 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-27 22:01:22,923 - INFO - Extracted 103 programs for channel 470853
+2026-03-27 22:01:22,923 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-27 22:01:23,451 - INFO - Extracted 86 programs for channel 470511
+2026-03-27 22:01:23,451 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-27 22:01:23,975 - INFO - Extracted 109 programs for channel 470410
+2026-03-27 22:01:23,975 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-27 22:01:24,533 - INFO - Extracted 55 programs for channel 468311
+2026-03-27 22:01:24,534 - INFO - Successfully processed 13/13 sources
+2026-03-27 22:01:24,623 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 22:01:24,623 - INFO - Total channels: 13
+2026-03-27 22:01:24,623 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Fri Mar 27 22:31:24 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 22:31:25,022 - INFO - Loaded 13 XML sources from config
+2026-03-27 22:31:25,022 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-27 22:31:26,339 - INFO - Extracted 66 programs for channel 470669
+2026-03-27 22:31:26,340 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-27 22:31:27,133 - INFO - Extracted 45 programs for channel 486880
+2026-03-27 22:31:27,133 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-27 22:31:27,949 - INFO - Extracted 51 programs for channel 486673
+2026-03-27 22:31:27,950 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-27 22:31:28,759 - INFO - Extracted 59 programs for channel 9176
+2026-03-27 22:31:28,759 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-27 22:31:29,723 - INFO - Extracted 47 programs for channel 2379
+2026-03-27 22:31:29,724 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-27 22:31:30,540 - INFO - Extracted 89 programs for channel 486713
+2026-03-27 22:31:30,540 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-27 22:31:31,459 - INFO - Extracted 71 programs for channel 470530
+2026-03-27 22:31:31,460 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-27 22:31:32,284 - INFO - Extracted 96 programs for channel 470700
+2026-03-27 22:31:32,285 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-27 22:31:33,201 - INFO - Extracted 103 programs for channel 470498
+2026-03-27 22:31:33,201 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-27 22:31:34,026 - INFO - Extracted 103 programs for channel 470853
+2026-03-27 22:31:34,026 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-27 22:31:35,047 - INFO - Extracted 86 programs for channel 470511
+2026-03-27 22:31:35,047 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-27 22:31:37,704 - INFO - Extracted 109 programs for channel 470410
+2026-03-27 22:31:37,705 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-27 22:31:38,514 - INFO - Extracted 55 programs for channel 468311
+2026-03-27 22:31:38,514 - INFO - Successfully processed 13/13 sources
+2026-03-27 22:31:38,604 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 22:31:38,605 - INFO - Total channels: 13
+2026-03-27 22:31:38,605 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Fri Mar 27 23:01:38 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 23:01:38,986 - INFO - Loaded 13 XML sources from config
+2026-03-27 23:01:38,986 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-27 23:01:39,991 - INFO - Extracted 66 programs for channel 470669
+2026-03-27 23:01:39,991 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-27 23:01:40,575 - INFO - Extracted 45 programs for channel 486880
+2026-03-27 23:01:40,576 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-27 23:01:41,155 - INFO - Extracted 51 programs for channel 486673
+2026-03-27 23:01:41,155 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-27 23:01:41,786 - INFO - Extracted 59 programs for channel 9176
+2026-03-27 23:01:41,787 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-27 23:01:42,363 - INFO - Extracted 47 programs for channel 2379
+2026-03-27 23:01:42,363 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-27 23:01:42,910 - INFO - Extracted 89 programs for channel 486713
+2026-03-27 23:01:42,911 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-27 23:01:43,453 - INFO - Extracted 71 programs for channel 470530
+2026-03-27 23:01:43,453 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-27 23:01:43,998 - INFO - Extracted 96 programs for channel 470700
+2026-03-27 23:01:43,998 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-27 23:01:44,537 - INFO - Extracted 103 programs for channel 470498
+2026-03-27 23:01:44,538 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-27 23:01:45,104 - INFO - Extracted 103 programs for channel 470853
+2026-03-27 23:01:45,104 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-27 23:01:45,683 - INFO - Extracted 86 programs for channel 470511
+2026-03-27 23:01:45,683 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-27 23:01:46,214 - INFO - Extracted 109 programs for channel 470410
+2026-03-27 23:01:46,214 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-27 23:01:46,781 - INFO - Extracted 55 programs for channel 468311
+2026-03-27 23:01:46,782 - INFO - Successfully processed 13/13 sources
+2026-03-27 23:01:46,870 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 23:01:46,871 - INFO - Total channels: 13
+2026-03-27 23:01:46,871 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Fri Mar 27 23:31:46 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-27 23:31:47,266 - INFO - Loaded 13 XML sources from config
+2026-03-27 23:31:47,266 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-27 23:31:48,177 - INFO - Extracted 66 programs for channel 470669
+2026-03-27 23:31:48,178 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-27 23:31:48,743 - INFO - Extracted 45 programs for channel 486880
+2026-03-27 23:31:48,744 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-27 23:31:49,273 - INFO - Extracted 51 programs for channel 486673
+2026-03-27 23:31:49,273 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-27 23:31:49,878 - INFO - Extracted 59 programs for channel 9176
+2026-03-27 23:31:49,878 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-27 23:31:50,449 - INFO - Extracted 47 programs for channel 2379
+2026-03-27 23:31:50,449 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-27 23:31:51,026 - INFO - Extracted 89 programs for channel 486713
+2026-03-27 23:31:51,027 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-27 23:31:51,600 - INFO - Extracted 71 programs for channel 470530
+2026-03-27 23:31:51,601 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-27 23:32:22,181 - INFO - Extracted 96 programs for channel 470700
+2026-03-27 23:32:22,182 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-27 23:32:22,714 - INFO - Extracted 103 programs for channel 470498
+2026-03-27 23:32:22,714 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-27 23:32:23,292 - INFO - Extracted 103 programs for channel 470853
+2026-03-27 23:32:23,293 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-27 23:32:23,829 - INFO - Extracted 86 programs for channel 470511
+2026-03-27 23:32:23,829 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-27 23:32:24,379 - INFO - Extracted 109 programs for channel 470410
+2026-03-27 23:32:24,379 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-27 23:32:24,908 - INFO - Extracted 55 programs for channel 468311
+2026-03-27 23:32:24,909 - INFO - Successfully processed 13/13 sources
+2026-03-27 23:32:25,005 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-27 23:32:25,005 - INFO - Total channels: 13
+2026-03-27 23:32:25,005 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 00:02:25 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 00:02:25,387 - INFO - Loaded 13 XML sources from config
+2026-03-28 00:02:25,387 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 00:02:26,480 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 00:02:26,480 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 00:02:27,054 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 00:02:27,054 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 00:02:27,625 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 00:02:27,626 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 00:02:28,202 - INFO - Extracted 59 programs for channel 9176
+2026-03-28 00:02:28,203 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 00:02:28,792 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 00:02:28,793 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 00:02:29,323 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 00:02:29,323 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 00:02:29,886 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 00:02:29,886 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 00:02:30,436 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 00:02:30,437 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 00:02:31,026 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 00:02:31,027 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 00:02:31,589 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 00:02:31,589 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 00:02:32,110 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 00:02:32,111 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 00:02:32,695 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 00:02:32,696 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 00:02:33,263 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 00:02:33,263 - INFO - Successfully processed 13/13 sources
+2026-03-28 00:02:33,354 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 00:02:33,354 - INFO - Total channels: 13
+2026-03-28 00:02:33,354 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 00:32:33 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 00:32:33,495 - INFO - Loaded 13 XML sources from config
+2026-03-28 00:32:33,495 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 00:32:34,557 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 00:32:34,558 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 00:32:35,386 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 00:32:35,386 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 00:32:36,192 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 00:32:36,192 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 00:32:37,219 - INFO - Extracted 59 programs for channel 9176
+2026-03-28 00:32:37,220 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 00:32:38,010 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 00:32:38,011 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 00:32:38,817 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 00:32:38,817 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 00:32:39,782 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 00:32:39,782 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 00:32:40,787 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 00:32:40,788 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 00:32:41,618 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 00:32:41,618 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 00:32:42,836 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 00:32:42,837 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 00:32:43,751 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 00:32:43,752 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 00:32:44,553 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 00:32:44,554 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 00:32:45,473 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 00:32:45,474 - INFO - Successfully processed 13/13 sources
+2026-03-28 00:32:45,563 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 00:32:45,563 - INFO - Total channels: 13
+2026-03-28 00:32:45,563 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 01:02:44 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 01:02:45,208 - INFO - Loaded 13 XML sources from config
+2026-03-28 01:02:45,208 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 01:02:46,114 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 01:02:46,115 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 01:02:46,639 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 01:02:46,639 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 01:02:47,195 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 01:02:47,196 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 01:02:47,742 - INFO - Extracted 59 programs for channel 9176
+2026-03-28 01:02:47,743 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 01:02:48,290 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 01:02:48,291 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 01:02:48,849 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 01:02:48,849 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 01:02:49,369 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 01:02:49,369 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 01:02:49,885 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 01:02:49,885 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 01:02:50,438 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 01:02:50,438 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 01:02:51,056 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 01:02:51,056 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 01:02:51,579 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 01:02:51,580 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 01:02:52,121 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 01:02:52,122 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 01:02:52,687 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 01:02:52,687 - INFO - Successfully processed 13/13 sources
+2026-03-28 01:02:52,838 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 01:02:52,838 - INFO - Total channels: 13
+2026-03-28 01:02:52,838 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 01:32:52 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 01:32:53,214 - INFO - Loaded 13 XML sources from config
+2026-03-28 01:32:53,215 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 01:32:53,772 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 01:32:53,773 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 01:32:54,306 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 01:32:54,306 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 01:32:55,859 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 01:32:55,860 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 01:32:56,376 - INFO - Extracted 59 programs for channel 9176
+2026-03-28 01:32:56,377 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 01:32:56,894 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 01:32:56,894 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 01:32:57,460 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 01:32:57,460 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 01:32:58,067 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 01:32:58,067 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 01:32:58,583 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 01:32:58,583 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 01:32:59,153 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 01:32:59,153 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 01:32:59,708 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 01:32:59,708 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 01:33:00,238 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 01:33:00,238 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 01:33:00,804 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 01:33:00,804 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 01:33:01,375 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 01:33:01,375 - INFO - Successfully processed 13/13 sources
+2026-03-28 01:33:01,450 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 01:33:01,451 - INFO - Total channels: 13
+2026-03-28 01:33:01,451 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 02:03:01 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 02:03:01,782 - INFO - Loaded 13 XML sources from config
+2026-03-28 02:03:01,782 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 02:03:02,321 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 02:03:02,321 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 02:03:02,857 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 02:03:02,857 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 02:03:03,416 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 02:03:03,416 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 02:03:03,981 - INFO - Extracted 59 programs for channel 9176
+2026-03-28 02:03:03,981 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 02:03:04,507 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 02:03:04,507 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 02:03:05,031 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 02:03:05,031 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 02:03:35,583 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 02:03:35,584 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 02:03:36,188 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 02:03:36,188 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 02:03:36,769 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 02:03:36,769 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 02:03:37,336 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 02:03:37,336 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 02:03:37,861 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 02:03:37,862 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 02:03:38,485 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 02:03:38,485 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 02:03:38,993 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 02:03:38,994 - INFO - Successfully processed 13/13 sources
+2026-03-28 02:03:39,085 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 02:03:39,085 - INFO - Total channels: 13
+2026-03-28 02:03:39,085 - INFO - Total programs: 980
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 02:33:39 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 02:33:39,374 - INFO - Loaded 13 XML sources from config
+2026-03-28 02:33:39,374 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 02:33:40,150 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 02:33:40,150 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 02:33:40,700 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 02:33:40,701 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 02:33:41,232 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 02:33:41,233 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 02:33:41,797 - INFO - Extracted 60 programs for channel 9176
+2026-03-28 02:33:41,798 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 02:33:42,310 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 02:33:42,311 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 02:33:43,214 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 02:33:43,214 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 02:33:44,206 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 02:33:44,206 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 02:33:45,037 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 02:33:45,037 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 02:33:45,866 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 02:33:45,866 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 02:33:46,730 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 02:33:46,731 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 02:33:47,564 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 02:33:47,564 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 02:33:48,401 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 02:33:48,401 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 02:33:50,230 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 02:33:50,230 - INFO - Successfully processed 13/13 sources
+2026-03-28 02:33:50,308 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 02:33:50,308 - INFO - Total channels: 13
+2026-03-28 02:33:50,308 - INFO - Total programs: 981
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 03:03:50 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 03:03:50,497 - INFO - Loaded 13 XML sources from config
+2026-03-28 03:03:50,497 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 03:03:51,080 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 03:03:51,080 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 03:03:51,727 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 03:03:51,728 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 03:03:52,260 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 03:03:52,261 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 03:03:52,841 - INFO - Extracted 60 programs for channel 9176
+2026-03-28 03:03:52,841 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 03:03:53,361 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 03:03:53,361 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 03:03:53,872 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 03:03:53,873 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 03:03:54,386 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 03:03:54,386 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 03:03:54,942 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 03:03:54,942 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 03:03:55,524 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 03:03:55,524 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 03:03:56,258 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 03:03:56,258 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 03:03:56,794 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 03:03:56,795 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 03:03:57,317 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 03:03:57,318 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 03:03:57,845 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 03:03:57,846 - INFO - Successfully processed 13/13 sources
+2026-03-28 03:03:57,936 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 03:03:57,937 - INFO - Total channels: 13
+2026-03-28 03:03:57,937 - INFO - Total programs: 981
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+Sat Mar 28 03:33:57 PKT 2026: Running scheduled refresh...
+Running TV2 refresh...
+Config: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/TV2.txt
+Output: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+/Users/ah/Library/Python/3.9/lib/python/site-packages/urllib3/__init__.py:35: NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+, currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'. See: https://github.com/urllib3/urllib3/issues/3020
+  warnings.warn(
+2026-03-28 03:33:58,116 - INFO - Loaded 13 XML sources from config
+2026-03-28 03:33:58,116 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470669
+2026-03-28 03:33:58,623 - INFO - Extracted 66 programs for channel 470669
+2026-03-28 03:33:58,624 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486880
+2026-03-28 03:33:59,137 - INFO - Extracted 45 programs for channel 486880
+2026-03-28 03:33:59,138 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486673
+2026-03-28 03:33:59,665 - INFO - Extracted 51 programs for channel 486673
+2026-03-28 03:33:59,665 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=9176
+2026-03-28 03:34:00,202 - INFO - Extracted 60 programs for channel 9176
+2026-03-28 03:34:00,202 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=2379
+2026-03-28 03:34:00,760 - INFO - Extracted 47 programs for channel 2379
+2026-03-28 03:34:00,761 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=486713
+2026-03-28 03:34:01,329 - INFO - Extracted 89 programs for channel 486713
+2026-03-28 03:34:01,329 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470530
+2026-03-28 03:34:01,919 - INFO - Extracted 71 programs for channel 470530
+2026-03-28 03:34:01,919 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470700
+2026-03-28 03:34:02,430 - INFO - Extracted 96 programs for channel 470700
+2026-03-28 03:34:02,430 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470498
+2026-03-28 03:34:02,954 - INFO - Extracted 103 programs for channel 470498
+2026-03-28 03:34:02,955 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470853
+2026-03-28 03:34:03,512 - INFO - Extracted 103 programs for channel 470853
+2026-03-28 03:34:03,512 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470511
+2026-03-28 03:34:04,038 - INFO - Extracted 86 programs for channel 470511
+2026-03-28 03:34:04,038 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=470410
+2026-03-28 03:34:04,624 - INFO - Extracted 109 programs for channel 470410
+2026-03-28 03:34:04,624 - INFO - Fetching XML from: https://epg.pw/api/epg.xml?channel_id=468311
+2026-03-28 03:34:05,158 - INFO - Extracted 55 programs for channel 468311
+2026-03-28 03:34:05,159 - INFO - Successfully processed 13/13 sources
+2026-03-28 03:34:05,250 - INFO - Combined EPG XML saved to: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml
+2026-03-28 03:34:05,250 - INFO - Total channels: 13
+2026-03-28 03:34:05,250 - INFO - Total programs: 981
+TV2 refresh completed successfully
+Updated: /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV2/TV2 config_txt/../TV2 Github/TV2_epg.xml

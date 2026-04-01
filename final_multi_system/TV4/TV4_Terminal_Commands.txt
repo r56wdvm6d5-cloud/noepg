@@ -1,0 +1,388 @@
+# TV4 Terminal Commands
+
+This file contains all terminal commands for the TV4 Multi-XML Processor system.
+
+## Directory Navigation
+```bash
+# Navigate to TV4 processor directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 multi_processor"
+
+# Navigate to TV4 config directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+
+# Navigate to TV4 output directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github"
+```
+
+## TV4 Auto-Refresh Commands
+
+### Start TV4 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./TV4\ auto_refresh.sh start
+```
+
+### Stop TV4 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./TV4\ auto_refresh.sh stop
+```
+
+### Check TV4 Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./TV4\ auto_refresh.sh status
+```
+
+### Restart TV4 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./TV4\ auto_refresh.sh restart
+```
+
+### Run TV4 Once (Manual)
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./refresh_config.sh
+```
+
+## TV4 Manual Processing Commands
+
+### Run TV4 Processor Directly
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 multi_processor"
+python3 "TV4 multi_xml_processor.py" --config "../TV4 config_txt/TV4.txt" --output "../TV4 Github/TV4_epg.xml"
+```
+
+### Run TV4 Processor with Verbose Logging
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 multi_processor"
+python3 "TV4 multi_xml_processor.py" --config "../TV4 config_txt/TV4.txt" --output "../TV4 Github/TV4_epg.xml" --verbose
+```
+
+## TV4 File Management Commands
+
+### View TV4 Config File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4.txt"
+```
+
+### Edit TV4 Config File
+```bash
+nano "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4.txt"
+```
+
+### View TV4 Output File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml"
+```
+
+### Check TV4 Output File Size
+```bash
+ls -lh "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml"
+```
+
+### View TV4 Log File
+```bash
+tail -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/auto_refresh.log"
+```
+
+### View Last 20 Lines of TV4 Log
+```bash
+tail -20 "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/auto_refresh.log"
+```
+
+### Clear TV4 Log File
+```bash
+> "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/auto_refresh.log"
+```
+
+## TV4 Process Management Commands
+
+### Check if TV4 Process is Running
+```bash
+ps aux | grep "TV4 auto_refresh"
+```
+
+### Kill TV4 Process Manually
+```bash
+pkill -f "TV4 auto_refresh"
+```
+
+### Check TV4 PID File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/.auto_refresh.pid"
+```
+
+## TV4 Testing Commands
+
+### Test TV4 Config File
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 multi_processor"
+python3 -c "
+import sys
+sys.path.append('.')
+from 'TV4 multi_xml_processor' import MultiXMLProcessor
+processor = MultiXMLProcessor()
+sources = processor.load_config('../TV4 config_txt/TV4.txt')
+print(f'Loaded {len(sources)} sources:')
+for source in sources:
+    print(f'  {source["channel_id"]}: {source["display_name"]}')
+"
+```
+
+### Validate TV4 XML Output
+```bash
+xmllint --noout "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml"
+```
+
+## TV4 Backup Commands
+
+### Create TV4 Backup
+```bash
+cp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg_backup_$(date +%Y%m%d_%H%M%S).xml"
+```
+
+### Backup TV4 Config
+```bash
+cp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4.txt" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4_backup_$(date +%Y%m%d_%H%M%S).txt"
+```
+
+## TV4 Quick Start Sequence
+
+### Complete TV4 Setup and Start
+```bash
+# Navigate to TV4 config directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+
+# Make script executable (if needed)
+chmod +x "TV4 auto_refresh.sh"
+chmod +x refresh_config.sh
+
+# Run once to test
+./refresh_config.sh
+
+# Check output
+ls -la "../TV4 Github/"
+
+# Start auto-refresh if test successful
+./TV4\ auto_refresh.sh start
+
+# Check status
+./TV4\ auto_refresh.sh status
+```
+
+## TV4 Troubleshooting Commands
+
+### Check TV4 File Permissions
+```bash
+ls -la "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4 auto_refresh.sh"
+```
+
+### Fix TV4 Script Permissions
+```bash
+chmod +x "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4 auto_refresh.sh"
+chmod +x "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/refresh_config.sh"
+```
+
+### Check Python Dependencies for TV4
+```bash
+python3 -c "import requests, xml.etree.ElementTree as ET, xml.dom.minidom; print('All TV4 dependencies available')"
+```
+
+### Monitor TV4 Output in Real-time
+```bash
+watch -n 30 'ls -la "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/"'
+```
+
+## TV4 Performance Monitoring Commands
+
+### Count TV4 Channels and Programs
+```bash
+# Count channels
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml"
+
+# Count programs
+grep -c "<programme " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml"
+
+# Get channel list
+grep -o '<display-name[^>]*>[^<]*</display-name>' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" | head -20
+```
+
+### Monitor TV4 Processing Time
+```bash
+# Time the refresh process
+time "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/refresh_config.sh"
+```
+
+## TV4 Comparison Commands (TV4 vs DOC2 vs Original)
+
+### Compare TV4 vs DOC2 Output Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Doc2/Doc2 Github/Doc2_Doc2_epg.xml"
+```
+
+### Compare TV4 vs Original Output Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+```
+
+### Compare Config Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4.txt" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/multi_xml_config.txt"
+```
+
+## TV4 System Integration Commands
+
+### Check Main System Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt"
+./auto_refresh.sh status
+```
+
+### Check TV4 System Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./TV4\ auto_refresh.sh status
+```
+
+### Compare Main System vs TV4
+```bash
+# Compare output sizes
+wc -l "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+wc -l "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml"
+
+# Compare channel counts
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml"
+```
+
+## TV4 Cleanup Commands
+
+### Remove Old TV4 Output Files
+```bash
+find "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github" -name "*.xml" -mtime +7 -delete
+```
+
+### Clean TV4 Log Files (keep last 100 lines)
+```bash
+tail -100 "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/auto_refresh.log" > temp && mv temp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/auto_refresh.log"
+```
+
+### Clean TV4 Backup Files (keep last 5)
+```bash
+ls -t "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg_backup_"*.xml | tail -n +6 | xargs rm -f
+```
+
+## TV4 Advanced Commands
+
+### Test Individual TV4 Channels
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 multi_processor"
+python3 -c "
+import sys
+sys.path.append('.')
+from 'TV4 multi_xml_processor' import MultiXMLProcessor
+processor = MultiXMLProcessor()
+# Test first channel only
+sources = processor.load_config('../TV4 config_txt/TV4.txt')
+if sources:
+    test_source = sources[0]
+    print(f'Testing channel: {test_source["display_name"]}')
+    success = processor.process_source(test_source)
+    print(f'Success: {success}')
+"
+```
+
+### Validate TV4 XML Structure
+```bash
+# Check for well-formed XML
+xmllint --noout "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" && echo "XML is well-formed"
+
+# Check TV XML schema elements
+grep -q "<tv " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" && echo "TV root element found"
+grep -q "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" && echo "Channel elements found"
+grep -q "<programme " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" && echo "Programme elements found"
+```
+
+### TV4 Statistics
+```bash
+echo "=== TV4 EPG Statistics ==="
+echo "File size: $(du -h "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" | cut -f1)"
+echo "Total lines: $(wc -l < "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml")"
+echo "Channels: $(grep -c '<channel ' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml")"
+echo "Programs: $(grep -c '<programme ' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml")"
+echo "Last modified: $(stat -f "%Sm" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml")"
+```
+
+## TV4 Full Path Commands (For Direct Execution)
+
+### TV4 Auto-Refresh Management (Full Paths)
+```bash
+# Start TV4 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4\ config_txt/TV4\ auto_refresh.sh start
+
+# Stop TV4 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4\ config_txt/TV4\ auto_refresh.sh stop
+
+# Check TV4 status
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4\ config_txt/TV4\ auto_refresh.sh status
+
+# Restart TV4 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4\ config_txt/TV4\ auto_refresh.sh restart
+```
+
+### TV4 Manual Refresh (Full Path)
+```bash
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4\ config_txt/refresh_config.sh
+```
+
+### TV4 Processor (Full Path)
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4\ multi_processor && python3 "TV4 multi_xml_processor.py" --config "../TV4 config_txt/TV4.txt" --output "../TV4 Github/TV4_epg.xml"
+```
+
+## TV4 Emergency Commands
+
+### Force Stop All TV4 Processes
+```bash
+pkill -f "TV4 auto_refresh"
+pkill -f "TV4 multi_xml_processor"
+rm -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/.auto_refresh.pid"
+```
+
+### Reset TV4 System
+```bash
+# Stop processes
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./TV4\ auto_refresh.sh stop
+
+# Clean logs
+> auto_refresh.log
+
+# Restart
+./TV4\ auto_refresh.sh start
+```
+
+### TV4 Health Check
+```bash
+echo "=== TV4 System Health Check ==="
+echo "1. Config file exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4.txt" && echo "✓ Config file found" || echo "✗ Config file missing"
+
+echo "2. Processor script exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 multi_processor/TV4 multi_xml_processor.py" && echo "✓ Processor found" || echo "✗ Processor missing"
+
+echo "3. Auto-refresh script exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt/TV4 auto_refresh.sh" && echo "✓ Auto-refresh found" || echo "✗ Auto-refresh missing"
+
+echo "4. Output directory exists:"
+test -d "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github" && echo "✓ Output directory found" || echo "✗ Output directory missing"
+
+echo "5. Auto-refresh status:"
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 config_txt"
+./TV4\ auto_refresh.sh status 2>/dev/null || echo "✗ Auto-refresh not running"
+
+echo "6. Output file status:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV4/TV4 Github/TV4_epg.xml" && echo "✓ Output file exists" || echo "✗ Output file missing"
+```

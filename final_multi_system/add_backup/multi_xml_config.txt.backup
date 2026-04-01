@@ -1,0 +1,23 @@
+# Multiple XML Sources Configuration
+# Add your XML URLs here, one per line
+# Format: CHANNEL_ID|URL|DISPLAY_NAME
+# Note: Date will be automatically updated to current date
+
+
+
+9220|https://epg.pw/api/epg.xml?channel_id=9220|Animal Planet
+
+465310|https://epg.pw/api/epg.xml?channel_id=465310|Animal Planet HD
+
+470867|https://epg.pw/api/epg.xml?channel_id=470867|Crime Plus Investigation SD
+
+9498|https://epg.pw/api/epg.xml?channel_id=9498|Crime+Inv HD
+
+465040|https://epg.pw/api/epg.xml?channel_id=465040| Crime and Investigation Network HD
+
+465226|https://epg.pw/api/epg.xml?channel_id=465226|Court TV
+
+465044|https://epg.pw/api/epg.xml?channel_id=465044|HLN HD
+
+
+

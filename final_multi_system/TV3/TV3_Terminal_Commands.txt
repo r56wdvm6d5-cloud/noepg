@@ -1,0 +1,388 @@
+# TV3 Terminal Commands
+
+This file contains all terminal commands for the TV3 Multi-XML Processor system.
+
+## Directory Navigation
+```bash
+# Navigate to TV3 processor directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 multi_processor"
+
+# Navigate to TV3 config directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+
+# Navigate to TV3 output directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github"
+```
+
+## TV3 Auto-Refresh Commands
+
+### Start TV3 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./TV3\ auto_refresh.sh start
+```
+
+### Stop TV3 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./TV3\ auto_refresh.sh stop
+```
+
+### Check TV3 Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./TV3\ auto_refresh.sh status
+```
+
+### Restart TV3 Auto-Refresh
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./TV3\ auto_refresh.sh restart
+```
+
+### Run TV3 Once (Manual)
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./refresh_config.sh
+```
+
+## TV3 Manual Processing Commands
+
+### Run TV3 Processor Directly
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 multi_processor"
+python3 "TV3 multi_xml_processor.py" --config "../TV3 config_txt/TV3.txt" --output "../TV3 Github/TV3_epg.xml"
+```
+
+### Run TV3 Processor with Verbose Logging
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 multi_processor"
+python3 "TV3 multi_xml_processor.py" --config "../TV3 config_txt/TV3.txt" --output "../TV3 Github/TV3_epg.xml" --verbose
+```
+
+## TV3 File Management Commands
+
+### View TV3 Config File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3.txt"
+```
+
+### Edit TV3 Config File
+```bash
+nano "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3.txt"
+```
+
+### View TV3 Output File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml"
+```
+
+### Check TV3 Output File Size
+```bash
+ls -lh "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml"
+```
+
+### View TV3 Log File
+```bash
+tail -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/auto_refresh.log"
+```
+
+### View Last 20 Lines of TV3 Log
+```bash
+tail -20 "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/auto_refresh.log"
+```
+
+### Clear TV3 Log File
+```bash
+> "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/auto_refresh.log"
+```
+
+## TV3 Process Management Commands
+
+### Check if TV3 Process is Running
+```bash
+ps aux | grep "TV3 auto_refresh"
+```
+
+### Kill TV3 Process Manually
+```bash
+pkill -f "TV3 auto_refresh"
+```
+
+### Check TV3 PID File
+```bash
+cat "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/.auto_refresh.pid"
+```
+
+## TV3 Testing Commands
+
+### Test TV3 Config File
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 multi_processor"
+python3 -c "
+import sys
+sys.path.append('.')
+from 'TV3 multi_xml_processor' import MultiXMLProcessor
+processor = MultiXMLProcessor()
+sources = processor.load_config('../TV3 config_txt/TV3.txt')
+print(f'Loaded {len(sources)} sources:')
+for source in sources:
+    print(f'  {source["channel_id"]}: {source["display_name"]}')
+"
+```
+
+### Validate TV3 XML Output
+```bash
+xmllint --noout "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml"
+```
+
+## TV3 Backup Commands
+
+### Create TV3 Backup
+```bash
+cp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg_backup_$(date +%Y%m%d_%H%M%S).xml"
+```
+
+### Backup TV3 Config
+```bash
+cp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3.txt" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3_backup_$(date +%Y%m%d_%H%M%S).txt"
+```
+
+## TV3 Quick Start Sequence
+
+### Complete TV3 Setup and Start
+```bash
+# Navigate to TV3 config directory
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+
+# Make script executable (if needed)
+chmod +x "TV3 auto_refresh.sh"
+chmod +x refresh_config.sh
+
+# Run once to test
+./refresh_config.sh
+
+# Check output
+ls -la "../TV3 Github/"
+
+# Start auto-refresh if test successful
+./TV3\ auto_refresh.sh start
+
+# Check status
+./TV3\ auto_refresh.sh status
+```
+
+## TV3 Troubleshooting Commands
+
+### Check TV3 File Permissions
+```bash
+ls -la "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3 auto_refresh.sh"
+```
+
+### Fix TV3 Script Permissions
+```bash
+chmod +x "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3 auto_refresh.sh"
+chmod +x "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/refresh_config.sh"
+```
+
+### Check Python Dependencies for TV3
+```bash
+python3 -c "import requests, xml.etree.ElementTree as ET, xml.dom.minidom; print('All TV3 dependencies available')"
+```
+
+### Monitor TV3 Output in Real-time
+```bash
+watch -n 30 'ls -la "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/"'
+```
+
+## TV3 Performance Monitoring Commands
+
+### Count TV3 Channels and Programs
+```bash
+# Count channels
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml"
+
+# Count programs
+grep -c "<programme " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml"
+
+# Get channel list
+grep -o '<display-name[^>]*>[^<]*</display-name>' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" | head -20
+```
+
+### Monitor TV3 Processing Time
+```bash
+# Time the refresh process
+time "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/refresh_config.sh"
+```
+
+## TV3 Comparison Commands (TV3 vs DOC2 vs Original)
+
+### Compare TV3 vs DOC2 Output Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Doc2/Doc2 Github/Doc2_Doc2_epg.xml"
+```
+
+### Compare TV3 vs Original Output Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+```
+
+### Compare Config Files
+```bash
+diff "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3.txt" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt/multi_xml_config.txt"
+```
+
+## TV3 System Integration Commands
+
+### Check Main System Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/config_txt"
+./auto_refresh.sh status
+```
+
+### Check TV3 System Status
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./TV3\ auto_refresh.sh status
+```
+
+### Compare Main System vs TV3
+```bash
+# Compare output sizes
+wc -l "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+wc -l "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml"
+
+# Compare channel counts
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/Github/epg_combined.xml"
+grep -c "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml"
+```
+
+## TV3 Cleanup Commands
+
+### Remove Old TV3 Output Files
+```bash
+find "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github" -name "*.xml" -mtime +7 -delete
+```
+
+### Clean TV3 Log Files (keep last 100 lines)
+```bash
+tail -100 "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/auto_refresh.log" > temp && mv temp "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/auto_refresh.log"
+```
+
+### Clean TV3 Backup Files (keep last 5)
+```bash
+ls -t "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg_backup_"*.xml | tail -n +6 | xargs rm -f
+```
+
+## TV3 Advanced Commands
+
+### Test Individual TV3 Channels
+```bash
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 multi_processor"
+python3 -c "
+import sys
+sys.path.append('.')
+from 'TV3 multi_xml_processor' import MultiXMLProcessor
+processor = MultiXMLProcessor()
+# Test first channel only
+sources = processor.load_config('../TV3 config_txt/TV3.txt')
+if sources:
+    test_source = sources[0]
+    print(f'Testing channel: {test_source["display_name"]}')
+    success = processor.process_source(test_source)
+    print(f'Success: {success}')
+"
+```
+
+### Validate TV3 XML Structure
+```bash
+# Check for well-formed XML
+xmllint --noout "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" && echo "XML is well-formed"
+
+# Check TV XML schema elements
+grep -q "<tv " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" && echo "TV root element found"
+grep -q "<channel " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" && echo "Channel elements found"
+grep -q "<programme " "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" && echo "Programme elements found"
+```
+
+### TV3 Statistics
+```bash
+echo "=== TV3 EPG Statistics ==="
+echo "File size: $(du -h "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" | cut -f1)"
+echo "Total lines: $(wc -l < "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml")"
+echo "Channels: $(grep -c '<channel ' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml")"
+echo "Programs: $(grep -c '<programme ' "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml")"
+echo "Last modified: $(stat -f "%Sm" "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml")"
+```
+
+## TV3 Full Path Commands (For Direct Execution)
+
+### TV3 Auto-Refresh Management (Full Paths)
+```bash
+# Start TV3 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3\ config_txt/TV3\ auto_refresh.sh start
+
+# Stop TV3 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3\ config_txt/TV3\ auto_refresh.sh stop
+
+# Check TV3 status
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3\ config_txt/TV3\ auto_refresh.sh status
+
+# Restart TV3 auto-refresh
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3\ config_txt/TV3\ auto_refresh.sh restart
+```
+
+### TV3 Manual Refresh (Full Path)
+```bash
+/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3\ config_txt/refresh_config.sh
+```
+
+### TV3 Processor (Full Path)
+```bash
+cd /Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3\ multi_processor && python3 "TV3 multi_xml_processor.py" --config "../TV3 config_txt/TV3.txt" --output "../TV3 Github/TV3_epg.xml"
+```
+
+## TV3 Emergency Commands
+
+### Force Stop All TV3 Processes
+```bash
+pkill -f "TV3 auto_refresh"
+pkill -f "TV3 multi_xml_processor"
+rm -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/.auto_refresh.pid"
+```
+
+### Reset TV3 System
+```bash
+# Stop processes
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./TV3\ auto_refresh.sh stop
+
+# Clean logs
+> auto_refresh.log
+
+# Restart
+./TV3\ auto_refresh.sh start
+```
+
+### TV3 Health Check
+```bash
+echo "=== TV3 System Health Check ==="
+echo "1. Config file exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3.txt" && echo "✓ Config file found" || echo "✗ Config file missing"
+
+echo "2. Processor script exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 multi_processor/TV3 multi_xml_processor.py" && echo "✓ Processor found" || echo "✗ Processor missing"
+
+echo "3. Auto-refresh script exists:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt/TV3 auto_refresh.sh" && echo "✓ Auto-refresh found" || echo "✗ Auto-refresh missing"
+
+echo "4. Output directory exists:"
+test -d "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github" && echo "✓ Output directory found" || echo "✗ Output directory missing"
+
+echo "5. Auto-refresh status:"
+cd "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 config_txt"
+./TV3\ auto_refresh.sh status 2>/dev/null || echo "✗ Auto-refresh not running"
+
+echo "6. Output file status:"
+test -f "/Users/ah/CascadeProjects/windsurf-project/final_multi_system/TV3/TV3 Github/TV3_epg.xml" && echo "✓ Output file exists" || echo "✗ Output file missing"
+```
