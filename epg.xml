@@ -557,11 +557,6 @@
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260401210000 -0400" stop="20260401220000 -0400" channel="NBC.US">
-    <title>Chicago Fire</title>
-    <desc>No job is more stressful, dangerous or exhilarating than those of the Firefighters, Rescue Squad and Paramedics of Chicago Firehouse 51. These are the courageous men and women who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death. These are their stories.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260401210000 -0400" stop="20260401220400 -0400" channel="FOX.US">
     <title>The Masked Singer</title>
     <desc>Based on an international hit, which already is a viral phenomenon with more than half a billion fans worldwide, and the No. 1 top-trending video of 2017 on YouTube, The Masked Singer features celebrities facing off against one another with one major twist: each singer is shrouded from head to toe in an elaborate costume, complete with full face mask to conceal his or her identity. Ken Jeong, Jenny McCarthy, Nicole Scherzinger and Robin Thicke serve on the panel and play detective, alongside host Nick Cannon.</desc>
@@ -617,9 +612,14 @@
     <desc>On CBS News Special Report, special events are covered by the CBS news team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260401210200 -0400" stop="20260401220200 -0400" channel="ABC.US">
-    <title>The Greatest Average American</title>
-    <desc>The Greatest Average American is a hilarious new game show that celebrates the power of being perfectly average. Each round is packed with laugh-out-loud challenges and trivia as contestants try to guess how everyday Americans think and live. In the end, one lucky player will be crowned the Greatest Average American and get the chance to win the ultimate grand prize: the average American salary of $67,920.</desc>
+  <programme start="20260401210000 -0400" stop="20260401212000 -0400" channel="ABC.US">
+    <title>ABC News Special Report</title>
+    <desc>On the ABC News Specials, the stories that need to be covered in great detailed are featured.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401212000 -0400" stop="20260401222000 -0400" channel="NBC.US">
+    <title>Chicago Fire</title>
+    <desc>No job is more stressful, dangerous or exhilarating than those of the Firefighters, Rescue Squad and Paramedics of Chicago Firehouse 51. These are the courageous men and women who forge headfirst into danger when everyone else is running the other way and whose actions make the difference between life and death. These are their stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401213000 -0400" stop="20260401220000 -0400" channel="A&amp;E.US">
@@ -655,11 +655,6 @@
   <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="ABC.US">
-    <title>Shark Tank</title>
-    <desc>Shark Tank is an American reality television series where entrepreneurs pitch their business ideas to a panel of wealthy investors, known as "Sharks," who risk their own money to invest in promising ventures in exchange for equity. The show follows aspiring entrepreneurs as they present their products or services to the Sharks, who critically evaluate the businesses and can either make a deal or pass, leading to either success or a potentially rejected venture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="Discovery.US">
@@ -717,12 +712,12 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260401233500 -0400" stop="20260402003500 -0400" channel="NBC.US">
+  <programme start="20260401235000 -0400" stop="20260402005000 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260401233500 -0400" stop="20260402003500 -0400" channel="CBS.US">
+  <programme start="20260401235000 -0400" stop="20260402005000 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
     <category>TV Show</category>
