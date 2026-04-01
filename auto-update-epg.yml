@@ -7,6 +7,10 @@ on:
   workflow_dispatch:
     # Allow manual trigger
 
+env:
+  ACTIONS_STEP_DEBUG: false
+  NODE_OPTIONS: --no-warnings
+
 jobs:
   update-epg:
     runs-on: ubuntu-latest
