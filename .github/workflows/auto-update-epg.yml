@@ -27,12 +27,12 @@ jobs:
         
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 lxml pytz
+        python3 -m pip install --upgrade pip
+        pip3 install requests beautifulsoup4 lxml pytz
         
     - name: Run EPG generation script
       run: |
-        python tvmaze_epg.py
+        python3 tvmaze_epg.py
         
     - name: Commit and push changes
       run: |
