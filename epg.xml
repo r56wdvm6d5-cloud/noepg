@@ -297,6 +297,11 @@
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260401110000 -0400" stop="20260401120000 -0400" channel="CNBC.US">
+    <title>Money Movers</title>
+    <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260401120000 -0400" stop="20260401130000 -0400" channel="Fox News Channel.US">
     <title>Outnumbered</title>
     <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
@@ -322,6 +327,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260401120000 -0400" stop="20260401130000 -0400" channel="CNBC.US">
+    <title>Fast Money Halftime Report</title>
+    <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260401123000 -0400" stop="20260401133000 -0400" channel="CBS.US">
     <title>The Young and the Restless</title>
     <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
@@ -340,6 +350,11 @@
   <programme start="20260401130000 -0400" stop="20260401140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401130000 -0400" stop="20260401140000 -0400" channel="CNBC.US">
+    <title>The Exchange</title>
+    <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401133000 -0400" stop="20260401140000 -0400" channel="CBS.US">
@@ -365,6 +380,11 @@
   <programme start="20260401140000 -0400" stop="20260401150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401140000 -0400" stop="20260401150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401150000 -0400" stop="20260401160000 -0400" channel="Fox News Channel.US">
@@ -590,6 +610,11 @@
   <programme start="20260401210000 -0400" stop="20260401220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401210000 -0400" stop="20260401212000 -0400" channel="CBS.US">
+    <title>CBS News Special Report</title>
+    <desc>On CBS News Special Report, special events are covered by the CBS news team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401210200 -0400" stop="20260401220200 -0400" channel="ABC.US">
@@ -847,6 +872,11 @@
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260402110000 -0400" stop="20260402120000 -0400" channel="CNBC.US">
+    <title>Money Movers</title>
+    <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260402120000 -0400" stop="20260402130000 -0400" channel="Fox News Channel.US">
     <title>Outnumbered</title>
     <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
@@ -872,6 +902,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260402120000 -0400" stop="20260402130000 -0400" channel="CNBC.US">
+    <title>Fast Money Halftime Report</title>
+    <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260402123000 -0400" stop="20260402133000 -0400" channel="CBS.US">
     <title>The Young and the Restless</title>
     <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
@@ -890,6 +925,11 @@
   <programme start="20260402130000 -0400" stop="20260402140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260402130000 -0400" stop="20260402140000 -0400" channel="CNBC.US">
+    <title>The Exchange</title>
+    <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260402133000 -0400" stop="20260402140000 -0400" channel="CBS.US">
@@ -915,6 +955,11 @@
   <programme start="20260402140000 -0400" stop="20260402150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260402140000 -0400" stop="20260402150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260402150000 -0400" stop="20260402160000 -0400" channel="Fox News Channel.US">
@@ -1332,6 +1377,26 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260403100000 -0400" stop="20260403120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403110000 -0400" stop="20260403120000 -0400" channel="CNBC.US">
+    <title>Money Movers</title>
+    <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403120000 -0400" stop="20260403140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403120000 -0400" stop="20260403130000 -0400" channel="CNBC.US">
+    <title>Fast Money Halftime Report</title>
+    <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260403123000 -0400" stop="20260403133000 -0400" channel="CBS.US">
     <title>The Young and the Restless</title>
     <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
@@ -1340,6 +1405,11 @@
   <programme start="20260403130000 -0400" stop="20260403140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403130000 -0400" stop="20260403140000 -0400" channel="CNBC.US">
+    <title>The Exchange</title>
+    <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260403133000 -0400" stop="20260403140000 -0400" channel="CBS.US">
@@ -1355,6 +1425,16 @@
   <programme start="20260403140000 -0400" stop="20260403150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403140000 -0400" stop="20260403160000 -0400" channel="MS NOW.US">
+    <title>Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403140000 -0400" stop="20260403150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260403150000 -0400" stop="20260403160000 -0400" channel="CBS.US">
@@ -1867,9 +1947,34 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406100000 -0400" stop="20260406120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406110000 -0400" stop="20260406120000 -0400" channel="CNBC.US">
+    <title>Money Movers</title>
+    <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406120000 -0400" stop="20260406140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406120000 -0400" stop="20260406130000 -0400" channel="CNBC.US">
+    <title>Fast Money Halftime Report</title>
+    <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406130000 -0400" stop="20260406140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406130000 -0400" stop="20260406140000 -0400" channel="CNBC.US">
+    <title>The Exchange</title>
+    <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406133000 -0400" stop="20260406140000 -0400" channel="CBS.US">
@@ -1880,6 +1985,16 @@
   <programme start="20260406140000 -0400" stop="20260406150000 -0400" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406140000 -0400" stop="20260406160000 -0400" channel="MS NOW.US">
+    <title>Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406140000 -0400" stop="20260406150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406160000 -0400" stop="20260406180000 -0400" channel="MS NOW.US">
@@ -2082,9 +2197,34 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407100000 -0400" stop="20260407120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407110000 -0400" stop="20260407120000 -0400" channel="CNBC.US">
+    <title>Money Movers</title>
+    <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407120000 -0400" stop="20260407140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407120000 -0400" stop="20260407130000 -0400" channel="CNBC.US">
+    <title>Fast Money Halftime Report</title>
+    <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407130000 -0400" stop="20260407140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407130000 -0400" stop="20260407140000 -0400" channel="CNBC.US">
+    <title>The Exchange</title>
+    <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407133000 -0400" stop="20260407140000 -0400" channel="CBS.US">
@@ -2095,6 +2235,16 @@
   <programme start="20260407140000 -0400" stop="20260407150000 -0400" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407140000 -0400" stop="20260407160000 -0400" channel="MS NOW.US">
+    <title>Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407140000 -0400" stop="20260407150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407160000 -0400" stop="20260407180000 -0400" channel="MS NOW.US">
