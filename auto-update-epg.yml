@@ -13,28 +13,24 @@ jobs:
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git clone https://github.com/r56wdvm6d5-cloud/noepg.git .
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
         
     - name: Set up Python
-      uses: actions/setup-python@v3
-      with:
-        python-version: '3.12'
-        
-    - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 lxml pytz
+        sudo apt-get update
+        sudo apt-get install -y python3 python3-pip
+        python3 -m pip install --upgrade pip
+        pip3 install requests beautifulsoup4 lxml pytz
         
     - name: Run EPG generation script
       run: |
-        python tvmaze_epg.py
+        python3 tvmaze_epg.py
         
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
         git add epg.xml
         git commit -m "Auto-update EPG - $(date '+%Y-%m-%d %H:%M:%S')"
         git push
