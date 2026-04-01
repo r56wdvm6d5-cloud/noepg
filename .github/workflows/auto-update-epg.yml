@@ -7,30 +7,26 @@ on:
   workflow_dispatch:
     # Allow manual trigger
 
+env:
+  ACTIONS_STEP_DEBUG: false
+  NODE_OPTIONS: --no-warnings
+
 jobs:
   update-epg:
     runs-on: ubuntu-latest
+    container: python:3.12-slim
     
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: Set up Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '24'
-        
-    - name: Set up Python
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.12'
+      run: |
+        git clone https://github.com/r56wdvm6d5-cloud/noepg.git .
+        git config --global user.email "action@github.com"
+        git config --global user.name "GitHub Action"
         
     - name: Install dependencies
       run: |
-        python -m pip install --upgrade pip
-        pip install requests beautifulsoup4 lxml
+        pip install --upgrade pip
+        pip install requests beautifulsoup4 lxml pytz
         
     - name: Run EPG generation script
       run: |
@@ -38,12 +34,6 @@ jobs:
         
     - name: Commit and push changes
       run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
         git add epg.xml
-        if git diff --staged --quiet; then
-          git commit -m "Auto-update EPG - $(date '+%Y-%m-%d %H:%M:%S')"
-          git push
-        else
-          echo "No changes to commit"
-        fi
+        git commit -m "Auto-update EPG - $(date '+%Y-%m-%d %H:%M:%S')"
+        git push
