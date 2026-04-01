@@ -607,11 +607,6 @@
     <desc>The very best episodes of Pawn Stars.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="CBS.US">
-    <title>America's Culinary Cup</title>
-    <desc>America's Culinary Cup will feature a cast of the nation's most decorated chefs as they compete in the kitchen.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -660,6 +655,11 @@
   <programme start="20260401220000 -0400" stop="20260401230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260401222000 -0400" stop="20260401232000 -0400" channel="CBS.US">
+    <title>America's Culinary Cup</title>
+    <desc>America's Culinary Cup will feature a cast of the nation's most decorated chefs as they compete in the kitchen.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260401230000 -0400" stop="20260402000000 -0400" channel="MS NOW.US">
