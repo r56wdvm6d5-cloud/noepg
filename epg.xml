@@ -864,6 +864,11 @@
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260403160000 -0400" stop="20260403170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260403180000 -0400" stop="20260403190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1264,6 +1269,11 @@
     <desc>This isn't your grandmother's antiquing. The American Pickers are on a mission to recycle America, even if it means diving into countless piles of grimy junk or getting chased off a gun-wielding homeowner's land. Hitting back roads from coast to coast, the Pickers earn a living by restoring forgotten relics to their former glory, transforming one person's trash into another's treasure. The show follows the team as they scour the country for hidden gems in junkyards, basements, garages and barns, meeting quirky characters and hearing their amazing stories. If you think the antique business is all about upscale boutiques and buttoned-up dealers, this show may change your mind – and teach you a thing or two about American history along the way.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="HBO.US">
+    <title>Harry Potter and the Philosopher's Stone</title>
+    <desc>There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up a hidden world for Harry: one of fun, friendship and magic. But with this new adventure comes great risk as Harry is forced to face a dangerous enemy from his past.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="HBO.US">
     <title>DTF St. Louis</title>
     <desc>DTF St. Louis is a darkly comedic limited series about a love triangle between three adults experiencing middle-age malaise, that leads to one of them ending up dead.</desc>
@@ -1374,6 +1384,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406090000 -0400" stop="20260406100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406100000 -0400" stop="20260406120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1437,6 +1452,11 @@
   <programme start="20260406160000 -0400" stop="20260406180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406160000 -0400" stop="20260406170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406180000 -0400" stop="20260406190000 -0400" channel="MS NOW.US">
@@ -1624,6 +1644,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407090000 -0400" stop="20260407100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407100000 -0400" stop="20260407120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1687,6 +1712,11 @@
   <programme start="20260407160000 -0400" stop="20260407180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407160000 -0400" stop="20260407170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407180000 -0400" stop="20260407190000 -0400" channel="MS NOW.US">
@@ -1869,6 +1899,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408090000 -0400" stop="20260408100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408100000 -0400" stop="20260408120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1932,6 +1967,11 @@
   <programme start="20260408160000 -0400" stop="20260408180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408160000 -0400" stop="20260408170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408180000 -0400" stop="20260408190000 -0400" channel="MS NOW.US">
