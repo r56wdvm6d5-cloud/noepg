@@ -569,7 +569,7 @@
     <desc>After achieving success in her younger years, the brilliant septuagenarian Madeline Matlock rejoins the work force at a prestigious law firm where she uses her unassuming demeanor and wily tactics to win cases and expose corruption from within.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260402210000 -0400" stop="20260402220000 -0400" channel="Bravo.US">
+  <programme start="20260402210000 -0400" stop="20260402221500 -0400" channel="Bravo.US">
     <title>The Real Housewives of Rhode Island</title>
     <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
     <category>TV Show</category>
@@ -597,11 +597,6 @@
   <programme start="20260402210000 -0400" stop="20260402220300 -0400" channel="History.US">
     <title>Mysteries Unearthed with Danny Trejo</title>
     <desc>Mysteries Unearthed with Danny Trejo examines the fascinating stories surrounding buried artifacts and lost civilizations, shedding light, and offering new insight and information, on various mysteries of the past and present. Anchored by Trejo's affinity for history and his natural curiosity into exploring the unknown and coupled with captivating archival material, expert interviews, and compelling recreations, the series seeks to unearth what the human eye cannot easily detect, as objects, structures and creatures concealed under earth, ice and water are suddenly, and often accidentally, revealed. From ancient animals uncovered as permafrost melts to excavations that make international headlines, each episode explains the significance of these discoveries and offers surprising context to these amazing finds. What exciting revelations can these preserved objects expose about our history and the legends and myths that surround them?</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260402210000 -0400" stop="20260402220000 -0400" channel="Bravo.US">
-    <title>Ladies of London</title>
-    <desc>There are cultural differences between England and America in many respects. But that doesn't stop British socialites Annabelle Neilson and Caroline Stanbury from running in similar social circles with Americanexpats Juliet Angus, Caprice Bourret, Marissa Hermer and Noelle Reno, who all enjoy a posh London lifestyle in Ladies of London. The ladies adhere to the city's unwritten rules that one's reputation is everything and respect is not easily earned. Also featured on the docuseries is Julie Montagu, an Illinois native who is married to the heir to the Earl of Sandwich.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260402210000 -0400" stop="20260402220000 -0400" channel="Newsmax.US">
@@ -682,6 +677,11 @@
   <programme start="20260402220300 -0400" stop="20260402230500 -0400" channel="History.US">
     <title>The Proof Is Out There: Alien Edition</title>
     <desc>In this special edition series of The Proof Is Out There, journalist Tony Harris will present compelling evidence of UFO sightings from around the globe. Are these videos proof that aliens exist? Tony and a team of experts will analyze the evidence and render a verdict.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260402221600 -0400" stop="20260402231600 -0400" channel="Bravo.US">
+    <title>Ladies of London</title>
+    <desc>There are cultural differences between England and America in many respects. But that doesn't stop British socialites Annabelle Neilson and Caroline Stanbury from running in similar social circles with Americanexpats Juliet Angus, Caprice Bourret, Marissa Hermer and Noelle Reno, who all enjoy a posh London lifestyle in Ladies of London. The ladies adhere to the city's unwritten rules that one's reputation is everything and respect is not easily earned. Also featured on the docuseries is Julie Montagu, an Illinois native who is married to the heir to the Earl of Sandwich.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260402230000 -0400" stop="20260403000000 -0400" channel="MS NOW.US">
@@ -947,6 +947,11 @@
   <programme start="20260403210000 -0400" stop="20260403220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403210000 -0400" stop="20260403230000 -0400" channel="ABC.US">
+    <title>20/20</title>
+    <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260403210700 -0400" stop="20260403230700 -0400" channel="Discovery.US">
@@ -1812,6 +1817,11 @@
   <programme start="20260407230000 -0400" stop="20260408000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Stephanie Ruhle</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407230000 -0400" stop="20260408000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408050000 -0400" stop="20260408060000 -0400" channel="CNBC.US">
