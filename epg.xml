@@ -100,16 +100,16 @@
     <display-name>Channel 4</display-name>
     <country>GB</country>
   </channel>
-  <channel id="BBC Two.GB">
-    <display-name>BBC Two</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="BBC Alba.GB">
     <display-name>BBC Alba</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC One.GB">
     <display-name>BBC One</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="BBC Two.GB">
+    <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
   <channel id="National Geographic.GB">
@@ -203,11 +203,6 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260403090000 -0400" stop="20260403110000 -0400" channel="CNBC.US">
-    <title>Squawk on the Street</title>
-    <desc>Squawk on the Street is headquartered live on the floor of the New York Stock Exchange. We are there when the all-important opening bell rings every day. With our exclusive "Eye on the Floor" wireless cameras at the NYSE we take the viewer onto the floor of the exchange, right to the posts where the biggest companies in the world trade. In addition, our exclusive "Tick by Tick" charts track the action of every trade of every stock. Our live market coverage doesn't stop on the corner of Wall and Broad Streets in lower Manhattan. We also have exclusive coverage from the floor of the CME Group in Chicago giving our viewers the treasury, currency and commodity action in real time. In addition, "Squawk on the Street" is also on the air when the closing bells ring throughout Europe. That final hour of European trading starting at 10:30am eastern has proven to be very volatile and has a major impact on all U.S. based markets.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260403100000 -0400" stop="20260403120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -223,19 +218,9 @@
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260403110000 -0400" stop="20260403120000 -0400" channel="CNBC.US">
-    <title>Money Movers</title>
-    <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260403120000 -0400" stop="20260403140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260403120000 -0400" stop="20260403130000 -0400" channel="CNBC.US">
-    <title>Fast Money Halftime Report</title>
-    <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260403123000 -0400" stop="20260403133000 -0400" channel="CBS.US">
@@ -246,11 +231,6 @@
   <programme start="20260403130000 -0400" stop="20260403140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260403130000 -0400" stop="20260403140000 -0400" channel="CNBC.US">
-    <title>The Exchange</title>
-    <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260403133000 -0400" stop="20260403140000 -0400" channel="CBS.US">
@@ -273,14 +253,14 @@
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260403140000 -0400" stop="20260403150000 -0400" channel="CNBC.US">
-    <title>Power Lunch</title>
-    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260403150000 -0400" stop="20260403160000 -0400" channel="CBS.US">
     <title>Let's Make a Deal</title>
     <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260403153000 -0400" stop="20260403160000 -0400" channel="ESPN.US">
+    <title>WNBA Draft</title>
+    <desc>The WNBA Draft is a draft of College and other Females for the Women's National Basketball Association that is held annually live on one of the ESPN Networks.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260403160000 -0400" stop="20260403180000 -0400" channel="MS NOW.US">
@@ -893,6 +873,11 @@
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406150000 -0400" stop="20260406160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406160000 -0400" stop="20260406180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -901,6 +886,11 @@
   <programme start="20260406160000 -0400" stop="20260406170000 -0400" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406160000 -0400" stop="20260406170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406180000 -0400" stop="20260406190000 -0400" channel="MS NOW.US">
@@ -1163,6 +1153,11 @@
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407150000 -0400" stop="20260407160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407160000 -0400" stop="20260407180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1171,6 +1166,11 @@
   <programme start="20260407160000 -0400" stop="20260407170000 -0400" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407160000 -0400" stop="20260407170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407180000 -0400" stop="20260407190000 -0400" channel="MS NOW.US">
@@ -1428,6 +1428,11 @@
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408150000 -0400" stop="20260408160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408160000 -0400" stop="20260408180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1436,6 +1441,11 @@
   <programme start="20260408160000 -0400" stop="20260408170000 -0400" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408160000 -0400" stop="20260408170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408180000 -0400" stop="20260408190000 -0400" channel="MS NOW.US">
@@ -1683,6 +1693,11 @@
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409150000 -0400" stop="20260409160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409160000 -0400" stop="20260409180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1691,6 +1706,11 @@
   <programme start="20260409160000 -0400" stop="20260409170000 -0400" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409160000 -0400" stop="20260409170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409180000 -0400" stop="20260409190000 -0400" channel="MS NOW.US">
@@ -1846,11 +1866,6 @@
   <programme start="20260403185500 -0400" stop="20260403190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260403190000 -0400" stop="20260403200000 -0400" channel="BBC Two.GB">
-    <title>Great British Menu</title>
-    <desc>Top chefs from across the nation compete for the chance to cook a four-course banquet for a high-profile figure.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260403195500 -0400" stop="20260403200000 -0400" channel="5.GB">
@@ -2083,11 +2098,6 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260407154500 -0400" stop="20260407162800 -0400" channel="BBC One.GB">
-    <title>I Made It at Market</title>
-    <desc>Turning passions into profits. Dom Chinea revisits amazing makers who have turned their talents into successful businesses, seeing how their skills have changed their lives.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260407170000 -0400" stop="20260407180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2106,6 +2116,21 @@
   <programme start="20260407185500 -0400" stop="20260407190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407190000 -0400" stop="20260407200000 -0400" channel="BBC Two.GB">
+    <title>Great British Menu</title>
+    <desc>Top chefs from across the nation compete for the chance to cook a four-course banquet for a high-profile figure.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407190000 -0400" stop="20260407200000 -0400" channel="BBC Two.GB">
+    <title>Great British Menu</title>
+    <desc>Top chefs from across the nation compete for the chance to cook a four-course banquet for a high-profile figure.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407190000 -0400" stop="20260407200000 -0400" channel="BBC Two.GB">
+    <title>Great British Menu</title>
+    <desc>Top chefs from across the nation compete for the chance to cook a four-course banquet for a high-profile figure.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407195500 -0400" stop="20260407200000 -0400" channel="5.GB">
@@ -2146,11 +2171,6 @@
   <programme start="20260408150000 -0400" stop="20260408154500 -0400" channel="BBC One.GB">
     <title>Escape to the Country</title>
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260408154500 -0400" stop="20260408162800 -0400" channel="BBC One.GB">
-    <title>I Made It at Market</title>
-    <desc>Turning passions into profits. Dom Chinea revisits amazing makers who have turned their talents into successful businesses, seeing how their skills have changed their lives.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408170000 -0400" stop="20260408180000 -0400" channel="5.GB">
@@ -2216,11 +2236,6 @@
   <programme start="20260408210000 -0400" stop="20260408220000 -0400" channel="BBC One.GB">
     <title>Ambulance</title>
     <desc>Ambulance is a BAFTA winning documentary series giving exclusive insight into how the ambulance service functions amidst the huge challenges it faces. The series meets the people working day in and day out, from paramedics to 999 call operators, to keep on top of the pressure and provide emergency care to the public.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260408210000 -0400" stop="20260408215900 -0400" channel="BBC Two.GB">
-    <title>Michael Jackson: An American Tragedy</title>
-    <desc>Michael Jackson's journey from child prodigy to global pop icon - examining the genius, controversy, trials and tragedy that shaped and continue to divide his legacy.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408220000 -0400" stop="20260408230000 -0400" channel="TRUE CRIME.GB">
@@ -2378,6 +2393,11 @@
     <desc>Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408193000 -0400" stop="20260408200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408200000 -0400" stop="20260408203000 -0400" channel="ABC.AU">
     <title>Tonight At The Museum</title>
     <desc>Filmed on location in a real museum after dark, surrounded by priceless artefacts, taxidermy and historical curiosities, Alex Lee guides four celebrity players through a series of challenges and quizzes that deliver gags quick and fast.</desc>
@@ -2386,6 +2406,11 @@
   <programme start="20260408203000 -0400" stop="20260408210000 -0400" channel="ABC.AU">
     <title>The Weekly with Charlie Pickering</title>
     <desc>The Weekly with Charlie Pickering is the one show on TV that knows the world is far too serious to be taken too seriously. You give us 30 minutes, we'll give you the week.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409193000 -0400" stop="20260409200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
 </tv>
