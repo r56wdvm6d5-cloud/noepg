@@ -158,6 +158,11 @@
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260403050000 -0400" stop="20260403060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260403060000 -0400" stop="20260403100000 -0400" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
@@ -543,6 +548,11 @@
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260404220000 -0400" stop="20260404230000 -0400" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260404220100 -0400" stop="20260404230400 -0400" channel="A&amp;E.US">
     <title>Duck Dynasty: The Revival</title>
     <desc>Duck Dynasty: The Revival centers on Willie and Korie Robertson as they navigate life with their growing family of adult children and grandchildren, now part of the next generation carrying on the Robertson legacy at their Louisiana homestead. As the family business expands beyond ducks, Willie and Korie bring their signature wit and down-home charm while they explore the future of Duck Commander, support their children through marriage, parenthood, and entrepreneurship, and work to keep their legacy alive. However, Willie quickly realizes that this next generation isn't as Robertson as he originally thought.</desc>
@@ -771,6 +781,11 @@
   <programme start="20260406050000 -0400" stop="20260406060000 -0400" channel="CNBC.US">
     <title>Morning Call</title>
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406050000 -0400" stop="20260406060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406060000 -0400" stop="20260406090000 -0400" channel="CNBC.US">
@@ -1038,6 +1053,11 @@
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407050000 -0400" stop="20260407060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407060000 -0400" stop="20260407090000 -0400" channel="CNBC.US">
     <title>Squawk Box</title>
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
@@ -1298,6 +1318,11 @@
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408050000 -0400" stop="20260408060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408060000 -0400" stop="20260408090000 -0400" channel="CNBC.US">
     <title>Squawk Box</title>
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
@@ -1551,6 +1576,11 @@
   <programme start="20260409050000 -0400" stop="20260409060000 -0400" channel="CNBC.US">
     <title>Morning Call</title>
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409050000 -0400" stop="20260409060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409060000 -0400" stop="20260409090000 -0400" channel="CNBC.US">
@@ -2053,6 +2083,11 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407154500 -0400" stop="20260407162800 -0400" channel="BBC One.GB">
+    <title>I Made It at Market</title>
+    <desc>Turning passions into profits. Dom Chinea revisits amazing makers who have turned their talents into successful businesses, seeing how their skills have changed their lives.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407170000 -0400" stop="20260407180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2111,6 +2146,11 @@
   <programme start="20260408150000 -0400" stop="20260408154500 -0400" channel="BBC One.GB">
     <title>Escape to the Country</title>
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408154500 -0400" stop="20260408162800 -0400" channel="BBC One.GB">
+    <title>I Made It at Market</title>
+    <desc>Turning passions into profits. Dom Chinea revisits amazing makers who have turned their talents into successful businesses, seeing how their skills have changed their lives.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408170000 -0400" stop="20260408180000 -0400" channel="5.GB">
@@ -2176,6 +2216,11 @@
   <programme start="20260408210000 -0400" stop="20260408220000 -0400" channel="BBC One.GB">
     <title>Ambulance</title>
     <desc>Ambulance is a BAFTA winning documentary series giving exclusive insight into how the ambulance service functions amidst the huge challenges it faces. The series meets the people working day in and day out, from paramedics to 999 call operators, to keep on top of the pressure and provide emergency care to the public.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408210000 -0400" stop="20260408215900 -0400" channel="BBC Two.GB">
+    <title>Michael Jackson: An American Tragedy</title>
+    <desc>Michael Jackson's journey from child prodigy to global pop icon - examining the genius, controversy, trials and tragedy that shaped and continue to divide his legacy.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408220000 -0400" stop="20260408230000 -0400" channel="TRUE CRIME.GB">
