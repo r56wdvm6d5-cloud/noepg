@@ -398,6 +398,11 @@
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260405190000 -0400" stop="20260405200000 -0400" channel="CBS.US">
+    <title>60 Minutes</title>
+    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="FOX.US">
     <title>The Faithful: Women of the Bible</title>
     <desc>The Faithful: Women of the Bible is inspired by the best-selling book of all time, the Bible, and showcases a faithful dramatization of the Book of Genesis as told through the eyes of the courageous and passionate, yet flawed women whose descendants would shape the future of faith as we know it today. Dimensional, dramatic, intimate, even surprising, The Faithful: Women of the Bible is about discovering and losing love, the challenges of marriage, the joys and heartbreak of children, confronting temptation, and finding faith. Episodes of The Faithful will be told through the lens of five of The Old Testament's most legendary women: Sarah and her maidservant Hagar, Sarah's great-niece Rebekah, and Rebekah's nieces, sisters Leah and Rachel.</desc>
@@ -568,6 +573,11 @@
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406110000 -0400" stop="20260406120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406120000 -0400" stop="20260406140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -611,6 +621,11 @@
   <programme start="20260406150000 -0400" stop="20260406160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406150000 -0400" stop="20260406160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406160000 -0400" stop="20260406180000 -0400" channel="MS NOW.US">
@@ -868,6 +883,11 @@
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407110000 -0400" stop="20260407120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407120000 -0400" stop="20260407140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -911,6 +931,11 @@
   <programme start="20260407150000 -0400" stop="20260407160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407150000 -0400" stop="20260407160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407160000 -0400" stop="20260407180000 -0400" channel="MS NOW.US">
@@ -993,6 +1018,11 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407200000 -0400" stop="20260407210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407210000 -0400" stop="20260407220000 -0400" channel="FOX.US">
     <title>Doc</title>
     <desc>Doc centers on the hard-charging, brilliant Dr. Amy Larsen, Chief of Internal and Family Medicine at Westside Hospital in Minneapolis. After a brain injury erases the last eight years of her life, Amy must navigate an unfamiliar world where she has no recollection of patients she's treated, colleagues she's crossed, the soulmate she divorced, the man she now loves and the tragedy that caused her to push everyone away. She can rely only on her estranged 17-year-old daughter, whom she remembers as a 9-year-old, and a handful of devoted friends, as she struggles to continue practicing medicine, despite having lost nearly a decade of knowledge and experience.</desc>
@@ -1028,6 +1058,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407210000 -0400" stop="20260407220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407213000 -0400" stop="20260407220100 -0400" channel="A&amp;E.US">
     <title>Road Wars</title>
     <desc>Roadways can be a wild place. With violent road rage incidents increasing 500% over the last decade, "road raging" is a human behavior that has become widely known. Road Wars takes a deep dive into American roadways, examining extreme human behavior, wild weather, insane accidents and a few welcome instances of acts of kindness.</desc>
@@ -1051,6 +1086,11 @@
   <programme start="20260407220000 -0400" stop="20260407230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407220000 -0400" stop="20260407230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407220100 -0400" stop="20260407223200 -0400" channel="A&amp;E.US">
@@ -1086,6 +1126,16 @@
   <programme start="20260407233500 -0400" stop="20260408003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407000000 -0400" stop="20260407020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407000000 -0400" stop="20260407020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408050000 -0400" stop="20260408060000 -0400" channel="CNBC.US">
@@ -1163,6 +1213,11 @@
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408110000 -0400" stop="20260408120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408120000 -0400" stop="20260408140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -1206,6 +1261,11 @@
   <programme start="20260408150000 -0400" stop="20260408160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408150000 -0400" stop="20260408160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408160000 -0400" stop="20260408180000 -0400" channel="MS NOW.US">
@@ -1283,6 +1343,11 @@
     <desc>The Valley follows a group of close friends as they trade bottle service in West Hollywood for baby bottles in the Valley all while they navigate bustling businesses, rocky relationships and feisty friendships.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408200000 -0400" stop="20260408210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408203000 -0400" stop="20260408210000 -0400" channel="ABC.US">
     <title>Abbott Elementary</title>
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
@@ -1311,6 +1376,11 @@
   <programme start="20260408210000 -0400" stop="20260408220000 -0400" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408210000 -0400" stop="20260408220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408210200 -0400" stop="20260408220200 -0400" channel="ABC.US">
@@ -1358,6 +1428,11 @@
     <desc>In the all-new series Expedition Files, adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world's most captivating and unexplained mysteries.  Each episode of Expedition Files explores compelling true stories that defy explanation, offering stunning revelations and surprising new insights.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408220000 -0400" stop="20260408230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408223000 -0400" stop="20260408230000 -0400" channel="CBS.US">
     <title>Hollywood Squares</title>
     <desc>Hollywood Squares involves two contestants who play tic-tac-toe to win money and prizes. The "board" for the game is a vertical stack of open-faced cubes, each occupied by a celebrity seated at a desk and facing the contestants. The celebrities are asked questions and the contestants judge the legitimacy of their answers to win the game.</desc>
@@ -1368,6 +1443,11 @@
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408230000 -0400" stop="20260409000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408233500 -0400" stop="20260409003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
@@ -1376,6 +1456,16 @@
   <programme start="20260408233500 -0400" stop="20260409003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408000000 -0400" stop="20260408020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408000000 -0400" stop="20260408020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409050000 -0400" stop="20260409060000 -0400" channel="CNBC.US">
@@ -1448,6 +1538,11 @@
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409110000 -0400" stop="20260409120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409120000 -0400" stop="20260409140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -1491,6 +1586,11 @@
   <programme start="20260409150000 -0400" stop="20260409160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409150000 -0400" stop="20260409160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409160000 -0400" stop="20260409180000 -0400" channel="MS NOW.US">
@@ -1568,6 +1668,11 @@
     <desc>The Real Housewives of Beverly Hills offers a glimpse inside the world of luxurious wealth and pampered privilege, where being seen and who you know is everything. These women are in the center of it all and they have the mansions, the cars, and the diamonds to prove it. From heiresses to entrepreneurs to a family of child actresses - they deliver the star power and the drama.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409200000 -0400" stop="20260409210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409203000 -0400" stop="20260409210000 -0400" channel="CBS.US">
     <title>Ghosts</title>
     <desc>Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it's also inhabited by spirits of previous residents -- whom only Samantha can see and hear. Ghosts spins the funny, heartfelt story about a newfound dream that reveals connection and self-discovery aren't just for the living.</desc>
@@ -1613,6 +1718,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409210000 -0400" stop="20260409220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409210200 -0400" stop="20260409213200 -0400" channel="FOX.US">
     <title>Animal Control</title>
     <desc>Animal Control is a workplace comedy following a group of Animal Control workers whose lives are complicated by the fact that animals are simple, but humans are not.</desc>
@@ -1638,6 +1748,11 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409220000 -0400" stop="20260409230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409220300 -0400" stop="20260409230500 -0400" channel="History.US">
     <title>The Proof Is Out There: Alien Edition</title>
     <desc>In this special edition series of The Proof Is Out There, journalist Tony Harris will present compelling evidence of UFO sightings from around the globe. Are these videos proof that aliens exist? Tony and a team of experts will analyze the evidence and render a verdict.</desc>
@@ -1648,9 +1763,24 @@
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409230000 -0400" stop="20260410000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409233500 -0400" stop="20260410003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409000000 -0400" stop="20260409020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409000000 -0400" stop="20260409020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410050000 -0400" stop="20260410060000 -0400" channel="CNBC.US">
@@ -1723,6 +1853,11 @@
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410110000 -0400" stop="20260410120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410120000 -0400" stop="20260410140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -1766,6 +1901,11 @@
   <programme start="20260410150000 -0400" stop="20260410160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410150000 -0400" stop="20260410160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410160000 -0400" stop="20260410180000 -0400" channel="MS NOW.US">
@@ -1838,6 +1978,11 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410200000 -0400" stop="20260410210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410203000 -0400" stop="20260410210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -1863,6 +2008,11 @@
     <desc>Join Scott Yoo, renowned violinist and conductor of the Mexico City Philharmonic, in Now Hear This, a new four-part documentary miniseries presented by Great Performances that merges music, storytelling, travel and culture, as he chases the secret histories of some of the greatest music ever written.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410210000 -0400" stop="20260410220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410210700 -0400" stop="20260410220700 -0400" channel="Discovery.US">
     <title>Gold Rush: Mine Rescue with Freddy &amp; Juan</title>
     <desc>Freddy Dodge is no stranger when it comes to gold mining. With nearly 40 years of mining under his belt, he's known around the world as the "Gold Guru" and the person struggling mine owners call when they're striking out. Now he's going on the road to help struggling mine owners to hit the motherlode in Gold Rush: Mine Rescue with Freddy &amp;amp; Juan. To help him turnaround the operations, Freddy has teamed up with expert mechanic and fellow Gold Rush miner Juan Ibarra. At each location, the mining duo will use their knowledge of geology, prospecting, drilling and testing to get back on the paydirt. But it isn't just running their dirt faster. It's about making the operations better, and more importantly, running cheaper.</desc>
@@ -1883,6 +2033,11 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410220000 -0400" stop="20260410230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410220300 -0400" stop="20260410230500 -0400" channel="History.US">
     <title>The Proof Is Out There</title>
     <desc>The Proof Is Out There takes an in-depth look at some of the most incredible and thought provoking videos of unexplained phenomena and mysterious must-see moments of all time. Each half-hour episode explores and analyzes the full story of each irregularity in question from bizarre footage of people seemingly immune to lightning, to a fifty-foot snake, apocalyptic sounds in a man's backyard, enigmatic creatures, and UFOS that split and dive underwater. Through expert examination and the use of the latest technologies, The Proof Is Out There aims to get to the bottom of what's real? What's fake? And everything in between.</desc>
@@ -1891,6 +2046,16 @@
   <programme start="20260410230000 -0400" stop="20260411000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Stephanie Ruhle</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410230000 -0400" stop="20260411000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410000000 -0400" stop="20260410020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260404133000 -0400" stop="20260404163000 -0400" channel="Channel 4.GB">
@@ -2128,6 +2293,16 @@
     <desc>Keith Brymer Jones and his partner Marj restore a 160-year-old derelict chapel in Pwllheli, on Wales' Llyn Peninsula, to turn it into a forever home with a working pottery studio for the community.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407200000 -0400" stop="20260407210000 -0400" channel="BBC One.GB">
+    <title>Sort Your Life Out</title>
+    <desc>Stacey Solomon and her crack team help families transform their homes. With a life-changing declutter, they upcycle and recycle their way to a new home.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407200000 -0400" stop="20260407210000 -0400" channel="5.GB">
+    <title>The Yorkshire Vet</title>
+    <desc>The Yorkshire Vet is a documentary series about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407210000 -0400" stop="20260407222000 -0400" channel="ITV1.GB">
     <title>I'm a Celebrity, Get Me Out of Here! South Africa</title>
     <desc>Campmates have already proved that they can survive the Australian jungle, but this is I'm A Celebrity… on a whole new level, it's where legends are made. The trials are tougher than ever and with that, so are the stakes. With relentless twists and turns, the campmates will never know what's coming next. They will be faced with challenges at every turn, quickly learning that with big decisions come even bigger consequences…</desc>
@@ -2138,11 +2313,6 @@
     <desc>Ben Fogle embarks on a once-in-a-lifetime journey to China to see its staggering sights, meet its biggest characters, go beyond the stereotypes and discover its true story. Ben delves into an epic 3000-year tale of how China got to now – how centuries of Imperial rule gave way to Communist revolution and the breakneck economic transformation of recent years.From ancient temples to mega-factories and glittering modern cities, Ben is on a mission to get under the skin of China - how it sees itself in the world and how it's shaping the future for us all. But above all it's a journey of wonder amid the amazing visual splendour of the real China today.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260407210000 -0400" stop="20260407220500 -0400" channel="Channel 4.GB">
-    <title>The Hunt</title>
-    <desc>The Hunt - a heart-pounding, high-stakes game of predator versus prey, where there is only one rule – hunt or be hunted.Deep in a vast unforgiving forest, contestants are dropped into the ultimate real-world game of hide and seek - where losing means walking away with nothing and winning could mean pocketing up to £100,000. Surviving the game isn't about being the fastest. It's about being the smartest.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260407210000 -0400" stop="20260407220000 -0400" channel="Sky Arts.GB">
     <title>Spymasters: The Great Spy Writers</title>
     <desc>Spymasters: The Great Spy Writers explores the lives, works, and secrets of some of the most brilliant spy authors in literature.They have shaped what has become a hugely popular genre, weaving intricate plots, clandestine operations, and intense suspense into their novels, and sometimes exploring political issues and international relations with unsettling and often cynical insight.Successful film and television franchises have been built around spies, while spy novels sell in great numbers. Lying behind recurring plots based on the successful negotiation of risk and betrayal safely exposed is an altogether bleaker world, based on violence, and incessant surveillance by state actors to benefit state activities.The series explores the interlocking world of public and private, state and individual and combines analysis of the biographies of the writers and their work, together with an examination of the geopolitical settings in which they operate.</desc>
@@ -2151,6 +2321,11 @@
   <programme start="20260407210000 -0400" stop="20260407220000 -0400" channel="Quest.GB">
     <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
     <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407220000 -0400" stop="20260407230000 -0400" channel="Channel 4.GB">
+    <title>The Hunt</title>
+    <desc>The Hunt - a heart-pounding, high-stakes game of predator versus prey, where there is only one rule – hunt or be hunted.Deep in a vast unforgiving forest, contestants are dropped into the ultimate real-world game of hide and seek - where losing means walking away with nothing and winning could mean pocketing up to £100,000. Surviving the game isn't about being the fastest. It's about being the smartest.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408070000 -0400" stop="20260408072200 -0400" channel="ITV1.GB">
