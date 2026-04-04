@@ -508,6 +508,11 @@
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406050000 -0400" stop="20260406060000 -0400" channel="CNN.US">
+    <title>Early Start</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406060000 -0400" stop="20260406090000 -0400" channel="CNBC.US">
     <title>Squawk Box</title>
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
@@ -516,6 +521,11 @@
   <programme start="20260406060000 -0400" stop="20260406100000 -0400" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406060000 -0400" stop="20260406070000 -0400" channel="CNN.US">
+    <title>CNN This Morning</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406070000 -0400" stop="20260406090000 -0400" channel="ABC.US">
@@ -531,6 +541,11 @@
   <programme start="20260406070000 -0400" stop="20260406090000 -0400" channel="CBS.US">
     <title>CBS Mornings</title>
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406070000 -0400" stop="20260406100000 -0400" channel="CNN.US">
+    <title>CNN News Central</title>
+    <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406080000 -0400" stop="20260406100000 -0400" channel="NFL Network.US">
@@ -568,6 +583,11 @@
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406100000 -0400" stop="20260406120000 -0400" channel="CNN.US">
+    <title>The Situation Room</title>
+    <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406110000 -0400" stop="20260406120000 -0400" channel="CNBC.US">
     <title>Money Movers</title>
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
@@ -588,6 +608,11 @@
     <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406120000 -0400" stop="20260406130000 -0400" channel="CNN.US">
+    <title>Inside Politics</title>
+    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406130000 -0400" stop="20260406140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -596,6 +621,11 @@
   <programme start="20260406130000 -0400" stop="20260406140000 -0400" channel="CNBC.US">
     <title>The Exchange</title>
     <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406130000 -0400" stop="20260406160000 -0400" channel="CNN.US">
+    <title>CNN News Central (PM)</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406133000 -0400" stop="20260406140000 -0400" channel="CBS.US">
@@ -616,6 +646,11 @@
   <programme start="20260406140000 -0400" stop="20260406150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406140000 -0400" stop="20260406150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406150000 -0400" stop="20260406160000 -0400" channel="CNBC.US">
@@ -653,6 +688,16 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406170000 -0400" stop="20260406190000 -0400" channel="CNN.US">
+    <title>The Lead with Jake Tapper</title>
+    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406173000 -0400" stop="20260406180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406180000 -0400" stop="20260406190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -663,9 +708,19 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406183000 -0400" stop="20260406190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406190000 -0400" stop="20260406210000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406190000 -0400" stop="20260406200000 -0400" channel="CNN.US">
+    <title>Erin Burnett OutFront</title>
+    <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406200000 -0400" stop="20260406203000 -0400" channel="NBC.US">
@@ -818,6 +873,11 @@
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407050000 -0400" stop="20260407060000 -0400" channel="CNN.US">
+    <title>Early Start</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407060000 -0400" stop="20260407090000 -0400" channel="CNBC.US">
     <title>Squawk Box</title>
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
@@ -826,6 +886,11 @@
   <programme start="20260407060000 -0400" stop="20260407100000 -0400" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407060000 -0400" stop="20260407070000 -0400" channel="CNN.US">
+    <title>CNN This Morning</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407070000 -0400" stop="20260407090000 -0400" channel="ABC.US">
@@ -841,6 +906,11 @@
   <programme start="20260407070000 -0400" stop="20260407090000 -0400" channel="CBS.US">
     <title>CBS Mornings</title>
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407070000 -0400" stop="20260407100000 -0400" channel="CNN.US">
+    <title>CNN News Central</title>
+    <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407080000 -0400" stop="20260407100000 -0400" channel="NFL Network.US">
@@ -878,6 +948,11 @@
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407100000 -0400" stop="20260407120000 -0400" channel="CNN.US">
+    <title>The Situation Room</title>
+    <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407110000 -0400" stop="20260407120000 -0400" channel="CNBC.US">
     <title>Money Movers</title>
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
@@ -898,6 +973,11 @@
     <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407120000 -0400" stop="20260407130000 -0400" channel="CNN.US">
+    <title>Inside Politics</title>
+    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407130000 -0400" stop="20260407140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -906,6 +986,11 @@
   <programme start="20260407130000 -0400" stop="20260407140000 -0400" channel="CNBC.US">
     <title>The Exchange</title>
     <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407130000 -0400" stop="20260407160000 -0400" channel="CNN.US">
+    <title>CNN News Central (PM)</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407133000 -0400" stop="20260407140000 -0400" channel="CBS.US">
@@ -926,6 +1011,11 @@
   <programme start="20260407140000 -0400" stop="20260407150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407140000 -0400" stop="20260407150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407150000 -0400" stop="20260407160000 -0400" channel="CNBC.US">
@@ -963,6 +1053,16 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407170000 -0400" stop="20260407190000 -0400" channel="CNN.US">
+    <title>The Lead with Jake Tapper</title>
+    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407173000 -0400" stop="20260407180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407180000 -0400" stop="20260407190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -973,9 +1073,19 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407183000 -0400" stop="20260407190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407190000 -0400" stop="20260407200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407190000 -0400" stop="20260407200000 -0400" channel="CNN.US">
+    <title>Erin Burnett OutFront</title>
+    <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407200000 -0400" stop="20260407210000 -0400" channel="PBS.US">
@@ -1050,7 +1160,7 @@
   </programme>
   <programme start="20260407210000 -0400" stop="20260407213000 -0400" channel="Discovery.US">
     <title>Jeff Dunham's The Cars That Drove Us</title>
-    <desc>Cars began rolling off the assembly line over 100 years ago. Two billion vehicles later, we still can't get enough. The Cars That Drove Us takes viewers into Jeff Dunham's garage - home to 130 legendary cars. Joined by his cast of characters, Dunham reveals the storied history of era-defining rides, from the Corvette Stingray to the ill-fated Vector W8, as told by the engineers, artists, and socket slingers who built them</desc>
+    <desc>Cars began rolling off the assembly line over 100 years ago. Two billion vehicles later, we still can't get enough. The Cars That Drove Us takes viewers into Jeff Dunham's garage - home to 130 legendary cars. Joined by his cast of characters, Dunham reveals the storied history of era-defining rides, from the Corvette Stingray to the ill-fated Vector W8, as told by the engineers, artists, and socket slingers who built them.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407210000 -0400" stop="20260407220000 -0400" channel="MS NOW.US">
@@ -1070,7 +1180,7 @@
   </programme>
   <programme start="20260407213000 -0400" stop="20260407220000 -0400" channel="Discovery.US">
     <title>Jeff Dunham's The Cars That Drove Us</title>
-    <desc>Cars began rolling off the assembly line over 100 years ago. Two billion vehicles later, we still can't get enough. The Cars That Drove Us takes viewers into Jeff Dunham's garage - home to 130 legendary cars. Joined by his cast of characters, Dunham reveals the storied history of era-defining rides, from the Corvette Stingray to the ill-fated Vector W8, as told by the engineers, artists, and socket slingers who built them</desc>
+    <desc>Cars began rolling off the assembly line over 100 years ago. Two billion vehicles later, we still can't get enough. The Cars That Drove Us takes viewers into Jeff Dunham's garage - home to 130 legendary cars. Joined by his cast of characters, Dunham reveals the storied history of era-defining rides, from the Corvette Stingray to the ill-fated Vector W8, as told by the engineers, artists, and socket slingers who built them.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407220000 -0400" stop="20260407230000 -0400" channel="PBS.US">
@@ -1148,6 +1258,11 @@
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408050000 -0400" stop="20260408060000 -0400" channel="CNN.US">
+    <title>Early Start</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408060000 -0400" stop="20260408090000 -0400" channel="CNBC.US">
     <title>Squawk Box</title>
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
@@ -1156,6 +1271,11 @@
   <programme start="20260408060000 -0400" stop="20260408100000 -0400" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408060000 -0400" stop="20260408070000 -0400" channel="CNN.US">
+    <title>CNN This Morning</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408070000 -0400" stop="20260408090000 -0400" channel="ABC.US">
@@ -1171,6 +1291,11 @@
   <programme start="20260408070000 -0400" stop="20260408090000 -0400" channel="CBS.US">
     <title>CBS Mornings</title>
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408070000 -0400" stop="20260408100000 -0400" channel="CNN.US">
+    <title>CNN News Central</title>
+    <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408080000 -0400" stop="20260408100000 -0400" channel="NFL Network.US">
@@ -1208,6 +1333,11 @@
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408100000 -0400" stop="20260408120000 -0400" channel="CNN.US">
+    <title>The Situation Room</title>
+    <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408110000 -0400" stop="20260408120000 -0400" channel="CNBC.US">
     <title>Money Movers</title>
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
@@ -1228,6 +1358,11 @@
     <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408120000 -0400" stop="20260408130000 -0400" channel="CNN.US">
+    <title>Inside Politics</title>
+    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408130000 -0400" stop="20260408140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1236,6 +1371,11 @@
   <programme start="20260408130000 -0400" stop="20260408140000 -0400" channel="CNBC.US">
     <title>The Exchange</title>
     <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408130000 -0400" stop="20260408160000 -0400" channel="CNN.US">
+    <title>CNN News Central (PM)</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408133000 -0400" stop="20260408140000 -0400" channel="CBS.US">
@@ -1256,6 +1396,11 @@
   <programme start="20260408140000 -0400" stop="20260408150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408140000 -0400" stop="20260408150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408150000 -0400" stop="20260408160000 -0400" channel="CNBC.US">
@@ -1288,6 +1433,16 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408170000 -0400" stop="20260408190000 -0400" channel="CNN.US">
+    <title>The Lead with Jake Tapper</title>
+    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408173000 -0400" stop="20260408180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408180000 -0400" stop="20260408190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1298,9 +1453,19 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408183000 -0400" stop="20260408190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408190000 -0400" stop="20260408200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408190000 -0400" stop="20260408200000 -0400" channel="CNN.US">
+    <title>Erin Burnett OutFront</title>
+    <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408200000 -0400" stop="20260408213000 -0400" channel="CBS.US">
@@ -1438,6 +1603,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408220000 -0400" stop="20260408230000 -0400" channel="A&amp;E.US">
+    <title>Southern Law</title>
+    <desc>Southern Law follows law enforcement officers across the South as they respond to calls, protect their communities, and face the realities of policing in one of the country's most dynamic regions.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408223000 -0400" stop="20260408230000 -0400" channel="CBS.US">
     <title>Hollywood Squares</title>
     <desc>Hollywood Squares involves two contestants who play tic-tac-toe to win money and prizes. The "board" for the game is a vertical stack of open-faced cubes, each occupied by a celebrity seated at a desk and facing the contestants. The celebrities are asked questions and the contestants judge the legitimacy of their answers to win the game.</desc>
@@ -1483,6 +1653,11 @@
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409050000 -0400" stop="20260409060000 -0400" channel="CNN.US">
+    <title>Early Start</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409060000 -0400" stop="20260409090000 -0400" channel="CNBC.US">
     <title>Squawk Box</title>
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
@@ -1491,6 +1666,11 @@
   <programme start="20260409060000 -0400" stop="20260409100000 -0400" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409060000 -0400" stop="20260409070000 -0400" channel="CNN.US">
+    <title>CNN This Morning</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409070000 -0400" stop="20260409090000 -0400" channel="ABC.US">
@@ -1506,6 +1686,11 @@
   <programme start="20260409070000 -0400" stop="20260409090000 -0400" channel="CBS.US">
     <title>CBS Mornings</title>
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409070000 -0400" stop="20260409100000 -0400" channel="CNN.US">
+    <title>CNN News Central</title>
+    <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409080000 -0400" stop="20260409100000 -0400" channel="NFL Network.US">
@@ -1538,6 +1723,11 @@
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409100000 -0400" stop="20260409120000 -0400" channel="CNN.US">
+    <title>The Situation Room</title>
+    <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409110000 -0400" stop="20260409120000 -0400" channel="CNBC.US">
     <title>Money Movers</title>
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
@@ -1558,6 +1748,11 @@
     <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409120000 -0400" stop="20260409130000 -0400" channel="CNN.US">
+    <title>Inside Politics</title>
+    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409130000 -0400" stop="20260409140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1566,6 +1761,11 @@
   <programme start="20260409130000 -0400" stop="20260409140000 -0400" channel="CNBC.US">
     <title>The Exchange</title>
     <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409130000 -0400" stop="20260409160000 -0400" channel="CNN.US">
+    <title>CNN News Central (PM)</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409133000 -0400" stop="20260409140000 -0400" channel="CBS.US">
@@ -1586,6 +1786,11 @@
   <programme start="20260409140000 -0400" stop="20260409150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409140000 -0400" stop="20260409150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409150000 -0400" stop="20260409160000 -0400" channel="CNBC.US">
@@ -1618,6 +1823,11 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409170000 -0400" stop="20260409190000 -0400" channel="CNN.US">
+    <title>The Lead with Jake Tapper</title>
+    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409180000 -0400" stop="20260409190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1628,9 +1838,19 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409183000 -0400" stop="20260409190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409190000 -0400" stop="20260409200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409190000 -0400" stop="20260409200000 -0400" channel="CNN.US">
+    <title>Erin Burnett OutFront</title>
+    <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409200000 -0400" stop="20260409210200 -0400" channel="FOX.US">
@@ -1798,6 +2018,11 @@
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410050000 -0400" stop="20260410060000 -0400" channel="CNN.US">
+    <title>Early Start</title>
+    <desc>The news you need, first thing. Rahel Solomon has you covered with the latest headlines.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410060000 -0400" stop="20260410090000 -0400" channel="CNBC.US">
     <title>Squawk Box</title>
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
@@ -1806,6 +2031,11 @@
   <programme start="20260410060000 -0400" stop="20260410100000 -0400" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410060000 -0400" stop="20260410070000 -0400" channel="CNN.US">
+    <title>CNN This Morning</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410070000 -0400" stop="20260410090000 -0400" channel="ABC.US">
@@ -1821,6 +2051,11 @@
   <programme start="20260410070000 -0400" stop="20260410090000 -0400" channel="CBS.US">
     <title>CBS Mornings</title>
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410070000 -0400" stop="20260410100000 -0400" channel="CNN.US">
+    <title>CNN News Central</title>
+    <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410080000 -0400" stop="20260410100000 -0400" channel="NFL Network.US">
@@ -1853,6 +2088,11 @@
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410100000 -0400" stop="20260410120000 -0400" channel="CNN.US">
+    <title>The Situation Room</title>
+    <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410110000 -0400" stop="20260410120000 -0400" channel="CNBC.US">
     <title>Money Movers</title>
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
@@ -1873,6 +2113,11 @@
     <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410120000 -0400" stop="20260410130000 -0400" channel="CNN.US">
+    <title>Inside Politics</title>
+    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410130000 -0400" stop="20260410140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1881,6 +2126,11 @@
   <programme start="20260410130000 -0400" stop="20260410140000 -0400" channel="CNBC.US">
     <title>The Exchange</title>
     <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410130000 -0400" stop="20260410160000 -0400" channel="CNN.US">
+    <title>CNN News Central (PM)</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410133000 -0400" stop="20260410140000 -0400" channel="CBS.US">
@@ -1901,6 +2151,11 @@
   <programme start="20260410140000 -0400" stop="20260410150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410140000 -0400" stop="20260410150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410150000 -0400" stop="20260410160000 -0400" channel="CNBC.US">
@@ -1933,6 +2188,11 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410170000 -0400" stop="20260410190000 -0400" channel="CNN.US">
+    <title>The Lead with Jake Tapper</title>
+    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410180000 -0400" stop="20260410190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1943,9 +2203,19 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410183000 -0400" stop="20260410190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410190000 -0400" stop="20260410200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410190000 -0400" stop="20260410200000 -0400" channel="CNN.US">
+    <title>Erin Burnett OutFront</title>
+    <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410200000 -0400" stop="20260410210000 -0400" channel="STARZ.US">
@@ -2583,6 +2853,16 @@
     <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406060000 -0400" stop="20260406090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406120000 -0400" stop="20260406130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406193000 -0400" stop="20260406200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
@@ -2608,6 +2888,16 @@
     <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407060000 -0400" stop="20260407090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407120000 -0400" stop="20260407130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407193000 -0400" stop="20260407200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
@@ -2616,6 +2906,21 @@
   <programme start="20260407200000 -0400" stop="20260407203000 -0400" channel="ABC.AU">
     <title>Foreign Correspondent</title>
     <desc>Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407230000 -0400" stop="20260407233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408060000 -0400" stop="20260408090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408120000 -0400" stop="20260408130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408193000 -0400" stop="20260408200000 -0400" channel="ABC.AU">
@@ -2633,14 +2938,49 @@
     <desc>The Weekly with Charlie Pickering is the one show on TV that knows the world is far too serious to be taken too seriously. You give us 30 minutes, we'll give you the week.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408230000 -0400" stop="20260408233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409060000 -0400" stop="20260409090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409120000 -0400" stop="20260409130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409193000 -0400" stop="20260409200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409230000 -0400" stop="20260409233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410060000 -0400" stop="20260410090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410120000 -0400" stop="20260410130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410193000 -0400" stop="20260410203000 -0400" channel="ABC.AU">
     <title>Gardening Australia</title>
     <desc>Gardening Australia provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation. Presented by Australia's leading horticultural experts, Gardening Australia is a valuable resource to all gardeners through the television program, the magazine, books, DVDs and extensive online content.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410230000 -0400" stop="20260410233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
     <category>TV Show</category>
   </programme>
 </tv>
