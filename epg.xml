@@ -64,6 +64,10 @@
     <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
+  <channel id="Newsmax.US">
+    <display-name>Newsmax</display-name>
+    <country>US</country>
+  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
     <country>US</country>
@@ -349,7 +353,7 @@
     <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405223000 -0400" stop="20260405230000 -0400" channel="HBO.US">
+  <programme start="20260405223300 -0400" stop="20260405230300 -0400" channel="HBO.US">
     <title>The Comeback</title>
     <desc>The limited comedy series stars Lisa Kudrow as the embattled Valerie Cherish, a fading TV "It Girl" who was once so desperate to stay in the spotlight that she allowed cameras to follow her every move as she appeared on a new sitcom - with disastrous results. Now, it's ten years later, and Valerie thinks she has it all figured out this time. She doesn't.</desc>
     <category>TV Show</category>
@@ -424,6 +428,11 @@
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406090000 -0400" stop="20260406110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406100000 -0400" stop="20260406120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -484,6 +493,11 @@
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406130000 -0400" stop="20260406150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406133000 -0400" stop="20260406140000 -0400" channel="CBS.US">
     <title>The Bold and the Beautiful</title>
     <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
@@ -507,6 +521,11 @@
   <programme start="20260406140000 -0400" stop="20260406150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406140000 -0400" stop="20260406160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406150000 -0400" stop="20260406160000 -0400" channel="CNBC.US">
@@ -699,6 +718,11 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406230000 -0400" stop="20260407000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406233500 -0400" stop="20260407003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
@@ -789,6 +813,11 @@
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407090000 -0400" stop="20260407110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407100000 -0400" stop="20260407120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -849,6 +878,11 @@
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407130000 -0400" stop="20260407150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407133000 -0400" stop="20260407140000 -0400" channel="CBS.US">
     <title>The Bold and the Beautiful</title>
     <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
@@ -872,6 +906,11 @@
   <programme start="20260407140000 -0400" stop="20260407150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407140000 -0400" stop="20260407160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407150000 -0400" stop="20260407160000 -0400" channel="CNBC.US">
@@ -1084,6 +1123,11 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407230000 -0400" stop="20260408000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407233500 -0400" stop="20260408003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
@@ -1174,6 +1218,11 @@
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408090000 -0400" stop="20260408110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408100000 -0400" stop="20260408120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1234,6 +1283,11 @@
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408130000 -0400" stop="20260408150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408133000 -0400" stop="20260408140000 -0400" channel="CBS.US">
     <title>The Bold and the Beautiful</title>
     <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
@@ -1257,6 +1311,11 @@
   <programme start="20260408140000 -0400" stop="20260408150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408140000 -0400" stop="20260408160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408150000 -0400" stop="20260408160000 -0400" channel="CNBC.US">
@@ -1399,6 +1458,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408210000 -0400" stop="20260408220000 -0400" channel="Discovery.US">
+    <title>Expedition Files</title>
+    <desc>In the all-new series Expedition Files, adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world's most captivating and unexplained mysteries.  Each episode of Expedition Files explores compelling true stories that defy explanation, offering stunning revelations and surprising new insights.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408210000 -0400" stop="20260408220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
@@ -1449,11 +1513,6 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260408220000 -0400" stop="20260408230000 -0400" channel="Discovery.US">
-    <title>Expedition Files</title>
-    <desc>In the all-new series Expedition Files, adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world's most captivating and unexplained mysteries.  Each episode of Expedition Files explores compelling true stories that defy explanation, offering stunning revelations and surprising new insights.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260408220000 -0400" stop="20260408230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
@@ -1477,6 +1536,11 @@
   <programme start="20260408230000 -0400" stop="20260409000000 -0400" channel="CNN.US">
     <title>Laura Coates Live</title>
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408230000 -0400" stop="20260409000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408233500 -0400" stop="20260409003500 -0400" channel="CBS.US">
@@ -1569,6 +1633,11 @@
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409090000 -0400" stop="20260409110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409100000 -0400" stop="20260409110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
@@ -1624,6 +1693,11 @@
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409130000 -0400" stop="20260409150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409133000 -0400" stop="20260409140000 -0400" channel="CBS.US">
     <title>The Bold and the Beautiful</title>
     <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
@@ -1647,6 +1721,11 @@
   <programme start="20260409140000 -0400" stop="20260409150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409140000 -0400" stop="20260409160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409150000 -0400" stop="20260409160000 -0400" channel="CNBC.US">
@@ -1849,6 +1928,11 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409230000 -0400" stop="20260410000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409233500 -0400" stop="20260410003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
@@ -1987,6 +2071,11 @@
   <programme start="20260410130000 -0400" stop="20260410160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410130000 -0400" stop="20260410150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410133000 -0400" stop="20260410140000 -0400" channel="CBS.US">
@@ -2184,6 +2273,11 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410230000 -0400" stop="20260411000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410000000 -0400" stop="20260410020000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -2212,6 +2306,11 @@
   <programme start="20260411090000 -0400" stop="20260411100000 -0400" channel="CNN.US">
     <title>Smerconish</title>
     <desc>After serving as an MSNBC contributor and guest-host on the network for four years, TV and radio personality Michael Smerconish believed he was ready to head a show of his own. CNN agreed, and thus was born Smerconish, an hour long Saturday morning program that takes after its host's independent views. Using a topical, conversational format, he aims for the TV show to be an extension of his weekday radio broadcast, with free-flowing topics and the ability to discuss issues that strike a chord with the audience. Along the same lines, he thinks it's important to present the content in an engaging manner, free of my-way-or-the-highway ideology. Smerconish, who has a law degree from the University of Pennsylvania, is also a New York Times' best-selling author.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260411090000 -0400" stop="20260411110000 -0400" channel="Newsmax.US">
+    <title>America Right Now</title>
+    <desc>Tom Basile tackles the week's biggest stories with top talkers from politics, Hollywood, and across America.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260411100000 -0400" stop="20260411110000 -0400" channel="A&amp;E.US">
@@ -2374,6 +2473,11 @@
     <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406200000 -0400" stop="20260406203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406203000 -0400" stop="20260406210000 -0400" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -2474,6 +2578,11 @@
     <desc>The Yorkshire Vet is a documentary series about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407200000 -0400" stop="20260407203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407210000 -0400" stop="20260407222000 -0400" channel="ITV1.GB">
     <title>I'm a Celebrity, Get Me Out of Here! South Africa</title>
     <desc>Campmates have already proved that they can survive the Australian jungle, but this is I'm A Celebrity… on a whole new level, it's where legends are made. The trials are tougher than ever and with that, so are the stakes. With relentless twists and turns, the campmates will never know what's coming next. They will be faced with challenges at every turn, quickly learning that with big decisions come even bigger consequences…</desc>
@@ -2564,6 +2673,11 @@
     <desc>Enter a workshop filled with expert craftspeople, bringing loved pieces of family history and the memories they hold back to life. A heartwarming antidote to throwaway culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408200000 -0400" stop="20260408203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408210000 -0400" stop="20260408220500 -0400" channel="ITV1.GB">
     <title>I'm a Celebrity, Get Me Out of Here! South Africa</title>
     <desc>Campmates have already proved that they can survive the Australian jungle, but this is I'm A Celebrity… on a whole new level, it's where legends are made. The trials are tougher than ever and with that, so are the stakes. With relentless twists and turns, the campmates will never know what's coming next. They will be faced with challenges at every turn, quickly learning that with big decisions come even bigger consequences…</desc>
@@ -2647,6 +2761,11 @@
   <programme start="20260409200000 -0400" stop="20260409210000 -0400" channel="Channel 4.GB">
     <title>Paul Merton: Driving Amazing Trains</title>
     <desc>Paul Merton climbs into the driver's cab to take charge of some of the world's most iconic locomotives, learning what it takes to keep them running and meeting the people who keep the railways running.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409200000 -0400" stop="20260409203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409210000 -0400" stop="20260409221500 -0400" channel="ITV1.GB">
