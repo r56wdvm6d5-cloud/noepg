@@ -339,7 +339,7 @@
     <desc>In Watson a year after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson's old life isn't done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century. Watson is a medical show with a strong investigative spine, featuring a modern version of one of history's greatest detectives as he turns his attention from solving crimes to addressing the greatest mystery of all: illness, and the ways it disrupts our lives.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405220000 -0400" stop="20260405230000 -0400" channel="HBO.US">
+  <programme start="20260405220000 -0400" stop="20260405223300 -0400" channel="HBO.US">
     <title>Rooster</title>
     <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
     <category>TV Show</category>
@@ -347,11 +347,6 @@
   <programme start="20260405220000 -0400" stop="20260405230000 -0400" channel="ABC.US">
     <title>Betrayal: Secrets &amp; Lies</title>
     <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405220000 -0400" stop="20260405230000 -0400" channel="CNN.US">
-    <title>The Whole Story with Anderson Cooper</title>
-    <desc>The Whole Story with Anderson Cooper is a collection of unique and immersive single-subject, one-hour episodes from CNN's Emmy®  and Peabody Award-winning long-form storytelling team.  The recurring weekly series will be hosted by Cooper and showcase character-driven stories, special interviews, profiles, and investigative deep dives featuring reporting from CNN's anchors and correspondents.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260405223000 -0400" stop="20260405230000 -0400" channel="HBO.US">
