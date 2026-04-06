@@ -2338,12 +2338,17 @@
     <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260412200500 -0400" stop="20260412203700 -0400" channel="HBO.US">
+    <title>Rooster</title>
+    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260412203100 -0400" stop="20260412210100 -0400" channel="FOX.US">
     <title>Universal Basic Guys</title>
     <desc>In Universal Basic Guys brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them, the town started a radical Universal Basic Income pilot program, giving all residents of Glantontown $3,000 per month with no strings attached. Now, Mark, Hank and the rest of their local buddies are once again kids in the summertime, overflowing with the perilous combo of free time and stupid ideas. This is a show about men trying to find purpose in a world where they're no longer needed.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="HBO.US">
+  <programme start="20260412210000 -0400" stop="20260412220500 -0400" channel="HBO.US">
     <title>Euphoria</title>
     <desc>Euphoria follows a group of high school students as they navigate love and friendships in a world of drugs, sex, trauma, and social media.</desc>
     <category>TV Show</category>
@@ -2388,11 +2393,6 @@
     <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="HBO.US">
-    <title>Rooster</title>
-    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="Discovery.US">
     <title>Filthy Fortunes</title>
     <desc>Filthy Fortunes spotlights Matt Paxton and his team as they complete the most squalid and hazardous jobs to help everyday Americans cash in. Before the treasure hunt can begin, Matt will assess the property to determine potential costs associated with the clean-out and estimate the value of items hidden inside the hoard. With each property, he wagers that he'll discover enough to cover all the costs and make a profit. Matt takes all the risk, and if all goes according to plan, it's a win-win situation for both him and the client.</desc>
@@ -2408,7 +2408,7 @@
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="National Geographic.GB">
+  <programme start="20260405210000 -0400" stop="20260405214400 -0400" channel="National Geographic.GB">
     <title>Planes That Changed History</title>
     <desc>Dive into the 125 years of aviation to uncover how aircraft have reshaped our world. The series explores the engineering secrets behind its success, its humble origins, and what made these aircraft icons years after their initial success.</desc>
     <category>TV Show</category>
