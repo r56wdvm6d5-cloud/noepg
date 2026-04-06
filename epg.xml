@@ -2853,6 +2853,11 @@
     <desc>Unreported World is a foreign affairs programme produced by Quicksilver Media Productions and broadcast by Channel 4 in the United Kingdom. Over the course of its twenty-six series, reporters have travelled to dangerous locations all over the world in an attempt to uncover stories usually ignored by the world media.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410193000 -0400" stop="20260410200000 -0400" channel="ITV1.GB">
+    <title>It'll Be Alright on the Night</title>
+    <desc>Hilarious out-takes from the worlds of TV, cinema and commercials. The blooper-snooper team uncover calamities and catastrophes from cutting room floors around the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410195500 -0400" stop="20260410200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
