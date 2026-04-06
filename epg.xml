@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
-  <channel id="Syndication.US">
-    <display-name>Syndication</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Fox News Channel.US">
-    <display-name>Fox News Channel</display-name>
+  <channel id="CNBC.US">
+    <display-name>CNBC</display-name>
     <country>US</country>
   </channel>
   <channel id="MS NOW.US">
     <display-name>MS NOW</display-name>
     <country>US</country>
   </channel>
-  <channel id="NewsNation.US">
-    <display-name>NewsNation</display-name>
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
     <country>US</country>
   </channel>
   <channel id="ABC.US">
@@ -28,36 +24,16 @@
     <display-name>CBS</display-name>
     <country>US</country>
   </channel>
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="FOX.US">
-    <display-name>FOX</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Bravo.US">
-    <display-name>Bravo</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Discovery.US">
-    <display-name>Discovery</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="History.US">
-    <display-name>History</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="HBO.US">
-    <display-name>HBO</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="CNBC.US">
-    <display-name>CNBC</display-name>
-    <country>US</country>
-  </channel>
   <channel id="NFL Network.US">
     <display-name>NFL Network</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Syndication.US">
+    <display-name>Syndication</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Fox News Channel.US">
+    <display-name>Fox News Channel</display-name>
     <country>US</country>
   </channel>
   <channel id="ESPN.US">
@@ -68,8 +44,28 @@
     <display-name>Newsmax</display-name>
     <country>US</country>
   </channel>
+  <channel id="Bravo.US">
+    <display-name>Bravo</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="FOX.US">
+    <display-name>FOX</display-name>
+    <country>US</country>
+  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Discovery.US">
+    <display-name>Discovery</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="HBO.US">
+    <display-name>HBO</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="History.US">
+    <display-name>History</display-name>
     <country>US</country>
   </channel>
   <channel id="The CW.US">
@@ -88,6 +84,14 @@
     <display-name>STARZ</display-name>
     <country>US</country>
   </channel>
+  <channel id="NewsNation.US">
+    <display-name>NewsNation</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="National Geographic.GB">
+    <display-name>National Geographic</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="ITV1.GB">
     <display-name>ITV1</display-name>
     <country>GB</country>
@@ -100,16 +104,12 @@
     <display-name>Channel 4</display-name>
     <country>GB</country>
   </channel>
-  <channel id="BBC Alba.GB">
-    <display-name>BBC Alba</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="National Geographic.GB">
-    <display-name>National Geographic</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="BBC Two.GB">
     <display-name>BBC Two</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="BBC Alba.GB">
+    <display-name>BBC Alba</display-name>
     <country>GB</country>
   </channel>
   <channel id="Quest.GB">
@@ -132,10 +132,6 @@
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
-  <channel id="CTV.CA">
-    <display-name>CTV</display-name>
-    <country>CA</country>
-  </channel>
   <channel id="Citytv.CA">
     <display-name>Citytv</display-name>
     <country>CA</country>
@@ -144,220 +140,14 @@
     <display-name>CBC</display-name>
     <country>CA</country>
   </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260404000000 -0400" stop="20260404010000 -0400" channel="Syndication.US">
-    <title>WOW - Women of Wrestling</title>
-    <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405060000 -0400" stop="20260405100000 -0400" channel="Fox News Channel.US">
-    <title>Fox &amp; Friends Weekend</title>
-    <desc>Early risers get a chance to experience their own news, information and entertainment that "FOX and Friends" viewers get during the week with this weekend version of the show. In addition to reporting and discussion of the latest news, the show features weather forecasts to help viewers plan their weekend activities.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405070000 -0400" stop="20260405100000 -0400" channel="MS NOW.US">
-    <title>The Weekend</title>
-    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405070000 -0400" stop="20260405100000 -0400" channel="NewsNation.US">
-    <title>Weekend Morning in America</title>
-    <desc>NewsNation, America's fastest-growing cable news network, today announced the debut of the weekend edition of Morning in America with Hena Doba. The new weekend show will premiere on Saturday, January 27, and will be anchored by journalist Hena Doba on Saturdays and Sundays from 7-10 a.m. ET.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405070000 -0400" stop="20260405080000 -0400" channel="ABC.US">
-    <title>Good Morning America: Weekend Edition</title>
-    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405080000 -0400" stop="20260405090000 -0400" channel="NBC.US">
-    <title>Sunday TODAY with Willie Geist</title>
-    <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405090000 -0400" stop="20260405100000 -0400" channel="NBC.US">
-    <title>Meet the Press</title>
-    <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405090000 -0400" stop="20260405103000 -0400" channel="CBS.US">
-    <title>CBS News Sunday Morning</title>
-    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405090000 -0400" stop="20260405100000 -0400" channel="CNN.US">
-    <title>State of the Union with Jake Tapper and Dana Bash</title>
-    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405100000 -0400" stop="20260405130000 -0400" channel="MS NOW.US">
-    <title>Velshi</title>
-    <desc>MSNBC anchor Ali Velshi brings his sharp analysis and point-of-view to weekend mornings.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405100000 -0400" stop="20260405110000 -0400" channel="Fox News Channel.US">
-    <title>Sunday Morning Futures with Maria Bartiromo</title>
-    <desc>As part of her role as FOX Business Network's global markets editor, business journalist Maria Bartiromo hosts this weekly Sunday morning show on FBN sister network FOX News Channel Sunday Morning Futures with Maria Bartiromo that focuses more on the general economy than the stock market specifically. The hourlong show provides viewers with information about how recent news events affect the economy. In addition, Bartiromo interviews business leaders and newsmakers on topics that include job creation and investment opportunities.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405100000 -0400" stop="20260405110000 -0400" channel="NewsNation.US">
-    <title>The Hill Sunday</title>
-    <desc>The Hill Sunday is NewsNation's live public affairs show hosted by Chris Stirewalt.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405100000 -0400" stop="20260405110000 -0400" channel="ABC.US">
-    <title>This Week</title>
-    <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405103000 -0400" stop="20260405113000 -0400" channel="CBS.US">
-    <title>Face the Nation</title>
-    <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405110000 -0400" stop="20260405120000 -0400" channel="Fox News Channel.US">
-    <title>The Sunday Briefing</title>
-    <desc>The Sunday Briefing will tackle all facets of the White House beat, including the President of the United States' national and international moves as well as the key issues impacting the administration.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405120000 -0400" stop="20260405140000 -0400" channel="Fox News Channel.US">
-    <title>Fox News Live</title>
-    <desc>The latest political and socio-economic news and updates from around the world, live.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405130000 -0400" stop="20260405160000 -0400" channel="MS NOW.US">
-    <title>Alex Witt Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405140000 -0400" stop="20260405150000 -0400" channel="FOX.US">
-    <title>FOX News Sunday</title>
-    <desc>FOX News Sunday, anchored by Shannon Bream, is a one-hour live broadcast that airs Sunday mornings across the nation on FOX Broadcasting Company, and is presented again on FNC during the afternoon. This show's weekly guest roster is among the most diverse in Sunday morning talk, featuring interviews with political, business and public affairs newsmakers from the U.S. and abroad</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405150000 -0400" stop="20260405170000 -0400" channel="Fox News Channel.US">
-    <title>FOX Report with Jon Scott</title>
-    <desc>FNC's signature weekend newscast, FOX Report with Jon Scott, anchored by Jon Scott, highlights the latest developments and breaking news in the U.S. and around the globe.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405170000 -0400" stop="20260405180000 -0400" channel="MS NOW.US">
-    <title>PoliticsNation</title>
-    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405170000 -0400" stop="20260405200000 -0400" channel="Fox News Channel.US">
-    <title>The Big Weekend Show</title>
-    <desc>Rotating panelists will discuss the big news of the day. Join the hosts live for reaction to the issues facing the country right now and the top stories Americans are buzzing about.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405180000 -0400" stop="20260405210000 -0400" channel="MS NOW.US">
-    <title>The Weekend Primetime</title>
-    <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405190000 -0400" stop="20260405200000 -0400" channel="ABC.US">
-    <title>America's Funniest Home Videos</title>
-    <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405190000 -0400" stop="20260405200000 -0400" channel="CBS.US">
-    <title>60 Minutes</title>
-    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="FOX.US">
-    <title>The Faithful: Women of the Bible</title>
-    <desc>The Faithful: Women of the Bible is inspired by the best-selling book of all time, the Bible, and showcases a faithful dramatization of the Book of Genesis as told through the eyes of the courageous and passionate, yet flawed women whose descendants would shape the future of faith as we know it today. Dimensional, dramatic, intimate, even surprising, The Faithful: Women of the Bible is about discovering and losing love, the challenges of marriage, the joys and heartbreak of children, confronting temptation, and finding faith. Episodes of The Faithful will be told through the lens of five of The Old Testament's most legendary women: Sarah and her maidservant Hagar, Sarah's great-niece Rebekah, and Rebekah's nieces, sisters Leah and Rachel.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="CBS.US">
-    <title>Marshals</title>
-    <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="Bravo.US">
-    <title>The Real Housewives of Atlanta</title>
-    <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="Discovery.US">
-    <title>Naked and Afraid</title>
-    <desc>Each week on Naked and Afraid, a new pair of complete and total strangers - one man and one woman - will find themselves stranded in and, quite literally, exposed to one of the world's most extreme weather environments. This duo will be left high and dry with no food, no water... and no clothes. They must survive on their own for a full 21 days, with nothing but one personal item each and the knowledge that the only prize is their pride and sense of accomplishment.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="History.US">
-    <title>American Pickers</title>
-    <desc>This isn't your grandmother's antiquing. The American Pickers are on a mission to recycle America, even if it means diving into countless piles of grimy junk or getting chased off a gun-wielding homeowner's land. Hitting back roads from coast to coast, the Pickers earn a living by restoring forgotten relics to their former glory, transforming one person's trash into another's treasure. The show follows the team as they scour the country for hidden gems in junkyards, basements, garages and barns, meeting quirky characters and hearing their amazing stories. If you think the antique business is all about upscale boutiques and buttoned-up dealers, this show may change your mind – and teach you a thing or two about American history along the way.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="HBO.US">
-    <title>Harry Potter and the Philosopher's Stone</title>
-    <desc>There is nothing special about Harry Potter - at least that's what his Aunt Petunia always says. On his 11th birthday, a letter of admittance to Hogwarts School of Witchcraft and Wizardry opens up a hidden world for Harry: one of fun, friendship and magic. But with this new adventure comes great risk as Harry is forced to face a dangerous enemy from his past.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="HBO.US">
-    <title>DTF St. Louis</title>
-    <desc>DTF St. Louis is a darkly comedic limited series about a love triangle between three adults experiencing middle-age malaise, that leads to one of them ending up dead.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="Fox News Channel.US">
-    <title>Sunday Night in America with Trey Gowdy</title>
-    <desc>Trey Gowdy will offer insightful analysis and a new outlook on the latest issues facing the country. Capitalizing on his experiences as a former prosecutor and Chairman of the House Oversight and Government Reform Committee, the former South Carolina Congressman will utilize his signature mixture of wisdom, humor and historical references to break down the latest legal and political news from across the nation. "Sunday Night in America" will offer seasoned perspective while providing viewers with the tools and information to draw their own conclusions. The program will also feature timely, solution-oriented interviews with decision makers and Washington insiders, as well as original stories of triumph and success highlighting why Americans should be optimistic about the future.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="FOX.US">
-    <title>The Faithful: Women of the Bible</title>
-    <desc>The Faithful: Women of the Bible is inspired by the best-selling book of all time, the Bible, and showcases a faithful dramatization of the Book of Genesis as told through the eyes of the courageous and passionate, yet flawed women whose descendants would shape the future of faith as we know it today. Dimensional, dramatic, intimate, even surprising, The Faithful: Women of the Bible is about discovering and losing love, the challenges of marriage, the joys and heartbreak of children, confronting temptation, and finding faith. Episodes of The Faithful will be told through the lens of five of The Old Testament's most legendary women: Sarah and her maidservant Hagar, Sarah's great-niece Rebekah, and Rebekah's nieces, sisters Leah and Rachel.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="CBS.US">
-    <title>Tracker</title>
-    <desc>Tracker features lone-wolf survivalist Colter Shaw, who roams the country as a "reward seeker," using his expert tracking skills to help private citizens and law enforcement to solve all manner of mysteries while contending with his own fractured family.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="Bravo.US">
-    <title>The Real Housewives of Rhode Island</title>
-    <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="Discovery.US">
-    <title>Filthy Fortunes</title>
-    <desc>Filthy Fortunes spotlights Matt Paxton and his team as they complete the most squalid and hazardous jobs to help everyday Americans cash in. Before the treasure hunt can begin, Matt will assess the property to determine potential costs associated with the clean-out and estimate the value of items hidden inside the hoard. With each property, he wagers that he'll discover enough to cover all the costs and make a profit. Matt takes all the risk, and if all goes according to plan, it's a win-win situation for both him and the client.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405210000 -0400" stop="20260405220300 -0400" channel="History.US">
-    <title>History's Greatest Picks with Mike Wolfe</title>
-    <desc>Mike Wolfe has spent decades tracking down elusive treasures, hidden gems and bargaining with awesome collectors of the past, but now, it's Mike's turn to share that history by revealing the stories of extraordinary finds by ordinary people.History's Greatest Picks with Mike Wolfe explores the epic journeys, captivating tales, and astonishing monetary values behind legendary treasures, relics, and artifacts from history. Mike draws on his decades of experience and infectious curiosity to showcase some of history's most unbelievable and high valued items—from iconic vintage cars and motorcycles to pop culture touchstones, rare collectibles, and historic oddities.With expert insight, compelling historical context, and Mike guiding the audience through these stories, the series reveals surprising new details about how these extraordinary objects have changed hands and risen dramatically in value over time—bringing history to life, one unforgettable pick at a time.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405220000 -0400" stop="20260405230000 -0400" channel="Fox News Channel.US">
-    <title>One Nation with Brian Kilmeade</title>
-    <desc>One Nation with Brian Kilmeade: In-depth analysis of the issues and stories that matter most to Americans, while offering context and solutions to help bring the country together.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405220000 -0400" stop="20260405230000 -0400" channel="CBS.US">
-    <title>Watson</title>
-    <desc>In Watson a year after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson's old life isn't done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century. Watson is a medical show with a strong investigative spine, featuring a modern version of one of history's greatest detectives as he turns his attention from solving crimes to addressing the greatest mystery of all: illness, and the ways it disrupts our lives.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405220000 -0400" stop="20260405223300 -0400" channel="HBO.US">
-    <title>Rooster</title>
-    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405220000 -0400" stop="20260405230000 -0400" channel="ABC.US">
-    <title>Betrayal: Secrets &amp; Lies</title>
-    <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260405223300 -0400" stop="20260405230300 -0400" channel="HBO.US">
-    <title>The Comeback</title>
-    <desc>The limited comedy series stars Lisa Kudrow as the embattled Valerie Cherish, a fading TV "It Girl" who was once so desperate to stay in the spotlight that she allowed cameras to follow her every move as she appeared on a new sitcom - with disastrous results. Now, it's ten years later, and Valerie thinks she has it all figured out this time. She doesn't.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260406050000 -0400" stop="20260406060000 -0400" channel="CNBC.US">
     <title>Morning Call</title>
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
@@ -478,6 +268,11 @@
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260406123000 -0400" stop="20260406133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260406130000 -0400" stop="20260406140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -586,6 +381,11 @@
   <programme start="20260406183000 -0400" stop="20260406190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260406183000 -0400" stop="20260406190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406190000 -0400" stop="20260406210000 -0400" channel="MS NOW.US">
@@ -863,6 +663,11 @@
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260407123000 -0400" stop="20260407133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260407130000 -0400" stop="20260407140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -971,6 +776,11 @@
   <programme start="20260407183000 -0400" stop="20260407190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407183000 -0400" stop="20260407190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407190000 -0400" stop="20260407200000 -0400" channel="MS NOW.US">
@@ -1268,6 +1078,11 @@
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260408123000 -0400" stop="20260408133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260408130000 -0400" stop="20260408140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1376,6 +1191,11 @@
   <programme start="20260408183000 -0400" stop="20260408190000 -0400" channel="ESPN.US">
     <title>NBA Countdown</title>
     <desc>NBA Countdown serves as the primer for game telecasts on both ABC and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league. Seats at the table are reserved for host Sage Steele and analysts Doug Collins and Jalen Rose. The latter two impart wisdom based on many years of combined playing and coaching experience. Doris Burke contributes analysis on the program's Wednesday editions.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260408183000 -0400" stop="20260408190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260408190000 -0400" stop="20260408200000 -0400" channel="MS NOW.US">
@@ -1683,6 +1503,11 @@
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260409123000 -0400" stop="20260409133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260409130000 -0400" stop="20260409140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1781,6 +1606,11 @@
   <programme start="20260409183000 -0400" stop="20260409190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260409183000 -0400" stop="20260409190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260409190000 -0400" stop="20260409200000 -0400" channel="MS NOW.US">
@@ -2068,6 +1898,11 @@
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260410123000 -0400" stop="20260410133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260410130000 -0400" stop="20260410140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -2166,6 +2001,11 @@
   <programme start="20260410183000 -0400" stop="20260410190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410183000 -0400" stop="20260410190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260410190000 -0400" stop="20260410200000 -0400" channel="MS NOW.US">
@@ -2393,39 +2233,179 @@
     <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405070000 -0400" stop="20260405072200 -0400" channel="ITV1.GB">
-    <title>Emmerdale</title>
-    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+  <programme start="20260411000000 -0400" stop="20260411010000 -0400" channel="Syndication.US">
+    <title>WOW - Women of Wrestling</title>
+    <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405082500 -0400" stop="20260405092500 -0400" channel="ITV1.GB">
-    <title>Jimmy and Shivi's Farmhouse Breakfast</title>
-    <desc>Join Jimmy Doherty and Shivi Ramoutar at Jimmy's Suffolk farm for the show weekends were made for! A series full of delicious food and drink, craft, animals and country life…there really is something for everyone. Each week Jimmy and Shivi will whip up a tasty meal or two on their outdoor kitchen and suggest some drinks to go with them. They'll try their hand at arts and crafts, from making terrariums to upcycling wooden pallets, and they'll be chatting to a different celeb face in every show, getting the lowdown on the worlds of entertainment and sports. As if that weren't enough, Jimmy will give viewers a unique behind the scenes glimpse into the lives of the animals at his wildlife park, and Shivi explores the local area meeting great characters with stories to tell and skills to share.Jimmy &amp;amp; Shivi's Farmhouse Breakfast really is everything you need for a fun-packed weekend!</desc>
+  <programme start="20260412070000 -0400" stop="20260412080000 -0400" channel="ABC.US">
+    <title>Good Morning America: Weekend Edition</title>
+    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405093000 -0400" stop="20260405113000 -0400" channel="ITV1.GB">
-    <title>Love Your Weekend with Alan Titchmarsh</title>
-    <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
+  <programme start="20260412070000 -0400" stop="20260412100000 -0400" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405192500 -0400" stop="20260405193000 -0400" channel="5.GB">
-    <title>5 News Weekend</title>
-    <desc>The latest national and international news, sport and weather.</desc>
+  <programme start="20260412080000 -0400" stop="20260412090000 -0400" channel="NBC.US">
+    <title>Sunday TODAY with Willie Geist</title>
+    <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405194000 -0400" stop="20260405210000 -0400" channel="Channel 4.GB">
-    <title>The Great Celebrity Bake Off for Stand Up to Cancer</title>
-    <desc>Celebrity bakers enter Britain's most famous tent and put their skills to the test, as they Stand Up To Cancer and inspire viewers to do the same.</desc>
+  <programme start="20260412090000 -0400" stop="20260412100000 -0400" channel="NBC.US">
+    <title>Meet the Press</title>
+    <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405200000 -0400" stop="20260405203000 -0400" channel="BBC Alba.GB">
-    <title>An Là</title>
-    <desc>National, international and local news from the BBC Alba team.</desc>
+  <programme start="20260412090000 -0400" stop="20260412103000 -0400" channel="CBS.US">
+    <title>CBS News Sunday Morning</title>
+    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405220000 -0400" stop="20260405225500 -0400" channel="Channel 4.GB">
-    <title>The Hunt</title>
-    <desc>The Hunt - a heart-pounding, high-stakes game of predator versus prey, where there is only one rule – hunt or be hunted.Deep in a vast unforgiving forest, contestants are dropped into the ultimate real-world game of hide and seek - where losing means walking away with nothing and winning could mean pocketing up to £100,000. Surviving the game isn't about being the fastest. It's about being the smartest.</desc>
+  <programme start="20260412090000 -0400" stop="20260412100000 -0400" channel="CNN.US">
+    <title>State of the Union with Jake Tapper and Dana Bash</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412100000 -0400" stop="20260412110000 -0400" channel="NewsNation.US">
+    <title>The Hill Sunday</title>
+    <desc>The Hill Sunday is NewsNation's live public affairs show hosted by Chris Stirewalt.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412100000 -0400" stop="20260412110000 -0400" channel="ABC.US">
+    <title>This Week</title>
+    <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412100000 -0400" stop="20260412130000 -0400" channel="MS NOW.US">
+    <title>Velshi</title>
+    <desc>MSNBC anchor Ali Velshi brings his sharp analysis and point-of-view to weekend mornings.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412103000 -0400" stop="20260412113000 -0400" channel="CBS.US">
+    <title>Face the Nation</title>
+    <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412130000 -0400" stop="20260412160000 -0400" channel="MS NOW.US">
+    <title>Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412140000 -0400" stop="20260412150000 -0400" channel="FOX.US">
+    <title>FOX News Sunday</title>
+    <desc>FOX News Sunday, anchored by Shannon Bream, is a one-hour live broadcast that airs Sunday mornings across the nation on FOX Broadcasting Company, and is presented again on FNC during the afternoon. This show's weekly guest roster is among the most diverse in Sunday morning talk, featuring interviews with political, business and public affairs newsmakers from the U.S. and abroad</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412170000 -0400" stop="20260412180000 -0400" channel="MS NOW.US">
+    <title>PoliticsNation</title>
+    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412180000 -0400" stop="20260412210000 -0400" channel="MS NOW.US">
+    <title>The Weekend Primetime</title>
+    <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="HBO.US">
+    <title>DTF St. Louis</title>
+    <desc>DTF St. Louis is a darkly comedic limited series about a love triangle between three adults experiencing middle-age malaise, that leads to one of them ending up dead.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="CBS.US">
+    <title>Marshals</title>
+    <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412203100 -0400" channel="FOX.US">
+    <title>Family Guy</title>
+    <desc>Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="Discovery.US">
+    <title>Naked and Afraid</title>
+    <desc>Each week on Naked and Afraid, a new pair of complete and total strangers - one man and one woman - will find themselves stranded in and, quite literally, exposed to one of the world's most extreme weather environments. This duo will be left high and dry with no food, no water... and no clothes. They must survive on their own for a full 21 days, with nothing but one personal item each and the knowledge that the only prize is their pride and sense of accomplishment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="History.US">
+    <title>American Pickers</title>
+    <desc>This isn't your grandmother's antiquing. The American Pickers are on a mission to recycle America, even if it means diving into countless piles of grimy junk or getting chased off a gun-wielding homeowner's land. Hitting back roads from coast to coast, the Pickers earn a living by restoring forgotten relics to their former glory, transforming one person's trash into another's treasure. The show follows the team as they scour the country for hidden gems in junkyards, basements, garages and barns, meeting quirky characters and hearing their amazing stories. If you think the antique business is all about upscale boutiques and buttoned-up dealers, this show may change your mind – and teach you a thing or two about American history along the way.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="Bravo.US">
+    <title>The Real Housewives of Atlanta</title>
+    <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412203100 -0400" stop="20260412210100 -0400" channel="FOX.US">
+    <title>Universal Basic Guys</title>
+    <desc>In Universal Basic Guys brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them, the town started a radical Universal Basic Income pilot program, giving all residents of Glantontown $3,000 per month with no strings attached. Now, Mark, Hank and the rest of their local buddies are once again kids in the summertime, overflowing with the perilous combo of free time and stupid ideas. This is a show about men trying to find purpose in a world where they're no longer needed.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="HBO.US">
+    <title>Euphoria</title>
+    <desc>Euphoria follows a group of high school students as they navigate love and friendships in a world of drugs, sex, trauma, and social media.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="CNN.US">
+    <title>Eva Longoria: Searching for France</title>
+    <desc>Often referred to as the food capital of the world, France has long been synonymous with culinary excellence. In the tradition of her journeys in Searching for Mexico and Searching for Spain, Longoria will now discover the iconic origins of French cuisine, where the dining experience was first elevated to an art form. Throughout multiple regions, Longoria will be at the crossroads of centuries old gastronomic tradition and cutting-edge creativity in a country whose national identity is defined by its rich culinary history.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="CBS.US">
+    <title>Tracker</title>
+    <desc>Tracker features lone-wolf survivalist Colter Shaw, who roams the country as a "reward seeker," using his expert tracking skills to help private citizens and law enforcement to solve all manner of mysteries while contending with his own fractured family.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412210000 -0400" stop="20260412213000 -0400" channel="FOX.US">
+    <title>American Dad!</title>
+    <desc>In American Dad!, Stan Smith leads the all-American family in this animated sitcom filled with wild and crazy extremes. Everyday life is taken to the limit as Stan applies the same drastic measures used in his job at the CIA to his home life. Driven by machismo and the American dream, he often is blind to how horribly he fails at his attempts. This father might not know best, but he never stops trying.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412210000 -0400" stop="20260412220300 -0400" channel="History.US">
+    <title>History's Greatest Picks with Mike Wolfe</title>
+    <desc>Mike Wolfe has spent decades tracking down elusive treasures, hidden gems and bargaining with awesome collectors of the past, but now, it's Mike's turn to share that history by revealing the stories of extraordinary finds by ordinary people.History's Greatest Picks with Mike Wolfe explores the epic journeys, captivating tales, and astonishing monetary values behind legendary treasures, relics, and artifacts from history. Mike draws on his decades of experience and infectious curiosity to showcase some of history's most unbelievable and high valued items—from iconic vintage cars and motorcycles to pop culture touchstones, rare collectibles, and historic oddities.With expert insight, compelling historical context, and Mike guiding the audience through these stories, the series reveals surprising new details about how these extraordinary objects have changed hands and risen dramatically in value over time—bringing history to life, one unforgettable pick at a time.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412211500 -0400" stop="20260412221500 -0400" channel="Bravo.US">
+    <title>The Real Housewives of Rhode Island</title>
+    <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412213100 -0400" stop="20260412220000 -0400" channel="FOX.US">
+    <title>Family Guy</title>
+    <desc>Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="CBS.US">
+    <title>Watson</title>
+    <desc>In Watson a year after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson's old life isn't done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century. Watson is a medical show with a strong investigative spine, featuring a modern version of one of history's greatest detectives as he turns his attention from solving crimes to addressing the greatest mystery of all: illness, and the ways it disrupts our lives.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="ABC.US">
+    <title>Betrayal: Secrets &amp; Lies</title>
+    <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="HBO.US">
+    <title>Rooster</title>
+    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="Discovery.US">
+    <title>Filthy Fortunes</title>
+    <desc>Filthy Fortunes spotlights Matt Paxton and his team as they complete the most squalid and hazardous jobs to help everyday Americans cash in. Before the treasure hunt can begin, Matt will assess the property to determine potential costs associated with the clean-out and estimate the value of items hidden inside the hoard. With each property, he wagers that he'll discover enough to cover all the costs and make a profit. Matt takes all the risk, and if all goes according to plan, it's a win-win situation for both him and the client.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412223000 -0400" stop="20260412230000 -0400" channel="HBO.US">
+    <title>The Comeback</title>
+    <desc>The limited comedy series stars Lisa Kudrow as the embattled Valerie Cherish, a fading TV "It Girl" who was once so desperate to stay in the spotlight that she allowed cameras to follow her every move as she appeared on a new sitcom - with disastrous results. Now, it's ten years later, and Valerie thinks she has it all figured out this time. She doesn't.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412233000 -0400" stop="20260413003000 -0400" channel="ESPN.US">
+    <title>Inside the NBA</title>
+    <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260405210000 -0400" stop="20260405220000 -0400" channel="National Geographic.GB">
@@ -2948,9 +2928,24 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405200000 -0400" stop="20260405210000 -0400" channel="CTV.CA">
-    <title>Sullivan's Crossing</title>
-    <desc>After Neurosurgeon Maggie Sullivan's personal and professional life are thrown into turmoil she returns home to Sullivan's Crossing. While there, Maggie is forced to navigate her complicated present while confronting the painful past she has chosen to ignore for years.</desc>
+  <programme start="20260412192500 -0400" stop="20260412193000 -0400" channel="5.GB">
+    <title>5 News Weekend</title>
+    <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412194000 -0400" stop="20260412210000 -0400" channel="Channel 4.GB">
+    <title>The Great Celebrity Bake Off for Stand Up to Cancer</title>
+    <desc>Celebrity bakers enter Britain's most famous tent and put their skills to the test, as they Stand Up To Cancer and inspire viewers to do the same.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="Channel 4.GB">
+    <title>Your Song</title>
+    <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407200000 -0400" stop="20260407210000 -0400" channel="Citytv.CA">
@@ -2968,9 +2963,9 @@
     <desc>In Toronto's war on crime, the worst offenders are pursued by the detectives of the specialized criminal investigations unit. These are their stories.As a psychological thriller wrapped in a criminal investigation, Law &amp;amp; Order Toronto: Criminal Intent follows an elite squad of detectives who investigate high-profile crime and corruption in metro Toronto.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260405123000 -0400" stop="20260405133000 -0400" channel="ABC.AU">
-    <title>Landline</title>
-    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="CTV.CA">
+    <title>Sullivan's Crossing</title>
+    <desc>After Neurosurgeon Maggie Sullivan's personal and professional life are thrown into turmoil she returns home to Sullivan's Crossing. While there, Maggie is forced to navigate her complicated present while confronting the painful past she has chosen to ignore for years.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260406060000 -0400" stop="20260406090000 -0400" channel="ABC.AU">
@@ -3101,6 +3096,16 @@
   <programme start="20260410230000 -0400" stop="20260410233000 -0400" channel="ABC.AU">
     <title>ABC Late News</title>
     <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412090000 -0400" stop="20260412100000 -0400" channel="ABC.AU">
+    <title>Insiders</title>
+    <desc>Australia's must-watch political program continues to be a platform for the country's best political analysts and commentators, taking you to the heart of the action every Sunday morning.Insiders entered a very crowded Sunday morning political market in 2001. But our approach was to provide coverage with so many more elements, and to do it in a way that is informative but irreverent. And of course have a few laughs along the way. If you took politics too seriously you'd go mad," said founding host Barrie Cassidy.Insiders is the most watched morning show on Australian TV any day of the week. So start your week with the program the politicians rely on to find out what's going on.Insiders is broadcast on Sundays from 9am to 10am (AEST) on ABC TV and the ABC News channel.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412123000 -0400" stop="20260412133000 -0400" channel="ABC.AU">
+    <title>Landline</title>
+    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
     <category>TV Show</category>
   </programme>
 </tv>
