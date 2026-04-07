@@ -144,6 +144,10 @@
     <display-name>CBC</display-name>
     <country>CA</country>
   </channel>
+  <channel id="Global.CA">
+    <display-name>Global</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="CTV.CA">
     <display-name>CTV</display-name>
     <country>CA</country>
@@ -2182,6 +2186,11 @@
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260413130000 -0400" stop="20260413140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260413140000 -0400" stop="20260413160000 -0400" channel="MS NOW.US">
     <title>Katy Tur Reports</title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
@@ -2490,6 +2499,11 @@
   <programme start="20260407200000 -0400" stop="20260407203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260407203000 -0400" stop="20260407210000 -0400" channel="BBC Alba.GB">
+    <title>Mas Fhior</title>
+    <desc>Niall Iain Macdonald hosts a quiz show where more than general knowledge is required to win. Standing in the way of our two teams from winning are the Pretenders who, from the comfort of their own homes, are on a mission to fox our contestants.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260407210000 -0400" stop="20260407222000 -0400" channel="ITV1.GB">
@@ -2822,6 +2836,26 @@
     <desc>Good vibes, great guests, glorious fringe. Your weekly dose of Claudia‑powered joy, as she has a chat with Hollywood stars, the best of British and her gorgeous studio audience.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260411174000 -0400" stop="20260411182500 -0400" channel="BBC One.GB">
+    <title>Bridge of Lies Celebrity Specials</title>
+    <desc>Teams of celebrities take on the nail-biting quiz hosted by Ross Kemp.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260411175000 -0400" stop="20260411184500 -0400" channel="ITV1.GB">
+    <title>Celebrity Catchphrase</title>
+    <desc>A celebrity version of the game show Catchphrase where contestants have to identify a familiar catchphrase represented by a piece of animation.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260411182500 -0400" stop="20260411190000 -0400" channel="BBC One.GB">
+    <title>Blankety Blank</title>
+    <desc>Celebrities help contestants by filling in the missing blanks of phrases over a series of rounds to help win some brilliant prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260411184500 -0400" stop="20260411200000 -0400" channel="ITV1.GB">
+    <title>Britain's Got Talent</title>
+    <desc>Britain's Got Talent brings together the very best variety acts from across the nation as they compete to win a life changing £250,000 and a coveted spot on The Royal Variety Performance.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260411192500 -0400" stop="20260411193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2835,6 +2869,21 @@
   <programme start="20260411200000 -0400" stop="20260411203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260411220000 -0400" stop="20260411230000 -0400" channel="ITV1.GB">
+    <title>The Jonathan Ross Show</title>
+    <desc>Jonathan Ross, the king of chat, is back. Employing his infectious wit and sense of fun, he chats to some terrific celebrity guests and asks the questions to which everyone wants to know the answers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260411222500 -0400" stop="20260411233500 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412190000 -0400" stop="20260412210000 -0400" channel="BBC Two.GB">
+    <title>The Olivier Awards</title>
+    <desc>The Olivier Awards is an annual awards ceremony that is widely recognised as the most prestigious stage honours event on the UK calendar.The awards are given to individuals involved in West End productions and other leading non-commercial theatres based in London across a range of categories covering plays, musicals, dance, opera and affiliate theatre.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260412192500 -0400" stop="20260412193000 -0400" channel="5.GB">
@@ -2852,9 +2901,29 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="5.GB">
+    <title>Rich Holiday, Poor Holiday</title>
+    <desc>Two families exchange holidays to see if money really does buy happiness, with the family that is used to luxury going on holiday in decidedly more humble locations, while the other family gets a taste of the high life.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="National Geographic.GB">
+    <title>Lost Treasures of the Bible</title>
+    <desc>This immersive series follows archaeological teams across the Middle East as they embark on a new season of excavations, uncovering the cities and civilizations featured in the Bible. From the lost city of Exodus in Egypt to the epic Tower of Babel in Iraq, their discoveries shed new light on the Bible's most famous stories. Stunning CGI and embedded cameras reveal treasures buried for millennia.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="Channel 4.GB">
     <title>Your Song</title>
     <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412210000 -0400" stop="20260412223000 -0400" channel="5.GB">
+    <title>Rich House, Poor House</title>
+    <desc>Rich House, Poor House is a documentary series in which couples with very different lifestyles swap homes to see how the other half live.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412224500 -0400" stop="20260413000000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260413124500 -0400" stop="20260413125000 -0400" channel="5.GB">
@@ -2945,6 +3014,11 @@
   <programme start="20260409220000 -0400" stop="20260409230000 -0400" channel="Citytv.CA">
     <title>Law &amp; Order Toronto: Criminal Intent</title>
     <desc>In Toronto's war on crime, the worst offenders are pursued by the detectives of the specialized criminal investigations unit. These are their stories.As a psychological thriller wrapped in a criminal investigation, Law &amp;amp; Order Toronto: Criminal Intent follows an elite squad of detectives who investigate high-profile crime and corruption in metro Toronto.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260410190000 -0400" stop="20260410200000 -0400" channel="Global.CA">
+    <title>Crime Beat</title>
+    <desc>Crime Beat is a true crime series that takes viewers deep into some of Canada's most infamous criminal cases. Hosted by Antony Robart and based on the highly successful podcast by Nancy Hixt, Crime Beat showcases some of the best investigative crime reporting from the Global News reporters who covered the stories in real time. Using extensive archives, intimate family interviews, each week Crime Beat reveals new details that go beyond the news headlines: giving a voice to victims and their families, unraveling how each case was solved through the eyes of the detectives and forensic specialists, and exploring lasting impacts on the community and justice system.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="CTV.CA">
