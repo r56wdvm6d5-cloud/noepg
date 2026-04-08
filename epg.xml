@@ -481,7 +481,7 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260408203000 -0400" stop="20260408210000 -0400" channel="ABC.US">
+  <programme start="20260408203000 -0400" stop="20260408210200 -0400" channel="ABC.US">
     <title>Abbott Elementary</title>
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
     <category>TV Show</category>
@@ -1666,11 +1666,6 @@
     <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260412200500 -0400" stop="20260412203700 -0400" channel="HBO.US">
-    <title>Rooster</title>
-    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260412203100 -0400" stop="20260412210100 -0400" channel="FOX.US">
     <title>Universal Basic Guys</title>
     <desc>In Universal Basic Guys brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them, the town started a radical Universal Basic Income pilot program, giving all residents of Glantontown $3,000 per month with no strings attached. Now, Mark, Hank and the rest of their local buddies are once again kids in the summertime, overflowing with the perilous combo of free time and stupid ideas. This is a show about men trying to find purpose in a world where they're no longer needed.</desc>
@@ -1724,6 +1719,11 @@
   <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="ABC.US">
     <title>Betrayal: Secrets &amp; Lies</title>
     <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412220000 -0400" stop="20260412223200 -0400" channel="HBO.US">
+    <title>Rooster</title>
+    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260412223000 -0400" stop="20260412230000 -0400" channel="HBO.US">
@@ -1836,6 +1836,11 @@
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260413110000 -0400" stop="20260413120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260413120000 -0400" stop="20260413140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -1904,6 +1909,11 @@
   <programme start="20260413150000 -0400" stop="20260413160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260413150000 -0400" stop="20260413160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260413160000 -0400" stop="20260413180000 -0400" channel="MS NOW.US">
@@ -2019,6 +2029,11 @@
   <programme start="20260413200000 -0400" stop="20260413210000 -0400" channel="Fox News Channel.US">
     <title>Jesse Watters Primetime</title>
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260413200000 -0400" stop="20260413210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Airport</title>
+    <desc>Follows Dept of Homeland Security officers at five different airports across the country, from San Francisco, Detroit, Newark, Atlanta, and Honolulu, as they search for contraband both leaving and coming into the US.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260413203000 -0400" stop="20260413210000 -0400" channel="NBC.US">
@@ -2246,6 +2261,11 @@
     <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260414110000 -0400" stop="20260414120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260414120000 -0400" stop="20260414140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -2314,6 +2334,11 @@
   <programme start="20260414150000 -0400" stop="20260414160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260414150000 -0400" stop="20260414160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260414160000 -0400" stop="20260414180000 -0400" channel="MS NOW.US">
@@ -2474,6 +2499,11 @@
   <programme start="20260414210000 -0400" stop="20260414220000 -0400" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260414210000 -0400" stop="20260414220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260414210000 -0400" stop="20260414220000 -0400" channel="History.US">
