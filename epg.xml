@@ -2931,6 +2931,11 @@
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260412100000 -0400" stop="20260412130000 -0400" channel="Channel 4.GB">
+    <title>Sunday Brunch</title>
+    <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260412190000 -0400" stop="20260412210000 -0400" channel="BBC Two.GB">
     <title>The Olivier Awards</title>
     <desc>The Olivier Awards is an annual awards ceremony that is widely recognised as the most prestigious stage honours event on the UK calendar.The awards are given to individuals involved in West End productions and other leading non-commercial theatres based in London across a range of categories covering plays, musicals, dance, opera and affiliate theatre.</desc>
