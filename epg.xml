@@ -1264,7 +1264,7 @@
   </programme>
   <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="CNN.US">
     <title>Eva Longoria: Searching for France</title>
-    <desc>Often referred to as the food capital of the world, France has long been synonymous with culinary excellence. In the tradition of her journeys in Searching for Mexico and Searching for Spain, Longoria will now discover the iconic origins of French cuisine, where the dining experience was first elevated to an art form. Throughout multiple regions, Longoria will be at the crossroads of centuries old gastronomic tradition and cutting-edge creativity in a country whose national identity is defined by its rich culinary history.</desc>
+    <desc>Often referred to as the food capital of the world, France has long been synonymous with culinary excellence. In the tradition of her journeys in Searching for Mexico and Searching for Spain, Eva Longoria discovers the iconic origins of French cuisine, where the dining experience was first elevated to an art form. Throughout multiple regions, CNN Original Series Eva Longoria: Searching for France will be at the crossroads of centuries old gastronomic tradition and cutting-edge creativity in a country whose national identity is defined by its rich culinary history. A devoted Francophile whose career has taken her to France countless times, Longoria now goes deeper, savoring the traditions, innovations and regional flavors that have defined French cuisine for centuries. She spends real time with the chefs, artisans and families that both safeguard and evolve that extraordinary legacy. Along the way she uncovers the history that shaped it, from royal courts and monastic vineyards to the regional communities that turned local ingredients into enduring culinary traditions.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260412210000 -0400" stop="20260412220000 -0400" channel="CBS.US">
@@ -1310,6 +1310,11 @@
   <programme start="20260412220000 -0400" stop="20260412223200 -0400" channel="HBO.US">
     <title>Rooster</title>
     <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="CNN.US">
+    <title>Eva Longoria: Searching for France</title>
+    <desc>Often referred to as the food capital of the world, France has long been synonymous with culinary excellence. In the tradition of her journeys in Searching for Mexico and Searching for Spain, Eva Longoria discovers the iconic origins of French cuisine, where the dining experience was first elevated to an art form. Throughout multiple regions, CNN Original Series Eva Longoria: Searching for France will be at the crossroads of centuries old gastronomic tradition and cutting-edge creativity in a country whose national identity is defined by its rich culinary history. A devoted Francophile whose career has taken her to France countless times, Longoria now goes deeper, savoring the traditions, innovations and regional flavors that have defined French cuisine for centuries. She spends real time with the chefs, artisans and families that both safeguard and evolve that extraordinary legacy. Along the way she uncovers the history that shaped it, from royal courts and monastic vineyards to the regional communities that turned local ingredients into enduring culinary traditions.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260412223000 -0400" stop="20260412230000 -0400" channel="HBO.US">
