@@ -772,6 +772,11 @@
     <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260412190000 -0400" stop="20260412200000 -0400" channel="ABC.US">
+    <title>America's Funniest Home Videos</title>
+    <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="HBO.US">
     <title>DTF St. Louis</title>
     <desc>DTF St. Louis is a darkly comedic limited series about a love triangle between three adults experiencing middle-age malaise, that leads to one of them ending up dead.</desc>
@@ -2162,6 +2167,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260415210000 -0400" stop="20260415220000 -0400" channel="Bravo.US">
+    <title>Southern Hospitality</title>
+    <desc>The series follows "Southern Charm" resident boss-lady Leva Bonaparte as she manages Charleston's very own "it" crowd, otherwise known as her larger-than-life staff at Republic Garden &amp;amp; Lounge. Leva and husband Lamar own four restaurants along the city's famous King Street, but Republic is the crown jewel of their kingdom. The hottest nightclub and backdrop for Charleston's lively party scene, Republic is the place to go for pleasure, business or both.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260415210200 -0400" stop="20260415220200 -0400" channel="ABC.US">
     <title>The Greatest Average American</title>
     <desc>The Greatest Average American is a hilarious new game show that celebrates the power of being perfectly average. Each round is packed with laugh-out-loud challenges and trivia as contestants try to guess how everyday Americans think and live. In the end, one lucky player will be crowned the Greatest Average American and get the chance to win the ultimate grand prize: the average American salary of $67,920.</desc>
@@ -2755,6 +2765,11 @@
   <programme start="20260410224000 -0400" stop="20260410232500 -0400" channel="BBC One.GB">
     <title>The Claudia Winkleman Show</title>
     <desc>Good vibes, great guests, glorious fringe. Your weekly dose of Claudia‑powered joy, as she has a chat with Hollywood stars, the best of British and her gorgeous studio audience.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260411120000 -0400" stop="20260411124500 -0400" channel="BBC One.GB">
+    <title>Football Focus</title>
+    <desc>A preview of all the top footballing action with detailed analysis from an expert panel of guests.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260411174000 -0400" stop="20260411182500 -0400" channel="BBC One.GB">
