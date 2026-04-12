@@ -238,6 +238,11 @@
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260412190000 -0400" stop="20260412200000 -0400" channel="CBS.US">
+    <title>60 Minutes</title>
+    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="CBS.US">
     <title>Marshals</title>
     <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
@@ -333,12 +338,12 @@
     <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260412221500 -0400" stop="20260412224500 -0400" channel="Bravo.US">
+  <programme start="20260412221600 -0400" stop="20260412224600 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260412223000 -0400" stop="20260412230000 -0400" channel="HBO.US">
+  <programme start="20260412223700 -0400" stop="20260412230700 -0400" channel="HBO.US">
     <title>The Comeback</title>
     <desc>The limited comedy series stars Lisa Kudrow as the embattled Valerie Cherish, a fading TV "It Girl" who was once so desperate to stay in the spotlight that she allowed cameras to follow her every move as she appeared on a new sitcom - with disastrous results. Now, it's ten years later, and Valerie thinks she has it all figured out this time. She doesn't.</desc>
     <category>TV Show</category>
@@ -516,6 +521,11 @@
   <programme start="20260413130000 -0400" stop="20260413140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260413133000 -0400" stop="20260413140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260413140000 -0400" stop="20260413160000 -0400" channel="MS NOW.US">
@@ -998,6 +1008,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260414133000 -0400" stop="20260414140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260414140000 -0400" stop="20260414160000 -0400" channel="MS NOW.US">
     <title>Katy Tur Reports</title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
@@ -1476,6 +1491,11 @@
   <programme start="20260415130000 -0400" stop="20260415140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260415133000 -0400" stop="20260415140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260415140000 -0400" stop="20260415160000 -0400" channel="MS NOW.US">
@@ -1958,6 +1978,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260416133000 -0400" stop="20260416140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260416140000 -0400" stop="20260416160000 -0400" channel="MS NOW.US">
     <title>Katy Tur Reports</title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
@@ -2403,6 +2428,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260417133000 -0400" stop="20260417140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260417140000 -0400" stop="20260417160000 -0400" channel="MS NOW.US">
     <title>Katy Tur Reports</title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
@@ -2846,6 +2876,11 @@
   <programme start="20260413185500 -0400" stop="20260413190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260413190000 -0400" stop="20260413193000 -0400" channel="BBC Two.GB">
+    <title>Global Eye</title>
+    <desc>Award-winning investigations - revealing secrets, rooting out injustice, and exposing crime, corruption, and abuse. The biggest stories from BBC correspondents all over the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260413193000 -0400" stop="20260413200000 -0400" channel="ITV1.GB">
