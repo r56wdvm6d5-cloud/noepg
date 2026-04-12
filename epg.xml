@@ -36,10 +36,6 @@
     <display-name>FOX</display-name>
     <country>US</country>
   </channel>
-  <channel id="HBO.US">
-    <display-name>HBO</display-name>
-    <country>US</country>
-  </channel>
   <channel id="Discovery.US">
     <display-name>Discovery</display-name>
     <country>US</country>
@@ -50,6 +46,10 @@
   </channel>
   <channel id="Bravo.US">
     <display-name>Bravo</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="HBO.US">
+    <display-name>HBO</display-name>
     <country>US</country>
   </channel>
   <channel id="CNBC.US">
@@ -238,11 +238,6 @@
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="HBO.US">
-    <title>DTF St. Louis</title>
-    <desc>DTF St. Louis is a darkly comedic limited series about a love triangle between three adults experiencing middle-age malaise, that leads to one of them ending up dead.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="CBS.US">
     <title>Marshals</title>
     <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
@@ -266,6 +261,11 @@
   <programme start="20260412200000 -0400" stop="20260412210000 -0400" channel="Bravo.US">
     <title>The Real Housewives of Atlanta</title>
     <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412200100 -0400" stop="20260412210000 -0400" channel="HBO.US">
+    <title>DTF St. Louis</title>
+    <desc>DTF St. Louis is a darkly comedic limited series about a love triangle between three adults experiencing middle-age malaise, that leads to one of them ending up dead.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260412203100 -0400" stop="20260412210100 -0400" channel="FOX.US">
@@ -323,14 +323,14 @@
     <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260412220000 -0400" stop="20260412223200 -0400" channel="HBO.US">
-    <title>Rooster</title>
-    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260412220000 -0400" stop="20260412230000 -0400" channel="CNN.US">
     <title>Eva Longoria: Searching for France</title>
     <desc>Often referred to as the food capital of the world, France has long been synonymous with culinary excellence. In the tradition of her journeys in Searching for Mexico and Searching for Spain, Eva Longoria discovers the iconic origins of French cuisine, where the dining experience was first elevated to an art form. Throughout multiple regions, CNN Original Series Eva Longoria: Searching for France will be at the crossroads of centuries old gastronomic tradition and cutting-edge creativity in a country whose national identity is defined by its rich culinary history. A devoted Francophile whose career has taken her to France countless times, Longoria now goes deeper, savoring the traditions, innovations and regional flavors that have defined French cuisine for centuries. She spends real time with the chefs, artisans and families that both safeguard and evolve that extraordinary legacy. Along the way she uncovers the history that shaped it, from royal courts and monastic vineyards to the regional communities that turned local ingredients into enduring culinary traditions.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260412220500 -0400" stop="20260412223700 -0400" channel="HBO.US">
+    <title>Rooster</title>
+    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260412221500 -0400" stop="20260412224500 -0400" channel="Bravo.US">
@@ -1158,6 +1158,11 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260414200000 -0400" stop="20260414210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260414200000 -0400" stop="20260414210000 -0400" channel="Bravo.US">
     <title>Summer House</title>
     <desc>When a group of beautiful and successful New Yorkers leaves the comforts of the Big Apple behind to party the summer away in their home away from home, nothing is off limits. Bravo's new series Summer House takes the beach town of Montauk, New York by storm, while following a group of nine friends who make the exclusive enclave their go-to party spot between Memorial Day and Labor Day — that is, when they're not hustling at their day jobs. You could say they work hard and party way harder.</desc>
@@ -1246,6 +1251,11 @@
   <programme start="20260414220000 -0400" stop="20260414230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260414220000 -0400" stop="20260414230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260414220000 -0400" stop="20260414230000 -0400" channel="Fox News Channel.US">
@@ -1633,6 +1643,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260415200000 -0400" stop="20260415210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260415203000 -0400" stop="20260415210000 -0400" channel="ABC.US">
     <title>Abbott Elementary</title>
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
@@ -1661,6 +1676,11 @@
   <programme start="20260415210000 -0400" stop="20260415220000 -0400" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260415210000 -0400" stop="20260415220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260415210000 -0400" stop="20260415220000 -0400" channel="Discovery.US">
@@ -1721,6 +1741,11 @@
   <programme start="20260415220000 -0400" stop="20260415223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260415220000 -0400" stop="20260415230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260415220100 -0400" stop="20260415230100 -0400" channel="Discovery.US">
@@ -2083,6 +2108,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260416200000 -0400" stop="20260416210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260416203000 -0400" stop="20260416210000 -0400" channel="PBS.US">
     <title>Ask This Old House</title>
     <desc>The crew at This Old House take on some pretty big projects, which means they can only work on one or two houses a year. But homeowners have a virtual truckload of questions on smaller projects, and the TOH crew is ready to answer. Ask This Old House solves the steady stream of home improvement problems faced by viewers - and the crew even makes house calls!</desc>
@@ -2123,6 +2153,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260416210000 -0400" stop="20260416220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260416210200 -0400" stop="20260416213200 -0400" channel="FOX.US">
     <title>Animal Control</title>
     <desc>Animal Control is a workplace comedy following a group of Animal Control workers whose lives are complicated by the fact that animals are simple, but humans are not.</desc>
@@ -2156,6 +2191,11 @@
   <programme start="20260416220000 -0400" stop="20260416223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260416220000 -0400" stop="20260416230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260416220300 -0400" stop="20260416230500 -0400" channel="History.US">
@@ -2518,6 +2558,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260417200000 -0400" stop="20260417210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260417203000 -0400" stop="20260417210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -2548,6 +2593,11 @@
     <desc>Great Performances is a television series devoted to the performing arts, has been telecast on PBS since 1972. The show is produced by WNET in New York City. It is one of the longest running performing arts anthologies on television, second only to Hallmark Hall of Fame. Great Performances presents concerts, ballet, opera, an occasional documentary, and plays. The series has also won many television awards, including an Emmy Award, a Peabody Award, and an Image Award, with nods from the Directors Guild of America and the Cinema Audio Society.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260417210000 -0400" stop="20260417220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260417210800 -0400" stop="20260417220800 -0400" channel="Discovery.US">
     <title>Gold Rush: Mine Rescue with Freddy &amp; Juan</title>
     <desc>Freddy Dodge is no stranger when it comes to gold mining. With nearly 40 years of mining under his belt, he's known around the world as the "Gold Guru" and the person struggling mine owners call when they're striking out. Now he's going on the road to help struggling mine owners to hit the motherlode in Gold Rush: Mine Rescue with Freddy &amp;amp; Juan. To help him turnaround the operations, Freddy has teamed up with expert mechanic and fellow Gold Rush miner Juan Ibarra. At each location, the mining duo will use their knowledge of geology, prospecting, drilling and testing to get back on the paydirt. But it isn't just running their dirt faster. It's about making the operations better, and more importantly, running cheaper.</desc>
@@ -2566,6 +2616,11 @@
   <programme start="20260417220000 -0400" stop="20260417230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260417220000 -0400" stop="20260417230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260417220300 -0400" stop="20260417230500 -0400" channel="History.US">
@@ -2681,6 +2736,11 @@
   <programme start="20260418210000 -0400" stop="20260418220100 -0400" channel="A&amp;E.US">
     <title>Storage Wars</title>
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260418210000 -0400" stop="20260418220000 -0400" channel="CNN.US">
+    <title>Kara Swisher Wants to Live Forever</title>
+    <desc>Produced by EverWonder Studio, Kara Swisher Wants to Live Forever follows journalist Kara Swisher as she embarks on a deeply personal and sharply reported journey into the rapidly expanding world of longevity science and humanity's enduring quest to cheat death."When my father died of an aneurysm at 34 years old, I was only five years old. Since then, I've thought a lot about death and how it impacts us all, for better or worse," said Swisher.  "When I started covering Silicon Valley in the early 1990s, I spent a lot of time reporting on how innovation and tech leaders could help some people while hurting others. As titans who have profoundly impacted our world, they've become interested in applying their vast fortunes and often god-like know-how to longevity, dreaming they might even be able to hack death itself. Can they? Is that a good thing? What is actual breakthrough science and what is the same old snake oil? Will that effort help all of humanity or just themselves? My goal is the same as it always has been: To find out."Inspired by her own experiences confronting mortality, Swisher investigates the promises and pitfalls of the booming longevity industry. Across the series, Swisher examines everything from anti-aging treatments and biotech breakthroughs to the role of artificial intelligence, the influence of Silicon Valley, and the growing cultural obsession with extending life. Along the way, she explores how wealth, access to healthcare, and social connection shape who benefits from these innovations, and whether humanity's pursuit of longer lives is changing how we think about death itself.Throughout the series, Swisher sits down with a range of voices at the center of the longevity conversation, including OpenAI CEO Sam Altman, entrepreneur Bryan Johnson, CRISPR pioneer and Nobel Prize winner Jennifer Doudna, entrepreneur and professor Scott Galloway, and Reed Jobs, whose work is shaped by his family's personal encounter with cancer. The series takes Swisher from exclusive concierge medical clinics to cutting-edge biotech labs and international healthcare systems, including a visit to South Korea to examine how preventative care and innovation have contributed to the country's high life expectancy.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260418220100 -0400" stop="20260418230400 -0400" channel="A&amp;E.US">
