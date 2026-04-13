@@ -503,6 +503,11 @@
     <desc>Follows Dept of Homeland Security officers at five different airports across the country, from San Francisco, Detroit, Newark, Atlanta, and Honolulu, as they search for contraband both leaving and coming into the US.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260413200000 -0400" stop="20260413220000 -0400" channel="ABC.US">
+    <title>American Idol</title>
+    <desc>American Idol is an American singing competition show, where contestants perform in front of a panel of star judges, representing the music industry. The winner is determined by viewers' vote.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260413203000 -0400" stop="20260413210000 -0400" channel="NBC.US">
     <title>The Fall and Rise of Reggie Dinkins</title>
     <desc>The Fall and Rise of Reggie Dinkins focuses on a disgraced former football player, who is on a mission to rehabilitate his image.</desc>
@@ -2828,6 +2833,11 @@
     <desc>Adventurous British families buy and renovate beautiful chateaux in France.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260413180000 -0400" stop="20260413180500 -0400" channel="5.GB">
+    <title>Love Nature</title>
+    <desc>Love Nature is a new initiative to create multiple short films, spotlighting positive environmental stories from across the UK.   Each film, approximately three minutes long, will showcase inspiring campaigns and grassroots efforts within local communities, supporting and protecting nature. Produced in collaboration with regional independent production companies, the films aim to bring authentic, local voices to the forefront of environmental storytelling.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260413185500 -0400" stop="20260413190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -2938,6 +2948,11 @@
     <desc>Adventurous British families buy and renovate beautiful chateaux in France.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260414180000 -0400" stop="20260414180500 -0400" channel="5.GB">
+    <title>Love Nature</title>
+    <desc>Love Nature is a new initiative to create multiple short films, spotlighting positive environmental stories from across the UK.   Each film, approximately three minutes long, will showcase inspiring campaigns and grassroots efforts within local communities, supporting and protecting nature. Produced in collaboration with regional independent production companies, the films aim to bring authentic, local voices to the forefront of environmental storytelling.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260414185500 -0400" stop="20260414190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -3021,6 +3036,11 @@
   <programme start="20260415170000 -0400" stop="20260415180000 -0400" channel="Channel 4.GB">
     <title>Château DIY</title>
     <desc>Adventurous British families buy and renovate beautiful chateaux in France.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260415180000 -0400" stop="20260415180500 -0400" channel="5.GB">
+    <title>Love Nature</title>
+    <desc>Love Nature is a new initiative to create multiple short films, spotlighting positive environmental stories from across the UK.   Each film, approximately three minutes long, will showcase inspiring campaigns and grassroots efforts within local communities, supporting and protecting nature. Produced in collaboration with regional independent production companies, the films aim to bring authentic, local voices to the forefront of environmental storytelling.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260415185500 -0400" stop="20260415190000 -0400" channel="5.GB">
@@ -3123,6 +3143,11 @@
     <desc>Adventurous British families buy and renovate beautiful chateaux in France.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260416180000 -0400" stop="20260416180500 -0400" channel="5.GB">
+    <title>Love Nature</title>
+    <desc>Love Nature is a new initiative to create multiple short films, spotlighting positive environmental stories from across the UK.   Each film, approximately three minutes long, will showcase inspiring campaigns and grassroots efforts within local communities, supporting and protecting nature. Produced in collaboration with regional independent production companies, the films aim to bring authentic, local voices to the forefront of environmental storytelling.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260416185500 -0400" stop="20260416190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -3218,6 +3243,11 @@
     <desc>Adventurous British families buy and renovate beautiful chateaux in France.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260417180000 -0400" stop="20260417180500 -0400" channel="5.GB">
+    <title>Love Nature</title>
+    <desc>Love Nature is a new initiative to create multiple short films, spotlighting positive environmental stories from across the UK.   Each film, approximately three minutes long, will showcase inspiring campaigns and grassroots efforts within local communities, supporting and protecting nature. Produced in collaboration with regional independent production companies, the films aim to bring authentic, local voices to the forefront of environmental storytelling.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260417185500 -0400" stop="20260417190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -3286,6 +3316,11 @@
   <programme start="20260418120000 -0400" stop="20260418124500 -0400" channel="BBC One.GB">
     <title>Football Focus</title>
     <desc>A preview of all the top footballing action with detailed analysis from an expert panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260418140000 -0400" stop="20260418150000 -0400" channel="5.GB">
+    <title>Catching Up With the Royals</title>
+    <desc>Catching Up With the Royals is a brand-new weekly visualised podcast for 5, offering audiences a smart, entertaining and always-curious look at the royal family.Every week Reverend Richard Coles and royal journalist Emily Andrews deep dive on the latest royal news, inside whispers and intel from their royal sources to lift the lid on what life is really like behind palace walls. They'll also look back on key moments from history that informed the way the monarchy is today and answer viewer/listener questions about the royal topics they've always wanted to know more about.The show delivers fresh perspective and behind-the-scenes access into Britain's most famous institution with warmth, humour and genuine insider knowledge bringing viewers and listeners closer than ever to the monarchy both past and present.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260418174000 -0400" stop="20260418182500 -0400" channel="BBC One.GB">
