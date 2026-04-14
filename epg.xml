@@ -2349,6 +2349,16 @@
     <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260420070000 -0400" stop="20260420090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420070000 -0400" stop="20260420090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260420090000 -0400" stop="20260420110000 -0400" channel="CNBC.US">
     <title>Squawk on the Street</title>
     <desc>Squawk on the Street is headquartered live on the floor of the New York Stock Exchange. We are there when the all-important opening bell rings every day. With our exclusive "Eye on the Floor" wireless cameras at the NYSE we take the viewer onto the floor of the exchange, right to the posts where the biggest companies in the world trade. In addition, our exclusive "Tick by Tick" charts track the action of every trade of every stock. Our live market coverage doesn't stop on the corner of Wall and Broad Streets in lower Manhattan. We also have exclusive coverage from the floor of the CME Group in Chicago giving our viewers the treasury, currency and commodity action in real time. In addition, "Squawk on the Street" is also on the air when the closing bells ring throughout Europe. That final hour of European trading starting at 10:30am eastern has proven to be very volatile and has a major impact on all U.S. based markets.</desc>
@@ -3149,6 +3159,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260420180000 -0400" stop="20260420190000 -0400" channel="Channel 4.GB">
+    <title>Sun, Sea and Selling Houses</title>
+    <desc>Sun, Sea and Selling Houses is a series that follows two British families who have set up shop in Spain selling property to Brits seeking fun in the sun.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260420185500 -0400" stop="20260420190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -3177,6 +3192,11 @@
   <programme start="20260420210000 -0400" stop="20260420221500 -0400" channel="ITV1.GB">
     <title>I'm a Celebrity, Get Me Out of Here! South Africa</title>
     <desc>Campmates have already proved that they can survive the Australian jungle, but this is I'm A Celebrity… on a whole new level, it's where legends are made. The trials are tougher than ever and with that, so are the stakes. With relentless twists and turns, the campmates will never know what's coming next. They will be faced with challenges at every turn, quickly learning that with big decisions come even bigger consequences…</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420210000 -0400" stop="20260420220000 -0400" channel="Quest.GB">
+    <title>Shed &amp; Buried: Classic Cars</title>
+    <desc>Shed &amp;amp; Buried: Classic Cars sees Henry team-up with Fuzz Townshend once again. The duo will be doing what they do best: digging in the nation's sheds, barns and outbuildings, this time to (hopefully) find a tidy profit in some vintage motors.Henry's love of motorbikes and tractors is well-known, but he still has a soft spot for classic cars. Fuzz - who has an encyclopaedic knowledge of all things automotive - is the perfect partner to help him unearth some classic four-wheelers and turn them into nice little earners.That's only half the battle - once their finds are back in the shed, restorer extraordinaire Guy Willison and engineering genius Allen Millyard will be put to the test, turning the rusty wrecks the lads have unearthed into right royal runners.As always, Henry will need to keep Fuzz focused, to make sure he doesn't buy an obscure vintage bus or lorry. Fuzz will have to keep an eye on Henry too, as he's usually done a deal before Fuzz can even lift the bonnet.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260420220000 -0400" stop="20260420230000 -0400" channel="TRUE CRIME.GB">
