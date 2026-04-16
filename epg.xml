@@ -132,6 +132,10 @@
     <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
+  <channel id="Citytv.CA">
+    <display-name>Citytv</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -596,6 +600,11 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260416230000 -0400" stop="20260417000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260416233500 -0400" stop="20260417003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
@@ -1044,6 +1053,11 @@
   <programme start="20260417230000 -0400" stop="20260418000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260417230000 -0400" stop="20260418000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260417000000 -0400" stop="20260417020000 -0400" channel="CNN.US">
@@ -1709,6 +1723,11 @@
   <programme start="20260420230000 -0400" stop="20260421000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420230000 -0400" stop="20260421000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260420233500 -0400" stop="20260421003500 -0400" channel="NBC.US">
@@ -3019,6 +3038,11 @@
   <programme start="20260419200000 -0400" stop="20260419210000 -0400" channel="CTV.CA">
     <title>Sullivan's Crossing</title>
     <desc>After Neurosurgeon Maggie Sullivan's personal and professional life are thrown into turmoil she returns home to Sullivan's Crossing. While there, Maggie is forced to navigate her complicated present while confronting the painful past she has chosen to ignore for years.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260421200000 -0400" stop="20260421210000 -0400" channel="Citytv.CA">
+    <title>The Price is Right Tonight</title>
+    <desc>Hosted by legendary comedian and television personality Howie Mandel, The Price Is Right Tonight is a new Canadian series that brings the iconic game show's joyful wins and classic format to a primetime audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260416060000 -0400" stop="20260416090000 -0400" channel="ABC.AU">
