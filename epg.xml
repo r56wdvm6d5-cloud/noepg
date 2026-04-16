@@ -76,16 +76,16 @@
     <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
+  <channel id="HBO.US">
+    <display-name>HBO</display-name>
+    <country>US</country>
+  </channel>
   <channel id="A&amp;E.US">
     <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
   <channel id="NewsNation.US">
     <display-name>NewsNation</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="HBO.US">
-    <display-name>HBO</display-name>
     <country>US</country>
   </channel>
   <channel id="ITV1.GB">
@@ -122,6 +122,10 @@
   </channel>
   <channel id="Quest.GB">
     <display-name>Quest</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
     <country>GB</country>
   </channel>
   <channel id="Sky Arts.GB">
@@ -1033,6 +1037,11 @@
   <programme start="20260417220300 -0400" stop="20260417230500 -0400" channel="History.US">
     <title>The Proof Is Out There</title>
     <desc>The Proof Is Out There takes an in-depth look at some of the most incredible and thought provoking videos of unexplained phenomena and mysterious must-see moments of all time. Each half-hour episode explores and analyzes the full story of each irregularity in question from bizarre footage of people seemingly immune to lightning, to a fifty-foot snake, apocalyptic sounds in a man's backyard, enigmatic creatures, and UFOS that split and dive underwater. Through expert examination and the use of the latest technologies, The Proof Is Out There aims to get to the bottom of what's real? What's fake? And everything in between.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260417220500 -0400" stop="20260417230500 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260417220800 -0400" stop="20260417230800 -0400" channel="Discovery.US">
@@ -2825,6 +2834,11 @@
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260418003000 -0400" stop="20260418023000 -0400" channel="BBC Two.GB">
+    <title>World Championship Snooker Highlights</title>
+    <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260419070000 -0400" stop="20260419072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2833,6 +2847,16 @@
   <programme start="20260419100000 -0400" stop="20260419130000 -0400" channel="Channel 4.GB">
     <title>Sunday Brunch</title>
     <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260419131500 -0400" stop="20260419135000 -0400" channel="BBC One.GB">
+    <title>Songs of Praise</title>
+    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260419180000 -0400" stop="20260419190000 -0400" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260419192500 -0400" stop="20260419193000 -0400" channel="5.GB">
@@ -2850,14 +2874,44 @@
     <desc>This immersive series follows archaeological teams across the Middle East as they embark on a new season of excavations, uncovering the cities and civilizations featured in the Bible. From the lost city of Exodus in Egypt to the epic Tower of Babel in Iraq, their discoveries shed new light on the Bible's most famous stories. Stunning CGI and embedded cameras reveal treasures buried for millennia.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260419200000 -0400" stop="20260419210000 -0400" channel="BBC One.GB">
+    <title>Antiques Roadshow</title>
+    <desc>Antiques Roadshow experts examine and value antiques and collectables.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260419200000 -0400" stop="20260419210000 -0400" channel="5.GB">
+    <title>Rich Holiday, Poor Holiday</title>
+    <desc>Two families exchange holidays to see if money really does buy happiness, with the family that is used to luxury going on holiday in decidedly more humble locations, while the other family gets a taste of the high life.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260419210000 -0400" stop="20260419220000 -0400" channel="Channel 4.GB">
     <title>Your Song</title>
     <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260419210000 -0400" stop="20260419223000 -0400" channel="5.GB">
+    <title>Rich House, Poor House</title>
+    <desc>Rich House, Poor House is a documentary series in which couples with very different lifestyles swap homes to see how the other half live.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260419210000 -0400" stop="20260419220000 -0400" channel="National Geographic.GB">
+    <title>Chernobyl: Inside the Meltdown</title>
+    <desc>On April 26th, 1986, a safety test at unit number four of the Chernobyl power station triggered the worst nuclear accident in history. The massive explosion and resulting fire released more than 400 times more radiation into the atmosphere than the Hiroshima bomb. It was a global catastrophe – a radioactive cloud spread across Europe and eventually circled the world. This landmark series on the 40th anniversary of the Chernobyl disaster tells the full story from the meltdown to the KGB cover-up, right up to the present-day war in Ukraine, revealing how a nuclear exclusion zone became a war zone. With powerful interviews from survivors who have never spoken in public before, and unique insights into the Western and Soviet response, this series provides a new perspective on a story riddled with intrigue, deception and tragedy.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260419220000 -0400" stop="20260419230000 -0400" channel="National Geographic.GB">
+    <title>Chernobyl: Inside the Meltdown</title>
+    <desc>On April 26th, 1986, a safety test at unit number four of the Chernobyl power station triggered the worst nuclear accident in history. The massive explosion and resulting fire released more than 400 times more radiation into the atmosphere than the Hiroshima bomb. It was a global catastrophe – a radioactive cloud spread across Europe and eventually circled the world. This landmark series on the 40th anniversary of the Chernobyl disaster tells the full story from the meltdown to the KGB cover-up, right up to the present-day war in Ukraine, revealing how a nuclear exclusion zone became a war zone. With powerful interviews from survivors who have never spoken in public before, and unique insights into the Western and Soviet response, this series provides a new perspective on a story riddled with intrigue, deception and tragedy.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260419223000 -0400" stop="20260419234500 -0400" channel="BBC One.GB">
     <title>Match of the Day</title>
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260419235000 -0400" stop="20260420015000 -0400" channel="BBC Two.GB">
+    <title>World Championship Snooker Highlights</title>
+    <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260420070000 -0400" stop="20260420072200 -0400" channel="ITV1.GB">
@@ -2895,6 +2949,11 @@
     <desc>Josie Gibson presents as families have a loved one's clutter cleared and valued in secret by antiques expert Dan Hatfield and declutterer Jacqueline McLeod.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260420193000 -0400" stop="20260420203000 -0400" channel="BBC Two.GB">
+    <title>Mastermind</title>
+    <desc>Mastermind is a British quiz show, well known for its challenging questions, intimidating setting and air of seriousness. It first aired on 11 September 1972 &amp;amp; is still running today. Four contestants brave the black chair as they answer questions on their specialist subjects and test their general knowledge to win the coveted trophy.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260420195500 -0400" stop="20260420200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -2910,6 +2969,21 @@
     <desc>Construction Fails happen every day, but sometimes the damage is catastrophic. This factual, fast-paced show investigates the most spectacular mishaps, what went wrong, and how the disaster could have been averted. Combining live footage with CGI animation, this show examines well-known disasters, such as the Notre Dame fire, and the collapse of the Georgia Dome, but also more minor incidents. Presented in a light-hearted and accessible manner, Construction Fails shows what happens when things go drastically wrong.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260420200000 -0400" stop="20260420210000 -0400" channel="Channel 4.GB">
+    <title>The Dog House</title>
+    <desc>Series set inside Wood Green, The Animals Charity, where staff are committed to matching their homeless dogs with hopeful dog owners.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420200000 -0400" stop="20260420210000 -0400" channel="5.GB">
+    <title>The Motorway Cops: Catching Britain's Speeders</title>
+    <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420203000 -0400" stop="20260420210000 -0400" channel="BBC Two.GB">
+    <title>University Challenge</title>
+    <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260420210000 -0400" stop="20260420221500 -0400" channel="ITV1.GB">
     <title>I'm a Celebrity, Get Me Out of Here! South Africa</title>
     <desc>Campmates have already proved that they can survive the Australian jungle, but this is I'm A Celebrity… on a whole new level, it's where legends are made. The trials are tougher than ever and with that, so are the stakes. With relentless twists and turns, the campmates will never know what's coming next. They will be faced with challenges at every turn, quickly learning that with big decisions come even bigger consequences…</desc>
@@ -2920,9 +2994,49 @@
     <desc>Shed &amp;amp; Buried: Classic Cars sees Henry team-up with Fuzz Townshend once again. The duo will be doing what they do best: digging in the nation's sheds, barns and outbuildings, this time to (hopefully) find a tidy profit in some vintage motors.Henry's love of motorbikes and tractors is well-known, but he still has a soft spot for classic cars. Fuzz - who has an encyclopaedic knowledge of all things automotive - is the perfect partner to help him unearth some classic four-wheelers and turn them into nice little earners.That's only half the battle - once their finds are back in the shed, restorer extraordinaire Guy Willison and engineering genius Allen Millyard will be put to the test, turning the rusty wrecks the lads have unearthed into right royal runners.As always, Henry will need to keep Fuzz focused, to make sure he doesn't buy an obscure vintage bus or lorry. Fuzz will have to keep an eye on Henry too, as he's usually done a deal before Fuzz can even lift the bonnet.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260420210000 -0400" stop="20260420220000 -0400" channel="National Geographic.GB">
+    <title>Chernobyl: Inside the Meltdown</title>
+    <desc>On April 26th, 1986, a safety test at unit number four of the Chernobyl power station triggered the worst nuclear accident in history. The massive explosion and resulting fire released more than 400 times more radiation into the atmosphere than the Hiroshima bomb. It was a global catastrophe – a radioactive cloud spread across Europe and eventually circled the world. This landmark series on the 40th anniversary of the Chernobyl disaster tells the full story from the meltdown to the KGB cover-up, right up to the present-day war in Ukraine, revealing how a nuclear exclusion zone became a war zone. With powerful interviews from survivors who have never spoken in public before, and unique insights into the Western and Soviet response, this series provides a new perspective on a story riddled with intrigue, deception and tragedy.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420210000 -0400" stop="20260420220000 -0400" channel="Channel 4.GB">
+    <title>Suez: 24 Hours That Ended the British Empire</title>
+    <desc>The dramatic inside story of 6 November 1956, the final day of the Suez Crisis. A day that changed Britain forever. Exactly as it happened - hour by hour, minute by minute.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420210000 -0400" stop="20260420220000 -0400" channel="5.GB">
+    <title>Egypt With Dan Snow</title>
+    <desc>Dan Snow is on an epic historical journey through one of his favourite countries - Egypt! He visits some of the most extraordinary places on earth, from Luxor to a luxury steamer on the Nile, and from the ancient pyramids to the packed streets of Cairo. Alongside the incredible history, Dan navigates boats on the Nile, balloons and even the odd camel! Along the way he'll be exploring the stories of people living along the Nile from past to present, from Agatha Christie and Tutankhamun to the ancient Pharaohs and the modern-day market traders.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420212000 -0400" stop="20260420222500 -0400" channel="E4.GB">
+    <title>Made in Chelsea</title>
+    <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260420220000 -0400" stop="20260420230000 -0400" channel="TRUE CRIME.GB">
     <title>Donal MacIntyre's UK Killer Evidence</title>
     <desc>Renowned investigative journalist and criminologist Donal MacIntyre returns to host Donal MacIntyre's Killer Evidence to demonstrate through 10 UK and US cases, that forensics will always uncover the ‘killer evidence' which brings murderers to justice.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420220000 -0400" stop="20260420230000 -0400" channel="National Geographic.GB">
+    <title>Chernobyl: Inside the Meltdown</title>
+    <desc>On April 26th, 1986, a safety test at unit number four of the Chernobyl power station triggered the worst nuclear accident in history. The massive explosion and resulting fire released more than 400 times more radiation into the atmosphere than the Hiroshima bomb. It was a global catastrophe – a radioactive cloud spread across Europe and eventually circled the world. This landmark series on the 40th anniversary of the Chernobyl disaster tells the full story from the meltdown to the KGB cover-up, right up to the present-day war in Ukraine, revealing how a nuclear exclusion zone became a war zone. With powerful interviews from survivors who have never spoken in public before, and unique insights into the Western and Soviet response, this series provides a new perspective on a story riddled with intrigue, deception and tragedy.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420220000 -0400" stop="20260420230000 -0400" channel="Channel 4.GB">
+    <title>Chernobyl: Days That Shocked the World</title>
+    <desc>Chernobyl was the world's worst nuclear accident. But at the time, 1986, the Soviets tried to cover it up. Now, witnesses and survivors tell the story of what they went through.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420230000 -0400" stop="20260421000000 -0400" channel="Channel 4.GB">
+    <title>Chernobyl: Days That Shocked the World</title>
+    <desc>Chernobyl was the world's worst nuclear accident. But at the time, 1986, the Soviets tried to cover it up. Now, witnesses and survivors tell the story of what they went through.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260420000500 -0400" stop="20260420020500 -0400" channel="BBC Two.GB">
+    <title>World Championship Snooker Highlights</title>
+    <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260421070000 -0400" stop="20260421072200 -0400" channel="ITV1.GB">
@@ -2955,6 +3069,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260421190000 -0400" stop="20260421195500 -0400" channel="5.GB">
+    <title>Springtime on the Farm</title>
+    <desc>Documentary series celebrating British farms. Peter Wright, Adam Henson and Lindsey Chapman reveal what happens at Cannon Hall Farm in Barnsley during the busiest time of year - Spring.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260421195500 -0400" stop="20260421200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -2963,6 +3082,11 @@
   <programme start="20260421200000 -0400" stop="20260421203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260421200000 -0400" stop="20260421210000 -0400" channel="5.GB">
+    <title>Sam &amp; Ade Go Birding</title>
+    <desc>Sam &amp;amp; Ade Go Birding follows good friends Samuel West and Adrian Edmondson on a spectacular birdwatching quest across the British Isles. For Sam, birding is a long-standing passion - he's been recording his sightings for twenty years and has now seen over 400 British species, though he'll always grab any opportunity to add to his list. For Adrian, the hobby is something new: he's bird-curious. Despite living in the countryside for more than twenty years, Ade's frustrated not to know more about the birds around him and now wants to learn with his enthusiastic friend - if they can stop for lunch, stay in a nice cottage and have the odd pint along the way.   Across three weekend adventures, the pair travel to West Cornwall in search of Cornish Choughs, waders and transatlantic visitors blown hundreds of miles off course; to North Norfolk, on a wild goose chase for Brent and Pink-footed geese; and finally, to the Somerset Levels, where they stake out Kingfishers, Egrets and the elusive Bittern.   Featuring exquisite photography and breathtaking landscapes, the series is as much about friendship as it is about wildlife. Between sightings, Sam and Ade share thoughtful, funny, and moving conversations on everything from obsession and ageing to acting, childhood memories, losing a parent and the geeky hobbies that have captivated them over the years.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260421203000 -0400" stop="20260421210000 -0400" channel="BBC Alba.GB">
@@ -2983,6 +3107,21 @@
   <programme start="20260421210000 -0400" stop="20260421220000 -0400" channel="Quest.GB">
     <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
     <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260421210000 -0400" stop="20260421220000 -0400" channel="Channel 4.GB">
+    <title>Suez: 24 Hours That Ended the British Empire</title>
+    <desc>The dramatic inside story of 6 November 1956, the final day of the Suez Crisis. A day that changed Britain forever. Exactly as it happened - hour by hour, minute by minute.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260421210000 -0400" stop="20260421220000 -0400" channel="5.GB">
+    <title>Egypt With Dan Snow</title>
+    <desc>Dan Snow is on an epic historical journey through one of his favourite countries - Egypt! He visits some of the most extraordinary places on earth, from Luxor to a luxury steamer on the Nile, and from the ancient pyramids to the packed streets of Cairo. Alongside the incredible history, Dan navigates boats on the Nile, balloons and even the odd camel! Along the way he'll be exploring the stories of people living along the Nile from past to present, from Agatha Christie and Tutankhamun to the ancient Pharaohs and the modern-day market traders.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260421001500 -0400" stop="20260421021500 -0400" channel="BBC Two.GB">
+    <title>World Championship Snooker Highlights</title>
+    <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260422070000 -0400" stop="20260422072200 -0400" channel="ITV1.GB">
@@ -3008,6 +3147,11 @@
   <programme start="20260422185500 -0400" stop="20260422190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260422190000 -0400" stop="20260422195500 -0400" channel="5.GB">
+    <title>Springtime on the Farm</title>
+    <desc>Documentary series celebrating British farms. Peter Wright, Adam Henson and Lindsey Chapman reveal what happens at Cannon Hall Farm in Barnsley during the busiest time of year - Spring.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260422195500 -0400" stop="20260422200000 -0400" channel="5.GB">
@@ -3038,6 +3182,11 @@
   <programme start="20260422210000 -0400" stop="20260422220000 -0400" channel="Channel 4.GB">
     <title>Grayson Perry Has Seen the Future</title>
     <desc>Artist Sir Grayson Perry visits Silicon Valley to explore how AI and robotics will shape the future in a series that raises profound questions about what it is to be human.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260422210000 -0400" stop="20260422220000 -0400" channel="5.GB">
+    <title>Egypt With Dan Snow</title>
+    <desc>Dan Snow is on an epic historical journey through one of his favourite countries - Egypt! He visits some of the most extraordinary places on earth, from Luxor to a luxury steamer on the Nile, and from the ancient pyramids to the packed streets of Cairo. Alongside the incredible history, Dan navigates boats on the Nile, balloons and even the odd camel! Along the way he'll be exploring the stories of people living along the Nile from past to present, from Agatha Christie and Tutankhamun to the ancient Pharaohs and the modern-day market traders.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260419200000 -0400" stop="20260419210000 -0400" channel="CTV.CA">
