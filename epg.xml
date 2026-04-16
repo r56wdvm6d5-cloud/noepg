@@ -108,16 +108,16 @@
     <display-name>BBC One</display-name>
     <country>GB</country>
   </channel>
+  <channel id="National Geographic.GB">
+    <display-name>National Geographic</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="TRUE CRIME.GB">
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC Two.GB">
     <display-name>BBC Two</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="National Geographic.GB">
-    <display-name>National Geographic</display-name>
     <country>GB</country>
   </channel>
   <channel id="Quest.GB">
@@ -2623,6 +2623,11 @@
   <programme start="20260416200000 -0400" stop="20260416210000 -0400" channel="BBC One.GB">
     <title>Race Across the World</title>
     <desc>Race Across the World will pit pairs of travellers against each other in a race to reach the Far East without taking a single flight, with no smartphone in sight. Each contestant will only have the cash equivalent of an air fare to their destination to pay for their overland travel. If they run out, they'll need to earn more.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260416200000 -0400" stop="20260416210000 -0400" channel="National Geographic.GB">
+    <title>Car S.O.S</title>
+    <desc>We Brits love our cars but, just like any relationship, sometimes things can get a little rusty. Meet master mechanic Fuzz Townshend and radio and TV presenter Tim Shaw, a petrol-head pair who undertake dramatic automobile interventions across the UK, hoping to return some much-loved motors to their former glory. With a tight deadline to turn each job around without the owners knowing, find out how these neglected classics fell in need of a little loving care – and what Fuzz and Tim can do to get them back on the road.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260416210000 -0400" stop="20260416220500 -0400" channel="ITV1.GB">
