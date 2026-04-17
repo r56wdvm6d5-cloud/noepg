@@ -2424,6 +2424,11 @@
     <desc>Samantha and Jay throw caution to the wind when they convert their recently inherited country estate into a bed-and-breakfast. Call it mislaid plans. Not only is the place falling apart, but it's also inhabited by spirits of previous residents -- whom only Samantha can see and hear. Ghosts spins the funny, heartfelt story about a newfound dream that reveals connection and self-discovery aren't just for the living.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260423210000 -0400" stop="20260423220000 -0400" channel="CBS.US">
+    <title>Matlock</title>
+    <desc>After achieving success in her younger years, the brilliant septuagenarian Madeline Matlock rejoins the work force at a prestigious law firm where she uses her unassuming demeanor and wily tactics to win cases and expose corruption from within.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260423210000 -0400" stop="20260423220300 -0400" channel="History.US">
     <title>Mysteries Unearthed with Danny Trejo</title>
     <desc>Mysteries Unearthed with Danny Trejo examines the fascinating stories surrounding buried artifacts and lost civilizations, shedding light, and offering new insight and information, on various mysteries of the past and present. Anchored by Trejo's affinity for history and his natural curiosity into exploring the unknown and coupled with captivating archival material, expert interviews, and compelling recreations, the series seeks to unearth what the human eye cannot easily detect, as objects, structures and creatures concealed under earth, ice and water are suddenly, and often accidentally, revealed. From ancient animals uncovered as permafrost melts to excavations that make international headlines, each episode explains the significance of these discoveries and offers surprising context to these amazing finds. What exciting revelations can these preserved objects expose about our history and the legends and myths that surround them?</desc>
@@ -2452,11 +2457,6 @@
   <programme start="20260423210000 -0400" stop="20260423220000 -0400" channel="Fox News Channel.US">
     <title>Hannity</title>
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260423210100 -0400" stop="20260423220100 -0400" channel="CBS.US">
-    <title>Matlock</title>
-    <desc>After achieving success in her younger years, the brilliant septuagenarian Madeline Matlock rejoins the work force at a prestigious law firm where she uses her unassuming demeanor and wily tactics to win cases and expose corruption from within.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260423210200 -0400" stop="20260423213200 -0400" channel="FOX.US">
