@@ -244,7 +244,7 @@
     <desc>Each week on Naked and Afraid, a new pair of complete and total strangers - one man and one woman - will find themselves stranded in and, quite literally, exposed to one of the world's most extreme weather environments. This duo will be left high and dry with no food, no water... and no clothes. They must survive on their own for a full 21 days, with nothing but one personal item each and the knowledge that the only prize is their pride and sense of accomplishment.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260419210000 -0400" stop="20260419220000 -0400" channel="HBO.US">
+  <programme start="20260419210000 -0400" stop="20260419220300 -0400" channel="HBO.US">
     <title>Euphoria</title>
     <desc>Euphoria follows a group of high school students as they navigate love and friendships in a world of drugs, sex, trauma, and social media.</desc>
     <category>TV Show</category>
@@ -279,11 +279,6 @@
     <desc>In Watson a year after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson's old life isn't done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century. Watson is a medical show with a strong investigative spine, featuring a modern version of one of history's greatest detectives as he turns his attention from solving crimes to addressing the greatest mystery of all: illness, and the ways it disrupts our lives.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260419220000 -0400" stop="20260419230000 -0400" channel="HBO.US">
-    <title>Rooster</title>
-    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260419220000 -0400" stop="20260419230000 -0400" channel="ABC.US">
     <title>Betrayal: Secrets &amp; Lies</title>
     <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
@@ -297,6 +292,11 @@
   <programme start="20260419220300 -0400" stop="20260419230500 -0400" channel="History.US">
     <title>The Food That Built America</title>
     <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260419220300 -0400" stop="20260419223500 -0400" channel="HBO.US">
+    <title>Rooster</title>
+    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260419223000 -0400" stop="20260419230000 -0400" channel="HBO.US">
