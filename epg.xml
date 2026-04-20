@@ -494,6 +494,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260420210000 -0400" stop="20260420213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260420210200 -0400" stop="20260420220000 -0400" channel="FOX.US">
     <title>The Quiz with Balls</title>
     <desc>The Quiz with Balls pits brains against balls combining a high-stakes quiz show with a large-scale physical competition. Each episode features two families competing for $100,000 in a "battle of the balls".</desc>
@@ -954,6 +959,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260421210000 -0400" stop="20260421213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260421210100 -0400" stop="20260421213200 -0400" channel="Discovery.US">
     <title>Jeff Dunham's The Cars That Drove Us</title>
     <desc>Cars began rolling off the assembly line over 100 years ago. Two billion vehicles later, we still can't get enough. The Cars That Drove Us takes viewers into Jeff Dunham's garage - home to 130 legendary cars. Joined by his cast of characters, Dunham reveals the storied history of era-defining rides, from the Corvette Stingray to the ill-fated Vector W8, as told by the engineers, artists, and socket slingers who built them.</desc>
@@ -1404,6 +1414,16 @@
     <desc>In the all-new series Expedition Files, adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world's most captivating and unexplained mysteries.  Each episode of Expedition Files explores compelling true stories that defy explanation, offering stunning revelations and surprising new insights.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260422210000 -0400" stop="20260422220000 -0400" channel="Bravo.US">
+    <title>Southern Hospitality</title>
+    <desc>The series follows "Southern Charm" resident boss-lady Leva Bonaparte as she manages Charleston's very own "it" crowd, otherwise known as her larger-than-life staff at Republic Garden &amp;amp; Lounge. Leva and husband Lamar own four restaurants along the city's famous King Street, but Republic is the crown jewel of their kingdom. The hottest nightclub and backdrop for Charleston's lively party scene, Republic is the place to go for pleasure, business or both.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260422210000 -0400" stop="20260422220000 -0400" channel="Bravo.US">
+    <title>Southern Hospitality</title>
+    <desc>The series follows "Southern Charm" resident boss-lady Leva Bonaparte as she manages Charleston's very own "it" crowd, otherwise known as her larger-than-life staff at Republic Garden &amp;amp; Lounge. Leva and husband Lamar own four restaurants along the city's famous King Street, but Republic is the crown jewel of their kingdom. The hottest nightclub and backdrop for Charleston's lively party scene, Republic is the place to go for pleasure, business or both.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260422210200 -0400" stop="20260422220200 -0400" channel="ABC.US">
     <title>The Greatest Average American</title>
     <desc>The Greatest Average American is a hilarious new game show that celebrates the power of being perfectly average. Each round is packed with laugh-out-loud challenges and trivia as contestants try to guess how everyday Americans think and live. In the end, one lucky player will be crowned the Greatest Average American and get the chance to win the ultimate grand prize: the average American salary of $67,920.</desc>
@@ -1432,6 +1452,11 @@
   <programme start="20260422220000 -0400" stop="20260422230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260422220000 -0400" stop="20260422223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260422220100 -0400" stop="20260422230100 -0400" channel="Discovery.US">
@@ -1907,6 +1932,11 @@
   <programme start="20260423220000 -0400" stop="20260423230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260423220000 -0400" stop="20260423223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260423220300 -0400" stop="20260423230500 -0400" channel="History.US">
@@ -3357,6 +3387,11 @@
   <programme start="20260422193000 -0400" stop="20260422200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260422193000 -0400" stop="20260422210000 -0400" channel="ABC.AU">
+    <title>Melbourne International Comedy Festival</title>
+    <desc>Each year, the red carpet rolls out, the celebrities roll up and the cameras roll for a night that proves how powerful laughter can be. A cavalcade of international and Australian comedy superstars donate their best five minutes of material in exchange for the generosity of those in the audience, and those watching in TV Land.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260422200000 -0400" stop="20260422203000 -0400" channel="ABC.AU">
