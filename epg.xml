@@ -2224,6 +2224,16 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260427233500 -0400" stop="20260428003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260427003500 -0400" stop="20260427013500 -0400" channel="NBC.US">
+    <title>Late Night with Seth Meyers</title>
+    <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260428050000 -0400" stop="20260428060000 -0400" channel="CNBC.US">
     <title>Morning Call</title>
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
@@ -2617,6 +2627,11 @@
   <programme start="20260428233000 -0400" stop="20260429003000 -0400" channel="ESPN.US">
     <title>Inside the NBA</title>
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260428233500 -0400" stop="20260429003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260421001500 -0400" stop="20260421021500 -0400" channel="BBC Two.GB">
