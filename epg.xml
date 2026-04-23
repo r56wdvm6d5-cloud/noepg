@@ -504,6 +504,11 @@
     <desc>The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260423200000 -0400" stop="20260423210000 -0400" channel="CNN.US">
+    <title>CNN Global Report: War with Iran</title>
+    <desc>Anderson Cooper reports on the latest developments in the War with Iran.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260423203000 -0400" stop="20260423210000 -0400" channel="PBS.US">
     <title>Ask This Old House</title>
     <desc>The crew at This Old House take on some pretty big projects, which means they can only work on one or two houses a year. But homeowners have a virtual truckload of questions on smaller projects, and the TOH crew is ready to answer. Ask This Old House solves the steady stream of home improvement problems faced by viewers - and the crew even makes house calls!</desc>
@@ -979,6 +984,11 @@
     <desc>Gold Rush follows six men who, in the face of an economic meltdown, risk everything - their families, their dignity, and in some cases, their lives - to strike it rich mining for gold in the wilds of Alaska. Inspired by his father Jack, Todd Hoffman of Sandy, Oregon, leads a group of greenhorn miners to forge a new frontier and save their families from dire straits. While leasing a gold claim in Alaska, Todd and his company of newbies face the grandeur of Alaska as well as its hardships, including an impending winter that will halt operations and the opportunity to strike gold. In an effort to keep the operation running, the team takes fate into their own hands with a make or break venture that will change their lives forever.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260424200000 -0400" stop="20260424210000 -0400" channel="CNN.US">
+    <title>CNN Global Report: War with Iran</title>
+    <desc>Anderson Cooper reports on the latest developments in the War with Iran.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260424203000 -0400" stop="20260424210000 -0400" channel="NBC.US">
     <title>Happy's Place</title>
     <desc>Happy's Place follows Bobbie who inherits her father's restaurant and is less than thrilled to discover that she has a new business partner in the half-sister she never knew she had.</desc>
@@ -1012,6 +1022,11 @@
   <programme start="20260424210000 -0400" stop="20260424220000 -0400" channel="PBS.US">
     <title>Great Performances: Now Hear This</title>
     <desc>Join Scott Yoo, renowned violinist and conductor of the Mexico City Philharmonic, in Now Hear This, a new four-part documentary miniseries presented by Great Performances that merges music, storytelling, travel and culture, as he chases the secret histories of some of the greatest music ever written.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260424210100 -0400" stop="20260424230100 -0400" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260424210800 -0400" stop="20260424220900 -0400" channel="Discovery.US">
@@ -1142,6 +1157,11 @@
   <programme start="20260425210000 -0400" stop="20260425220100 -0400" channel="A&amp;E.US">
     <title>Storage Wars</title>
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260425220000 -0400" stop="20260425230000 -0400" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260425220100 -0400" stop="20260425230400 -0400" channel="A&amp;E.US">
@@ -2617,6 +2637,11 @@
   <programme start="20260423200000 -0400" stop="20260423210000 -0400" channel="5.GB">
     <title>Casualty 24/7</title>
     <desc>Documentary series filmed inside Barnsley casualty department.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260423200000 -0400" stop="20260423210000 -0400" channel="National Geographic.GB">
+    <title>Car S.O.S</title>
+    <desc>We Brits love our cars but, just like any relationship, sometimes things can get a little rusty. Meet master mechanic Fuzz Townshend and radio and TV presenter Tim Shaw, a petrol-head pair who undertake dramatic automobile interventions across the UK, hoping to return some much-loved motors to their former glory. With a tight deadline to turn each job around without the owners knowing, find out how these neglected classics fell in need of a little loving care – and what Fuzz and Tim can do to get them back on the road.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260423210000 -0400" stop="20260423222000 -0400" channel="ITV1.GB">
