@@ -1144,11 +1144,6 @@
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260425210000 -0400" stop="20260425220000 -0400" channel="CNN.US">
-    <title>Kara Swisher Wants to Live Forever</title>
-    <desc>Produced by EverWonder Studio, Kara Swisher Wants to Live Forever follows journalist Kara Swisher as she embarks on a deeply personal and sharply reported journey into the rapidly expanding world of longevity science and humanity's enduring quest to cheat death."When my father died of an aneurysm at 34 years old, I was only five years old. Since then, I've thought a lot about death and how it impacts us all, for better or worse," said Swisher.  "When I started covering Silicon Valley in the early 1990s, I spent a lot of time reporting on how innovation and tech leaders could help some people while hurting others. As titans who have profoundly impacted our world, they've become interested in applying their vast fortunes and often god-like know-how to longevity, dreaming they might even be able to hack death itself. Can they? Is that a good thing? What is actual breakthrough science and what is the same old snake oil? Will that effort help all of humanity or just themselves? My goal is the same as it always has been: To find out."Inspired by her own experiences confronting mortality, Swisher investigates the promises and pitfalls of the booming longevity industry. Across the series, Swisher examines everything from anti-aging treatments and biotech breakthroughs to the role of artificial intelligence, the influence of Silicon Valley, and the growing cultural obsession with extending life. Along the way, she explores how wealth, access to healthcare, and social connection shape who benefits from these innovations, and whether humanity's pursuit of longer lives is changing how we think about death itself.Throughout the series, Swisher sits down with a range of voices at the center of the longevity conversation, including OpenAI CEO Sam Altman, entrepreneur Bryan Johnson, CRISPR pioneer and Nobel Prize winner Jennifer Doudna, entrepreneur and professor Scott Galloway, and Reed Jobs, whose work is shaped by his family's personal encounter with cancer. The series takes Swisher from exclusive concierge medical clinics to cutting-edge biotech labs and international healthcare systems, including a visit to South Korea to examine how preventative care and innovation have contributed to the country's high life expectancy.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260425220100 -0400" stop="20260425230400 -0400" channel="A&amp;E.US">
     <title>Duck Dynasty: The Revival</title>
     <desc>Duck Dynasty: The Revival centers on Willie and Korie Robertson as they navigate life with their growing family of adult children and grandchildren, now part of the next generation carrying on the Robertson legacy at their Louisiana homestead. As the family business expands beyond ducks, Willie and Korie bring their signature wit and down-home charm while they explore the future of Duck Commander, support their children through marriage, parenthood, and entrepreneurship, and work to keep their legacy alive. However, Willie quickly realizes that this next generation isn't as Robertson as he originally thought.</desc>
@@ -2952,6 +2947,11 @@
   <programme start="20260427185500 -0400" stop="20260427190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260427193000 -0400" stop="20260427200000 -0400" channel="ITV1.GB">
+    <title>How to Clean Up for Cash</title>
+    <desc>Josie Gibson presents as families have a loved one's clutter cleared and valued in secret by antiques expert Dan Hatfield and declutterer Jacqueline McLeod.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260427195500 -0400" stop="20260427200000 -0400" channel="5.GB">
