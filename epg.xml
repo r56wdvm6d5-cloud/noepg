@@ -1289,6 +1289,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260427233500 -0400" stop="20260428003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260427003500 -0400" stop="20260427013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1699,6 +1704,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260428233500 -0400" stop="20260429003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260428003500 -0400" stop="20260428013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -2079,6 +2089,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260429220000 -0400" stop="20260429230000 -0400" channel="A&amp;E.US">
+    <title>Southern Law</title>
+    <desc>Southern Law follows law enforcement officers across the South as they respond to calls, protect their communities, and face the realities of policing in one of the country's most dynamic regions.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260429220100 -0400" stop="20260429230100 -0400" channel="Discovery.US">
     <title>Conspiracies &amp; Coverups</title>
     <desc>Driven by a relentless hunt for the truth, Bustamante pulls back the curtain on modern-day mysteries that blur the line between fact and fiction. Using his unique perspective and insider techniques, he investigates, pressure-tests, and challenges prevailing narratives to reveal the hidden forces behind these events and the motives used to manipulate the truth.</desc>
@@ -2112,6 +2127,16 @@
   <programme start="20260429233500 -0400" stop="20260430003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260429233500 -0400" stop="20260430003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260429233500 -0400" stop="20260430003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260429003500 -0400" stop="20260429013500 -0400" channel="NBC.US">
@@ -2532,6 +2557,11 @@
   <programme start="20260430230000 -0400" stop="20260501000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260430233500 -0400" stop="20260501003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260423000000 -0400" stop="20260423020000 -0400" channel="BBC Two.GB">
