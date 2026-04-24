@@ -274,11 +274,6 @@
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260424120000 -0400" stop="20260424130000 -0400" channel="NFL Network.US">
-    <title>The NFL Draft</title>
-    <desc>Each year since 1936, the National Football League (NFL) has hosted its annual player selection meeting aptly called The NFL Draft, during which teams select eligible amateur football players first televised in 1980 on ESPN.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260424120000 -0400" stop="20260424140000 -0400" channel="MS NOW.US">
     <title>Chris Jansing Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -322,6 +317,11 @@
   <programme start="20260424130000 -0400" stop="20260424140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260424130000 -0400" stop="20260424160000 -0400" channel="NFL Network.US">
+    <title>The NFL Draft</title>
+    <desc>Each year since 1936, the National Football League (NFL) has hosted its annual player selection meeting aptly called The NFL Draft, during which teams select eligible amateur football players first televised in 1980 on ESPN.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260424133000 -0400" stop="20260424140000 -0400" channel="CBS.US">
@@ -442,6 +442,11 @@
   <programme start="20260424183000 -0400" stop="20260424190000 -0400" channel="ABC.US">
     <title>ABC World News Tonight with David Muir</title>
     <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260424190000 -0400" stop="20260424230000 -0400" channel="NFL Network.US">
+    <title>The NFL Draft</title>
+    <desc>Each year since 1936, the National Football League (NFL) has hosted its annual player selection meeting aptly called The NFL Draft, during which teams select eligible amateur football players first televised in 1980 on ESPN.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260424190000 -0400" stop="20260424200000 -0400" channel="MS NOW.US">
@@ -2459,6 +2464,11 @@
     <desc>Scrabble is a captivating, fast-paced take on the global board-game phenomenon. In each episode, wordsmiths battle it out playing a series of addictive, word-based games to win points and add words to a giant SCRABBLE board in the center of the set.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260430200000 -0400" stop="20260430210000 -0400" channel="A&amp;E.US">
+    <title>The First 48</title>
+    <desc>The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260430203000 -0400" stop="20260430210000 -0400" channel="PBS.US">
     <title>Ask This Old House</title>
     <desc>The crew at This Old House take on some pretty big projects, which means they can only work on one or two houses a year. But homeowners have a virtual truckload of questions on smaller projects, and the TOH crew is ready to answer. Ask This Old House solves the steady stream of home improvement problems faced by viewers - and the crew even makes house calls!</desc>
@@ -2824,6 +2834,11 @@
     <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260427070000 -0400" stop="20260427072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260427104500 -0400" stop="20260427113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
@@ -2919,6 +2934,11 @@
     <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260428070000 -0400" stop="20260428072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260428104500 -0400" stop="20260428113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
@@ -3009,6 +3029,11 @@
     <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260429070000 -0400" stop="20260429072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260429104500 -0400" stop="20260429113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
@@ -3082,6 +3107,11 @@
   <programme start="20260429000000 -0400" stop="20260429020000 -0400" channel="BBC Two.GB">
     <title>World Championship Snooker Highlights</title>
     <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260430070000 -0400" stop="20260430072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260430104500 -0400" stop="20260430113000 -0400" channel="BBC One.GB">
