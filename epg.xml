@@ -2534,6 +2534,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260501220000 -0400" stop="20260501230000 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260501220100 -0400" stop="20260501230100 -0400" channel="Discovery.US">
     <title>Gold Rush: Mine Rescue with Freddy &amp; Juan</title>
     <desc>Freddy Dodge is no stranger when it comes to gold mining. With nearly 40 years of mining under his belt, he's known around the world as the "Gold Guru" and the person struggling mine owners call when they're striking out. Now he's going on the road to help struggling mine owners to hit the motherlode in Gold Rush: Mine Rescue with Freddy &amp;amp; Juan. To help him turnaround the operations, Freddy has teamed up with expert mechanic and fellow Gold Rush miner Juan Ibarra. At each location, the mining duo will use their knowledge of geology, prospecting, drilling and testing to get back on the paydirt. But it isn't just running their dirt faster. It's about making the operations better, and more importantly, running cheaper.</desc>
@@ -2562,6 +2567,11 @@
   <programme start="20260424005000 -0400" stop="20260424025000 -0400" channel="BBC Two.GB">
     <title>World Championship Snooker Highlights</title>
     <desc>Daily highlights of the Snooker World Championship from The Crucible in Sheffield.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260425120000 -0400" stop="20260425124500 -0400" channel="BBC One.GB">
+    <title>Football Focus</title>
+    <desc>A preview of all the top footballing action with detailed analysis from an expert panel of guests.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260425133000 -0400" stop="20260425140000 -0400" channel="BBC One.GB">
