@@ -153,7 +153,12 @@
     <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260426070000 -0400" stop="20260426100000 -0400" channel="MS NOW.US">
+  <programme start="20260426050000 -0400" stop="20260426060000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260426060000 -0400" stop="20260426100000 -0400" channel="MS NOW.US">
     <title>The Weekend</title>
     <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
     <category>TV Show</category>
@@ -2928,6 +2933,11 @@
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260427123000 -0400" stop="20260427133000 -0400" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260427124500 -0400" stop="20260427125000 -0400" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -3031,6 +3041,11 @@
   <programme start="20260428104500 -0400" stop="20260428113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260428123000 -0400" stop="20260428133000 -0400" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260428124500 -0400" stop="20260428125000 -0400" channel="5.GB">
@@ -3146,6 +3161,11 @@
   <programme start="20260429104500 -0400" stop="20260429113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260429123000 -0400" stop="20260429133000 -0400" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260429124500 -0400" stop="20260429125000 -0400" channel="5.GB">
@@ -3268,6 +3288,11 @@
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260430123000 -0400" stop="20260430133000 -0400" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260430124500 -0400" stop="20260430125000 -0400" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -3351,6 +3376,11 @@
   <programme start="20260501104500 -0400" stop="20260501113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260501123000 -0400" stop="20260501133000 -0400" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260501124500 -0400" stop="20260501125000 -0400" channel="5.GB">
