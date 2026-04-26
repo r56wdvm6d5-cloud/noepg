@@ -253,7 +253,7 @@
     <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260426200000 -0400" stop="20260426203000 -0400" channel="FOX.US">
+  <programme start="20260426200000 -0400" stop="20260426203100 -0400" channel="FOX.US">
     <title>Family Guy</title>
     <desc>Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</desc>
     <category>TV Show</category>
@@ -273,7 +273,7 @@
     <desc>The series follows Bob who runs Bob's Burgers, with the help of his wife and their three kids. Bob has big ideas about burgers, but the rest of the clan falls short on service. Despite the greasy counters and lousy location, the Belchers are determined to make every "Grand Re-Re-Re-opening" a success. Bob's wife, Linda, stands by her man and often does so by bursting into song. Their eldest daughter, 13-year-old Tina has a slight obsession with boys and zombies. Middle child Gene is an aspiring musician with a thirst for life. Louise is the bunny ears-wearing youngest daughter with an off-kilter sense of humor that makes her somewhat of a liability in the kitchen – and with the public.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260426210000 -0400" stop="20260426220000 -0400" channel="HBO.US">
+  <programme start="20260426210000 -0400" stop="20260426220500 -0400" channel="HBO.US">
     <title>Euphoria</title>
     <desc>Euphoria follows a group of high school students as they navigate love and friendships in a world of drugs, sex, trauma, and social media.</desc>
     <category>TV Show</category>
@@ -313,11 +313,6 @@
     <desc>In Watson a year after the death of his friend and partner Sherlock Holmes at the hands of Moriarty, Dr. John Watson resumes his medical career as the head of a clinic dedicated to treating rare disorders. Watson's old life isn't done with him, though — Moriarty and Watson are set to write their own chapter of a story that has fascinated audiences for more than a century. Watson is a medical show with a strong investigative spine, featuring a modern version of one of history's greatest detectives as he turns his attention from solving crimes to addressing the greatest mystery of all: illness, and the ways it disrupts our lives.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260426220000 -0400" stop="20260426230000 -0400" channel="HBO.US">
-    <title>Rooster</title>
-    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260426220000 -0400" stop="20260426230000 -0400" channel="CNN.US">
     <title>Eva Longoria: Searching for France</title>
     <desc>Often referred to as the food capital of the world, France has long been synonymous with culinary excellence. In the tradition of her journeys in Searching for Mexico and Searching for Spain, Eva Longoria discovers the iconic origins of French cuisine, where the dining experience was first elevated to an art form. Throughout multiple regions, CNN Original Series Eva Longoria: Searching for France will be at the crossroads of centuries old gastronomic tradition and cutting-edge creativity in a country whose national identity is defined by its rich culinary history. A devoted Francophile whose career has taken her to France countless times, Longoria now goes deeper, savoring the traditions, innovations and regional flavors that have defined French cuisine for centuries. She spends real time with the chefs, artisans and families that both safeguard and evolve that extraordinary legacy. Along the way she uncovers the history that shaped it, from royal courts and monastic vineyards to the regional communities that turned local ingredients into enduring culinary traditions.</desc>
@@ -341,6 +336,11 @@
   <programme start="20260426220300 -0400" stop="20260426230500 -0400" channel="History.US">
     <title>The Food That Built America</title>
     <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260426220500 -0400" stop="20260426223600 -0400" channel="HBO.US">
+    <title>Rooster</title>
+    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260426223000 -0400" stop="20260426230000 -0400" channel="HBO.US">
@@ -3063,6 +3063,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260428190000 -0400" stop="20260428195500 -0400" channel="5.GB">
+    <title>Michael Portillo in Stockholm</title>
+    <desc>Michael Portillo gives tips on enjoying a stay in the Swedish capital of Stockholm for a mid-winter expedition, brimming with Nordic hospitality and adventure.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260428191500 -0400" stop="20260428200000 -0400" channel="ITV1.GB">
     <title>The Martin Lewis Money Show Live</title>
     <desc>Consumer champion Martin Lewis helps with all things money-related in his BAFTA-nominated show. When household budgets are squeezed, Martin shows you how to make yours go further.</desc>
@@ -3166,6 +3171,11 @@
   <programme start="20260429185500 -0400" stop="20260429190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260429190000 -0400" stop="20260429195500 -0400" channel="5.GB">
+    <title>Michael Portillo in Stockholm</title>
+    <desc>Michael Portillo gives tips on enjoying a stay in the Swedish capital of Stockholm for a mid-winter expedition, brimming with Nordic hospitality and adventure.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260429193000 -0400" stop="20260429200000 -0400" channel="ITV1.GB">
@@ -3281,6 +3291,11 @@
   <programme start="20260430185500 -0400" stop="20260430190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260430190000 -0400" stop="20260430195500 -0400" channel="5.GB">
+    <title>Michael Portillo in Stockholm</title>
+    <desc>Michael Portillo gives tips on enjoying a stay in the Swedish capital of Stockholm for a mid-winter expedition, brimming with Nordic hospitality and adventure.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260430193000 -0400" stop="20260430200000 -0400" channel="ITV1.GB">
