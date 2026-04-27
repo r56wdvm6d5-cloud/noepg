@@ -2104,6 +2104,11 @@
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260430233500 -0400" stop="20260501003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260501050000 -0400" stop="20260501060000 -0400" channel="CNBC.US">
     <title>Morning Call</title>
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
@@ -2724,6 +2729,11 @@
     <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260503190000 -0400" stop="20260503200000 -0400" channel="ABC.US">
+    <title>America's Funniest Home Videos</title>
+    <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260503200000 -0400" stop="20260503210000 -0400" channel="CBS.US">
     <title>Marshals</title>
     <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
@@ -3274,6 +3284,11 @@
     <desc>Paul Merton climbs into the driver's cab to take charge of some of the world's most iconic locomotives, learning what it takes to keep them running and meeting the people who keep the railways running.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260430200000 -0400" stop="20260430210000 -0400" channel="5.GB">
+    <title>Casualty 24/7</title>
+    <desc>Documentary series filmed inside Barnsley casualty department.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260430210000 -0400" stop="20260430220000 -0400" channel="Channel 4.GB">
     <title>Taskmaster</title>
     <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
@@ -3287,6 +3302,16 @@
   <programme start="20260430220000 -0400" stop="20260430230000 -0400" channel="TRUE CRIME.GB">
     <title>Britain's Almost Perfect Murders</title>
     <desc>Britain's Almost Perfect Murders follows expert-led, forensic investigations of cases where meticulous, near-flawless crimes were ultimately uncovered due to tiny, overlooked fatal mistakes by the perpetrators.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260430220000 -0400" stop="20260430230000 -0400" channel="5.GB">
+    <title>Snatched</title>
+    <desc>In 1991, Vicky Hamilton and Dinah McNicol vanished six months apart. The cases stayed cold until 2006, when Angelika Kluk's murder led to an arrest as DNA linked the perpetrator to all three.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260430220000 -0400" stop="20260430230000 -0400" channel="National Geographic.GB">
+    <title>Engineering Europe</title>
+    <desc>This series reveals the extraordinary secrets of Europe's engineering wonders. Filmed across six great nations, it will explore record-breaking construction projects, innovative machines and vehicles, and ingenious design. It will also reveal the hidden engineering that drives Europe's most iconic landmarks and the people who keep them working today.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260501070000 -0400" stop="20260501072200 -0400" channel="ITV1.GB">
