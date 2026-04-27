@@ -1459,14 +1459,14 @@
     <desc>Three celebrated food experts put the latest group of contestants through a series of challenging elimination rounds and turn one home cook into a culinary master.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260429200000 -0400" stop="20260429210000 -0400" channel="The CW.US">
-    <title>Police 24/7</title>
-    <desc>Fearless men and women in law enforcement agencies across eight U.S. cities demonstrate what it takes to keep the streets safe from crime.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260429200000 -0400" stop="20260429210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260429200000 -0400" stop="20260429210000 -0400" channel="The CW.US">
+    <title>Police 24/7</title>
+    <desc>Fearless men and women in law enforcement agencies across eight U.S. cities demonstrate what it takes to keep the streets safe from crime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260429210000 -0400" stop="20260429220000 -0400" channel="PBS.US">
@@ -3044,11 +3044,6 @@
     <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260428210000 -0400" stop="20260428220000 -0400" channel="BBC One.GB">
-    <title>MasterChef</title>
-    <desc>Into the kitchen and under the spotlight. Amateur cooks duel it out for the right to be called the MasterChef UK Champion.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260428210000 -0400" stop="20260428220000 -0400" channel="5.GB">
     <title>Trial By Jury: Murder in Shetland</title>
     <desc>When 24-year-old Canadian Claire Leveque travelled to Scotland's remote Shetland Islands to be with her boyfriend, she believed she was beginning an exciting adventure, but within months she was dead. This programme take viewers inside the courtroom, follows the eight-day murder trial of Aren Pearson that laid bare the final moments of Claire's life in February 2024. Through testimony, archive and intimate family access, this is a gripping account of love, control and isolation.</desc>
@@ -3162,11 +3157,6 @@
   <programme start="20260429200000 -0400" stop="20260429210000 -0400" channel="Sky Arts.GB">
     <title>Making a Maestro</title>
     <desc>Step onto the podium as young conductors face the London Symphony Orchestra in a high stakes battle to prove they can become a maestro.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260429210000 -0400" stop="20260429220000 -0400" channel="BBC One.GB">
-    <title>MasterChef</title>
-    <desc>Into the kitchen and under the spotlight. Amateur cooks duel it out for the right to be called the MasterChef UK Champion.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260429210000 -0400" stop="20260429220000 -0400" channel="E4.GB">
@@ -3289,11 +3279,6 @@
     <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260430210000 -0400" stop="20260430220000 -0400" channel="BBC One.GB">
-    <title>MasterChef</title>
-    <desc>Into the kitchen and under the spotlight. Amateur cooks duel it out for the right to be called the MasterChef UK Champion.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260430210000 -0400" stop="20260430220000 -0400" channel="5.GB">
     <title>The Hotel Inspector</title>
     <desc>Look who's coming to stay! Hotelier Alex Polizzi is on a quest to turn Britain's hotels of horror into relaxing retreats.</desc>
@@ -3387,6 +3372,16 @@
   <programme start="20260502120000 -0400" stop="20260502124500 -0400" channel="BBC One.GB">
     <title>Football Focus</title>
     <desc>A preview of all the top footballing action with detailed analysis from an expert panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260502140000 -0400" stop="20260502150000 -0400" channel="5.GB">
+    <title>Catching Up With the Royals</title>
+    <desc>Catching Up With the Royals is a brand-new weekly visualised podcast for 5, offering audiences a smart, entertaining and always-curious look at the royal family.Every week Reverend Richard Coles and royal journalist Emily Andrews deep dive on the latest royal news, inside whispers and intel from their royal sources to lift the lid on what life is really like behind palace walls. They'll also look back on key moments from history that informed the way the monarchy is today and answer viewer/listener questions about the royal topics they've always wanted to know more about.The show delivers fresh perspective and behind-the-scenes access into Britain's most famous institution with warmth, humour and genuine insider knowledge bringing viewers and listeners closer than ever to the monarchy both past and present.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260502140000 -0400" stop="20260502150000 -0400" channel="ITV1.GB">
+    <title>Dermot's Taste of Ireland</title>
+    <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260502174000 -0400" stop="20260502182500 -0400" channel="BBC One.GB">
