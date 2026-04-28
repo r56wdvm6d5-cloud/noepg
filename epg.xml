@@ -2634,6 +2634,11 @@
     <desc>American Idol is an American singing competition show, where contestants perform in front of a panel of star judges, representing the music industry. The winner is determined by viewers' vote.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260504200000 -0400" stop="20260504210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Airport</title>
+    <desc>Follows Dept of Homeland Security officers at five different airports across the country, from San Francisco, Detroit, Newark, Atlanta, and Honolulu, as they search for contraband both leaving and coming into the US.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260504203000 -0400" stop="20260504210000 -0400" channel="CBS.US">
     <title>DMV</title>
     <desc>DMV is set at the place everyone dreads going most: the DMV. Our quirky and lovable characters are making minimum wage, doing a thankless job where customers are annoyed before they even walk in the door. Good thing they have each other.</desc>
