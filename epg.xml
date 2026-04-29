@@ -76,10 +76,6 @@
     <display-name>History</display-name>
     <country>US</country>
   </channel>
-  <channel id="STARZ.US">
-    <display-name>STARZ</display-name>
-    <country>US</country>
-  </channel>
   <channel id="HBO.US">
     <display-name>HBO</display-name>
     <country>US</country>
@@ -1499,11 +1495,6 @@
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260501200000 -0400" stop="20260501210000 -0400" channel="STARZ.US">
-    <title>Outlander</title>
-    <desc>Outlander follows the story of Claire Randall, a married combat nurse from 1945 who is mysteriously swept back in time to 1743, where she is immediately thrown into an unknown world where her life is threatened. When she is forced to marry Jamie, a chivalrous and romantic young Scottish warrior, a passionate affair is ignited that tears Claire's heart between two vastly different men in two irreconcilable lives.The Outlander series, adapted from Diana Gabaldon's international best-selling books, spans the genres of romance, science fiction, history and adventure into one epic tale.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260501200000 -0400" stop="20260501210000 -0400" channel="CBS.US">
     <title>Sheriff Country</title>
     <desc>Sheriff Country focuses on straight-shooting sheriff Mickey Fox, the stepsister of Cal Fire's division chief Sharon Leone, who investigates criminal activity as she patrols the streets of small-town Edgewater while contending with her ex-con father, Wes, who is an off-the-grid marijuana grower, and a mysterious incident involving her wayward daughter.</desc>
@@ -2914,6 +2905,11 @@
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260504103000 -0400" stop="20260504105900 -0400" channel="BBC One.GB">
+    <title>Peelers: The PSNI for Real</title>
+    <desc>Unfiltered and up close. The realities and challenges of 24/7 policing in Belfast. Stephen Nolan gets a powerful insight into law and order on the front line.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260504104500 -0400" stop="20260504113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
@@ -2952,6 +2948,11 @@
   <programme start="20260505070000 -0400" stop="20260505072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505103000 -0400" stop="20260505105900 -0400" channel="BBC One.GB">
+    <title>Peelers: The PSNI for Real</title>
+    <desc>Unfiltered and up close. The realities and challenges of 24/7 policing in Belfast. Stephen Nolan gets a powerful insight into law and order on the front line.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260505104500 -0400" stop="20260505113000 -0400" channel="BBC One.GB">
