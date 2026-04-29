@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
+    <country>US</country>
+  </channel>
   <channel id="NBC.US">
     <display-name>NBC</display-name>
     <country>US</country>
   </channel>
   <channel id="CNBC.US">
     <display-name>CNBC</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
     <country>US</country>
   </channel>
   <channel id="Fox News Channel.US">
@@ -140,6 +140,11 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
+  <programme start="20260428000000 -0400" stop="20260428020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260428003500 -0400" stop="20260428013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -560,6 +565,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260429210000 -0400" stop="20260429220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260429213000 -0400" stop="20260429220100 -0400" channel="A&amp;E.US">
     <title>K9 PD with Jim Belushi</title>
     <desc>K9 PD with Jim Belushi showcases intense moments caught on camera of officers and their K9 partners facing high-stakes calls, told through gripping footage from surveillance cameras, body and dash cams, drones and more. Actor and lifelong K9 advocate Jim Belushi returns to the world of heroic K9s—only this time, it's for real—serving as host of the series, which captures the courage, precision, and raw instinct behind one of law enforcement's most formidable partnerships.</desc>
@@ -600,6 +610,11 @@
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260429220000 -0400" stop="20260429230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260429220100 -0400" stop="20260429230100 -0400" channel="Discovery.US">
     <title>Conspiracies &amp; Coverups</title>
     <desc>Driven by a relentless hunt for the truth, Bustamante pulls back the curtain on modern-day mysteries that blur the line between fact and fiction. Using his unique perspective and insider techniques, he investigates, pressure-tests, and challenges prevailing narratives to reveal the hidden forces behind these events and the motives used to manipulate the truth.</desc>
@@ -625,6 +640,11 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260429230000 -0400" stop="20260430000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260429233000 -0400" stop="20260430003000 -0400" channel="ESPN.US">
     <title>Inside the NBA</title>
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
@@ -638,6 +658,16 @@
   <programme start="20260429233500 -0400" stop="20260430003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260429000000 -0400" stop="20260429020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260429000000 -0400" stop="20260429020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260429003500 -0400" stop="20260429013500 -0400" channel="NBC.US">
@@ -1095,6 +1125,11 @@
     <desc>Predator Hunters, following 30-year veteran investigator Detective Tony Godwin and his team within the North Texas-based Internet Crimes Against Children (ICAC) Task Force as they uncover online exploitation and bring perpetrators to justice before they harm any children. The series provides first-hand access to real investigations as Godwin - who has partnered with the FBI, Homeland Security, and the U.S. Secret Service - opens his case files for the first time.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260430210000 -0400" stop="20260430220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260430220000 -0400" stop="20260430230000 -0400" channel="NBC.US">
     <title>The Hunting Party</title>
     <desc>When a secret prison suffers a mysterious explosion that allows the nation's most violent serial killers to escape, a former profiler is thrust back into a thrilling game of cat and mouse. Alongside a team of soldiers, spies and special agents, she has no choice but to track down and recapture these dangerous criminals… before they kill again.</desc>
@@ -1125,6 +1160,11 @@
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260430220000 -0400" stop="20260430230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260430220300 -0400" stop="20260430230500 -0400" channel="History.US">
     <title>The Proof Is Out There: Alien Edition</title>
     <desc>In this special edition series of The Proof Is Out There, journalist Tony Harris will present compelling evidence of UFO sightings from around the globe. Are these videos proof that aliens exist? Tony and a team of experts will analyze the evidence and render a verdict.</desc>
@@ -1150,6 +1190,11 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260430230000 -0400" stop="20260501000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260430233500 -0400" stop="20260501003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
@@ -1158,6 +1203,16 @@
   <programme start="20260430233500 -0400" stop="20260501003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260430000000 -0400" stop="20260430020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260430000000 -0400" stop="20260430020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260430003500 -0400" stop="20260430013500 -0400" channel="NBC.US">
@@ -1565,6 +1620,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260501210000 -0400" stop="20260501220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260501220000 -0400" stop="20260501230000 -0400" channel="CBS.US">
     <title>Boston Blue</title>
     <desc>In Boston Blue, NYPD Detective Danny Reagan takes a position with Boston PD. Once in Boston, he is paired with Detective Lena Silver, the eldest daughter of a prominent law enforcement family.</desc>
@@ -1590,6 +1650,11 @@
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260501220000 -0400" stop="20260501230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260501220100 -0400" stop="20260501230100 -0400" channel="Discovery.US">
     <title>Gold Rush: Mine Rescue with Freddy &amp; Juan</title>
     <desc>Freddy Dodge is no stranger when it comes to gold mining. With nearly 40 years of mining under his belt, he's known around the world as the "Gold Guru" and the person struggling mine owners call when they're striking out. Now he's going on the road to help struggling mine owners to hit the motherlode in Gold Rush: Mine Rescue with Freddy &amp;amp; Juan. To help him turnaround the operations, Freddy has teamed up with expert mechanic and fellow Gold Rush miner Juan Ibarra. At each location, the mining duo will use their knowledge of geology, prospecting, drilling and testing to get back on the paydirt. But it isn't just running their dirt faster. It's about making the operations better, and more importantly, running cheaper.</desc>
@@ -1613,6 +1678,21 @@
   <programme start="20260501230000 -0400" stop="20260502000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260501230000 -0400" stop="20260502000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260501000000 -0400" stop="20260501020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260501000000 -0400" stop="20260501020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260502070000 -0400" stop="20260502100000 -0400" channel="MS NOW.US">
@@ -2240,6 +2320,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260504210000 -0400" stop="20260504220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260504210200 -0400" stop="20260504220000 -0400" channel="FOX.US">
     <title>The Quiz with Balls</title>
     <desc>The Quiz with Balls pits brains against balls combining a high-stakes quiz show with a large-scale physical competition. Each episode features two families competing for $100,000 in a "battle of the balls".</desc>
@@ -2275,6 +2360,11 @@
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260504220000 -0400" stop="20260504230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260504220300 -0400" stop="20260504230500 -0400" channel="History.US">
     <title>History's Greatest Warriors</title>
     <desc>History's Greatest Warriors explores the step-by-step process to produce some of history's most infamous and lethal warriors. Each episode introduces viewers to a legendary fighter - from Samurai, Spartans, Delta Force, Navy SEALS, Vikings, and more - and breaks down the selection, training, weaponry, and combat expertise specifically used.</desc>
@@ -2293,6 +2383,21 @@
   <programme start="20260504230000 -0400" stop="20260505000000 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260504230000 -0400" stop="20260505000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260504000000 -0400" stop="20260504020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260504000000 -0400" stop="20260504020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260504003500 -0400" stop="20260504013500 -0400" channel="NBC.US">
@@ -2905,11 +3010,6 @@
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260504103000 -0400" stop="20260504105900 -0400" channel="BBC One.GB">
-    <title>Peelers: The PSNI for Real</title>
-    <desc>Unfiltered and up close. The realities and challenges of 24/7 policing in Belfast. Stephen Nolan gets a powerful insight into law and order on the front line.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260504104500 -0400" stop="20260504113000 -0400" channel="BBC One.GB">
     <title>Rip Off Britain</title>
     <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
@@ -2948,11 +3048,6 @@
   <programme start="20260505070000 -0400" stop="20260505072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505103000 -0400" stop="20260505105900 -0400" channel="BBC One.GB">
-    <title>Peelers: The PSNI for Real</title>
-    <desc>Unfiltered and up close. The realities and challenges of 24/7 policing in Belfast. Stephen Nolan gets a powerful insight into law and order on the front line.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260505104500 -0400" stop="20260505113000 -0400" channel="BBC One.GB">
