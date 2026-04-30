@@ -1101,6 +1101,11 @@
     <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260501210000 -0400" stop="20260501230000 -0400" channel="ABC.US">
+    <title>20/20</title>
+    <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260501220000 -0400" stop="20260501230000 -0400" channel="CBS.US">
     <title>Boston Blue</title>
     <desc>In Boston Blue, NYPD Detective Danny Reagan takes a position with Boston PD. Once in Boston, he is paired with Detective Lena Silver, the eldest daughter of a prominent law enforcement family.</desc>
