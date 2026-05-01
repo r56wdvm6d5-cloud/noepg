@@ -2230,6 +2230,11 @@
     <desc>Interior Design Masters takes ten fledgling designers and launches them into the world of interior design. With eight weeks and eight different challenges to tackle, in each episode the designers will be confronted with a new space to transform in an attempt to win the grand prize offer of a life changing design contract.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="Channel 4.GB">
+    <title>Jamie's Ultimate BBQ</title>
+    <desc>Fresh air, good vibes, and woodsmoked wonders! Jamie Oliver shows us how to get outside, get cooking and get those flavours and textures that the kitchen just can't match.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260505203000 -0400" stop="20260505210000 -0400" channel="BBC Alba.GB">
     <title>Mas Fhior</title>
     <desc>Niall Iain Macdonald hosts a quiz show where more than general knowledge is required to win. Standing in the way of our two teams from winning are the Pretenders who, from the comfort of their own homes, are on a mission to fox our contestants.</desc>
@@ -2243,6 +2248,16 @@
   <programme start="20260505210000 -0400" stop="20260505220500 -0400" channel="E4.GB">
     <title>Celebs Go Dating</title>
     <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505210000 -0400" stop="20260505233000 -0400" channel="Sky Arts.GB">
+    <title>National Theatre Live</title>
+    <desc>Sky Arts presents live stage adaptations of classics.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="Quest.GB">
+    <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
+    <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260505220000 -0400" stop="20260505230000 -0400" channel="TRUE CRIME.GB">
