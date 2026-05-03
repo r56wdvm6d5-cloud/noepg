@@ -302,7 +302,7 @@
   </programme>
   <programme start="20260503220000 -0400" stop="20260503230000 -0400" channel="ABC.US">
     <title>Betrayal: Secrets &amp; Lies</title>
-    <desc>Based on the No. 1 true crime podcast, new weekly docuseries featuring a new story each week. The eight episodes follow lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
+    <desc>The series follows lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260503220000 -0400" stop="20260503223000 -0400" channel="Bravo.US">
@@ -435,6 +435,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260504090000 -0400" stop="20260504100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260504100000 -0400" stop="20260504120000 -0400" channel="MS NOW.US">
     <title>Ana Cabrera Reports</title>
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
@@ -468,6 +473,11 @@
   <programme start="20260504110000 -0400" stop="20260504120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260504110000 -0400" stop="20260504120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260504120000 -0400" stop="20260504140000 -0400" channel="MS NOW.US">
@@ -588,6 +598,11 @@
   <programme start="20260504170000 -0400" stop="20260504180000 -0400" channel="Newsmax.US">
     <title>Ed Henry the Big Take</title>
     <desc>Ed Henry offers his common-sense take on the news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260504173000 -0400" stop="20260504180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260504180000 -0400" stop="20260504190000 -0400" channel="MS NOW.US">
@@ -855,6 +870,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260505090000 -0400" stop="20260505100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260505100000 -0400" stop="20260505120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -878,6 +898,11 @@
   <programme start="20260505110000 -0400" stop="20260505120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505110000 -0400" stop="20260505120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260505120000 -0400" stop="20260505130000 -0400" channel="CNBC.US">
@@ -938,6 +963,11 @@
   <programme start="20260505170000 -0400" stop="20260505190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505173000 -0400" stop="20260505180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260505180000 -0400" stop="20260505190000 -0400" channel="MS NOW.US">
@@ -1130,6 +1160,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260506090000 -0400" stop="20260506100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260506100000 -0400" stop="20260506120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1148,6 +1183,11 @@
   <programme start="20260506110000 -0400" stop="20260506120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260506110000 -0400" stop="20260506120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260506120000 -0400" stop="20260506130000 -0400" channel="CNN.US">
@@ -1193,6 +1233,11 @@
   <programme start="20260506170000 -0400" stop="20260506190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260506173000 -0400" stop="20260506180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260506180000 -0400" stop="20260506190000 -0400" channel="MS NOW.US">
@@ -1385,6 +1430,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260507090000 -0400" stop="20260507100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260507100000 -0400" stop="20260507120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1403,6 +1453,11 @@
   <programme start="20260507110000 -0400" stop="20260507120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260507110000 -0400" stop="20260507120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260507120000 -0400" stop="20260507130000 -0400" channel="CNN.US">
@@ -1453,6 +1508,11 @@
   <programme start="20260507170000 -0400" stop="20260507190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260507173000 -0400" stop="20260507180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260507180000 -0400" stop="20260507190000 -0400" channel="MS NOW.US">
@@ -1655,6 +1715,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260508090000 -0400" stop="20260508100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260508100000 -0400" stop="20260508120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1673,6 +1738,11 @@
   <programme start="20260508110000 -0400" stop="20260508120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260508110000 -0400" stop="20260508120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260508120000 -0400" stop="20260508130000 -0400" channel="CNN.US">
@@ -1723,6 +1793,11 @@
   <programme start="20260508170000 -0400" stop="20260508190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260508173000 -0400" stop="20260508180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260508180000 -0400" stop="20260508190000 -0400" channel="MS NOW.US">
