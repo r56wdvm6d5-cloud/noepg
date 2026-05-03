@@ -24,6 +24,10 @@
     <display-name>CNN</display-name>
     <country>US</country>
   </channel>
+  <channel id="ESPN.US">
+    <display-name>ESPN</display-name>
+    <country>US</country>
+  </channel>
   <channel id="A&amp;E.US">
     <display-name>A&amp;E</display-name>
     <country>US</country>
@@ -62,10 +66,6 @@
   </channel>
   <channel id="NFL Network.US">
     <display-name>NFL Network</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="ESPN.US">
-    <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
@@ -210,6 +210,11 @@
     <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260503180000 -0400" stop="20260503190000 -0400" channel="ESPN.US">
+    <title>Inside the NBA</title>
+    <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260503190000 -0400" stop="20260503200000 -0400" channel="ABC.US">
     <title>America's Funniest Home Videos</title>
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
@@ -240,7 +245,7 @@
     <desc>Each week on Naked and Afraid, a new pair of complete and total strangers - one man and one woman - will find themselves stranded in and, quite literally, exposed to one of the world's most extreme weather environments. This duo will be left high and dry with no food, no water... and no clothes. They must survive on their own for a full 21 days, with nothing but one personal item each and the knowledge that the only prize is their pride and sense of accomplishment.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260503200000 -0400" stop="20260503203100 -0400" channel="FOX.US">
+  <programme start="20260503200000 -0400" stop="20260503203000 -0400" channel="FOX.US">
     <title>Family Guy</title>
     <desc>Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</desc>
     <category>TV Show</category>
@@ -2500,9 +2505,19 @@
     <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260503201500 -0400" stop="20260503204000 -0400" channel="ABC.AU">
+  <programme start="20260503201500 -0400" stop="20260503203900 -0400" channel="ABC.AU">
     <title>Bad Company</title>
     <desc>Set within the crumbling walls of The Argyle, a venerable iconic theatre company on the brink of bankruptcy, Bad Company follows Margie, the Argyle's volatile artistic director, whose unchecked whims have sent the company spiraling, and Julia a high-flying corporate executive brought in to clean up Margie's mess.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260504060000 -0400" stop="20260504090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260504120000 -0400" stop="20260504130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260504193000 -0400" stop="20260504200000 -0400" channel="ABC.AU">
@@ -2530,6 +2545,21 @@
     <desc>Chas Licciardello and John Barron set out to discover the real America - its politics and its people - with analysis from US and Australian experts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260504230000 -0400" stop="20260504233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505060000 -0400" stop="20260505090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505120000 -0400" stop="20260505130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260505193000 -0400" stop="20260505200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
@@ -2538,6 +2568,21 @@
   <programme start="20260505200000 -0400" stop="20260505203000 -0400" channel="ABC.AU">
     <title>Foreign Correspondent</title>
     <desc>Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260505230000 -0400" stop="20260505233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260506060000 -0400" stop="20260506090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260506120000 -0400" stop="20260506130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260506193000 -0400" stop="20260506200000 -0400" channel="ABC.AU">
@@ -2553,6 +2598,11 @@
   <programme start="20260506203500 -0400" stop="20260506212500 -0400" channel="ABC.AU">
     <title>Guy Montgomery's Guy Mont Spelling Bee</title>
     <desc>Get ready to laugh-out-loud as Guy Montgomery and his loyal assistant Aaron Chen are joined by some of Australia's favourite personalities, testing their spelling prowess with wildly inventive spelling challenges designed to befuddle, bamboozle, and bedazzle them all.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260506230000 -0400" stop="20260506233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260507060000 -0400" stop="20260507090000 -0400" channel="ABC.AU">
