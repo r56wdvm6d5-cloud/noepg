@@ -80,6 +80,10 @@
     <display-name>PBS</display-name>
     <country>US</country>
   </channel>
+  <channel id="National Geographic.US">
+    <display-name>National Geographic</display-name>
+    <country>US</country>
+  </channel>
   <channel id="STARZ.US">
     <display-name>STARZ</display-name>
     <country>US</country>
@@ -1518,6 +1522,11 @@
   <programme start="20260507210000 -0400" stop="20260507213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260507210000 -0400" stop="20260507220000 -0400" channel="National Geographic.US">
+    <title>Mysteries of Ancient Medicine</title>
+    <desc>Strange, ingenious, and terrifying healing traditions from the ancient world; combining archaeology, forensics, and stylized reconstructions, it explores topics like toxic remedies, pirate cures, early acupuncture, and Roman battlefield surgeries.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260507220000 -0400" stop="20260507230000 -0400" channel="NBC.US">
