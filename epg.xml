@@ -1886,6 +1886,11 @@
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260511230000 -0400" stop="20260512000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260505070000 -0400" stop="20260505072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2236,6 +2241,11 @@
     <desc>Bradley and Barney Walsh return for more adrenaline-fuelled adventures. Like father, like son? Perhaps not.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260508193000 -0400" stop="20260508203000 -0400" channel="BBC Two.GB">
+    <title>Gardeners' World</title>
+    <desc>Gardening show packed with good ideas, tips, advice from experts and timely reminders to get the most out of your garden, whatever its size or type.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260508195500 -0400" stop="20260508200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -2249,6 +2259,11 @@
   <programme start="20260508210000 -0400" stop="20260508220500 -0400" channel="E4.GB">
     <title>Celebs Go Dating</title>
     <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260508210000 -0400" stop="20260508220000 -0400" channel="Channel 4.GB">
+    <title>Gogglebox</title>
+    <desc>Gogglebox is a British observational documentary television show which has aired on Channel 4 since 2013. The show focuses on families, friends and couples from around the country in their living rooms watching the last week's of British television.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260508220000 -0400" stop="20260508230000 -0400" channel="Channel 4.GB">
@@ -2271,14 +2286,44 @@
     <desc>Teams of celebrities take on the nail-biting quiz hosted by Ross Kemp.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260509180000 -0400" stop="20260509190000 -0400" channel="ITV1.GB">
+    <title>Celebrity Catchphrase</title>
+    <desc>A celebrity version of the game show Catchphrase where contestants have to identify a familiar catchphrase represented by a piece of animation.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260509182500 -0400" stop="20260509190000 -0400" channel="BBC One.GB">
     <title>Blankety Blank</title>
     <desc>Celebrities help contestants by filling in the missing blanks of phrases over a series of rounds to help win some brilliant prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260509190000 -0400" stop="20260509210000 -0400" channel="ITV1.GB">
+    <title>Britain's Got Talent</title>
+    <desc>Britain's Got Talent brings together the very best variety acts from across the nation as they compete to win a life changing £250,000 and a coveted spot on The Royal Variety Performance.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260509192500 -0400" stop="20260509193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260509200000 -0400" stop="20260509210000 -0400" channel="Channel 4.GB">
+    <title>World's Most Secret Hotels</title>
+    <desc>From underwater retreats and remote desert lodges to cliffside dwellings and treetop cabins, World's Most Secret Hotels visits the most hidden and remote hotels on the planet.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260509200000 -0400" stop="20260509210000 -0400" channel="5.GB">
+    <title>Angela Rippon's River Cruises</title>
+    <desc>This series showcases the majesty, culture and beauty of the world's most iconic rivers. Presented by journalist and national treasure Angela Rippon, each episode transports viewers along a mighty river through bustling towns, breathtaking vistas and a fascinating journey through history.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260509204500 -0400" stop="20260509221500 -0400" channel="BBC Two.GB">
+    <title>At the BBC</title>
+    <desc>Series of one-off documentaries that uses 70 years of the BBC archive to bring together clips under one theme, sometimes the shows have a presenter but often they don't.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260509222000 -0400" stop="20260509233000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260510192500 -0400" stop="20260510193000 -0400" channel="5.GB">
@@ -2294,6 +2339,11 @@
   <programme start="20260510210000 -0400" stop="20260510220500 -0400" channel="Channel 4.GB">
     <title>Your Song</title>
     <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260510223000 -0400" stop="20260510234000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260511124500 -0400" stop="20260511125000 -0400" channel="5.GB">
