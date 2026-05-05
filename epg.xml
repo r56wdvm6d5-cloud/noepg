@@ -451,6 +451,11 @@
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260505230000 -0400" stop="20260506010000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260505233500 -0400" stop="20260506003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
@@ -701,6 +706,11 @@
     <desc>In the all-new series Expedition Files, adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world's most captivating and unexplained mysteries.  Each episode of Expedition Files explores compelling true stories that defy explanation, offering stunning revelations and surprising new insights.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260506210000 -0400" stop="20260506220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260506213000 -0400" stop="20260506223000 -0400" channel="CBS.US">
     <title>America's Culinary Cup</title>
     <desc>America's Culinary Cup will feature a cast of the nation's most decorated chefs as they compete in the kitchen.</desc>
@@ -724,6 +734,11 @@
   <programme start="20260506220000 -0400" stop="20260506223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260506220000 -0400" stop="20260506230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260506220100 -0400" stop="20260506230200 -0400" channel="Discovery.US">
@@ -1041,6 +1056,11 @@
     <desc>Strange, ingenious, and terrifying healing traditions from the ancient world; combining archaeology, forensics, and stylized reconstructions, it explores topics like toxic remedies, pirate cures, early acupuncture, and Roman battlefield surgeries.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260507210000 -0400" stop="20260507220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260507220000 -0400" stop="20260507230000 -0400" channel="NBC.US">
     <title>The Hunting Party</title>
     <desc>When a secret prison suffers a mysterious explosion that allows the nation's most violent serial killers to escape, a former profiler is thrust back into a thrilling game of cat and mouse. Alongside a team of soldiers, spies and special agents, she has no choice but to track down and recapture these dangerous criminals… before they kill again.</desc>
@@ -1054,6 +1074,11 @@
   <programme start="20260507220000 -0400" stop="20260507230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260507220000 -0400" stop="20260507230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260507220300 -0400" stop="20260507230500 -0400" channel="History.US">
@@ -1316,6 +1341,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260508210000 -0400" stop="20260508220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260508220000 -0400" stop="20260508230000 -0400" channel="CBS.US">
     <title>Boston Blue</title>
     <desc>In Boston Blue, NYPD Detective Danny Reagan takes a position with Boston PD. Once in Boston, he is paired with Detective Lena Silver, the eldest daughter of a prominent law enforcement family.</desc>
@@ -1329,6 +1359,11 @@
   <programme start="20260508220000 -0400" stop="20260508230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260508220000 -0400" stop="20260508230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260508220300 -0400" stop="20260508230500 -0400" channel="History.US">
@@ -1766,6 +1801,11 @@
     <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260511210000 -0400" stop="20260511220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260511213000 -0400" stop="20260511224500 -0400" channel="Bravo.US">
     <title>Top Chef</title>
     <desc>Top Chef is a competition show in which chefs competing against each other in various culinary challenges, judged by the team of professional chefs and notable people from food industry.</desc>
@@ -1784,6 +1824,11 @@
   <programme start="20260511220000 -0400" stop="20260511230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511220000 -0400" stop="20260511230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260511220300 -0400" stop="20260511230500 -0400" channel="History.US">
