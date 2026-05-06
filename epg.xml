@@ -1,19 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
-    <country>US</country>
-  </channel>
   <channel id="NBC.US">
     <display-name>NBC</display-name>
     <country>US</country>
   </channel>
-  <channel id="CNBC.US">
-    <display-name>CNBC</display-name>
-    <country>US</country>
-  </channel>
   <channel id="MS NOW.US">
     <display-name>MS NOW</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
     <country>US</country>
   </channel>
   <channel id="ABC.US">
@@ -36,32 +32,24 @@
     <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
-  <channel id="The CW.US">
-    <display-name>The CW</display-name>
-    <country>US</country>
-  </channel>
   <channel id="Bravo.US">
     <display-name>Bravo</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Discovery.US">
-    <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
   <channel id="FOX.US">
     <display-name>FOX</display-name>
     <country>US</country>
   </channel>
-  <channel id="HBO.US">
-    <display-name>HBO</display-name>
+  <channel id="The CW.US">
+    <display-name>The CW</display-name>
     <country>US</country>
   </channel>
   <channel id="A&amp;E.US">
     <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
-  <channel id="History.US">
-    <display-name>History</display-name>
+  <channel id="Discovery.US">
+    <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
@@ -72,12 +60,20 @@
     <display-name>PBS</display-name>
     <country>US</country>
   </channel>
+  <channel id="History.US">
+    <display-name>History</display-name>
+    <country>US</country>
+  </channel>
   <channel id="National Geographic.US">
     <display-name>National Geographic</display-name>
     <country>US</country>
   </channel>
   <channel id="STARZ.US">
     <display-name>STARZ</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="HBO.US">
+    <display-name>HBO</display-name>
     <country>US</country>
   </channel>
   <channel id="ITV1.GB">
@@ -96,14 +92,6 @@
     <display-name>Channel 4</display-name>
     <country>GB</country>
   </channel>
-  <channel id="BBC Alba.GB">
-    <display-name>BBC Alba</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="E4.GB">
-    <display-name>E4</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="Sky Arts.GB">
     <display-name>Sky Arts</display-name>
     <country>GB</country>
@@ -112,12 +100,16 @@
     <display-name>Quest</display-name>
     <country>GB</country>
   </channel>
-  <channel id="TRUE CRIME.GB">
-    <display-name>TRUE CRIME</display-name>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC Two.GB">
     <display-name>BBC Two</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="TRUE CRIME.GB">
+    <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
   <channel id="National Geographic.GB">
@@ -136,341 +128,6 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260504000000 -0400" stop="20260504020000 -0400" channel="CNN.US">
-    <title>The Story Is with Elex Michaelson</title>
-    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260504003500 -0400" stop="20260504013500 -0400" channel="NBC.US">
-    <title>Late Night with Seth Meyers</title>
-    <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505050000 -0400" stop="20260505060000 -0400" channel="CNBC.US">
-    <title>Morning Call</title>
-    <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505050000 -0400" stop="20260505060000 -0400" channel="MS NOW.US">
-    <title>Way Too Early</title>
-    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505060000 -0400" stop="20260505100000 -0400" channel="MS NOW.US">
-    <title>Morning Joe</title>
-    <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505060000 -0400" stop="20260505070000 -0400" channel="CNN.US">
-    <title>CNN This Morning</title>
-    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505070000 -0400" stop="20260505090000 -0400" channel="ABC.US">
-    <title>Good Morning America</title>
-    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505070000 -0400" stop="20260505090000 -0400" channel="NBC.US">
-    <title>Today</title>
-    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505070000 -0400" stop="20260505090000 -0400" channel="CBS.US">
-    <title>CBS Mornings</title>
-    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505070000 -0400" stop="20260505100000 -0400" channel="CNN.US">
-    <title>CNN News Central</title>
-    <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505080000 -0400" stop="20260505100000 -0400" channel="NFL Network.US">
-    <title>Good Morning Football</title>
-    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505090000 -0400" stop="20260505100000 -0400" channel="NBC.US">
-    <title>Today 3rd Hour</title>
-    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505090000 -0400" stop="20260505100000 -0400" channel="Syndication.US">
-    <title>The 700 Club</title>
-    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505100000 -0400" stop="20260505120000 -0400" channel="ESPN.US">
-    <title>First Take</title>
-    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505100000 -0400" stop="20260505110000 -0400" channel="NBC.US">
-    <title>TODAY with Jenna &amp; Sheinelle</title>
-    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505100000 -0400" stop="20260505120000 -0400" channel="CNN.US">
-    <title>The Situation Room</title>
-    <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505110000 -0400" stop="20260505120000 -0400" channel="CNBC.US">
-    <title>Money Movers</title>
-    <desc>Money Movers provides investors with real-time analysis of the stories and the people attracting the attention of the markets each day. Capturing the energy of day's early trading, the program includes the breaking news and numbers driving stocks and sectors, helping investors make critical decisions. "Money Movers" anchors Carl Quintanilla and Sara Eisen speak with the CEOs, government decision-makers and newsmakers who play a relevant role in how money is moving.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505110000 -0400" stop="20260505120000 -0400" channel="ABC.US">
-    <title>The View</title>
-    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505110000 -0400" stop="20260505120000 -0400" channel="CBS.US">
-    <title>The Price is Right</title>
-    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505120000 -0400" stop="20260505130000 -0400" channel="CNBC.US">
-    <title>Fast Money Halftime Report</title>
-    <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505120000 -0400" stop="20260505130000 -0400" channel="CNN.US">
-    <title>Inside Politics</title>
-    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505123000 -0400" stop="20260505133000 -0400" channel="CBS.US">
-    <title>The Young and the Restless</title>
-    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505130000 -0400" stop="20260505140000 -0400" channel="CNBC.US">
-    <title>The Exchange</title>
-    <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505130000 -0400" stop="20260505140000 -0400" channel="ABC.US">
-    <title>GMA3</title>
-    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505130000 -0400" stop="20260505160000 -0400" channel="CNN.US">
-    <title>CNN News Central (PM)</title>
-    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505133000 -0400" stop="20260505140000 -0400" channel="CBS.US">
-    <title>The Bold and the Beautiful</title>
-    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505140000 -0400" stop="20260505150000 -0400" channel="CNBC.US">
-    <title>Power Lunch</title>
-    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505140000 -0400" stop="20260505160000 -0400" channel="MS NOW.US">
-    <title>Katy Tur Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505140000 -0400" stop="20260505150000 -0400" channel="ABC.US">
-    <title>General Hospital</title>
-    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505160000 -0400" stop="20260505180000 -0400" channel="MS NOW.US">
-    <title>Deadline: White House</title>
-    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505160000 -0400" stop="20260505170000 -0400" channel="ESPN.US">
-    <title>NFL Live</title>
-    <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505160000 -0400" stop="20260505170000 -0400" channel="CNN.US">
-    <title>The Arena with Kasie Hunt</title>
-    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505170000 -0400" stop="20260505190000 -0400" channel="CNN.US">
-    <title>The Lead with Jake Tapper</title>
-    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505173000 -0400" stop="20260505180000 -0400" channel="ESPN.US">
-    <title>Pardon the Interruption</title>
-    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505180000 -0400" stop="20260505190000 -0400" channel="MS NOW.US">
-    <title>The Beat with Ari Melber</title>
-    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505183000 -0400" stop="20260505190000 -0400" channel="CBS.US">
-    <title>CBS Evening News</title>
-    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505183000 -0400" stop="20260505190000 -0400" channel="ABC.US">
-    <title>ABC World News Tonight with David Muir</title>
-    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505183000 -0400" stop="20260505190000 -0400" channel="NBC.US">
-    <title>NBC Nightly News</title>
-    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505190000 -0400" stop="20260505200000 -0400" channel="MS NOW.US">
-    <title>The Weeknight</title>
-    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505190000 -0400" stop="20260505200000 -0400" channel="CNN.US">
-    <title>Erin Burnett OutFront</title>
-    <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="CBS.US">
-    <title>NCIS</title>
-    <desc>NCIS (Naval Criminal Investigative Service) is more than just an action drama. With liberal doses of humor, it's a show that focuses on the sometimes complex and always amusing dynamics of a team forced to work together in high-stress situations. Leroy Jethro Gibbs, a former Marine gunnery sergeant, whose skills as an investigator are unmatched, leads this troupe of colorful personalities. Rounding out the team are Anthony DiNozzo, an ex-homicide detective whose instincts in the field are unparalleled and whose quick wit and humorous take on life make him a team favorite; the youthful and energetic forensic specialist Abby Sciuto, a talented scientist whose sharp mind matches her Goth style and eclectic tastes; Caitlin Todd, an ex-Secret Service Agent; and Timothy McGee, an MIT graduate whose brilliance with computers far overshadows his insecurities in the field; Assisting the team is medical examiner Dr. Donald "Ducky" Mallard, who knows it all because he's seen it all, and he's not afraid to let you know. From murder and espionage to terrorism and stolen submarines, these special agents travel the globe to investigate all crimes with Navy or Marine Corps ties.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="ABC.US">
-    <title>Will Trent</title>
-    <desc>In Will Trent Special Agent Will Trent of the Georgia Bureau of Investigations was abandoned at birth and endured a harsh coming-of-age in Atlanta's overwhelmed foster care system. But now, determined to use his unique point of view to make sure no one is abandoned like he was, Trent has the highest clearance rate in the GBI.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505220000 -0400" channel="The CW.US">
-    <title>WWE NXT</title>
-    <desc>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on WWE NXT, a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="MS NOW.US">
-    <title>All In with Chris Hayes</title>
-    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="Bravo.US">
-    <title>Summer House</title>
-    <desc>When a group of beautiful and successful New Yorkers leaves the comforts of the Big Apple behind to party the summer away in their home away from home, nothing is off limits. Bravo's new series Summer House takes the beach town of Montauk, New York by storm, while following a group of nine friends who make the exclusive enclave their go-to party spot between Memorial Day and Labor Day — that is, when they're not hustling at their day jobs. You could say they work hard and party way harder.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505210100 -0400" channel="Discovery.US">
-    <title>Homestead Rescue</title>
-    <desc>In the last decade, two million Americans have attempted to leave behind civilization in favor of life off-the-grid – but most have failed. For the hundreds of families who decide to become homesteaders, the learning curve is a steep one. Now comes Homestead Rescue. Struggling homesteaders across the country are turning expert homesteader Marty Raney--along with his daughter Misty Raney, a farmer, and son Matt Raney, a hunter and fisherman--to teach them the necessary skills to survive the wilderness. The stakes are high, but the Raney family is determined to prepare these families for nature's worst and set them up for success. Each family faces the ultimate decision: will they tough out their first year or pack up and return to civilization?</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="FOX.US">
-    <title>Farmer Wants a Wife</title>
-    <desc>Four farmers from across the country embark on an adventure of a lifetime in the hopes of finding their future spouse. Women will leave behind the dating apps and pursuit of love in "the big city" in favor of classic American courtship. The farmers will take their group of daters to their farm and show them what it is really like to live as ranchers do.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="CNN.US">
-    <title>Anderson Cooper 360°</title>
-    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="HBO.US">
-    <title>The Dark Wizard</title>
-    <desc>The Dark Wizard is an up-close and unflinching portrait of Dean Potter, one of the world's most influential and controversial climbers, BASE jumpers, and highline walkers. The series traces the jaw‑dropping feats that made him a legend, as well as the personal turmoil that defined his life.From an early age, Dean grappled with inner demons that led him to seek the limits of human possibility. Climbing became his outlet and Yosemite National Park became the canvas for his unique talent and artistic expression. As his accomplishments on El Capitan and Half Dome elevated him to hero status in the adventure sports world, his mental state began to fracture and his fierce competitive drive pushed him to try to outdo both himself and others, including rising star Alex Honnold. Ultimately, it was wingsuiting and his lifelong desire to fly that would prove to be his riskiest and most transcendent endeavor.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="CBS.US">
-    <title>NCIS: Origins</title>
-    <desc>In NCIS: Origins, young Leroy Jethro Gibbs starts his career as a newly minted special agent at the fledgling NCIS Camp Pendleton office where he forges his place on a gritty, ragtag team led by NCIS legend Mike Franks.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="MS NOW.US">
-    <title>The Briefing with Jen Psaki</title>
-    <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505213000 -0400" channel="A&amp;E.US">
-    <title>Road Wars</title>
-    <desc>Roadways can be a wild place. With violent road rage incidents increasing 500% over the last decade, "road raging" is a human behavior that has become widely known. Road Wars takes a deep dive into American roadways, examining extreme human behavior, wild weather, insane accidents and a few welcome instances of acts of kindness.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="ABC.US">
-    <title>Betrayal: Secrets &amp; Lies</title>
-    <desc>The series follows lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="History.US">
-    <title>The Curse of Oak Island</title>
-    <desc>The Curse of Oak Island documents brothers Rick and Marty Lagina as they pursue their lifelong dream of solving more than a 220-year old Oak Island mystery. For over two centuries, teams of searchers, including Franklin D. Roosevelt, have attempted to crack the code that will unearth the treasure believed to be buried on the small island off the coast of Nova Scotia. Armed with the knowledge of those that came before them, the muscle of heavy machinery and decades of engineering know-how, the Lagina's and their partners may be closer than anyone in history to finding the treasure that has so far claimed the lives of six men.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="FOX.US">
-    <title>Bear Grylls Is Running Wild</title>
-    <desc>Bear Grylls Is Running Wild follows legendary adventurer Bear Grylls as he takes some of the most famous people on the planet into the wild for a 48-hour journey of a lifetime. With thrilling action and revealing conversations, Bear takes his guests on unforgettable adventures in breath-taking wilderness and reveals a side of some of your favorite people like you've never seen before. This season, Bear Grylls leads cast members on a globe-spanning adventure through some of the planet's most unforgiving landscapes — from Norway's glacial wilderness to the legendary mountains of Eryri in Wales. The journeys cut through Arctic rainforest, vast canyonlands, and brutal desert terrain, pushing participants to their limits with glacier crossings, canyon descents, high-risk extractions, and an adrenaline-charged freefall from 11,000 feet, into an adventure along the Irish Sea.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505210000 -0400" stop="20260505213000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505213000 -0400" stop="20260505220100 -0400" channel="A&amp;E.US">
-    <title>Road Wars</title>
-    <desc>Roadways can be a wild place. With violent road rage incidents increasing 500% over the last decade, "road raging" is a human behavior that has become widely known. Road Wars takes a deep dive into American roadways, examining extreme human behavior, wild weather, insane accidents and a few welcome instances of acts of kindness.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505220000 -0400" stop="20260505230000 -0400" channel="MS NOW.US">
-    <title>The Last Word with Lawrence O'Donnell</title>
-    <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505220100 -0400" stop="20260505223200 -0400" channel="A&amp;E.US">
-    <title>Customer Wars</title>
-    <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505220300 -0400" stop="20260505230500 -0400" channel="History.US">
-    <title>Secrets Declassified with David Duchovny</title>
-    <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505223200 -0400" stop="20260505230400 -0400" channel="A&amp;E.US">
-    <title>Customer Wars</title>
-    <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505230000 -0400" stop="20260506000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Stephanie Ruhle</title>
-    <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505230000 -0400" stop="20260505233500 -0400" channel="Comedy Central.US">
-    <title>The Daily Show</title>
-    <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505230000 -0400" stop="20260506010000 -0400" channel="CNN.US">
-    <title>CNN NewsNight with Abby Phillip</title>
-    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505233500 -0400" stop="20260506003500 -0400" channel="ABC.US">
-    <title>Jimmy Kimmel Live</title>
-    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505233500 -0400" stop="20260506003500 -0400" channel="NBC.US">
-    <title>The Tonight Show Starring Jimmy Fallon</title>
-    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505233500 -0400" stop="20260506003500 -0400" channel="CBS.US">
-    <title>The Late Show with Stephen Colbert</title>
-    <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260505003500 -0400" stop="20260505013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -554,6 +211,11 @@
   <programme start="20260506120000 -0400" stop="20260506130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260506120000 -0400" stop="20260506140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260506123000 -0400" stop="20260506133000 -0400" channel="CBS.US">
@@ -761,6 +423,11 @@
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260506230000 -0400" stop="20260507000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260506233000 -0400" stop="20260507003000 -0400" channel="ESPN.US">
     <title>Inside the NBA</title>
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
@@ -866,6 +533,11 @@
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260507120000 -0400" stop="20260507140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260507123000 -0400" stop="20260507133000 -0400" channel="CBS.US">
     <title>The Young and the Restless</title>
     <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
@@ -954,6 +626,11 @@
   <programme start="20260507190000 -0400" stop="20260507200000 -0400" channel="CNN.US">
     <title>Erin Burnett OutFront</title>
     <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260507190000 -0400" stop="20260507210000 -0400" channel="Syndication.US">
+    <title>Ring of Honor Wrestling</title>
+    <desc>Hard-hitting pro-wrestling action from the stars of ROH.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260507200000 -0400" stop="20260507203000 -0400" channel="PBS.US">
@@ -1096,6 +773,11 @@
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260507230000 -0400" stop="20260508000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260507233500 -0400" stop="20260508003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
@@ -1189,6 +871,11 @@
   <programme start="20260508120000 -0400" stop="20260508130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260508120000 -0400" stop="20260508140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260508123000 -0400" stop="20260508133000 -0400" channel="CBS.US">
@@ -1374,6 +1061,11 @@
   <programme start="20260508230000 -0400" stop="20260509000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Stephanie Ruhle</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260508230000 -0400" stop="20260509000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260509070000 -0400" stop="20260509080000 -0400" channel="ABC.US">
@@ -1731,6 +1423,11 @@
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260511120000 -0400" stop="20260511140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260511123000 -0400" stop="20260511133000 -0400" channel="CBS.US">
     <title>The Young and the Restless</title>
     <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
@@ -1891,99 +1588,249 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505070000 -0400" stop="20260505072200 -0400" channel="ITV1.GB">
-    <title>Emmerdale</title>
-    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+  <programme start="20260512050000 -0400" stop="20260512060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505104500 -0400" stop="20260505113000 -0400" channel="BBC One.GB">
-    <title>Rip Off Britain</title>
-    <desc>The Rip Off Britain team is ready to tackle the issues that most matter to you - from bills and bad customer service, to holidays and food.</desc>
+  <programme start="20260512060000 -0400" stop="20260512100000 -0400" channel="MS NOW.US">
+    <title>Morning Joe</title>
+    <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505124500 -0400" stop="20260505125000 -0400" channel="5.GB">
-    <title>5 News at Lunchtime</title>
-    <desc>The latest national and international news, sport and weather.</desc>
+  <programme start="20260512060000 -0400" stop="20260512070000 -0400" channel="CNN.US">
+    <title>CNN This Morning</title>
+    <desc>Start your day with Audie Cornish bringing you the latest headlines and analysis.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505141000 -0400" stop="20260505150000 -0400" channel="Channel 4.GB">
-    <title>Countdown</title>
-    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+  <programme start="20260512070000 -0400" stop="20260512100000 -0400" channel="CNN.US">
+    <title>CNN News Central</title>
+    <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505160000 -0400" stop="20260505170000 -0400" channel="Channel 4.GB">
-    <title>Escape to Florida</title>
-    <desc>The fun-filled lives of the growing number of British and Irish expats who are turning their backs on grey skies and rising living costs at home and seeking a fresh start in America's Sunshine State.</desc>
+  <programme start="20260512070000 -0400" stop="20260512090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505163000 -0400" stop="20260505171500 -0400" channel="BBC One.GB">
-    <title>Bridge of Lies</title>
-    <desc>Ross Kemp has turned his hand to quiz show hosting for the very first time, and will preside over teams of contestants as they compete for cash by crossing the Bridge – a collection of stepping stones featuring various truths and lies based on general knowledge categories.Each player must try to safely step on the truths and avoid the lies, or risk falling off and out of the game. Once they've conquered the Bridge on their own, successful contestants will join forces to face the dramatic final crossing for a chance to take home some cash.</desc>
+  <programme start="20260512070000 -0400" stop="20260512090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505170000 -0400" stop="20260505180000 -0400" channel="Channel 4.GB">
-    <title>Château DIY</title>
-    <desc>Adventurous British families buy and renovate beautiful chateaux in France.</desc>
+  <programme start="20260512070000 -0400" stop="20260512090000 -0400" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505170000 -0400" stop="20260505180000 -0400" channel="5.GB">
-    <title>5 News at 5</title>
-    <desc>National and international news.</desc>
+  <programme start="20260512080000 -0400" stop="20260512100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505180000 -0400" stop="20260505190000 -0400" channel="Channel 4.GB">
-    <title>Sun, Sea and Selling Houses</title>
-    <desc>Sun, Sea and Selling Houses is a series that follows two British families who have set up shop in Spain selling property to Brits seeking fun in the sun.</desc>
+  <programme start="20260512090000 -0400" stop="20260512100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505185500 -0400" stop="20260505190000 -0400" channel="5.GB">
-    <title>5 News at 18.55</title>
-    <desc>National and international news.</desc>
+  <programme start="20260512090000 -0400" stop="20260512100000 -0400" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505195500 -0400" stop="20260505200000 -0400" channel="5.GB">
-    <title>5 News at 19:55</title>
-    <desc>National and international news</desc>
+  <programme start="20260512100000 -0400" stop="20260512120000 -0400" channel="CNN.US">
+    <title>The Situation Room</title>
+    <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="5.GB">
-    <title>Reuben: Life in the Dales</title>
-    <desc>Hill shepherds' son 19-year-old Reuben Owen from Channel 5's Our Yorkshire Farm is back, attempting to grow his new heavy plant machinery business with his best friends Tommy and Sarah in the remote Yorkshire Dales.</desc>
+  <programme start="20260512100000 -0400" stop="20260512120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="BBC One.GB">
-    <title>Interior Design Masters with Alan Carr</title>
-    <desc>Interior Design Masters takes ten fledgling designers and launches them into the world of interior design. With eight weeks and eight different challenges to tackle, in each episode the designers will be confronted with a new space to transform in an attempt to win the grand prize offer of a life changing design contract.</desc>
+  <programme start="20260512100000 -0400" stop="20260512110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="Channel 4.GB">
-    <title>Jamie's Ultimate BBQ</title>
-    <desc>Fresh air, good vibes, and woodsmoked wonders! Jamie Oliver shows us how to get outside, get cooking and get those flavours and textures that the kitchen just can't match.</desc>
+  <programme start="20260512120000 -0400" stop="20260512130000 -0400" channel="CNN.US">
+    <title>Inside Politics</title>
+    <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505203000 -0400" stop="20260505210000 -0400" channel="BBC Alba.GB">
-    <title>Mas Fhior</title>
-    <desc>Niall Iain Macdonald hosts a quiz show where more than general knowledge is required to win. Standing in the way of our two teams from winning are the Pretenders who, from the comfort of their own homes, are on a mission to fox our contestants.</desc>
+  <programme start="20260512120000 -0400" stop="20260512140000 -0400" channel="MS NOW.US">
+    <title>Chris Jansing Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505210000 -0400" stop="20260505220500 -0400" channel="E4.GB">
-    <title>Celebs Go Dating</title>
-    <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
+  <programme start="20260512123000 -0400" stop="20260512133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505210000 -0400" stop="20260505233000 -0400" channel="Sky Arts.GB">
-    <title>National Theatre Live</title>
-    <desc>Sky Arts presents live stage adaptations of classics.</desc>
+  <programme start="20260512130000 -0400" stop="20260512160000 -0400" channel="CNN.US">
+    <title>CNN News Central (PM)</title>
+    <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505210000 -0400" stop="20260505220000 -0400" channel="Quest.GB">
-    <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
-    <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
+  <programme start="20260512130000 -0400" stop="20260512140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505220000 -0400" stop="20260505230000 -0400" channel="TRUE CRIME.GB">
-    <title>Killers: Caught on Camera</title>
-    <desc>Killers: Caught on Camera is a brand-new true crime series with unique access to the video footage that leads to the conviction of killers around the world.Each case is pieced together like a jigsaw as we link the CCTV, home surveillance, police body camera, and mobile phone footage that builds the evidence to catch the killer.</desc>
+  <programme start="20260512140000 -0400" stop="20260512150000 -0400" channel="CBS.US">
+    <title>Beyond the Gates</title>
+    <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512140000 -0400" stop="20260512160000 -0400" channel="MS NOW.US">
+    <title>Katy Tur Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512140000 -0400" stop="20260512150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512160000 -0400" stop="20260512180000 -0400" channel="MS NOW.US">
+    <title>Deadline: White House</title>
+    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512160000 -0400" stop="20260512170000 -0400" channel="ESPN.US">
+    <title>NFL Live</title>
+    <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512160000 -0400" stop="20260512170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512170000 -0400" stop="20260512190000 -0400" channel="CNN.US">
+    <title>The Lead with Jake Tapper</title>
+    <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512173000 -0400" stop="20260512180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512180000 -0400" stop="20260512190000 -0400" channel="MS NOW.US">
+    <title>The Beat with Ari Melber</title>
+    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512190000 -0400" stop="20260512200000 -0400" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512190000 -0400" stop="20260512200000 -0400" channel="CNN.US">
+    <title>Erin Burnett OutFront</title>
+    <desc>Erin Burnett OutFront is an hour-long television news program hosted by Erin Burnett on CNN. The show premiered on October 3, 2011 in the 7PM and 11PM time slot to replace John King, USA. CNN said in 2011 they hoped Burnett's expected popularity would provide an "attractive" opening to an evening of "talk shows and news analysis". Erin Burnett, OutFront is broadcast live from CNN's Time Warner Center studios in New York City or on location from the site of a breaking news event, airing from 7:00 pm ET to 8:00 pm ET and also airs via tape-delay on CNN Philippines every Tuesday-Friday at 5:00 pm local time since March 17, 2015. The program covers a number of news stories of the day in a Count-up format, starting at #1 – most important and making it to #7 by the end of the hour. Burnett's program features taped packages from CNN Correspondents along with analysis and panel discussion.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="ABC.US">
+    <title>Celebrity Jeopardy!</title>
+    <desc>Celebrity Jeopardy! welcomes celebrity contestants to compete against each other by answering trivia questions in the form of a question for a chance to win money for a charity of their choice.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="CBS.US">
+    <title>NCIS</title>
+    <desc>NCIS (Naval Criminal Investigative Service) is more than just an action drama. With liberal doses of humor, it's a show that focuses on the sometimes complex and always amusing dynamics of a team forced to work together in high-stress situations. Leroy Jethro Gibbs, a former Marine gunnery sergeant, whose skills as an investigator are unmatched, leads this troupe of colorful personalities. Rounding out the team are Anthony DiNozzo, an ex-homicide detective whose instincts in the field are unparalleled and whose quick wit and humorous take on life make him a team favorite; the youthful and energetic forensic specialist Abby Sciuto, a talented scientist whose sharp mind matches her Goth style and eclectic tastes; Caitlin Todd, an ex-Secret Service Agent; and Timothy McGee, an MIT graduate whose brilliance with computers far overshadows his insecurities in the field; Assisting the team is medical examiner Dr. Donald "Ducky" Mallard, who knows it all because he's seen it all, and he's not afraid to let you know. From murder and espionage to terrorism and stolen submarines, these special agents travel the globe to investigate all crimes with Navy or Marine Corps ties.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512220000 -0400" channel="The CW.US">
+    <title>WWE NXT</title>
+    <desc>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on WWE NXT, a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="Bravo.US">
+    <title>Summer House</title>
+    <desc>When a group of beautiful and successful New Yorkers leaves the comforts of the Big Apple behind to party the summer away in their home away from home, nothing is off limits. Bravo's new series Summer House takes the beach town of Montauk, New York by storm, while following a group of nine friends who make the exclusive enclave their go-to party spot between Memorial Day and Labor Day — that is, when they're not hustling at their day jobs. You could say they work hard and party way harder.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512220100 -0400" channel="Discovery.US">
+    <title>Homestead Rescue</title>
+    <desc>In the last decade, two million Americans have attempted to leave behind civilization in favor of life off-the-grid – but most have failed. For the hundreds of families who decide to become homesteaders, the learning curve is a steep one. Now comes Homestead Rescue. Struggling homesteaders across the country are turning expert homesteader Marty Raney--along with his daughter Misty Raney, a farmer, and son Matt Raney, a hunter and fisherman--to teach them the necessary skills to survive the wilderness. The stakes are high, but the Raney family is determined to prepare these families for nature's worst and set them up for success. Each family faces the ultimate decision: will they tough out their first year or pack up and return to civilization?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="FOX.US">
+    <title>Farmer Wants a Wife</title>
+    <desc>Four farmers from across the country embark on an adventure of a lifetime in the hopes of finding their future spouse. Women will leave behind the dating apps and pursuit of love in "the big city" in favor of classic American courtship. The farmers will take their group of daters to their farm and show them what it is really like to live as ranchers do.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="MS NOW.US">
+    <title>All In with Chris Hayes</title>
+    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="HBO.US">
+    <title>U.S. Againt the World: Four Years with the Men's National Soccer Team</title>
+    <desc>U.S. Againt the World: Four Years with the Men's National Soccer Team exclusively chronicles the United States Men's National Soccer Team (USMNT) in the leadup to the 2026 FIFA World Cup in North America this June. Filmed over the course of four years, the series follows Christian Pulisic, Tyler Adams, Tim Weah, Weston McKennie, and an array of U.S. players on their personal and collective journeys toward their sport's signature global event.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512213000 -0400" channel="A&amp;E.US">
+    <title>Neighborhood Wars</title>
+    <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="MS NOW.US">
+    <title>The Briefing with Jen Psaki</title>
+    <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="FOX.US">
+    <title>Bear Grylls Is Running Wild</title>
+    <desc>Bear Grylls Is Running Wild follows legendary adventurer Bear Grylls as he takes some of the most famous people on the planet into the wild for a 48-hour journey of a lifetime. With thrilling action and revealing conversations, Bear takes his guests on unforgettable adventures in breath-taking wilderness and reveals a side of some of your favorite people like you've never seen before. This season, Bear Grylls leads cast members on a globe-spanning adventure through some of the planet's most unforgiving landscapes — from Norway's glacial wilderness to the legendary mountains of Eryri in Wales. The journeys cut through Arctic rainforest, vast canyonlands, and brutal desert terrain, pushing participants to their limits with glacier crossings, canyon descents, high-risk extractions, and an adrenaline-charged freefall from 11,000 feet, into an adventure along the Irish Sea.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512213000 -0400" stop="20260512220100 -0400" channel="A&amp;E.US">
+    <title>Neighborhood Wars</title>
+    <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512220000 -0400" stop="20260512230000 -0400" channel="PBS.US">
+    <title>Frontline</title>
+    <desc>Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change..</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512220000 -0400" stop="20260512230000 -0400" channel="MS NOW.US">
+    <title>The Last Word with Lawrence O'Donnell</title>
+    <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512220100 -0400" stop="20260512223200 -0400" channel="A&amp;E.US">
+    <title>Squatters</title>
+    <desc>Squatters are taking over homes across the country and Flash Shelton is the man who gets them out. With bold tactics and street smarts, Flash and his team face tense and sometimes dangerous situations to help families reclaim their property. Each episode reveals the emotional and high-stakes battles where the fight for justice can quickly escalate, putting everyone involved at risk. This is the struggle to take back what rightfully belongs to them.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512220300 -0400" stop="20260512230500 -0400" channel="History.US">
+    <title>Secrets Declassified with David Duchovny</title>
+    <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512223200 -0400" stop="20260512230400 -0400" channel="A&amp;E.US">
+    <title>Squatters</title>
+    <desc>Squatters are taking over homes across the country and Flash Shelton is the man who gets them out. With bold tactics and street smarts, Flash and his team face tense and sometimes dangerous situations to help families reclaim their property. Each episode reveals the emotional and high-stakes battles where the fight for justice can quickly escalate, putting everyone involved at risk. This is the struggle to take back what rightfully belongs to them.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512230000 -0400" stop="20260512233500 -0400" channel="Comedy Central.US">
+    <title>The Daily Show</title>
+    <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512230000 -0400" stop="20260513000000 -0400" channel="MS NOW.US">
+    <title>The 11th Hour with Stephanie Ruhle</title>
+    <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512230000 -0400" stop="20260513000000 -0400" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260506070000 -0400" stop="20260506072200 -0400" channel="ITV1.GB">
@@ -2326,6 +2173,21 @@
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260510132000 -0400" stop="20260510135500 -0400" channel="BBC One.GB">
+    <title>Songs of Praise</title>
+    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260510180000 -0400" stop="20260510190000 -0400" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260510190000 -0400" stop="20260510210000 -0400" channel="BBC One.GB">
+    <title>The British Academy Television Awards</title>
+    <desc>The British Academy Television Awards are presented in an annual award show hosted by the British Academy of Film and Television Arts (BAFTA). They have been awarded annually since 1998, before this period they were awarded during the same ceremony as the BAFTA film awards.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260510192500 -0400" stop="20260510193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2336,9 +2198,24 @@
     <desc>Two families exchange holidays to see if money really does buy happiness, with the family that is used to luxury going on holiday in decidedly more humble locations, while the other family gets a taste of the high life.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260510200000 -0400" stop="20260510210000 -0400" channel="ITV1.GB">
+    <title>Who Wants to Be a Millionaire?</title>
+    <desc>Game Show in which contestants answer questions to win up to £1 Million pounds.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260510200000 -0400" stop="20260510210000 -0400" channel="Channel 4.GB">
+    <title>Cruising to the Ends of the Earth</title>
+    <desc>Cruising to the Ends of the Earth follows three wildly different voyages to share the diverse and breathtaking landscape of our planet. Filmed on board Princess Cruises ships, the series will journey to the frozen peaks of Alaska, the dazzling coastlines of South Korea and Japan, as well as travelling through ancient history via the Mediterranean.Along the way, viewers will meet guests and crew on board the ships for the extraordinary trips. The series will follow them on sea and on land as they embark on bucket-list experiences and explore terrains like volcanic basins, archaeological sites, and cities with fascinating cuisine and culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260510210000 -0400" stop="20260510220500 -0400" channel="Channel 4.GB">
     <title>Your Song</title>
     <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260510210000 -0400" stop="20260510223000 -0400" channel="5.GB">
+    <title>Trading Places</title>
+    <desc>Trading Places is an energetic, entertainingly provocative ‘fish-out-of-water' series that takes a group of three young people and plunges them into an immersive week-long 24/7 experience inside one of four extraordinary worlds whose way of life is very different from their own.Will it be fireworks or friendship when a generation raised online and on-demand come face to face with regimes built on no-nonsense rules, unshakable principles and loyalty to a strict set of values. How will the young visitors react to the rituals and regulations of their new surroundings? And as the experience transforms both them and their hosts, will either side ever be the same again?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260510223000 -0400" stop="20260510234000 -0400" channel="BBC One.GB">
@@ -2421,9 +2298,84 @@
     <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505200000 -0400" stop="20260505210000 -0400" channel="Citytv.CA">
-    <title>The Price is Right Tonight</title>
-    <desc>Hosted by legendary comedian and television personality Howie Mandel, The Price Is Right Tonight is a new Canadian series that brings the iconic game show's joyful wins and classic format to a primetime audience.</desc>
+  <programme start="20260512124500 -0400" stop="20260512125000 -0400" channel="5.GB">
+    <title>5 News at Lunchtime</title>
+    <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512141000 -0400" stop="20260512150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512150000 -0400" stop="20260512154500 -0400" channel="BBC One.GB">
+    <title>Escape to the Country</title>
+    <desc>A series which helps prospective buyers find their dream home in the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512160000 -0400" stop="20260512170000 -0400" channel="Channel 4.GB">
+    <title>Escape to Florida</title>
+    <desc>The fun-filled lives of the growing number of British and Irish expats who are turning their backs on grey skies and rising living costs at home and seeking a fresh start in America's Sunshine State.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512163000 -0400" stop="20260512171500 -0400" channel="BBC One.GB">
+    <title>Bridge of Lies</title>
+    <desc>Ross Kemp has turned his hand to quiz show hosting for the very first time, and will preside over teams of contestants as they compete for cash by crossing the Bridge – a collection of stepping stones featuring various truths and lies based on general knowledge categories.Each player must try to safely step on the truths and avoid the lies, or risk falling off and out of the game. Once they've conquered the Bridge on their own, successful contestants will join forces to face the dramatic final crossing for a chance to take home some cash.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512170000 -0400" stop="20260512180000 -0400" channel="Channel 4.GB">
+    <title>Château DIY</title>
+    <desc>Adventurous British families buy and renovate beautiful chateaux in France.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512170000 -0400" stop="20260512180000 -0400" channel="5.GB">
+    <title>5 News at 5</title>
+    <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512180000 -0400" stop="20260512190000 -0400" channel="Channel 4.GB">
+    <title>Sun, Sea and Selling Houses</title>
+    <desc>Sun, Sea and Selling Houses is a series that follows two British families who have set up shop in Spain selling property to Brits seeking fun in the sun.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512185500 -0400" stop="20260512190000 -0400" channel="5.GB">
+    <title>5 News at 18.55</title>
+    <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512195500 -0400" stop="20260512200000 -0400" channel="5.GB">
+    <title>5 News at 19:55</title>
+    <desc>National and international news</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="5.GB">
+    <title>Reuben: Life in the Dales</title>
+    <desc>Hill shepherds' son 19-year-old Reuben Owen from Channel 5's Our Yorkshire Farm is back, attempting to grow his new heavy plant machinery business with his best friends Tommy and Sarah in the remote Yorkshire Dales.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="BBC One.GB">
+    <title>Interior Design Masters with Alan Carr</title>
+    <desc>Interior Design Masters takes ten fledgling designers and launches them into the world of interior design. With eight weeks and eight different challenges to tackle, in each episode the designers will be confronted with a new space to transform in an attempt to win the grand prize offer of a life changing design contract.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="Channel 4.GB">
+    <title>Jamie's Ultimate BBQ</title>
+    <desc>Fresh air, good vibes, and woodsmoked wonders! Jamie Oliver shows us how to get outside, get cooking and get those flavours and textures that the kitchen just can't match.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="Quest.GB">
+    <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
+    <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512212000 -0400" stop="20260512222500 -0400" channel="E4.GB">
+    <title>Celebs Go Dating</title>
+    <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512220000 -0400" stop="20260512230000 -0400" channel="TRUE CRIME.GB">
+    <title>Killers: Caught on Camera</title>
+    <desc>Killers: Caught on Camera is a brand-new true crime series with unique access to the video footage that leads to the conviction of killers around the world.Each case is pieced together like a jigsaw as we link the CCTV, home surveillance, police body camera, and mobile phone footage that builds the evidence to catch the killer.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260507220000 -0400" stop="20260507230000 -0400" channel="Citytv.CA">
@@ -2436,29 +2388,9 @@
     <desc>After Neurosurgeon Maggie Sullivan's personal and professional life are thrown into turmoil she returns home to Sullivan's Crossing. While there, Maggie is forced to navigate her complicated present while confronting the painful past she has chosen to ignore for years.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260505060000 -0400" stop="20260505090000 -0400" channel="ABC.AU">
-    <title>ABC News Breakfast</title>
-    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505120000 -0400" stop="20260505130000 -0400" channel="ABC.AU">
-    <title>ABC News at Noon</title>
-    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505193000 -0400" stop="20260505200000 -0400" channel="ABC.AU">
-    <title>7.30</title>
-    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505200000 -0400" stop="20260505203000 -0400" channel="ABC.AU">
-    <title>Foreign Correspondent</title>
-    <desc>Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260505230000 -0400" stop="20260505233000 -0400" channel="ABC.AU">
-    <title>ABC Late News</title>
-    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+  <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="Citytv.CA">
+    <title>The Price is Right Tonight</title>
+    <desc>Hosted by legendary comedian and television personality Howie Mandel, The Price Is Right Tonight is a new Canadian series that brings the iconic game show's joyful wins and classic format to a primetime audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260506060000 -0400" stop="20260506090000 -0400" channel="ABC.AU">
@@ -2577,6 +2509,26 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260511230000 -0400" stop="20260511233000 -0400" channel="ABC.AU">
+    <title>ABC Late News</title>
+    <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512060000 -0400" stop="20260512090000 -0400" channel="ABC.AU">
+    <title>ABC News Breakfast</title>
+    <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512120000 -0400" stop="20260512130000 -0400" channel="ABC.AU">
+    <title>ABC News at Noon</title>
+    <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512193000 -0400" stop="20260512200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512230000 -0400" stop="20260512233000 -0400" channel="ABC.AU">
     <title>ABC Late News</title>
     <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
     <category>TV Show</category>
