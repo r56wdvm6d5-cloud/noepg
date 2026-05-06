@@ -788,6 +788,11 @@
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260507233500 -0400" stop="20260508003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260507003500 -0400" stop="20260507013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1833,6 +1838,11 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260512233500 -0400" stop="20260513003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260506070000 -0400" stop="20260506072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2208,6 +2218,11 @@
     <desc>Cruising to the Ends of the Earth follows three wildly different voyages to share the diverse and breathtaking landscape of our planet. Filmed on board Princess Cruises ships, the series will journey to the frozen peaks of Alaska, the dazzling coastlines of South Korea and Japan, as well as travelling through ancient history via the Mediterranean.Along the way, viewers will meet guests and crew on board the ships for the extraordinary trips. The series will follow them on sea and on land as they embark on bucket-list experiences and explore terrains like volcanic basins, archaeological sites, and cities with fascinating cuisine and culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260510200000 -0400" stop="20260510210000 -0400" channel="National Geographic.GB">
+    <title>Lost Treasures of the Bible</title>
+    <desc>This immersive series follows archaeological teams across the Middle East as they embark on a new season of excavations, uncovering the cities and civilizations featured in the Bible. From the lost city of Exodus in Egypt to the epic Tower of Babel in Iraq, their discoveries shed new light on the Bible's most famous stories. Stunning CGI and embedded cameras reveal treasures buried for millennia.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260510210000 -0400" stop="20260510220500 -0400" channel="Channel 4.GB">
     <title>Your Song</title>
     <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
@@ -2293,9 +2308,24 @@
     <desc>Shed &amp;amp; Buried: Classic Cars sees Henry team-up with Fuzz Townshend once again. The duo will be doing what they do best: digging in the nation's sheds, barns and outbuildings, this time to (hopefully) find a tidy profit in some vintage motors.Henry's love of motorbikes and tractors is well-known, but he still has a soft spot for classic cars. Fuzz - who has an encyclopaedic knowledge of all things automotive - is the perfect partner to help him unearth some classic four-wheelers and turn them into nice little earners.That's only half the battle - once their finds are back in the shed, restorer extraordinaire Guy Willison and engineering genius Allen Millyard will be put to the test, turning the rusty wrecks the lads have unearthed into right royal runners.As always, Henry will need to keep Fuzz focused, to make sure he doesn't buy an obscure vintage bus or lorry. Fuzz will have to keep an eye on Henry too, as he's usually done a deal before Fuzz can even lift the bonnet.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260511210000 -0400" stop="20260511223000 -0400" channel="5.GB">
+    <title>Major Crimes Unit</title>
+    <desc>Seconds is all it takes for the most brutal of crimes to be committed and lives to be shattered forever. When the worst happens, one team steps forward, and the brave men and women of the West Midland's Major Crime Unit take control - specialist detectives highly trained to piece together the smallest of clues and pick up the faintest of trails. Every lead matters and every second counts.With unprecedented access to this elite crime-fighting unit, the series follows investigators as they race against time to track suspects, uncover the truth, and deliver justice for victims and their families. No stone unturned, no suspect safe - this is law enforcement at its most relentless.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260511212500 -0400" stop="20260511223000 -0400" channel="E4.GB">
     <title>Celebs Go Dating</title>
     <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511220000 -0400" stop="20260511230000 -0400" channel="TRUE CRIME.GB">
+    <title>Donal MacIntyre's UK Killer Evidence</title>
+    <desc>Renowned investigative journalist and criminologist Donal MacIntyre returns to host Donal MacIntyre's Killer Evidence to demonstrate through 10 UK and US cases, that forensics will always uncover the ‘killer evidence' which brings murderers to justice.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511223500 -0400" stop="20260511234000 -0400" channel="E4.GB">
+    <title>Made in Chelsea</title>
+    <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512124500 -0400" stop="20260512125000 -0400" channel="5.GB">
@@ -2366,6 +2396,16 @@
   <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="Quest.GB">
     <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
     <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="5.GB">
+    <title>Critical Condition</title>
+    <desc>Documentary series following the work of a major hospital trauma unit.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="ITV1.GB">
+    <title>True Crime Presents</title>
+    <desc>A collection of true crime documentaries that cover a range of real-life offences and notorious offenders.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512212000 -0400" stop="20260512222500 -0400" channel="E4.GB">
