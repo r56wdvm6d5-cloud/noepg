@@ -873,6 +873,11 @@
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260509220000 -0400" stop="20260509230000 -0400" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260509220100 -0400" stop="20260509230400 -0400" channel="A&amp;E.US">
     <title>Duck Dynasty: The Revival</title>
     <desc>Duck Dynasty: The Revival centers on Willie and Korie Robertson as they navigate life with their growing family of adult children and grandchildren, now part of the next generation carrying on the Robertson legacy at their Louisiana homestead. As the family business expands beyond ducks, Willie and Korie bring their signature wit and down-home charm while they explore the future of Duck Commander, support their children through marriage, parenthood, and entrepreneurship, and work to keep their legacy alive. However, Willie quickly realizes that this next generation isn't as Robertson as he originally thought.</desc>
@@ -1843,6 +1848,11 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260513233500 -0400" stop="20260514003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260507070000 -0400" stop="20260507072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2381,6 +2391,11 @@
   <programme start="20260513210000 -0400" stop="20260513220000 -0400" channel="BBC Two.GB">
     <title>Surgeons: At the Edge of Life</title>
     <desc>Transforming patients' lives, at the cutting edge of medicine. Meet the world-leading surgeons pushing science - and the human body - to its limits.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260513210000 -0400" stop="20260513223000 -0400" channel="5.GB">
+    <title>A Killer Makes a Call</title>
+    <desc>A 999 call comes into the emergency services reporting a murder. Is it a traumatised witness who survived? A distressed loved one who finds the aftermath? Or is it the chilling voice of the killer?In this series we focus on shocking murder cases where the person who makes the call is actually the murderer. In each episode we unravel the sequence of events that lead up to the call and then the investigation that follows to determine the identity of the murderer and how they were caught. In every case the call is a key piece of evidence as the police piece together the case and get justice for the victim.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260513210500 -0400" stop="20260513221000 -0400" channel="E4.GB">
