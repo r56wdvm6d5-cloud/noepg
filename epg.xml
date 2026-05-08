@@ -694,6 +694,11 @@
     <desc>The series follows lives undone by unthinkable betrayals and the courage it takes to survive scandalous confessions, secret lives, terrifying acts of violence, financial ruin and more.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260510220000 -0400" stop="20260510223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260510220100 -0400" stop="20260510230400 -0400" channel="A&amp;E.US">
     <title>WWE LFG</title>
     <desc>WWE LFG (Legends &amp;amp; Future Greats) will offer viewers an inside look at the rigorous training process, featuring iconic WWE Legends such as Paul "Triple H" Levesque and Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley as they mentor a new generation in weekly matches on their quest to become the next WWE Superstars.</desc>
@@ -912,6 +917,11 @@
   <programme start="20260511210000 -0400" stop="20260511220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511210000 -0400" stop="20260511213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260511213000 -0400" stop="20260511224500 -0400" channel="Bravo.US">
@@ -1177,6 +1187,11 @@
   <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="FOX.US">
     <title>Bear Grylls Is Running Wild</title>
     <desc>Bear Grylls Is Running Wild follows legendary adventurer Bear Grylls as he takes some of the most famous people on the planet into the wild for a 48-hour journey of a lifetime. With thrilling action and revealing conversations, Bear takes his guests on unforgettable adventures in breath-taking wilderness and reveals a side of some of your favorite people like you've never seen before. This season, Bear Grylls leads cast members on a globe-spanning adventure through some of the planet's most unforgiving landscapes — from Norway's glacial wilderness to the legendary mountains of Eryri in Wales. The journeys cut through Arctic rainforest, vast canyonlands, and brutal desert terrain, pushing participants to their limits with glacier crossings, canyon descents, high-risk extractions, and an adrenaline-charged freefall from 11,000 feet, into an adventure along the Irish Sea.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512210000 -0400" stop="20260512213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512213000 -0400" stop="20260512220100 -0400" channel="A&amp;E.US">
@@ -1479,6 +1494,11 @@
     <desc>Driven by a relentless hunt for the truth, Bustamante pulls back the curtain on modern-day mysteries that blur the line between fact and fiction. Using his unique perspective and insider techniques, he investigates, pressure-tests, and challenges prevailing narratives to reveal the hidden forces behind these events and the motives used to manipulate the truth.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260513221500 -0400" stop="20260513224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260513230000 -0400" stop="20260513233500 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
@@ -1717,6 +1737,11 @@
   <programme start="20260514210000 -0400" stop="20260514220000 -0400" channel="National Geographic.US">
     <title>Mysteries of Ancient Medicine</title>
     <desc>Strange, ingenious, and terrifying healing traditions from the ancient world; combining archaeology, forensics, and stylized reconstructions, it explores topics like toxic remedies, pirate cures, early acupuncture, and Roman battlefield surgeries.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514210000 -0400" stop="20260514213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260514210200 -0400" stop="20260514220000 -0400" channel="FOX.US">
