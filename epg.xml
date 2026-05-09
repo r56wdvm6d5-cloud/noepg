@@ -909,6 +909,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260512213000 -0400" stop="20260512220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -922,6 +927,11 @@
   <programme start="20260512220000 -0400" stop="20260512230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512220000 -0400" stop="20260512230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512220100 -0400" stop="20260512223200 -0400" channel="A&amp;E.US">
@@ -954,6 +964,11 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260512230000 -0400" stop="20260513000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260512233500 -0400" stop="20260513003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -962,6 +977,16 @@
   <programme start="20260512233500 -0400" stop="20260513003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512000000 -0400" stop="20260512020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512000000 -0400" stop="20260512020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512003500 -0400" stop="20260512013500 -0400" channel="NBC.US">
@@ -1189,6 +1214,11 @@
     <desc>The series follows "Southern Charm" resident boss-lady Leva Bonaparte as she manages Charleston's very own "it" crowd, otherwise known as her larger-than-life staff at Republic Garden &amp;amp; Lounge. Leva and husband Lamar own four restaurants along the city's famous King Street, but Republic is the crown jewel of their kingdom. The hottest nightclub and backdrop for Charleston's lively party scene, Republic is the place to go for pleasure, business or both.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260513210000 -0400" stop="20260513220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260513213000 -0400" stop="20260513230000 -0400" channel="CBS.US">
     <title>America's Culinary Cup</title>
     <desc>America's Culinary Cup will feature a cast of the nation's most decorated chefs as they compete in the kitchen.</desc>
@@ -1212,6 +1242,11 @@
   <programme start="20260513220000 -0400" stop="20260513230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260513220000 -0400" stop="20260513230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260513220100 -0400" stop="20260513230100 -0400" channel="Discovery.US">
@@ -1239,6 +1274,11 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260513230000 -0400" stop="20260514000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260513233500 -0400" stop="20260514003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -1247,6 +1287,16 @@
   <programme start="20260513233500 -0400" stop="20260514003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260513000000 -0400" stop="20260513020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260513000000 -0400" stop="20260513020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260514050000 -0400" stop="20260514060000 -0400" channel="MS NOW.US">
@@ -1479,6 +1529,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260514210000 -0400" stop="20260514220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260514210200 -0400" stop="20260514220000 -0400" channel="FOX.US">
     <title>Fear Factor: House of Fear</title>
     <desc>Fear Factor: House of Fear is coming back bigger, bolder and more daring. Dropped into an unforgiving, remote location, a group of strangers will live together under one roof, and face mind-blowing stunts, harrowing challenges and a twisted game of social strategy where trust is fleeting - and fear is a weapon.</desc>
@@ -1487,6 +1542,11 @@
   <programme start="20260514220000 -0400" stop="20260514230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514220000 -0400" stop="20260514230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260514230000 -0400" stop="20260514233500 -0400" channel="Comedy Central.US">
@@ -1504,9 +1564,24 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260514230000 -0400" stop="20260515000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260514233500 -0400" stop="20260515003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514000000 -0400" stop="20260514020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514000000 -0400" stop="20260514020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260515050000 -0400" stop="20260515060000 -0400" channel="MS NOW.US">
@@ -1709,6 +1784,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260515210000 -0400" stop="20260515220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260515210100 -0400" stop="20260515220300 -0400" channel="Discovery.US">
     <title>The Last Woodsmen</title>
     <desc>The Last Woodsmen takes us deep into the secluded wilderness with these courageous and highly skilled loggers as they literally risk their lives. It's a rarely explored, dangerous business which translates to incredibly engrossing television.On a floating barge hundreds of miles from civilization, veteran logger Jared Douglas puts everything on the line to harvest the largest timber in the world. One misstep in this high-risk industry could cost tens of thousands of dollars, or even a life. Joining him at the edge of the world is a tight-knit crew of lumbermen who, with only axes and hand-held power saws, take down massive, highly valuable trees that can be worth up to $70K each.</desc>
@@ -1724,6 +1804,11 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260515220000 -0400" stop="20260515230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260515230000 -0400" stop="20260516000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Stephanie Ruhle</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
@@ -1732,6 +1817,16 @@
   <programme start="20260515230000 -0400" stop="20260516000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260515230000 -0400" stop="20260516000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260515000000 -0400" stop="20260515020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260509140000 -0400" stop="20260509150000 -0400" channel="5.GB">
