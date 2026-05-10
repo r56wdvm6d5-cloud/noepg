@@ -56,16 +56,20 @@
     <display-name>NFL Network</display-name>
     <country>US</country>
   </channel>
+  <channel id="Fox News Channel.US">
+    <display-name>Fox News Channel</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Newsmax.US">
+    <display-name>Newsmax</display-name>
+    <country>US</country>
+  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
     <display-name>Comedy Central</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Fox News Channel.US">
-    <display-name>Fox News Channel</display-name>
     <country>US</country>
   </channel>
   <channel id="The CW.US">
@@ -78,10 +82,6 @@
   </channel>
   <channel id="STARZ.US">
     <display-name>STARZ</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Newsmax.US">
-    <display-name>Newsmax</display-name>
     <country>US</country>
   </channel>
   <channel id="BBC One.GB">
@@ -102,6 +102,10 @@
   </channel>
   <channel id="National Geographic.GB">
     <display-name>National Geographic</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="BBC Alba.GB">
+    <display-name>BBC Alba</display-name>
     <country>GB</country>
   </channel>
   <channel id="Quest.GB">
@@ -377,6 +381,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260511090000 -0400" stop="20260511110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260511100000 -0400" stop="20260511120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -390,6 +399,11 @@
   <programme start="20260511100000 -0400" stop="20260511110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511100000 -0400" stop="20260511120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260511110000 -0400" stop="20260511120000 -0400" channel="ABC.US">
@@ -422,6 +436,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260511130000 -0400" stop="20260511150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260511140000 -0400" stop="20260511150000 -0400" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
@@ -435,6 +454,11 @@
   <programme start="20260511140000 -0400" stop="20260511150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511140000 -0400" stop="20260511160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260511160000 -0400" stop="20260511180000 -0400" channel="MS NOW.US">
@@ -647,6 +671,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260512090000 -0400" stop="20260512110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260512100000 -0400" stop="20260512120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -660,6 +689,11 @@
   <programme start="20260512100000 -0400" stop="20260512110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512100000 -0400" stop="20260512120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512110000 -0400" stop="20260512120000 -0400" channel="ABC.US">
@@ -710,6 +744,11 @@
   <programme start="20260512140000 -0400" stop="20260512150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260512140000 -0400" stop="20260512160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512160000 -0400" stop="20260512180000 -0400" channel="MS NOW.US">
@@ -952,6 +991,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260513090000 -0400" stop="20260513110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260513100000 -0400" stop="20260513120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -965,6 +1009,11 @@
   <programme start="20260513100000 -0400" stop="20260513110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260513100000 -0400" stop="20260513120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260513110000 -0400" stop="20260513120000 -0400" channel="ABC.US">
@@ -1015,6 +1064,11 @@
   <programme start="20260513140000 -0400" stop="20260513150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260513140000 -0400" stop="20260513160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260513160000 -0400" stop="20260513180000 -0400" channel="MS NOW.US">
@@ -1267,6 +1321,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260514090000 -0400" stop="20260514110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260514100000 -0400" stop="20260514120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -1280,6 +1339,11 @@
   <programme start="20260514100000 -0400" stop="20260514110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514100000 -0400" stop="20260514120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260514110000 -0400" stop="20260514120000 -0400" channel="ABC.US">
@@ -1330,6 +1394,11 @@
   <programme start="20260514140000 -0400" stop="20260514150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514140000 -0400" stop="20260514160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260514160000 -0400" stop="20260514180000 -0400" channel="MS NOW.US">
@@ -1562,6 +1631,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260515090000 -0400" stop="20260515110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260515100000 -0400" stop="20260515120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -1575,6 +1649,11 @@
   <programme start="20260515100000 -0400" stop="20260515110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260515100000 -0400" stop="20260515120000 -0400" channel="MS NOW.US">
+    <title>Ana Cabrera Reports</title>
+    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260515110000 -0400" stop="20260515120000 -0400" channel="ABC.US">
@@ -1625,6 +1704,11 @@
   <programme start="20260515140000 -0400" stop="20260515150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260515140000 -0400" stop="20260515160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260515160000 -0400" stop="20260515180000 -0400" channel="MS NOW.US">
@@ -1912,6 +1996,11 @@
     <desc>This immersive series follows archaeological teams across the Middle East as they embark on a new season of excavations, uncovering the cities and civilizations featured in the Bible. From the lost city of Exodus in Egypt to the epic Tower of Babel in Iraq, their discoveries shed new light on the Bible's most famous stories. Stunning CGI and embedded cameras reveal treasures buried for millennia.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260510200000 -0400" stop="20260510203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260510210000 -0400" stop="20260510220500 -0400" channel="Channel 4.GB">
     <title>Your Song</title>
     <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
@@ -1995,6 +2084,11 @@
   <programme start="20260511200000 -0400" stop="20260511210000 -0400" channel="5.GB">
     <title>Police Interceptors</title>
     <desc>Follow the action-packed lives of the high-speed police interception unit. Led by specially trained officers and equipped with the fastest vehicles in the force, the team tackles the most difficult-to-catch criminals on a daily basis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511200000 -0400" stop="20260511203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260511210000 -0400" stop="20260511220000 -0400" channel="Quest.GB">
@@ -2092,6 +2186,11 @@
     <desc>Fresh air, good vibes, and woodsmoked wonders! Jamie Oliver shows us how to get outside, get cooking and get those flavours and textures that the kitchen just can't match.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260512200000 -0400" stop="20260512203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260512210000 -0400" stop="20260512220000 -0400" channel="Quest.GB">
     <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
     <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
@@ -2187,6 +2286,11 @@
     <desc>JJ Chalmers and Kate Humble are given unprecedented access to the Royal Navy, both at sea and across many of their establishments back home. Our cameras are on board as a British warship hunts down a Russian submarine; Kate gets special clearance to go behind the scenes at Britian's secretive submarine base at Faslane in Scotland and JJ reveals what it takes to be an elite Royal Marine Commando as he journeys back to the beginning of his military career.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260513200000 -0400" stop="20260513203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260513210000 -0400" stop="20260513220000 -0400" channel="Channel 4.GB">
     <title>Salisbury Poisonings: The Untold Story</title>
     <desc>Salisbury Poisonings: The Untold Story tells the story of the 2018 poisoning of ex-Russian spy Sergei Skripal and his daughter Yulia in the quiet city of Salisbury, an incident that sent shockwaves across the globe. Just months later, British mother of three Dawn Sturgess died accidentally after coming into contact with Novichok, the nerve agent used in the original attack.</desc>
@@ -2277,6 +2381,11 @@
     <desc>The Yorkshire Vet is a documentary series about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260514200000 -0400" stop="20260514203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260514210000 -0400" stop="20260514220000 -0400" channel="Channel 4.GB">
     <title>Taskmaster</title>
     <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
@@ -2362,6 +2471,11 @@
     <desc>The documentary giving an insight into the working life of officers patrolling Britain's roads transfers to Channel 5, following Yorkshire police forces tackling an ever-more sophisticated criminal fraternity from the cities to the Dales.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260515200000 -0400" stop="20260515203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260515210000 -0400" stop="20260515220500 -0400" channel="E4.GB">
     <title>Celebs Go Dating</title>
     <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
@@ -2410,6 +2524,11 @@
   <programme start="20260516200000 -0400" stop="20260516210000 -0400" channel="5.GB">
     <title>Angela Rippon's River Cruises</title>
     <desc>This series showcases the majesty, culture and beauty of the world's most iconic rivers. Presented by journalist and national treasure Angela Rippon, each episode transports viewers along a mighty river through bustling towns, breathtaking vistas and a fascinating journey through history.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260516200000 -0400" stop="20260516203000 -0400" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260512200000 -0400" stop="20260512210000 -0400" channel="Citytv.CA">
