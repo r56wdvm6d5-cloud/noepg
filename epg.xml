@@ -219,7 +219,7 @@
     <desc>A&amp;amp;E Network and WWE Studios are giving fans an exclusive look behind the curtain in an all-new Sunday night programming partnership. With unprecedented access to WWE's archive, the ten-week programming block features eight original two-hour documentaries under the award-winning "Biography" banner showcasing the stories behind some of the most memorable WWE Superstars of all time including "Stone Cold" Steve Austin®, "Macho Man" Randy Savage®, "Rowdy" Roddy Piper™, Booker T®, Shawn Michaels®, Bret Hart, Mick Foley and Ultimate Warrior. The new "Biography" specials are helmed by some of the industry's top directors and storytellers to chronicle the success of these WWE Legends and their lasting mark on both sports entertainment and popular culture.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260510200000 -0400" stop="20260510203000 -0400" channel="FOX.US">
+  <programme start="20260510200000 -0400" stop="20260510203100 -0400" channel="FOX.US">
     <title>Family Guy</title>
     <desc>Family Guy follows Peter Griffin the endearingly ignorant dad, and his hilariously offbeat family of middle-class New Englanders in Quahog, RI. Lois is Peter's wife, a stay-at-home mom with no patience for her family's antics. Then there are their kids: 18-year-old Meg is an outcast at school and the Griffin family punching bag; 13-year-old Chris is a socially awkward teen who doesn't have a clue about the opposite sex; and one-year-old Stewie is a diabolically clever baby whose burgeoning sexuality is very much a work in progress. Rounding out the Griffin household is Brian the family dog and a ladies' man who is one step away from AA.</desc>
     <category>TV Show</category>
@@ -234,7 +234,7 @@
     <desc>The series follows Bob who runs Bob's Burgers, with the help of his wife and their three kids. Bob has big ideas about burgers, but the rest of the clan falls short on service. Despite the greasy counters and lousy location, the Belchers are determined to make every "Grand Re-Re-Re-opening" a success. Bob's wife, Linda, stands by her man and often does so by bursting into song. Their eldest daughter, 13-year-old Tina has a slight obsession with boys and zombies. Middle child Gene is an aspiring musician with a thirst for life. Louise is the bunny ears-wearing youngest daughter with an off-kilter sense of humor that makes her somewhat of a liability in the kitchen – and with the public.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260510210000 -0400" stop="20260510220000 -0400" channel="HBO.US">
+  <programme start="20260510210000 -0400" stop="20260510220500 -0400" channel="HBO.US">
     <title>Euphoria</title>
     <desc>Euphoria follows a group of high school students as they navigate love and friendships in a world of drugs, sex, trauma, and social media.</desc>
     <category>TV Show</category>
@@ -269,11 +269,6 @@
     <desc>Filthy Fortunes spotlights Matt Paxton and his team as they complete the most squalid and hazardous jobs to help everyday Americans cash in. Before the treasure hunt can begin, Matt will assess the property to determine potential costs associated with the clean-out and estimate the value of items hidden inside the hoard. With each property, he wagers that he'll discover enough to cover all the costs and make a profit. Matt takes all the risk, and if all goes according to plan, it's a win-win situation for both him and the client.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260510220000 -0400" stop="20260510230000 -0400" channel="HBO.US">
-    <title>Rooster</title>
-    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260510220000 -0400" stop="20260510230000 -0400" channel="CNN.US">
     <title>Eva Longoria: Searching for France</title>
     <desc>Often referred to as the food capital of the world, France has long been synonymous with culinary excellence. In the tradition of her journeys in Searching for Mexico and Searching for Spain, Eva Longoria discovers the iconic origins of French cuisine, where the dining experience was first elevated to an art form. Throughout multiple regions, CNN Original Series Eva Longoria: Searching for France will be at the crossroads of centuries old gastronomic tradition and cutting-edge creativity in a country whose national identity is defined by its rich culinary history. A devoted Francophile whose career has taken her to France countless times, Longoria now goes deeper, savoring the traditions, innovations and regional flavors that have defined French cuisine for centuries. She spends real time with the chefs, artisans and families that both safeguard and evolve that extraordinary legacy. Along the way she uncovers the history that shaped it, from royal courts and monastic vineyards to the regional communities that turned local ingredients into enduring culinary traditions.</desc>
@@ -297,6 +292,11 @@
   <programme start="20260510220300 -0400" stop="20260510230500 -0400" channel="History.US">
     <title>The Food That Built America</title>
     <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260510220500 -0400" stop="20260510223700 -0400" channel="HBO.US">
+    <title>Rooster</title>
+    <desc>Rooster follows a middle aged author navigating a complicated relationship with his daughter.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260510223000 -0400" stop="20260510230000 -0400" channel="HBO.US">
@@ -1822,6 +1822,11 @@
   <programme start="20260516220000 -0400" stop="20260516230000 -0400" channel="CNN.US">
     <title>Kara Swisher Wants to Live Forever</title>
     <desc>Produced by EverWonder Studio, Kara Swisher Wants to Live Forever follows journalist Kara Swisher as she embarks on a deeply personal and sharply reported journey into the rapidly expanding world of longevity science and humanity's enduring quest to cheat death."When my father died of an aneurysm at 34 years old, I was only five years old. Since then, I've thought a lot about death and how it impacts us all, for better or worse," said Swisher.  "When I started covering Silicon Valley in the early 1990s, I spent a lot of time reporting on how innovation and tech leaders could help some people while hurting others. As titans who have profoundly impacted our world, they've become interested in applying their vast fortunes and often god-like know-how to longevity, dreaming they might even be able to hack death itself. Can they? Is that a good thing? What is actual breakthrough science and what is the same old snake oil? Will that effort help all of humanity or just themselves? My goal is the same as it always has been: To find out."Inspired by her own experiences confronting mortality, Swisher investigates the promises and pitfalls of the booming longevity industry. Across the series, Swisher examines everything from anti-aging treatments and biotech breakthroughs to the role of artificial intelligence, the influence of Silicon Valley, and the growing cultural obsession with extending life. Along the way, she explores how wealth, access to healthcare, and social connection shape who benefits from these innovations, and whether humanity's pursuit of longer lives is changing how we think about death itself.Throughout the series, Swisher sits down with a range of voices at the center of the longevity conversation, including OpenAI CEO Sam Altman, entrepreneur Bryan Johnson, CRISPR pioneer and Nobel Prize winner Jennifer Doudna, entrepreneur and professor Scott Galloway, and Reed Jobs, whose work is shaped by his family's personal encounter with cancer. The series takes Swisher from exclusive concierge medical clinics to cutting-edge biotech labs and international healthcare systems, including a visit to South Korea to examine how preventative care and innovation have contributed to the country's high life expectancy.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260516220000 -0400" stop="20260516230000 -0400" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260516232900 -0400" stop="20260517010200 -0400" channel="NBC.US">
