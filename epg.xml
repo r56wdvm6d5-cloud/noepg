@@ -48,12 +48,12 @@
     <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
-  <channel id="History.US">
-    <display-name>History</display-name>
-    <country>US</country>
-  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="History.US">
+    <display-name>History</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
@@ -348,6 +348,11 @@
   <programme start="20260511200000 -0400" stop="20260511210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260511200000 -0400" stop="20260511210000 -0400" channel="PBS.US">
+    <title>Antiques Roadshow</title>
+    <desc>Antiques Roadshow turns 20! PBS' most-watched ongoing series celebrates 20 seasons with a new look, new hidden treasures and more appraisals than ever. Tune in to discover finds from Spokane, Washington; Tucson, Arizona; Little Rock, Arkansas; Charleston, South Carolina; Cleveland, Ohio; and Omaha, Nebraska. - Mondays, beginning January 4, 8:00-9:00 p.m. ET.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260511203000 -0400" stop="20260511210000 -0400" channel="CBS.US">
