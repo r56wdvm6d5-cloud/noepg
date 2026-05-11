@@ -2525,6 +2525,11 @@
     <desc>Britain's Got Talent brings together the very best variety acts from across the nation as they compete to win a life changing £250,000 and a coveted spot on The Royal Variety Performance.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260516184000 -0400" stop="20260516191500 -0400" channel="BBC One.GB">
+    <title>Blankety Blank</title>
+    <desc>Celebrities help contestants by filling in the missing blanks of phrases over a series of rounds to help win some brilliant prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260516192500 -0400" stop="20260516193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
