@@ -124,6 +124,10 @@
     <display-name>Sky Arts</display-name>
     <country>GB</country>
   </channel>
+  <channel id="National Geographic.GB">
+    <display-name>National Geographic</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Citytv.CA">
     <display-name>Citytv</display-name>
     <country>CA</country>
@@ -1044,6 +1048,11 @@
   <programme start="20260514200000 -0400" stop="20260514210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514200000 -0400" stop="20260514220000 -0400" channel="ESPN.US">
+    <title>SportsCenter Special</title>
+    <desc>SportsCenter Special is a series of talk show special episodes that air throughout the year on different days and at different times with some of the great sportscasters, sports reporters, sports analysts discussing many different sports related topics that are currently in the main topics of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260514203000 -0400" stop="20260514210000 -0400" channel="PBS.US">
@@ -2239,6 +2248,11 @@
   <programme start="20260514200000 -0400" stop="20260514203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260514200000 -0400" stop="20260514210000 -0400" channel="National Geographic.GB">
+    <title>Car S.O.S</title>
+    <desc>We Brits love our cars but, just like any relationship, sometimes things can get a little rusty. Meet master mechanic Fuzz Townshend and radio and TV presenter Tim Shaw, a petrol-head pair who undertake dramatic automobile interventions across the UK, hoping to return some much-loved motors to their former glory. With a tight deadline to turn each job around without the owners knowing, find out how these neglected classics fell in need of a little loving care – and what Fuzz and Tim can do to get them back on the road.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260514210000 -0400" stop="20260514220000 -0400" channel="Channel 4.GB">
