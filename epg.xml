@@ -230,6 +230,11 @@
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260513110000 -0400" stop="20260513120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260513120000 -0400" stop="20260513130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -575,6 +580,11 @@
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260514110000 -0400" stop="20260514120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260514120000 -0400" stop="20260514130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -903,6 +913,11 @@
   <programme start="20260515110000 -0400" stop="20260515120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260515110000 -0400" stop="20260515120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260515120000 -0400" stop="20260515130000 -0400" channel="CNN.US">
@@ -2425,7 +2440,7 @@
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260514193000 -0400" stop="20260514200000 -0400" channel="ABC.AU">
+  <programme start="20260514200000 -0400" stop="20260514203000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
@@ -2475,6 +2490,11 @@
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260518193000 -0400" stop="20260518200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260518200000 -0400" stop="20260518203000 -0400" channel="ABC.AU">
     <title>Australian Story</title>
     <desc>These are the stories of who we are. Australian Story presents unique tales that provide an insight into Australian life with all its complexities and challenges.</desc>
@@ -2508,6 +2528,11 @@
   <programme start="20260519120000 -0400" stop="20260519130000 -0400" channel="ABC.AU">
     <title>ABC News at Noon</title>
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260519193000 -0400" stop="20260519200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260519230000 -0400" stop="20260519233000 -0400" channel="ABC.AU">
