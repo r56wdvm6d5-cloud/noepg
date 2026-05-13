@@ -400,14 +400,14 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260513210000 -0400" stop="20260513220000 -0400" channel="Bravo.US">
-    <title>Southern Hospitality</title>
-    <desc>The series follows "Southern Charm" resident boss-lady Leva Bonaparte as she manages Charleston's very own "it" crowd, otherwise known as her larger-than-life staff at Republic Garden &amp;amp; Lounge. Leva and husband Lamar own four restaurants along the city's famous King Street, but Republic is the crown jewel of their kingdom. The hottest nightclub and backdrop for Charleston's lively party scene, Republic is the place to go for pleasure, business or both.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260513210000 -0400" stop="20260513220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260513211500 -0400" stop="20260513221500 -0400" channel="Bravo.US">
+    <title>Southern Hospitality</title>
+    <desc>The series follows "Southern Charm" resident boss-lady Leva Bonaparte as she manages Charleston's very own "it" crowd, otherwise known as her larger-than-life staff at Republic Garden &amp;amp; Lounge. Leva and husband Lamar own four restaurants along the city's famous King Street, but Republic is the crown jewel of their kingdom. The hottest nightclub and backdrop for Charleston's lively party scene, Republic is the place to go for pleasure, business or both.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260513213000 -0400" stop="20260513230000 -0400" channel="CBS.US">
@@ -1340,14 +1340,14 @@
     <desc>The eight-episode fast-paced, nostalgia-fueled series will take viewers on a thrilling ride through America's past.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260517210000 -0400" stop="20260517220000 -0400" channel="Bravo.US">
-    <title>The Real Housewives of Rhode Island</title>
-    <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260517210000 -0400" stop="20260517213000 -0400" channel="FOX.US">
     <title>American Dad!</title>
     <desc>In American Dad!, Stan Smith leads the all-American family in this animated sitcom filled with wild and crazy extremes. Everyday life is taken to the limit as Stan applies the same drastic measures used in his job at the CIA to his home life. Driven by machismo and the American dream, he often is blind to how horribly he fails at his attempts. This father might not know best, but he never stops trying.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260517211500 -0400" stop="20260517221500 -0400" channel="Bravo.US">
+    <title>The Real Housewives of Rhode Island</title>
+    <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260517213000 -0400" stop="20260517220000 -0400" channel="FOX.US">
