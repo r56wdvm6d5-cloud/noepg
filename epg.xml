@@ -445,6 +445,11 @@
     <desc>Fear Factor: House of Fear is coming back bigger, bolder and more daring. Dropped into an unforgiving, remote location, a group of strangers will live together under one roof, and face mind-blowing stunts, harrowing challenges and a twisted game of social strategy where trust is fleeting - and fear is a weapon.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260514220000 -0400" stop="20260514230000 -0400" channel="A&amp;E.US">
+    <title>Killer Investigations</title>
+    <desc>Detectives chase down leads, prosecutors go head-to-head with defense attorneys, and juries wrestle with life-or-death decisions.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260514220000 -0400" stop="20260514230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -755,6 +760,11 @@
     <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260515210000 -0400" stop="20260515230000 -0400" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260515210100 -0400" stop="20260515220300 -0400" channel="Discovery.US">
     <title>The Last Woodsmen</title>
     <desc>The Last Woodsmen takes us deep into the secluded wilderness with these courageous and highly skilled loggers as they literally risk their lives. It's a rarely explored, dangerous business which translates to incredibly engrossing television.On a floating barge hundreds of miles from civilization, veteran logger Jared Douglas puts everything on the line to harvest the largest timber in the world. One misstep in this high-risk industry could cost tens of thousands of dollars, or even a life. Joining him at the edge of the world is a tight-knit crew of lumbermen who, with only axes and hand-held power saws, take down massive, highly valuable trees that can be worth up to $70K each.</desc>
@@ -773,6 +783,11 @@
   <programme start="20260515220000 -0400" stop="20260515230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260515220000 -0400" stop="20260515230000 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260515230000 -0400" stop="20260516000000 -0400" channel="MS NOW.US">
@@ -2035,6 +2050,11 @@
     <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260516140000 -0400" stop="20260516174000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260516175500 -0400" stop="20260516184000 -0400" channel="BBC One.GB">
     <title>Bridge of Lies Celebrity Specials</title>
     <desc>Teams of celebrities take on the nail-biting quiz hosted by Ross Kemp.</desc>
@@ -2065,6 +2085,26 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260516200000 -0400" stop="20260516210000 -0400" channel="Channel 4.GB">
+    <title>World's Most Secret Hotels</title>
+    <desc>From underwater retreats and remote desert lodges to cliffside dwellings and treetop cabins, World's Most Secret Hotels visits the most hidden and remote hotels on the planet.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260516001000 -0400" stop="20260516004500 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260517130000 -0400" stop="20260517133500 -0400" channel="BBC One.GB">
+    <title>Songs of Praise</title>
+    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260517181500 -0400" stop="20260517191500 -0400" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260517192500 -0400" stop="20260517193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2080,6 +2120,26 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260517200000 -0400" stop="20260517210000 -0400" channel="ITV1.GB">
+    <title>Who Wants to Be a Millionaire?</title>
+    <desc>Game Show in which contestants answer questions to win up to £1 Million pounds.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260517200000 -0400" stop="20260517210000 -0400" channel="5.GB">
+    <title>Dogs Behaving (Very) Badly</title>
+    <desc>Master dog trainer Graeme Hall finds long-lasting solutions for dogs with issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260517200000 -0400" stop="20260517210000 -0400" channel="National Geographic.GB">
+    <title>Engineering by Catastrophe</title>
+    <desc>Across the globe, engineers are creating extraordinary modern masterpieces, structures that push beyond the limits of what came before. Each year, innovations grow more impressive as bridges, tunnels, skyscrapers and even spacecraft become bigger, bolder and more ambitious. Yet, every breakthrough brings new risks. To ensure the safest outcomes, engineers must study worst-case scenarios in which major structures are pushed to their limits and fatal flaws are exposed. Fires, explosions, floods and catastrophic collisions are difficult to confront but essential to understand. In this series, we learn from the past to build a safer future.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260517200000 -0400" stop="20260517210000 -0400" channel="BBC One.GB">
+    <title>RHS Chelsea Flower Show</title>
+    <desc>BBC coverage of the world's greatest flower show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260517210000 -0400" stop="20260517223000 -0400" channel="5.GB">
     <title>Trading Places</title>
     <desc>Trading Places is an energetic, entertainingly provocative ‘fish-out-of-water' series that takes a group of three young people and plunges them into an immersive week-long 24/7 experience inside one of four extraordinary worlds whose way of life is very different from their own.Will it be fireworks or friendship when a generation raised online and on-demand come face to face with regimes built on no-nonsense rules, unshakable principles and loyalty to a strict set of values. How will the young visitors react to the rituals and regulations of their new surroundings? And as the experience transforms both them and their hosts, will either side ever be the same again?</desc>
@@ -2090,6 +2150,16 @@
     <desc>Your Song is about everyday people, who, driven by their love and connection to a particular song, will step up to the stage and share their story with the world. Whether their track helped them through heartbreak, became their anthem of triumph, or reminds them who they are, Your Song is exactly that…. Your's.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260517220000 -0400" stop="20260517225000 -0400" channel="BBC Two.GB">
+    <title>Later... with Jools Holland</title>
+    <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260517223000 -0400" stop="20260517235500 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260518070000 -0400" stop="20260518072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2098,6 +2168,11 @@
   <programme start="20260518124500 -0400" stop="20260518125000 -0400" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260518140000 -0400" stop="20260518150000 -0400" channel="BBC One.GB">
+    <title>RHS Chelsea Flower Show</title>
+    <desc>BBC coverage of the world's greatest flower show.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260518141000 -0400" stop="20260518150000 -0400" channel="Channel 4.GB">
@@ -2140,6 +2215,16 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260518200000 -0400" stop="20260518210000 -0400" channel="BBC One.GB">
+    <title>RHS Chelsea Flower Show</title>
+    <desc>BBC coverage of the world's greatest flower show.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260518200000 -0400" stop="20260518210000 -0400" channel="5.GB">
+    <title>Police Interceptors</title>
+    <desc>Follow the action-packed lives of the high-speed police interception unit. Led by specially trained officers and equipped with the fastest vehicles in the force, the team tackles the most difficult-to-catch criminals on a daily basis.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260518210000 -0400" stop="20260518223000 -0400" channel="5.GB">
     <title>Major Crimes Unit</title>
     <desc>Seconds is all it takes for the most brutal of crimes to be committed and lives to be shattered forever. When the worst happens, one team steps forward, and the brave men and women of the West Midland's Major Crime Unit take control - specialist detectives highly trained to piece together the smallest of clues and pick up the faintest of trails. Every lead matters and every second counts.With unprecedented access to this elite crime-fighting unit, the series follows investigators as they race against time to track suspects, uncover the truth, and deliver justice for victims and their families. No stone unturned, no suspect safe - this is law enforcement at its most relentless.</desc>
@@ -2148,6 +2233,11 @@
   <programme start="20260518210000 -0400" stop="20260518220000 -0400" channel="Quest.GB">
     <title>Shed &amp; Buried: Classic Cars</title>
     <desc>Shed &amp;amp; Buried: Classic Cars sees Henry team-up with Fuzz Townshend once again. The duo will be doing what they do best: digging in the nation's sheds, barns and outbuildings, this time to (hopefully) find a tidy profit in some vintage motors.Henry's love of motorbikes and tractors is well-known, but he still has a soft spot for classic cars. Fuzz - who has an encyclopaedic knowledge of all things automotive - is the perfect partner to help him unearth some classic four-wheelers and turn them into nice little earners.That's only half the battle - once their finds are back in the shed, restorer extraordinaire Guy Willison and engineering genius Allen Millyard will be put to the test, turning the rusty wrecks the lads have unearthed into right royal runners.As always, Henry will need to keep Fuzz focused, to make sure he doesn't buy an obscure vintage bus or lorry. Fuzz will have to keep an eye on Henry too, as he's usually done a deal before Fuzz can even lift the bonnet.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260518210000 -0400" stop="20260518220500 -0400" channel="E4.GB">
+    <title>Celebs Go Dating</title>
+    <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260518220000 -0400" stop="20260518230000 -0400" channel="TRUE CRIME.GB">
@@ -2163,6 +2253,11 @@
   <programme start="20260519124500 -0400" stop="20260519125000 -0400" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260519140000 -0400" stop="20260519150000 -0400" channel="BBC One.GB">
+    <title>RHS Chelsea Flower Show</title>
+    <desc>BBC coverage of the world's greatest flower show.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260519141000 -0400" stop="20260519150000 -0400" channel="Channel 4.GB">
@@ -2215,6 +2310,11 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260519200000 -0400" stop="20260519210000 -0400" channel="BBC One.GB">
+    <title>RHS Chelsea Flower Show</title>
+    <desc>BBC coverage of the world's greatest flower show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260519210000 -0400" stop="20260519220000 -0400" channel="Quest.GB">
     <title>Francis Bourgeois &amp; Chris Harris: We Saved A Train</title>
     <desc>Trainspotting star Francis Bourgeois teams up with petrolhead Chris Harris to restore a wrecked locomotive, built in 1961.</desc>
@@ -2225,6 +2325,16 @@
     <desc>Documentary series following the work of a major hospital trauma unit.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260519210000 -0400" stop="20260519220500 -0400" channel="E4.GB">
+    <title>Celebs Go Dating</title>
+    <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260519230000 -0400" stop="20260519235000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260520070000 -0400" stop="20260520072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2233,6 +2343,11 @@
   <programme start="20260520124500 -0400" stop="20260520125000 -0400" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260520140000 -0400" stop="20260520150000 -0400" channel="BBC One.GB">
+    <title>RHS Chelsea Flower Show</title>
+    <desc>BBC coverage of the world's greatest flower show.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260520141000 -0400" stop="20260520150000 -0400" channel="Channel 4.GB">
@@ -2263,6 +2378,16 @@
   <programme start="20260520200000 -0400" stop="20260520203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260520200000 -0400" stop="20260520210000 -0400" channel="BBC One.GB">
+    <title>RHS Chelsea Flower Show</title>
+    <desc>BBC coverage of the world's greatest flower show.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260520210000 -0400" stop="20260520220500 -0400" channel="E4.GB">
+    <title>Celebs Go Dating</title>
+    <desc>Single celebrities join an exclusive dating agency in a bid to find true love. Matchmakers pair them with non-celebrity partners and the cameras capture every romantic and cringe-filled moment.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260520220000 -0400" stop="20260520230000 -0400" channel="TRUE CRIME.GB">
