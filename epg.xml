@@ -1515,6 +1515,11 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260520233500 -0400" stop="20260521003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260521050000 -0400" stop="20260521060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -2308,11 +2313,6 @@
   <programme start="20260521210000 -0400" stop="20260521220000 -0400" channel="BBC One.GB">
     <title>Race Across the World</title>
     <desc>Race Across the World will pit pairs of travellers against each other in a race to reach the Far East without taking a single flight, with no smartphone in sight. Each contestant will only have the cash equivalent of an air fare to their destination to pay for their overland travel. If they run out, they'll need to earn more.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260521210000 -0400" stop="20260521220000 -0400" channel="5.GB">
-    <title>The Hardacres</title>
-    <desc>The Hardacres chronicles the sweeping rags to riches story of a working class family in 1890s Yorkshire. A sprawling family saga, the series follows the lives, loves and fortunes of the Hardacre family as they move from a grimy fish dock to a vast country estate. When an accident at work on the docks lands Sam and Mary Hardacre – along with their three kids Joe, Liza and Harry, and Mary's inimitable mother Ma – unemployed and destitute, they have to think fast. In a bid to avoid the workhouse, the driven and determined Hardacres put their last penny into a radical business venture they hope will free them from their harsh existence on the quays of the North Yorkshire coast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260521210000 -0400" stop="20260521220500 -0400" channel="E4.GB">
