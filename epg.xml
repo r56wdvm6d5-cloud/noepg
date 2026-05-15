@@ -132,6 +132,10 @@
     <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
+  <channel id="Citytv.CA">
+    <display-name>Citytv</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -726,6 +730,11 @@
     <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260517221500 -0400" stop="20260517224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260517230000 -0400" stop="20260517233000 -0400" channel="HBO.US">
     <title>Last Week Tonight with John Oliver</title>
     <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
@@ -944,6 +953,11 @@
   <programme start="20260518210000 -0400" stop="20260518220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260518210000 -0400" stop="20260518213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260518210200 -0400" stop="20260518220000 -0400" channel="FOX.US">
@@ -1476,6 +1490,11 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260520220000 -0400" stop="20260520223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260520220100 -0400" stop="20260520230200 -0400" channel="Discovery.US">
     <title>Conspiracies &amp; Coverups</title>
     <desc>Driven by a relentless hunt for the truth, Bustamante pulls back the curtain on modern-day mysteries that blur the line between fact and fiction. Using his unique perspective and insider techniques, he investigates, pressure-tests, and challenges prevailing narratives to reveal the hidden forces behind these events and the motives used to manipulate the truth.</desc>
@@ -1704,6 +1723,11 @@
   <programme start="20260521210000 -0400" stop="20260521220000 -0400" channel="National Geographic.US">
     <title>Mysteries of Ancient Medicine</title>
     <desc>Strange, ingenious, and terrifying healing traditions from the ancient world; combining archaeology, forensics, and stylized reconstructions, it explores topics like toxic remedies, pirate cures, early acupuncture, and Roman battlefield surgeries.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260521210000 -0400" stop="20260521213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260521210200 -0400" stop="20260521220000 -0400" channel="FOX.US">
@@ -2304,6 +2328,11 @@
   <programme start="20260517200000 -0400" stop="20260517210000 -0400" channel="CTV.CA">
     <title>Sullivan's Crossing</title>
     <desc>After Neurosurgeon Maggie Sullivan's personal and professional life are thrown into turmoil she returns home to Sullivan's Crossing. While there, Maggie is forced to navigate her complicated present while confronting the painful past she has chosen to ignore for years.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260519200000 -0400" stop="20260519210000 -0400" channel="Citytv.CA">
+    <title>The Price is Right Tonight</title>
+    <desc>Hosted by legendary comedian and television personality Howie Mandel, The Price Is Right Tonight is a new Canadian series that brings the iconic game show's joyful wins and classic format to a primetime audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260515060000 -0400" stop="20260515090000 -0400" channel="ABC.AU">
