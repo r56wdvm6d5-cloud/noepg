@@ -711,6 +711,11 @@
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260518233500 -0400" stop="20260519003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260518000000 -0400" stop="20260518020000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -976,6 +981,11 @@
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260519233500 -0400" stop="20260520003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260520050000 -0400" stop="20260520060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -1234,6 +1244,11 @@
   <programme start="20260520233500 -0400" stop="20260521003500 -0400" channel="CBS.US">
     <title>The Late Show with Stephen Colbert</title>
     <desc>Stephen Colbert brings his signature satire and comedy to The Late Show with Stephen Colbert, the #1 show in late-night. Featuring bandleader Jon Batiste with his band Stay Human, the Emmy Award-nominated show broadcasts from the historic Ed Sullivan Theater. He talks with an eclectic mix of guests about what is new and relevant in the worlds of politics, entertainment, business, music, technology, and more. Stephen Colbert took over as host, executive producer, and writer of The Late Show on Sept. 8, 2015. Colbert is best known for his work as a television host, writer, actor, and producer, and lest known for his charity work teaching English as a second language on Tunisian date farms. Before joining the CBS family -- and being officially adopted by network president Les Moonves -- Colbert helmed The Colbert Report, which aired nearly 1,500 episodes and required Stephen to wear nearly 1,500 different neckties. The program received two Peabody Awards, two Grammy Awards, and several unwelcome shoulder massages. It won two Emmys for Outstanding Variety Series in 2013 and 2014, both of which appear to have been lost in the move. Colbert is pronounced koʊlˈbɛər, according to Wikipedia. His understudy is William Cavanaugh, who will be hosting The Late Show approximately one-third of the time. Good luck, Bill!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260520233500 -0400" stop="20260521003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260521050000 -0400" stop="20260521060000 -0400" channel="MS NOW.US">
@@ -1721,7 +1736,7 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260516120000 -0400" stop="20260516124500 -0400" channel="BBC One.GB">
+  <programme start="20260516120000 -0400" stop="20260516130000 -0400" channel="BBC One.GB">
     <title>Football Focus</title>
     <desc>A preview of all the top footballing action with detailed analysis from an expert panel of guests.</desc>
     <category>TV Show</category>
@@ -1744,11 +1759,6 @@
   <programme start="20260516180000 -0400" stop="20260516200000 -0400" channel="ITV1.GB">
     <title>Britain's Got Talent</title>
     <desc>Britain's Got Talent brings together the very best variety acts from across the nation as they compete to win a life changing £250,000 and a coveted spot on The Royal Variety Performance.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260516184000 -0400" stop="20260516191500 -0400" channel="BBC One.GB">
-    <title>Blankety Blank</title>
-    <desc>Celebrities help contestants by filling in the missing blanks of phrases over a series of rounds to help win some brilliant prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260516192500 -0400" stop="20260516193000 -0400" channel="5.GB">
