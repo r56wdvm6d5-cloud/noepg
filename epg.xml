@@ -421,6 +421,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260517230000 -0400" stop="20260518000000 -0400" channel="CNN.US">
+    <title>Disaster: The Chernobyl Meltdown</title>
+    <desc>Marking the 40th anniversary of the unprecedented tragedy, Disaster: The Chernobyl Meltdown tells the powerful story of the world's worst nuclear disaster in four gripping episodes. Spanning the scope of the catastrophic collapse of the reactor, the Soviets' calculated cover-up, and the present-day fallout now intersecting with the war in Ukraine, the series reveals a tragedy still reverberating across history. Featuring revealing interviews with survivors speaking publicly for the first time, alongside rare insight into the CIA and Soviet responses, the series exposes a web of secrecy, miscalculation, and human cost. Astonishing new footage from inside the nuclear exclusion zone reveals how this scarred landscape is once again under siege as war encroaches on one of the most dangerous places on Earth.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260517230000 -0400" stop="20260517233000 -0400" channel="HBO.US">
     <title>Last Week Tonight with John Oliver</title>
     <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
