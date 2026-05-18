@@ -1835,6 +1835,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260518171500 -0400" stop="20260518180000 -0400" channel="BBC One.GB">
+    <title>Pointless</title>
+    <desc>Contestants have to try and score as few points as possible as they compete against one another.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260518185500 -0400" stop="20260518190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -1928,6 +1933,11 @@
   <programme start="20260519170000 -0400" stop="20260519180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260519171500 -0400" stop="20260519180000 -0400" channel="BBC One.GB">
+    <title>Pointless</title>
+    <desc>Contestants have to try and score as few points as possible as they compete against one another.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260519185500 -0400" stop="20260519190000 -0400" channel="5.GB">
@@ -2030,6 +2040,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260520171500 -0400" stop="20260520180000 -0400" channel="BBC One.GB">
+    <title>Pointless</title>
+    <desc>Contestants have to try and score as few points as possible as they compete against one another.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260520185500 -0400" stop="20260520190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -2115,6 +2130,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260521171500 -0400" stop="20260521180000 -0400" channel="BBC One.GB">
+    <title>Pointless</title>
+    <desc>Contestants have to try and score as few points as possible as they compete against one another.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260521185500 -0400" stop="20260521190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -2193,6 +2213,11 @@
   <programme start="20260522170000 -0400" stop="20260522180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260522171500 -0400" stop="20260522180000 -0400" channel="BBC One.GB">
+    <title>Pointless</title>
+    <desc>Contestants have to try and score as few points as possible as they compete against one another.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260522185500 -0400" stop="20260522190000 -0400" channel="5.GB">
@@ -2413,6 +2438,11 @@
   <programme start="20260519193000 -0400" stop="20260519200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260519200000 -0400" stop="20260519205000 -0400" channel="ABC.AU">
+    <title>Shaun Micallef's Going For Broke</title>
+    <desc>In Shaun Micallef's Going For Broke, the famous writer, actor and comedian taps back into his curious side and sets out to understand a national obsession he's never quite grasped.Shaun has never understood gambling. He uses cold, hard logic when making decisions and always plays for certainty. But as viewers saw in On The Sauce, even a teetotaller can be swayed - Shaun spent one episode getting drunk to better understand Australia's relationship with alcohol.Now, he turns a sober eye to our love affair with gambling. Travelling across the country, Shaun meets punters, experts, and those affected by the industry to uncover how Australia became the biggest gambling nation in the world. From pokies in suburban pubs to high-stakes sports betting, Going For Broke asks: are we making a risky bet on our future?Can even Shaun's rational mind resist the lure of a "sure thing"?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260519230000 -0400" stop="20260519233000 -0400" channel="ABC.AU">
