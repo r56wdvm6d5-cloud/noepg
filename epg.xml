@@ -1285,6 +1285,11 @@
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260522233500 -0400" stop="20260523003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260523070000 -0400" stop="20260523100000 -0400" channel="MS NOW.US">
     <title>The Weekend</title>
     <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
