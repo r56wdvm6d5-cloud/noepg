@@ -835,6 +835,11 @@
     <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260523220000 -0400" stop="20260523230000 -0400" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260523000000 -0400" stop="20260523010000 -0400" channel="Syndication.US">
     <title>WOW - Women of Wrestling</title>
     <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
