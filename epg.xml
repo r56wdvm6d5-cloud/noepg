@@ -471,6 +471,11 @@
     <desc>MSNBC anchor Ali Velshi brings his sharp analysis and point-of-view to weekend mornings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260523100000 -0400" stop="20260523103000 -0400" channel="CBS.US">
+    <title>Mission Unstoppable</title>
+    <desc>In Mission Unstoppable, each week celebrity host Miranda Cosgrove highlights the fascinating female innovators who are on the cutting edge of science – including zoologists, engineers, astronauts, codebreakers and oceanographers. Viewers will be inspired by female STEM (science, technology, engineering and math) superstars in the fields of social media, entertainment, animals, design and the internet – all categories key to the teen experience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260523110000 -0400" stop="20260523120000 -0400" channel="CNN.US">
     <title>The Amanpour Hour</title>
     <desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
@@ -961,6 +966,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260526110000 -0400" stop="20260526120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260526120000 -0400" stop="20260526130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -1246,6 +1256,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260527110000 -0400" stop="20260527120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260527120000 -0400" stop="20260527130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -1386,7 +1401,7 @@
     <desc>In the all-new series Expedition Files, adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world's most captivating and unexplained mysteries.  Each episode of Expedition Files explores compelling true stories that defy explanation, offering stunning revelations and surprising new insights.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260527213000 -0400" stop="20260527220000 -0400" channel="A&amp;E.US">
+  <programme start="20260527213000 -0400" stop="20260527220100 -0400" channel="A&amp;E.US">
     <title>K9 PD with Jim Belushi</title>
     <desc>K9 PD with Jim Belushi showcases intense moments caught on camera of officers and their K9 partners facing high-stakes calls, told through gripping footage from surveillance cameras, body and dash cams, drones and more. Actor and lifelong K9 advocate Jim Belushi returns to the world of heroic K9s—only this time, it's for real—serving as host of the series, which captures the courage, precision, and raw instinct behind one of law enforcement's most formidable partnerships.</desc>
     <category>TV Show</category>
@@ -1489,6 +1504,11 @@
   <programme start="20260528100000 -0400" stop="20260528110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260528110000 -0400" stop="20260528120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260528120000 -0400" stop="20260528130000 -0400" channel="CNN.US">
