@@ -216,6 +216,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260522110000 -0400" stop="20260522120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260522120000 -0400" stop="20260522130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -656,6 +661,11 @@
     <desc>WWE LFG (Legends &amp;amp; Future Greats) will offer viewers an inside look at the rigorous training process, featuring iconic WWE Legends such as Paul "Triple H" Levesque and Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley as they mentor a new generation in weekly matches on their quest to become the next WWE Superstars.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260524221500 -0400" stop="20260524224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260524230400 -0400" stop="20260524233400 -0400" channel="A&amp;E.US">
     <title>WWE's Greatest Moments</title>
     <desc>WWE's Greatest Moments will feature legendary play-by-play announcer Michael Cole hosting half-hour episodes with various WWE Superstars &amp;amp; Legends, including "Stone Cold" Steve Austin, Hulk Hogan, Kevin Owens and others, to share vivid recollections and perspectives on the most remarkable moments in wrestling history.</desc>
@@ -769,11 +779,6 @@
   <programme start="20260525140000 -0400" stop="20260525160000 -0400" channel="MS NOW.US">
     <title>Katy Tur Reports</title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260525140000 -0400" stop="20260525150000 -0400" channel="CBS.US">
-    <title>Beyond the Gates</title>
-    <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525140000 -0400" stop="20260525160000 -0400" channel="Newsmax.US">
@@ -1024,6 +1029,11 @@
   <programme start="20260526170000 -0400" stop="20260526190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260526173000 -0400" stop="20260526180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260526180000 -0400" stop="20260526190000 -0400" channel="MS NOW.US">
@@ -1301,6 +1311,11 @@
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260527173000 -0400" stop="20260527180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260527180000 -0400" stop="20260527190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1539,6 +1554,11 @@
   <programme start="20260528170000 -0400" stop="20260528190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260528173000 -0400" stop="20260528180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260528180000 -0400" stop="20260528190000 -0400" channel="MS NOW.US">
