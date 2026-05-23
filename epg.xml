@@ -24,12 +24,12 @@
     <display-name>PBS</display-name>
     <country>US</country>
   </channel>
-  <channel id="Syndication.US">
-    <display-name>Syndication</display-name>
-    <country>US</country>
-  </channel>
   <channel id="NBC.US">
     <display-name>NBC</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Syndication.US">
+    <display-name>Syndication</display-name>
     <country>US</country>
   </channel>
   <channel id="FOX.US">
@@ -210,6 +210,21 @@
   <programme start="20260523180000 -0400" stop="20260523210000 -0400" channel="MS NOW.US">
     <title>The Weekend Primetime</title>
     <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260523183000 -0400" stop="20260523190000 -0400" channel="CBS.US">
+    <title>CBS Weekend News</title>
+    <desc>CBS Weekend News offers the latest headlines, original reporting and in-depth pieces that add context and perspective to the world's events.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260523183000 -0400" stop="20260523190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260523183000 -0400" stop="20260523190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260523220000 -0400" stop="20260523230000 -0400" channel="CBS.US">
@@ -462,11 +477,6 @@
     <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260525123000 -0400" stop="20260525133000 -0400" channel="CBS.US">
-    <title>The Young and the Restless</title>
-    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260525130000 -0400" stop="20260525160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -492,11 +502,6 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260525140000 -0400" stop="20260525150000 -0400" channel="ABC.US">
-    <title>General Hospital</title>
-    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260525160000 -0400" stop="20260525180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -515,6 +520,11 @@
   <programme start="20260525180000 -0400" stop="20260525190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260525183000 -0400" stop="20260525190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525190000 -0400" stop="20260525200000 -0400" channel="MS NOW.US">
@@ -750,6 +760,11 @@
   <programme start="20260526180000 -0400" stop="20260526190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260526183000 -0400" stop="20260526190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260526190000 -0400" stop="20260526200000 -0400" channel="MS NOW.US">
@@ -1042,6 +1057,11 @@
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260527183000 -0400" stop="20260527190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260527190000 -0400" stop="20260527200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1327,6 +1347,11 @@
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260528183000 -0400" stop="20260528190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260528190000 -0400" stop="20260528200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1585,6 +1610,11 @@
   <programme start="20260529180000 -0400" stop="20260529190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260529183000 -0400" stop="20260529190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260529190000 -0400" stop="20260529200000 -0400" channel="MS NOW.US">
@@ -2112,6 +2142,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260528193000 -0400" stop="20260528200000 -0400" channel="ITV1.GB">
+    <title>Tonight</title>
+    <desc>A news-magazine programme presented by Julie Etchingham.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260528195500 -0400" stop="20260528200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -2142,6 +2177,11 @@
     <desc>Springwatch is an annual BBC television series which charts the fortunes of British wildlife during the changing of the seasons in the United Kingdom.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260528200000 -0400" stop="20260528210000 -0400" channel="Channel 4.GB">
+    <title>George Clarke's Kitchen vs Garden</title>
+    <desc>Hand trowels or tea towels? Countertops or treetops? Architect George Clarke and garden designer Luke Millard help families choose between their kitchen and garden renovations..</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260528210000 -0400" stop="20260528220000 -0400" channel="Channel 4.GB">
     <title>Taskmaster</title>
     <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
@@ -2155,6 +2195,11 @@
   <programme start="20260528220000 -0400" stop="20260528223000 -0400" channel="Channel 4.GB">
     <title>Make That Movie</title>
     <desc>Make That Movie focuses on a hotshot director, played by stand-up comedian and actor Sam Campbell who scours the country for everyday people who have an idea for a feature film. Sam and his team then race against the clock as they attempt to transform the idea into a film in just three days.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260528220000 -0400" stop="20260528230000 -0400" channel="TRUE CRIME.GB">
+    <title>Britain's Countryside Killers</title>
+    <desc>This British series examines notorious murders that have had a lasting impact on rural communities in the UK. Each episode revisits a case that shocked once-peaceful towns and villages, highlighting how these seemingly idyllic settings were forever changed by violent crime. The series includes contributions from retired police detectives, forensic psychologists, and local journalists who provide detailed analysis of the investigative process behind each case.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260528223000 -0400" stop="20260528230000 -0400" channel="Channel 4.GB">
@@ -2290,11 +2335,6 @@
   <programme start="20260526193000 -0400" stop="20260526200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260526200000 -0400" stop="20260526205000 -0400" channel="ABC.AU">
-    <title>Shaun Micallef's Going For Broke</title>
-    <desc>In Shaun Micallef's Going For Broke, the famous writer, actor and comedian taps back into his curious side and sets out to understand a national obsession he's never quite grasped.Shaun has never understood gambling. He uses cold, hard logic when making decisions and always plays for certainty. But as viewers saw in On The Sauce, even a teetotaller can be swayed - Shaun spent one episode getting drunk to better understand Australia's relationship with alcohol.Now, he turns a sober eye to our love affair with gambling. Travelling across the country, Shaun meets punters, experts, and those affected by the industry to uncover how Australia became the biggest gambling nation in the world. From pokies in suburban pubs to high-stakes sports betting, Going For Broke asks: are we making a risky bet on our future?Can even Shaun's rational mind resist the lure of a "sure thing"?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260526230000 -0400" stop="20260526233000 -0400" channel="ABC.AU">
