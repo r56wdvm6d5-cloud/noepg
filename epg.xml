@@ -262,11 +262,6 @@
     <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260524210000 -0400" stop="20260524213000 -0400" channel="FOX.US">
-    <title>American Dad!</title>
-    <desc>In American Dad!, Stan Smith leads the all-American family in this animated sitcom filled with wild and crazy extremes. Everyday life is taken to the limit as Stan applies the same drastic measures used in his job at the CIA to his home life. Driven by machismo and the American dream, he often is blind to how horribly he fails at his attempts. This father might not know best, but he never stops trying.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260524220100 -0400" stop="20260524230200 -0400" channel="Discovery.US">
     <title>In the Eye of the Storm: Chasers</title>
     <desc>In the Eye of the Storm: Chasers, a heart-pounding ride into nature at its most extreme. The series follows twelve teams of certified weather spotters and professional storm chasers as they self-shoot their close encounters with dangerous tornadoes. With no producers or camera crews, each team ventures into America's Tornado Alley, risking everything to spot tornados, warn people in harm's way, and help save lives when disaster strikes.The series captures raw, harrowing encounters as storm chasers, outfitted with their own camera rigs and advanced weather tech, race into the American Midwest during one of the most active tornado seasons in decades. These men and women risk their lives while redefining storm chasing for a new generation.</desc>
@@ -1750,6 +1745,11 @@
   <programme start="20260524220000 -0400" stop="20260524233000 -0400" channel="5.GB">
     <title>Trading Places</title>
     <desc>Trading Places is an energetic, entertainingly provocative ‘fish-out-of-water' series that takes a group of three young people and plunges them into an immersive week-long 24/7 experience inside one of four extraordinary worlds whose way of life is very different from their own.Will it be fireworks or friendship when a generation raised online and on-demand come face to face with regimes built on no-nonsense rules, unshakable principles and loyalty to a strict set of values. How will the young visitors react to the rituals and regulations of their new surroundings? And as the experience transforms both them and their hosts, will either side ever be the same again?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260524220000 -0400" stop="20260524224500 -0400" channel="BBC Two.GB">
+    <title>Later... with Jools Holland</title>
+    <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260524223000 -0400" stop="20260525001000 -0400" channel="BBC One.GB">
