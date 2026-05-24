@@ -2117,6 +2117,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260529170000 -0400" stop="20260529180000 -0400" channel="ITV1.GB">
+    <title>The Chase</title>
+    <desc>The Chase is a quiz show in which four contestants must pit their wits against The Chaser, a ruthless quiz genius determined to stop them winning at all costs. A thrilling battle of brainpower and quick-thinking ensues, with each contestant trying to outrun the Chaser and bank their prize money before the final round, when the surviving team members join forces to try and win thousands of pounds.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260529185500 -0400" stop="20260529190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -2145,6 +2150,11 @@
   <programme start="20260529210000 -0400" stop="20260529213000 -0400" channel="BBC One.GB">
     <title>Have I Got News for You</title>
     <desc>Based on the week's news, Have I Got News for You is fronted by guest hosts and features two regular team captains, Paul Merton and Ian Hislop. Each week the show invites two guests to cast a jaundiced eye over the week's news, resulting in a fast flow of anarchic, spontaneous and hugely entertaining wit and humour. Guests typically represent the world of politics, comedy, show-business and journalism, and are often themselves particularly newsworthy participants. The final touches of Have I Got News for You are put together only hours before recording, allowing guests to comment on the late-breaking news stories of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260529210000 -0400" stop="20260529220000 -0400" channel="ITV1.GB">
+    <title>Soccer Aid</title>
+    <desc>Soccer Aid is a biennial British charity event. The event is a football match between two teams of celebrities and former professional players, representing England and the Rest of the World (RoW).</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260530140000 -0400" stop="20260530150000 -0400" channel="ITV1.GB">
