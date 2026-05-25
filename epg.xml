@@ -132,11 +132,6 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260525050000 -0400" stop="20260525060000 -0400" channel="MS NOW.US">
-    <title>Way Too Early</title>
-    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260525060000 -0400" stop="20260525100000 -0400" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
@@ -238,8 +233,8 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260525160000 -0400" stop="20260525180000 -0400" channel="MS NOW.US">
-    <title>Deadline: White House</title>
-    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <title>The Beat with Ari Melber</title>
+    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525160000 -0400" stop="20260525170000 -0400" channel="CNN.US">
@@ -253,8 +248,8 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260525180000 -0400" stop="20260525190000 -0400" channel="MS NOW.US">
-    <title>The Beat with Ari Melber</title>
-    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <title>All In with Chris Hayes</title>
+    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525183000 -0400" stop="20260525190000 -0400" channel="CBS.US">
@@ -270,11 +265,6 @@
   <programme start="20260525183000 -0400" stop="20260525190000 -0400" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260525190000 -0400" stop="20260525200000 -0400" channel="MS NOW.US">
-    <title>The Weeknight</title>
-    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525190000 -0400" stop="20260525200000 -0400" channel="CNN.US">
@@ -317,11 +307,6 @@
     <desc>Top Chef is a competition show in which chefs competing against each other in various culinary challenges, judged by the team of professional chefs and notable people from food industry.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260525220000 -0400" stop="20260525230000 -0400" channel="MS NOW.US">
-    <title>The Last Word with Lawrence O'Donnell</title>
-    <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260525220000 -0400" stop="20260525233000 -0400" channel="PBS.US">
     <title>Independent Lens</title>
     <desc>Independent Lens is an anthology of independent documentary films.</desc>
@@ -330,11 +315,6 @@
   <programme start="20260525220300 -0400" stop="20260525230500 -0400" channel="History.US">
     <title>World War II with Tom Hanks</title>
     <desc>For eighty years, the Second World War has remained the most devastating and defining conflict in human history. World War II with Tom Hanks is a landmark documentary event that reexamines the war through the lens of a new century. Told over twenty hours and guided by Tom Hanks, whose lifelong passion for this history has shaped some of the most profound screen portrayals of the era, the series captures the full arc of the war — from the rise of fascism in Europe to the fall of Berlin, from Pearl Harbor to Hiroshima, and the uneasy peace that follows. Each episode uncovers new dimensions of the conflict: the decisions that shaped the battlefield, the unseen networks that sustained the war effort, and the aftershocks that still shape our world today. "World War II with Tom Hanks" is the definitive retelling of that story for a new generation: a sweeping, deeply human portrait of how the modern world was forged in the fires of global war.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260525230000 -0400" stop="20260526000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Stephanie Ruhle</title>
-    <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525230000 -0400" stop="20260526000000 -0400" channel="PBS.US">
