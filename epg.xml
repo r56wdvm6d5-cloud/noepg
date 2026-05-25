@@ -182,11 +182,6 @@
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260525100000 -0400" stop="20260525120000 -0400" channel="MS NOW.US">
-    <title>Ana Cabrera Reports</title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260525100000 -0400" stop="20260525120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -197,14 +192,14 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260525100000 -0400" stop="20260525160000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260525120000 -0400" stop="20260525130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260525120000 -0400" stop="20260525140000 -0400" channel="MS NOW.US">
-    <title>Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525130000 -0400" stop="20260525160000 -0400" channel="CNN.US">
@@ -220,11 +215,6 @@
   <programme start="20260525130000 -0400" stop="20260525140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260525140000 -0400" stop="20260525160000 -0400" channel="MS NOW.US">
-    <title>Katy Tur Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525140000 -0400" stop="20260525160000 -0400" channel="Newsmax.US">
@@ -315,6 +305,11 @@
   <programme start="20260525220300 -0400" stop="20260525230500 -0400" channel="History.US">
     <title>World War II with Tom Hanks</title>
     <desc>For eighty years, the Second World War has remained the most devastating and defining conflict in human history. World War II with Tom Hanks is a landmark documentary event that reexamines the war through the lens of a new century. Told over twenty hours and guided by Tom Hanks, whose lifelong passion for this history has shaped some of the most profound screen portrayals of the era, the series captures the full arc of the war — from the rise of fascism in Europe to the fall of Berlin, from Pearl Harbor to Hiroshima, and the uneasy peace that follows. Each episode uncovers new dimensions of the conflict: the decisions that shaped the battlefield, the unseen networks that sustained the war effort, and the aftershocks that still shape our world today. "World War II with Tom Hanks" is the definitive retelling of that story for a new generation: a sweeping, deeply human portrait of how the modern world was forged in the fires of global war.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260525223000 -0400" stop="20260525233000 -0400" channel="ESPN.US">
+    <title>Inside the NBA</title>
+    <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260525230000 -0400" stop="20260526000000 -0400" channel="PBS.US">
@@ -2102,9 +2097,24 @@
     <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260530180000 -0400" stop="20260530190000 -0400" channel="ITV1.GB">
+    <title>Celebrity Catchphrase</title>
+    <desc>A celebrity version of the game show Catchphrase where contestants have to identify a familiar catchphrase represented by a piece of animation.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260530180500 -0400" stop="20260530185000 -0400" channel="BBC One.GB">
     <title>Bridge of Lies Celebrity Specials</title>
     <desc>Teams of celebrities take on the nail-biting quiz hosted by Ross Kemp.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260530185000 -0400" stop="20260530192500 -0400" channel="BBC One.GB">
+    <title>Blankety Blank</title>
+    <desc>Celebrities help contestants by filling in the missing blanks of phrases over a series of rounds to help win some brilliant prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260530190000 -0400" stop="20260530213000 -0400" channel="ITV1.GB">
+    <title>Britain's Got Talent</title>
+    <desc>Britain's Got Talent brings together the very best variety acts from across the nation as they compete to win a life changing £250,000 and a coveted spot on The Royal Variety Performance.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260530192500 -0400" stop="20260530193000 -0400" channel="5.GB">
@@ -2125,6 +2135,11 @@
   <programme start="20260530213000 -0400" stop="20260530223000 -0400" channel="ITV1.GB">
     <title>Nobody's Fool</title>
     <desc>A brand new quiz with a great big twist. It's not about how smart you are, but how smart your rivals think you are. Expect lying, scheming, and a whole lot of quizzing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260530222000 -0400" stop="20260530231000 -0400" channel="BBC One.GB">
+    <title>UEFA Champions League Highlights</title>
+    <desc>The biggest names. The biggest games. All the goals and unmissable moments from Europe's greatest football club competition.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260531170000 -0400" stop="20260531210000 -0400" channel="ITV1.GB">
