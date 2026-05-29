@@ -112,12 +112,12 @@
     <display-name>National Geographic</display-name>
     <country>GB</country>
   </channel>
-  <channel id="Sky Arts.GB">
-    <display-name>Sky Arts</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="TRUE CRIME.GB">
     <display-name>TRUE CRIME</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="Sky Arts.GB">
+    <display-name>Sky Arts</display-name>
     <country>GB</country>
   </channel>
   <channel id="Global.CA">
@@ -812,6 +812,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260601211500 -0400" stop="20260601214500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260601214500 -0400" stop="20260601230000 -0400" channel="Bravo.US">
     <title>Top Chef</title>
     <desc>Top Chef is a competition show in which chefs competing against each other in various culinary challenges, judged by the team of professional chefs and notable people from food industry.</desc>
@@ -1072,6 +1077,11 @@
     <desc>The Secret of Skinwalker Ranch: Behind the Gates offers a more in-depth look at the mysteries surrounding the ranch and the team's investigations, often featuring interviews with team members and experts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260602220000 -0400" stop="20260602223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260602220100 -0400" stop="20260602223200 -0400" channel="A&amp;E.US">
     <title>Squatters</title>
     <desc>Squatters are taking over homes across the country and Flash Shelton is the man who gets them out. With bold tactics and street smarts, Flash and his team face tense and sometimes dangerous situations to help families reclaim their property. Each episode reveals the emotional and high-stakes battles where the fight for justice can quickly escalate, putting everyone involved at risk. This is the struggle to take back what rightfully belongs to them.</desc>
@@ -1227,6 +1237,11 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603220000 -0400" stop="20260603223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603220100 -0400" stop="20260603230100 -0400" channel="Discovery.US">
     <title>Mystery at Blind Frog Ranch</title>
     <desc>There are some places on earth where the land just seems different, and Blind Frog Ranch in eastern Utah is one of those places. Locals say the land is cursed. That it's trying to hold on to something. From Aztec treasure to caverns of gold and silver to lost Mormon mines, legends surround Duane Ollinger's 160-acre ranch in Utah's Uintah Basin. But Duane isn't concerned with the lore. After discovering a system of seven underground caves that run through his property, he is singularly focused on finding what's hidden in them - no matter what the cost.</desc>
@@ -1330,6 +1345,11 @@
   <programme start="20260604210000 -0400" stop="20260604220000 -0400" channel="A&amp;E.US">
     <title>Interrogation Raw</title>
     <desc>Interrogation Raw tells the stories of dramatic murders and other serious crimes through the prism of the gripping interrogations of the accused.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604210000 -0400" stop="20260604213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260604220000 -0400" stop="20260604230000 -0400" channel="A&amp;E.US">
@@ -1725,6 +1745,11 @@
   <programme start="20260602210000 -0400" stop="20260602220000 -0400" channel="ITV1.GB">
     <title>The Vardys</title>
     <desc>The Vardys follows Rebekah and Jamie Vardy and their children as they relocate from the U.K. to Italy, starting a new chapter after the highly publicized 'Wagatha Christie' trial.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260602220000 -0400" stop="20260602230000 -0400" channel="TRUE CRIME.GB">
+    <title>Killers: Caught on Camera</title>
+    <desc>Killers: Caught on Camera is a brand-new true crime series with unique access to the video footage that leads to the conviction of killers around the world.Each case is pieced together like a jigsaw as we link the CCTV, home surveillance, police body camera, and mobile phone footage that builds the evidence to catch the killer.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260603091500 -0400" stop="20260603113000 -0400" channel="5.GB">
