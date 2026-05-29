@@ -482,6 +482,11 @@
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260530210000 -0400" stop="20260530220000 -0400" channel="Fox News Channel.US">
+    <title>My View with Lara Trump</title>
+    <desc>My View with Lara Trump features big picture analysis and interviews with thought leaders, shedding light on the headlines driving the national conversation and affecting families around the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260530000000 -0400" stop="20260530010000 -0400" channel="Syndication.US">
     <title>WOW - Women of Wrestling</title>
     <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
@@ -1637,6 +1642,11 @@
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260601141000 -0400" stop="20260601150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260601150000 -0400" stop="20260601154500 -0400" channel="BBC One.GB">
     <title>Escape to the Country</title>
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
@@ -1705,6 +1715,11 @@
   <programme start="20260602140000 -0400" stop="20260602150000 -0400" channel="5.GB">
     <title>Vanessa</title>
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260602141000 -0400" stop="20260602150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260602150000 -0400" stop="20260602154500 -0400" channel="BBC One.GB">
@@ -1787,6 +1802,11 @@
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603141000 -0400" stop="20260603150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603160000 -0400" stop="20260603170000 -0400" channel="Channel 4.GB">
     <title>Narrow Escapes</title>
     <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
@@ -1835,6 +1855,11 @@
   <programme start="20260604140000 -0400" stop="20260604150000 -0400" channel="5.GB">
     <title>Vanessa</title>
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604141000 -0400" stop="20260604150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260604160000 -0400" stop="20260604170000 -0400" channel="Channel 4.GB">
