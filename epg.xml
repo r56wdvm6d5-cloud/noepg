@@ -120,12 +120,12 @@
     <display-name>Sky Arts</display-name>
     <country>GB</country>
   </channel>
-  <channel id="Global.CA">
-    <display-name>Global</display-name>
-    <country>CA</country>
-  </channel>
   <channel id="CTV.CA">
     <display-name>CTV</display-name>
+    <country>CA</country>
+  </channel>
+  <channel id="Global.CA">
+    <display-name>Global</display-name>
     <country>CA</country>
   </channel>
   <channel id="ABC.AU">
@@ -682,6 +682,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260601110000 -0400" stop="20260601120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260601120000 -0400" stop="20260601130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -755,6 +760,11 @@
   <programme start="20260601180000 -0400" stop="20260601190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260601183000 -0400" stop="20260601190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260601190000 -0400" stop="20260601210000 -0400" channel="MS NOW.US">
@@ -942,6 +952,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260602110000 -0400" stop="20260602120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260602120000 -0400" stop="20260602130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -995,6 +1010,11 @@
   <programme start="20260602180000 -0400" stop="20260602190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260602183000 -0400" stop="20260602190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260602190000 -0400" stop="20260602200000 -0400" channel="MS NOW.US">
@@ -1132,6 +1152,11 @@
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603060000 -0400" stop="20260603100000 -0400" channel="MS NOW.US">
+    <title>Morning Joe</title>
+    <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603070000 -0400" stop="20260603090000 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
@@ -1167,6 +1192,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603110000 -0400" stop="20260603120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603130000 -0400" stop="20260603140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1190,6 +1220,16 @@
   <programme start="20260603160000 -0400" stop="20260603180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260603180000 -0400" stop="20260603190000 -0400" channel="MS NOW.US">
+    <title>The Beat with Ari Melber</title>
+    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260603183000 -0400" stop="20260603190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260603190000 -0400" stop="20260603200000 -0400" channel="MS NOW.US">
@@ -1277,6 +1317,16 @@
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260604050000 -0400" stop="20260604060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604060000 -0400" stop="20260604100000 -0400" channel="MS NOW.US">
+    <title>Morning Joe</title>
+    <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260604070000 -0400" stop="20260604090000 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
@@ -1312,6 +1362,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260604110000 -0400" stop="20260604120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260604130000 -0400" stop="20260604140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1325,6 +1380,26 @@
   <programme start="20260604140000 -0400" stop="20260604150000 -0400" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604160000 -0400" stop="20260604180000 -0400" channel="MS NOW.US">
+    <title>Deadline: White House</title>
+    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604180000 -0400" stop="20260604190000 -0400" channel="MS NOW.US">
+    <title>The Beat with Ari Melber</title>
+    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604183000 -0400" stop="20260604190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604190000 -0400" stop="20260604200000 -0400" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260604200000 -0400" stop="20260604210000 -0400" channel="A&amp;E.US">
@@ -1907,6 +1982,11 @@
     <desc>This British series examines notorious murders that have had a lasting impact on rural communities in the UK. Each episode revisits a case that shocked once-peaceful towns and villages, highlighting how these seemingly idyllic settings were forever changed by violent crime. The series includes contributions from retired police detectives, forensic psychologists, and local journalists who provide detailed analysis of the investigative process behind each case.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260529150000 -0400" stop="20260529160000 -0400" channel="CTV.CA">
+    <title>The Social</title>
+    <desc>A daily, fresh perspective on the headlines, pop culture and lifestyle topics that matter most to Canadians.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260529190000 -0400" stop="20260529200000 -0400" channel="Global.CA">
     <title>Crime Beat</title>
     <desc>Crime Beat is a true crime series that takes viewers deep into some of Canada's most infamous criminal cases. Hosted by Antony Robart and based on the highly successful podcast by Nancy Hixt, Crime Beat showcases some of the best investigative crime reporting from the Global News reporters who covered the stories in real time. Using extensive archives, intimate family interviews, each week Crime Beat reveals new details that go beyond the news headlines: giving a voice to victims and their families, unraveling how each case was solved through the eyes of the detectives and forensic specialists, and exploring lasting impacts on the community and justice system.</desc>
@@ -1915,6 +1995,11 @@
   <programme start="20260531200000 -0400" stop="20260531210000 -0400" channel="CTV.CA">
     <title>Sullivan's Crossing</title>
     <desc>After Neurosurgeon Maggie Sullivan's personal and professional life are thrown into turmoil she returns home to Sullivan's Crossing. While there, Maggie is forced to navigate her complicated present while confronting the painful past she has chosen to ignore for years.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260601150000 -0400" stop="20260601160000 -0400" channel="CTV.CA">
+    <title>The Social</title>
+    <desc>A daily, fresh perspective on the headlines, pop culture and lifestyle topics that matter most to Canadians.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260529060000 -0400" stop="20260529090000 -0400" channel="ABC.AU">
