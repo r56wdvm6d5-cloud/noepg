@@ -194,6 +194,11 @@
     <desc>WNBA Tip-Off serves as the pre-game telecast on CBS. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260530200000 -0400" stop="20260530210000 -0400" channel="A&amp;E.US">
+    <title>Storage Wars: Back to the Locker</title>
+    <desc>Storage Wars: Back to the Locker refers to a series of episodes within the larger "Storage Wars" series, where the focus is on the competitive bidding and treasure hunting within abandoned storage units. These episodes continue the main show's premise of professional buyers vying to acquire the contents of storage lockers, often with the hope of finding valuable items among the discarded belongings. The "Back to the Locker" part emphasizes the return to the core concept of exploring what lies behind the doors of these storage units.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260530210000 -0400" stop="20260530220000 -0400" channel="CNN.US">
     <title>Craig Ferguson: American on Purpose</title>
     <desc>Follows a cross-country journey exploring modern America's identity, freedoms, contradictions, and cultural quirks as the nation celebrates its 250th anniversary of independence.</desc>
@@ -1732,6 +1737,11 @@
   <programme start="20260604160000 -0400" stop="20260604170000 -0400" channel="Channel 4.GB">
     <title>Narrow Escapes</title>
     <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604190000 -0400" stop="20260604195500 -0400" channel="5.GB">
+    <title>Build Your Dream Home in the Country</title>
+    <desc>Mark Millar helps people around Britain who are building their dream homes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260604193000 -0400" stop="20260604200000 -0400" channel="ITV1.GB">
