@@ -1319,6 +1319,11 @@
     <desc>Totally Funny Animals features caught-on-camera videos that highlight the outrageous and wacky world of animals. Hosted by comedian Andy Woodhull, this clip show features everything from sneezing cats and calamitous canines to dumpster-diving bears and rascally racoons.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260605220000 -0400" stop="20260605230000 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260605233500 -0400" stop="20260606003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
@@ -1449,6 +1454,11 @@
     <desc>Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260601093000 -0400" stop="20260601104500 -0400" channel="BBC One.GB">
+    <title>Morning Live</title>
+    <desc>A lively and entertaining mix of topical content and expert advice.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260601104500 -0400" stop="20260601111500 -0400" channel="BBC One.GB">
     <title>Doorbell Detectives</title>
     <desc>Neighbourhood Watch with a digital upgrade! Matt Allwright has gobsmacking stories of crafty crooks and dodgy deliveries caught on camera, and top tips to help make a safer street.</desc>
@@ -1489,6 +1499,11 @@
     <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260601190000 -0400" stop="20260601193000 -0400" channel="BBC One.GB">
+    <title>The One Show</title>
+    <desc>The stories that have got Britain talking, and the world's biggest stars on the famous green sofa.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260601200000 -0400" stop="20260601203000 -0400" channel="BBC One.GB">
     <title>Panorama</title>
     <desc>Panorama is a current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.</desc>
@@ -1522,6 +1537,11 @@
   <programme start="20260602093000 -0400" stop="20260602100000 -0400" channel="ITV1.GB">
     <title>Lorraine</title>
     <desc>Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260602093000 -0400" stop="20260602104500 -0400" channel="BBC One.GB">
+    <title>Morning Live</title>
+    <desc>A lively and entertaining mix of topical content and expert advice.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260602104500 -0400" stop="20260602111500 -0400" channel="BBC One.GB">
@@ -1562,6 +1582,11 @@
   <programme start="20260602160000 -0400" stop="20260602170000 -0400" channel="Channel 4.GB">
     <title>Narrow Escapes</title>
     <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260602190000 -0400" stop="20260602193000 -0400" channel="BBC One.GB">
+    <title>The One Show</title>
+    <desc>The stories that have got Britain talking, and the world's biggest stars on the famous green sofa.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260602200000 -0400" stop="20260602210000 -0400" channel="Channel 4.GB">
@@ -1609,6 +1634,11 @@
     <desc>Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603093000 -0400" stop="20260603104500 -0400" channel="BBC One.GB">
+    <title>Morning Live</title>
+    <desc>A lively and entertaining mix of topical content and expert advice.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603104500 -0400" stop="20260603111500 -0400" channel="BBC One.GB">
     <title>Doorbell Detectives</title>
     <desc>Neighbourhood Watch with a digital upgrade! Matt Allwright has gobsmacking stories of crafty crooks and dodgy deliveries caught on camera, and top tips to help make a safer street.</desc>
@@ -1642,6 +1672,11 @@
   <programme start="20260603160000 -0400" stop="20260603170000 -0400" channel="Channel 4.GB">
     <title>Narrow Escapes</title>
     <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260603190000 -0400" stop="20260603193000 -0400" channel="BBC One.GB">
+    <title>The One Show</title>
+    <desc>The stories that have got Britain talking, and the world's biggest stars on the famous green sofa.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260603193000 -0400" stop="20260603200000 -0400" channel="ITV1.GB">
@@ -1704,6 +1739,11 @@
     <desc>Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260604093000 -0400" stop="20260604104500 -0400" channel="BBC One.GB">
+    <title>Morning Live</title>
+    <desc>A lively and entertaining mix of topical content and expert advice.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260604104500 -0400" stop="20260604111500 -0400" channel="BBC One.GB">
     <title>Doorbell Detectives</title>
     <desc>Neighbourhood Watch with a digital upgrade! Matt Allwright has gobsmacking stories of crafty crooks and dodgy deliveries caught on camera, and top tips to help make a safer street.</desc>
@@ -1742,6 +1782,11 @@
   <programme start="20260604190000 -0400" stop="20260604195500 -0400" channel="5.GB">
     <title>Build Your Dream Home in the Country</title>
     <desc>Mark Millar helps people around Britain who are building their dream homes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604190000 -0400" stop="20260604193000 -0400" channel="BBC One.GB">
+    <title>The One Show</title>
+    <desc>The stories that have got Britain talking, and the world's biggest stars on the famous green sofa.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260604193000 -0400" stop="20260604200000 -0400" channel="ITV1.GB">
@@ -1799,6 +1844,11 @@
     <desc>Lorraine Kelly presents a topical mix of entertainment, discussion and showbiz glamour as well as the latest fashion, food and celebrity gossip.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260605093000 -0400" stop="20260605104500 -0400" channel="BBC One.GB">
+    <title>Morning Live</title>
+    <desc>A lively and entertaining mix of topical content and expert advice.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260605104500 -0400" stop="20260605111500 -0400" channel="BBC One.GB">
     <title>Doorbell Detectives</title>
     <desc>Neighbourhood Watch with a digital upgrade! Matt Allwright has gobsmacking stories of crafty crooks and dodgy deliveries caught on camera, and top tips to help make a safer street.</desc>
@@ -1832,6 +1882,11 @@
   <programme start="20260605160000 -0400" stop="20260605170000 -0400" channel="Channel 4.GB">
     <title>Narrow Escapes</title>
     <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260605190000 -0400" stop="20260605193000 -0400" channel="BBC One.GB">
+    <title>The One Show</title>
+    <desc>The stories that have got Britain talking, and the world's biggest stars on the famous green sofa.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260605200000 -0400" stop="20260605210000 -0400" channel="BBC Two.GB">
