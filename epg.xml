@@ -76,16 +76,16 @@
     <display-name>PBS</display-name>
     <country>US</country>
   </channel>
+  <channel id="5.GB">
+    <display-name>5</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="ITV1.GB">
     <display-name>ITV1</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC One.GB">
     <display-name>BBC One</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="5.GB">
-    <display-name>5</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC Alba.GB">
@@ -1324,6 +1324,11 @@
     <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260531060000 -0400" stop="20260531091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260531093000 -0400" stop="20260531113000 -0400" channel="ITV1.GB">
     <title>Love Your Weekend with Alan Titchmarsh</title>
     <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
@@ -1384,6 +1389,11 @@
     <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260601060000 -0400" stop="20260601091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260601091500 -0400" stop="20260601113000 -0400" channel="5.GB">
     <title>Jeremy Vine</title>
     <desc>Jeremy Vine and Storm discuss the latest news and get your views and opinions of the day.</desc>
@@ -1412,6 +1422,11 @@
   <programme start="20260601113000 -0400" stop="20260601124500 -0400" channel="5.GB">
     <title>Storm &amp; Alexis</title>
     <desc>Two of 5's much-loved faces team up to focus on the issues that matter most to viewers - with your opinions front and centre.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260601121500 -0400" stop="20260601130000 -0400" channel="BBC Two.GB">
+    <title>Politics Live</title>
+    <desc>Daily news show that reports on all the political stories of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260601123000 -0400" stop="20260601133000 -0400" channel="ITV1.GB">
@@ -1474,6 +1489,16 @@
     <desc>Brand new series ‘Forensics: Crash Scene Investigation' goes inside the life changing incidents encountered by Yorkshire's forensic collision investigators as they use the latest technology and detective work to find out what went tragically wrong.Each episode is a unique insight into how the Crash Investigators assess the scene of a collision, gradually piecing together what's happened. They are the voice of the victim and often the only ones that can provide answers to families with answers of what happened to their loved ones.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260601223000 -0400" stop="20260601225800 -0400" channel="BBC Two.GB">
+    <title>Newsnight</title>
+    <desc>Newsnight is the BBC's flagship news programme and runs on BBC2 five nights a week. Its format, with a limited number of items covered in each show, allows an in-depth analytical approach to news stories, with a particular emphasis on political and economic affairs. The show largely eschews the "human-interest" stories favoured by many news programmes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260602060000 -0400" stop="20260602091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260602091500 -0400" stop="20260602113000 -0400" channel="5.GB">
     <title>Jeremy Vine</title>
     <desc>Jeremy Vine and Storm discuss the latest news and get your views and opinions of the day.</desc>
@@ -1502,6 +1527,11 @@
   <programme start="20260602113000 -0400" stop="20260602124500 -0400" channel="5.GB">
     <title>Storm &amp; Alexis</title>
     <desc>Two of 5's much-loved faces team up to focus on the issues that matter most to viewers - with your opinions front and centre.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260602121500 -0400" stop="20260602130000 -0400" channel="BBC Two.GB">
+    <title>Politics Live</title>
+    <desc>Daily news show that reports on all the political stories of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260602123000 -0400" stop="20260602133000 -0400" channel="ITV1.GB">
@@ -1574,6 +1604,16 @@
     <desc>Killers: Caught on Camera is a brand-new true crime series with unique access to the video footage that leads to the conviction of killers around the world.Each case is pieced together like a jigsaw as we link the CCTV, home surveillance, police body camera, and mobile phone footage that builds the evidence to catch the killer.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260602223000 -0400" stop="20260602225800 -0400" channel="BBC Two.GB">
+    <title>Newsnight</title>
+    <desc>Newsnight is the BBC's flagship news programme and runs on BBC2 five nights a week. Its format, with a limited number of items covered in each show, allows an in-depth analytical approach to news stories, with a particular emphasis on political and economic affairs. The show largely eschews the "human-interest" stories favoured by many news programmes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260603060000 -0400" stop="20260603091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603091500 -0400" stop="20260603113000 -0400" channel="5.GB">
     <title>Jeremy Vine</title>
     <desc>Jeremy Vine and Storm discuss the latest news and get your views and opinions of the day.</desc>
@@ -1597,6 +1637,11 @@
   <programme start="20260603104500 -0400" stop="20260603111500 -0400" channel="BBC One.GB">
     <title>Doorbell Detectives</title>
     <desc>Neighbourhood Watch with a digital upgrade! Matt Allwright has gobsmacking stories of crafty crooks and dodgy deliveries caught on camera, and top tips to help make a safer street.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260603111500 -0400" stop="20260603130000 -0400" channel="BBC Two.GB">
+    <title>Politics Live</title>
+    <desc>Daily news show that reports on all the political stories of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260603113000 -0400" stop="20260603124500 -0400" channel="5.GB">
@@ -1684,6 +1729,16 @@
     <desc>Bloodline Detectives focuses on familial DNA investigation, a search technique which uses genetic material from relatives to track down a suspect to solve violent crimes.Each episode shows detectives from all over the world solving cold cases by using the DNA of family members and how that additional DNA information is revolutionising genetic profiling to solve criminal cases.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603223000 -0400" stop="20260603225800 -0400" channel="BBC Two.GB">
+    <title>Newsnight</title>
+    <desc>Newsnight is the BBC's flagship news programme and runs on BBC2 five nights a week. Its format, with a limited number of items covered in each show, allows an in-depth analytical approach to news stories, with a particular emphasis on political and economic affairs. The show largely eschews the "human-interest" stories favoured by many news programmes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604060000 -0400" stop="20260604091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260604091500 -0400" stop="20260604113000 -0400" channel="5.GB">
     <title>Jeremy Vine</title>
     <desc>Jeremy Vine and Storm discuss the latest news and get your views and opinions of the day.</desc>
@@ -1712,6 +1767,11 @@
   <programme start="20260604113000 -0400" stop="20260604124500 -0400" channel="5.GB">
     <title>Storm &amp; Alexis</title>
     <desc>Two of 5's much-loved faces team up to focus on the issues that matter most to viewers - with your opinions front and centre.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604121500 -0400" stop="20260604130000 -0400" channel="BBC Two.GB">
+    <title>Politics Live</title>
+    <desc>Daily news show that reports on all the political stories of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260604123000 -0400" stop="20260604133000 -0400" channel="ITV1.GB">
@@ -1792,6 +1852,16 @@
   <programme start="20260604220000 -0400" stop="20260604230000 -0400" channel="TRUE CRIME.GB">
     <title>Britain's Countryside Killers</title>
     <desc>This British series examines notorious murders that have had a lasting impact on rural communities in the UK. Each episode revisits a case that shocked once-peaceful towns and villages, highlighting how these seemingly idyllic settings were forever changed by violent crime. The series includes contributions from retired police detectives, forensic psychologists, and local journalists who provide detailed analysis of the investigative process behind each case.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604223000 -0400" stop="20260604225800 -0400" channel="BBC Two.GB">
+    <title>Newsnight</title>
+    <desc>Newsnight is the BBC's flagship news programme and runs on BBC2 five nights a week. Its format, with a limited number of items covered in each show, allows an in-depth analytical approach to news stories, with a particular emphasis on political and economic affairs. The show largely eschews the "human-interest" stories favoured by many news programmes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260605060000 -0400" stop="20260605091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260605091500 -0400" stop="20260605113000 -0400" channel="5.GB">
@@ -1882,6 +1952,16 @@
   <programme start="20260605220000 -0400" stop="20260605230000 -0400" channel="Channel 4.GB">
     <title>First Dates</title>
     <desc>The First Dates restaurant throws open its doors to single people looking for love.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260605223000 -0400" stop="20260605225800 -0400" channel="BBC Two.GB">
+    <title>Newsnight</title>
+    <desc>Newsnight is the BBC's flagship news programme and runs on BBC2 five nights a week. Its format, with a limited number of items covered in each show, allows an in-depth analytical approach to news stories, with a particular emphasis on political and economic affairs. The show largely eschews the "human-interest" stories favoured by many news programmes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260606060000 -0400" stop="20260606091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260606140000 -0400" stop="20260606150000 -0400" channel="ITV1.GB">
