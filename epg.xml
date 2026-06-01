@@ -1614,6 +1614,11 @@
     <desc>Rita Cosby and Jon Glasgow tackles the big headlines with smart analysis from top experts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260606130000 -0400" stop="20260606150000 -0400" channel="Newsmax.US">
+    <title>Saturday Agenda</title>
+    <desc>Rob Astorino reveals Washington's inner workings and the fight for core values.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260606170000 -0400" stop="20260606180000 -0400" channel="FOX.US">
     <title>Belmont Stakes</title>
     <desc>The Belmont Stakes is an American Grade I stakes race for three-year-old Thoroughbreds run at Belmont Park in Elmont, New York. Colts and geldings carry a weight of 126 pounds (57 kg); fillies carry 121 pounds (55 kg). The race, nicknamed The Test of the Champion, The Test of Champions and The Run for the Carnations, is the traditional third and final leg of the Triple Crown. It is usually held on the first or second Saturday in June, five weeks after the Kentucky Derby and three weeks after the Preakness Stakes. The 1973 Belmont Stakes and Triple Crown winner Secretariat holds the mile and a half stakes record (which is also a track and world record on dirt) of 2:24.When run at 1+1⁄2 miles, the Belmont Stakes covers one full lap of Belmont Park, known as "The Championship Track" because nearly every major American champion in racing history has competed on the racetrack. Belmont Park, with its large, wide, sweeping turns and long homestretch, is considered one of the fairest racetracks in America. Despite the distance, the race tends to favor horses with tactical speed: relatively few winners close from far behind the early leaders.</desc>
@@ -1627,6 +1632,11 @@
   <programme start="20260606170000 -0400" stop="20260606180000 -0400" channel="MS NOW.US">
     <title>PoliticsNation</title>
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260606170000 -0400" stop="20260606190000 -0400" channel="Newsmax.US">
+    <title>The Count</title>
+    <desc>Newsmax counts up the top stories of the week, while offering analysis by lawmakers, newsmakers, and policy experts.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260606180000 -0400" stop="20260606210000 -0400" channel="MS NOW.US">
