@@ -835,6 +835,11 @@
     <desc>The series follows "Southern Charm" resident boss-lady Leva Bonaparte as she manages Charleston's very own "it" crowd, otherwise known as her larger-than-life staff at Republic Garden &amp;amp; Lounge. Leva and husband Lamar own four restaurants along the city's famous King Street, but Republic is the crown jewel of their kingdom. The hottest nightclub and backdrop for Charleston's lively party scene, Republic is the place to go for pleasure, business or both.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603210000 -0400" stop="20260603220000 -0400" channel="Discovery.US">
+    <title>Expedition Files</title>
+    <desc>In the all-new series Expedition Files, adventurer Josh Gates travels through history on a search to uncover new evidence and answers to the world's most captivating and unexplained mysteries.  Each episode of Expedition Files explores compelling true stories that defy explanation, offering stunning revelations and surprising new insights.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603213000 -0400" stop="20260603220100 -0400" channel="A&amp;E.US">
     <title>K9 PD with Jim Belushi</title>
     <desc>K9 PD with Jim Belushi showcases intense moments caught on camera of officers and their K9 partners facing high-stakes calls, told through gripping footage from surveillance cameras, body and dash cams, drones and more. Actor and lifelong K9 advocate Jim Belushi returns to the world of heroic K9s—only this time, it's for real—serving as host of the series, which captures the courage, precision, and raw instinct behind one of law enforcement's most formidable partnerships.</desc>
@@ -1323,6 +1328,11 @@
   <programme start="20260606210000 -0400" stop="20260606220000 -0400" channel="Fox News Channel.US">
     <title>My View with Lara Trump</title>
     <desc>My View with Lara Trump features big picture analysis and interviews with thought leaders, shedding light on the headlines driving the national conversation and affecting families around the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260606210000 -0400" stop="20260606220000 -0400" channel="CNN.US">
+    <title>Craig Ferguson: American on Purpose</title>
+    <desc>Follows a cross-country journey exploring modern America's identity, freedoms, contradictions, and cultural quirks as the nation celebrates its 250th anniversary of independence.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260606000000 -0400" stop="20260606010000 -0400" channel="Syndication.US">
