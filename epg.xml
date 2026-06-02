@@ -260,6 +260,11 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260602150000 -0400" stop="20260602160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260602160000 -0400" stop="20260602180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -575,6 +580,11 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603150000 -0400" stop="20260603160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603160000 -0400" stop="20260603180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -843,6 +853,11 @@
   <programme start="20260604140000 -0400" stop="20260604160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260604150000 -0400" stop="20260604160000 -0400" channel="CBS.US">
+    <title>Let's Make a Deal</title>
+    <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260604160000 -0400" stop="20260604180000 -0400" channel="MS NOW.US">
@@ -1453,6 +1468,11 @@
   <programme start="20260607220300 -0400" stop="20260607230500 -0400" channel="History.US">
     <title>The Food That Built America</title>
     <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260607220500 -0400" stop="20260607230700 -0400" channel="Discovery.US">
+    <title>In the Eye of the Storm: Chasers</title>
+    <desc>In the Eye of the Storm: Chasers, a heart-pounding ride into nature at its most extreme. The series follows twelve teams of certified weather spotters and professional storm chasers as they self-shoot their close encounters with dangerous tornadoes. With no producers or camera crews, each team ventures into America's Tornado Alley, risking everything to spot tornados, warn people in harm's way, and help save lives when disaster strikes.The series captures raw, harrowing encounters as storm chasers, outfitted with their own camera rigs and advanced weather tech, race into the American Midwest during one of the most active tornado seasons in decades. These men and women risk their lives while redefining storm chasing for a new generation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260607230000 -0400" stop="20260607233000 -0400" channel="HBO.US">
@@ -2153,6 +2173,11 @@
   <programme start="20260607060000 -0400" stop="20260607091500 -0400" channel="5.GB">
     <title>Milkshake!</title>
     <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260607100000 -0400" stop="20260607130000 -0400" channel="Channel 4.GB">
+    <title>Sunday Brunch</title>
+    <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260607133000 -0400" stop="20260607140500 -0400" channel="BBC One.GB">
