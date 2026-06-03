@@ -219,6 +219,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260603123000 -0400" stop="20260603133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260603130000 -0400" stop="20260603140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -544,6 +549,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260604123000 -0400" stop="20260604133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260604130000 -0400" stop="20260604140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -764,6 +774,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260604003500 -0400" stop="20260604013500 -0400" channel="NBC.US">
+    <title>Late Night with Seth Meyers</title>
+    <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260605050000 -0400" stop="20260605060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -852,6 +867,11 @@
   <programme start="20260605120000 -0400" stop="20260605150000 -0400" channel="NewsNation.US">
     <title>NewsNation Live with Nichole Berlie</title>
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260605123000 -0400" stop="20260605133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260605130000 -0400" stop="20260605140000 -0400" channel="ABC.US">
@@ -1014,6 +1034,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260605210000 -0400" stop="20260605230000 -0400" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260605210100 -0400" stop="20260605220100 -0400" channel="Discovery.US">
     <title>The Last Woodsmen</title>
     <desc>The Last Woodsmen takes us deep into the secluded wilderness with these courageous and highly skilled loggers as they literally risk their lives. It's a rarely explored, dangerous business which translates to incredibly engrossing television.On a floating barge hundreds of miles from civilization, veteran logger Jared Douglas puts everything on the line to harvest the largest timber in the world. One misstep in this high-risk industry could cost tens of thousands of dollars, or even a life. Joining him at the edge of the world is a tight-knit crew of lumbermen who, with only axes and hand-held power saws, take down massive, highly valuable trees that can be worth up to $70K each.</desc>
@@ -1114,7 +1139,7 @@
     <desc>Rob Astorino reveals Washington's inner workings and the fight for core values.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260606170000 -0400" stop="20260606180000 -0400" channel="FOX.US">
+  <programme start="20260606160000 -0400" stop="20260606183000 -0400" channel="FOX.US">
     <title>Belmont Stakes</title>
     <desc>The Belmont Stakes is an American Grade I stakes race for three-year-old Thoroughbreds run at Belmont Park in Elmont, New York. Colts and geldings carry a weight of 126 pounds (57 kg); fillies carry 121 pounds (55 kg). The race, nicknamed The Test of the Champion, The Test of Champions and The Run for the Carnations, is the traditional third and final leg of the Triple Crown. It is usually held on the first or second Saturday in June, five weeks after the Kentucky Derby and three weeks after the Preakness Stakes. The 1973 Belmont Stakes and Triple Crown winner Secretariat holds the mile and a half stakes record (which is also a track and world record on dirt) of 2:24.When run at 1+1⁄2 miles, the Belmont Stakes covers one full lap of Belmont Park, known as "The Championship Track" because nearly every major American champion in racing history has competed on the racetrack. Belmont Park, with its large, wide, sweeping turns and long homestretch, is considered one of the fairest racetracks in America. Despite the distance, the race tends to favor horses with tactical speed: relatively few winners close from far behind the early leaders.</desc>
     <category>TV Show</category>
@@ -1137,6 +1162,11 @@
   <programme start="20260606180000 -0400" stop="20260606210000 -0400" channel="MS NOW.US">
     <title>The Weekend Primetime</title>
     <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260606183000 -0400" stop="20260606193000 -0400" channel="FOX.US">
+    <title>Belmont Stakes</title>
+    <desc>The Belmont Stakes is an American Grade I stakes race for three-year-old Thoroughbreds run at Belmont Park in Elmont, New York. Colts and geldings carry a weight of 126 pounds (57 kg); fillies carry 121 pounds (55 kg). The race, nicknamed The Test of the Champion, The Test of Champions and The Run for the Carnations, is the traditional third and final leg of the Triple Crown. It is usually held on the first or second Saturday in June, five weeks after the Kentucky Derby and three weeks after the Preakness Stakes. The 1973 Belmont Stakes and Triple Crown winner Secretariat holds the mile and a half stakes record (which is also a track and world record on dirt) of 2:24.When run at 1+1⁄2 miles, the Belmont Stakes covers one full lap of Belmont Park, known as "The Championship Track" because nearly every major American champion in racing history has competed on the racetrack. Belmont Park, with its large, wide, sweeping turns and long homestretch, is considered one of the fairest racetracks in America. Despite the distance, the race tends to favor horses with tactical speed: relatively few winners close from far behind the early leaders.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260606193000 -0400" stop="20260606200000 -0400" channel="CBS.US">
@@ -1384,6 +1414,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260608123000 -0400" stop="20260608133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260608130000 -0400" stop="20260608140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
@@ -1574,6 +1609,16 @@
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260608233500 -0400" stop="20260609003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608003500 -0400" stop="20260608013500 -0400" channel="NBC.US">
+    <title>Late Night with Seth Meyers</title>
+    <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260609050000 -0400" stop="20260609060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -1657,6 +1702,11 @@
   <programme start="20260609120000 -0400" stop="20260609150000 -0400" channel="NewsNation.US">
     <title>NewsNation Live with Nichole Berlie</title>
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609123000 -0400" stop="20260609133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260609130000 -0400" stop="20260609140000 -0400" channel="ABC.US">
@@ -1872,6 +1922,11 @@
   <programme start="20260609230000 -0400" stop="20260610000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609233500 -0400" stop="20260610003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260603060000 -0400" stop="20260603091500 -0400" channel="5.GB">
@@ -2367,6 +2422,11 @@
   <programme start="20260608200000 -0400" stop="20260608210000 -0400" channel="5.GB">
     <title>Police Interceptors</title>
     <desc>Follow the action-packed lives of the high-speed police interception unit. Led by specially trained officers and equipped with the fastest vehicles in the force, the team tackles the most difficult-to-catch criminals on a daily basis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608210000 -0400" stop="20260608220000 -0400" channel="ITV1.GB">
+    <title>Unbelievable Moments Caught on Camera</title>
+    <desc>Incredible clips of eyewitness footage shot by members of the public.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260608223000 -0400" stop="20260608225800 -0400" channel="BBC Two.GB">
