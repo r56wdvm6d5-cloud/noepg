@@ -668,6 +668,11 @@
     <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260607220000 -0400" stop="20260607223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260607220100 -0400" stop="20260607230400 -0400" channel="A&amp;E.US">
     <title>WWE LFG</title>
     <desc>WWE LFG (Legends &amp;amp; Future Greats) will offer viewers an inside look at the rigorous training process, featuring iconic WWE Legends such as Paul "Triple H" Levesque and Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley as they mentor a new generation in weekly matches on their quest to become the next WWE Superstars.</desc>
@@ -936,6 +941,11 @@
   <programme start="20260608210000 -0400" stop="20260608220000 -0400" channel="NewsNation.US">
     <title>On Balance with Leland Vittert</title>
     <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608211500 -0400" stop="20260608214500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260608214500 -0400" stop="20260608230000 -0400" channel="Bravo.US">
@@ -1271,6 +1281,16 @@
   <programme start="20260609220000 -0400" stop="20260609230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609220000 -0400" stop="20260609223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609220000 -0400" stop="20260609223000 -0400" channel="History.US">
+    <title>The Secret of Skinwalker Ranch: Behind the Gates</title>
+    <desc>The Secret of Skinwalker Ranch: Behind the Gates offers a more in-depth look at the mysteries surrounding the ranch and the team's investigations, often featuring interviews with team members and experts.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260609220100 -0400" stop="20260609223200 -0400" channel="A&amp;E.US">
@@ -1821,6 +1841,11 @@
   <programme start="20260611210000 -0400" stop="20260611220000 -0400" channel="NewsNation.US">
     <title>On Balance with Leland Vittert</title>
     <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260611210000 -0400" stop="20260611213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260611220000 -0400" stop="20260611230000 -0400" channel="A&amp;E.US">
