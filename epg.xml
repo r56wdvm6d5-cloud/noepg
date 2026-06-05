@@ -1848,6 +1848,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260611210000 -0400" stop="20260611220000 -0400" channel="A&amp;E.US">
+    <title>Interrogation Raw</title>
+    <desc>Interrogation Raw tells the stories of dramatic murders and other serious crimes through the prism of the gripping interrogations of the accused.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260611220000 -0400" stop="20260611230000 -0400" channel="A&amp;E.US">
     <title>Killer Investigations</title>
     <desc>Detectives chase down leads, prosecutors go head-to-head with defense attorneys, and juries wrestle with life-or-death decisions.</desc>
