@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
+    <country>US</country>
+  </channel>
   <channel id="MS NOW.US">
     <display-name>MS NOW</display-name>
     <country>US</country>
@@ -30,10 +34,6 @@
   </channel>
   <channel id="Fox News Channel.US">
     <display-name>Fox News Channel</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
     <country>US</country>
   </channel>
   <channel id="Syndication.US">
@@ -132,6 +132,11 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
+  <programme start="20260605000000 -0400" stop="20260605020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260606070000 -0400" stop="20260606100000 -0400" channel="MS NOW.US">
     <title>The Weekend</title>
     <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
@@ -349,7 +354,7 @@
   </programme>
   <programme start="20260607210000 -0400" stop="20260607220000 -0400" channel="National Geographic.US">
     <title>Best of the World with Antoni Porowski</title>
-    <desc>National Geographic announced today the greenlight of BEST OF THE WORLD WITH ANTONI POROWSKI, a vibrant new travel docuseries set to premiere in 2026 on National Geographic, Disney+ and Hulu. Inspired by National Geographic's annual BEST OF THE WORLD list of travel recommendations and bestselling book, the four-part series follows Emmy®-winner and New York Times bestselling author Antoni Porowski on a deeply personal journey through Paris, Mexico City, London and New York City.Bringing his signature curiosity, humor and refined taste, Porowski takes the BEST OF THE WORLD list one step further to explore food, places to stay, wellness and hidden corners of each city. He plunges into unforgettable moments: learning the delicate precision of Paris' most hyper-local and inventive Michelin-starred restaurant, paddling through centuries-old canals in Mexico City, and connecting with locals whose stories define what makes each city truly shine. Using National Geographic's signature cinematography and storytelling expertise, the series brings each city to life with the authenticity and visual richness the brand is known for. Each episode presents a mosaic of accessible yet aspirational moments that reflect the diversity, creativity, and emerging trends shaping each city today.</desc>
+    <desc>National Geographic announced today the greenlight of Best of the World with Antoni Porowski, a vibrant new travel docuseries set to premiere in 2026 on National Geographic, Disney+ and Hulu. Inspired by National Geographic's annual Best of the World list of travel recommendations and bestselling book, the four-part series follows Emmy®-winner and New York Times bestselling author Antoni Porowski on a deeply personal journey through Paris, Mexico City, London and New York City.Bringing his signature curiosity, humor and refined taste, Porowski takes the Best of the World list one step further to explore food, places to stay, wellness and hidden corners of each city. He plunges into unforgettable moments: learning the delicate precision of Paris' most hyper-local and inventive Michelin-starred restaurant, paddling through centuries-old canals in Mexico City, and connecting with locals whose stories define what makes each city truly shine. Using National Geographic's signature cinematography and storytelling expertise, the series brings each city to life with the authenticity and visual richness the brand is known for. Each episode presents a mosaic of accessible yet aspirational moments that reflect the diversity, creativity, and emerging trends shaping each city today.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260607220000 -0400" stop="20260607223000 -0400" channel="Bravo.US">
@@ -359,7 +364,7 @@
   </programme>
   <programme start="20260607220000 -0400" stop="20260607230000 -0400" channel="National Geographic.US">
     <title>Best of the World with Antoni Porowski</title>
-    <desc>National Geographic announced today the greenlight of BEST OF THE WORLD WITH ANTONI POROWSKI, a vibrant new travel docuseries set to premiere in 2026 on National Geographic, Disney+ and Hulu. Inspired by National Geographic's annual BEST OF THE WORLD list of travel recommendations and bestselling book, the four-part series follows Emmy®-winner and New York Times bestselling author Antoni Porowski on a deeply personal journey through Paris, Mexico City, London and New York City.Bringing his signature curiosity, humor and refined taste, Porowski takes the BEST OF THE WORLD list one step further to explore food, places to stay, wellness and hidden corners of each city. He plunges into unforgettable moments: learning the delicate precision of Paris' most hyper-local and inventive Michelin-starred restaurant, paddling through centuries-old canals in Mexico City, and connecting with locals whose stories define what makes each city truly shine. Using National Geographic's signature cinematography and storytelling expertise, the series brings each city to life with the authenticity and visual richness the brand is known for. Each episode presents a mosaic of accessible yet aspirational moments that reflect the diversity, creativity, and emerging trends shaping each city today.</desc>
+    <desc>National Geographic announced today the greenlight of Best of the World with Antoni Porowski, a vibrant new travel docuseries set to premiere in 2026 on National Geographic, Disney+ and Hulu. Inspired by National Geographic's annual Best of the World list of travel recommendations and bestselling book, the four-part series follows Emmy®-winner and New York Times bestselling author Antoni Porowski on a deeply personal journey through Paris, Mexico City, London and New York City.Bringing his signature curiosity, humor and refined taste, Porowski takes the Best of the World list one step further to explore food, places to stay, wellness and hidden corners of each city. He plunges into unforgettable moments: learning the delicate precision of Paris' most hyper-local and inventive Michelin-starred restaurant, paddling through centuries-old canals in Mexico City, and connecting with locals whose stories define what makes each city truly shine. Using National Geographic's signature cinematography and storytelling expertise, the series brings each city to life with the authenticity and visual richness the brand is known for. Each episode presents a mosaic of accessible yet aspirational moments that reflect the diversity, creativity, and emerging trends shaping each city today.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260607220100 -0400" stop="20260607230400 -0400" channel="A&amp;E.US">
@@ -465,11 +470,6 @@
   <programme start="20260608110000 -0400" stop="20260608120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260608120000 -0400" stop="20260608140000 -0400" channel="MS NOW.US">
-    <title>Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260608120000 -0400" stop="20260608140000 -0400" channel="Newsmax.US">
@@ -712,6 +712,16 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260608000000 -0400" stop="20260608020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608000000 -0400" stop="20260608020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260608003500 -0400" stop="20260608013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -790,11 +800,6 @@
   <programme start="20260609110000 -0400" stop="20260609120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260609120000 -0400" stop="20260609140000 -0400" channel="MS NOW.US">
-    <title>Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260609120000 -0400" stop="20260609140000 -0400" channel="Newsmax.US">
@@ -1072,6 +1077,16 @@
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260609000000 -0400" stop="20260609020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609000000 -0400" stop="20260609020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260609003500 -0400" stop="20260609013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1150,11 +1165,6 @@
   <programme start="20260610110000 -0400" stop="20260610120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260610120000 -0400" stop="20260610140000 -0400" channel="MS NOW.US">
-    <title>Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260610120000 -0400" stop="20260610140000 -0400" channel="Newsmax.US">
@@ -1377,6 +1387,16 @@
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260610000000 -0400" stop="20260610020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260610000000 -0400" stop="20260610020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260610003500 -0400" stop="20260610013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1455,11 +1475,6 @@
   <programme start="20260611110000 -0400" stop="20260611120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260611120000 -0400" stop="20260611140000 -0400" channel="MS NOW.US">
-    <title>Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260611120000 -0400" stop="20260611140000 -0400" channel="Newsmax.US">
@@ -1702,6 +1717,16 @@
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260611000000 -0400" stop="20260611020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260611000000 -0400" stop="20260611020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260612050000 -0400" stop="20260612060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -1775,11 +1800,6 @@
   <programme start="20260612110000 -0400" stop="20260612120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260612120000 -0400" stop="20260612140000 -0400" channel="MS NOW.US">
-    <title>Chris Jansing Reports</title>
-    <desc>The latest breaking news, reporting and coverage of the day's important stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260612120000 -0400" stop="20260612140000 -0400" channel="Newsmax.US">
@@ -1995,6 +2015,11 @@
   <programme start="20260612230000 -0400" stop="20260613000000 -0400" channel="CNN.US">
     <title>Laura Coates Live</title>
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260612000000 -0400" stop="20260612020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260606060000 -0400" stop="20260606091500 -0400" channel="5.GB">
