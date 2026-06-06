@@ -637,6 +637,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260608210000 -0400" stop="20260608220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260608211500 -0400" stop="20260608214500 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
@@ -662,6 +667,11 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260608220000 -0400" stop="20260608230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260608220300 -0400" stop="20260608230500 -0400" channel="History.US">
     <title>History's Greatest Machines with Dolph Lundgren</title>
     <desc>Machines can rewrite history – and no one knows that better than action legend and chemical engineer graduate Dolph Lundgren. Join him as he uncovers the stories behind history's most groundbreaking machines: witness secret stealth helicopters, spy planes outrunning missiles, espionage tech that won wars, to the rocket that took humanity to the moon. Guided by Dolph's keen insight and charisma, this is a thrilling ride through the gears, guts, and genius behind the machines that reshaped our world.</desc>
@@ -685,6 +695,11 @@
   <programme start="20260608230000 -0400" stop="20260609000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608230000 -0400" stop="20260609000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260608233500 -0400" stop="20260609003500 -0400" channel="ABC.US">
@@ -912,11 +927,6 @@
     <desc>In the last decade, two million Americans have attempted to leave behind civilization in favor of life off-the-grid – but most have failed. For the hundreds of families who decide to become homesteaders, the learning curve is a steep one. Now comes Homestead Rescue. Struggling homesteaders across the country are turning expert homesteader Marty Raney--along with his daughter Misty Raney, a farmer, and son Matt Raney, a hunter and fisherman--to teach them the necessary skills to survive the wilderness. The stakes are high, but the Raney family is determined to prepare these families for nature's worst and set them up for success. Each family faces the ultimate decision: will they tough out their first year or pack up and return to civilization?</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260609200000 -0400" stop="20260609210000 -0400" channel="Bravo.US">
-    <title>The Valley</title>
-    <desc>The Valley follows a group of close friends as they trade bottle service in West Hollywood for baby bottles in the Valley all while they navigate bustling businesses, rocky relationships and feisty friendships.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260609200000 -0400" stop="20260609210000 -0400" channel="MS NOW.US">
     <title>All In with Chris Hayes</title>
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
@@ -930,6 +940,11 @@
   <programme start="20260609200000 -0400" stop="20260609210000 -0400" channel="NewsNation.US">
     <title>Cuomo</title>
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609200000 -0400" stop="20260609210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260609210000 -0400" stop="20260609220000 -0400" channel="FOX.US">
@@ -967,6 +982,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260609210000 -0400" stop="20260609220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260609213000 -0400" stop="20260609220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -1002,6 +1022,11 @@
     <desc>The Secret of Skinwalker Ranch: Behind the Gates offers a more in-depth look at the mysteries surrounding the ranch and the team's investigations, often featuring interviews with team members and experts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260609220000 -0400" stop="20260609230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260609220100 -0400" stop="20260609223200 -0400" channel="A&amp;E.US">
     <title>Squatters</title>
     <desc>Squatters are taking over homes across the country and Flash Shelton is the man who gets them out. With bold tactics and street smarts, Flash and his team face tense and sometimes dangerous situations to help families reclaim their property. Each episode reveals the emotional and high-stakes battles where the fight for justice can quickly escalate, putting everyone involved at risk. This is the struggle to take back what rightfully belongs to them.</desc>
@@ -1030,6 +1055,11 @@
   <programme start="20260609230000 -0400" stop="20260610000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609230000 -0400" stop="20260610000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260609233500 -0400" stop="20260610003500 -0400" channel="NBC.US">
@@ -1232,6 +1262,11 @@
     <desc>The Floor is a physical quiz show that sees 81 contestants face off in quiz duels on a giant LED floor divided into a 9×9 grid of squares, each representing its own field of knowledge.The first challenger, selected at random, must choose one of his or her neighboring opponents to go head-to-head in an epic quiz duel in the opponent's category. The winner takes over the loser's square, gaining valuable ground as they expand their territory, while the loser exits the game. The winner must then choose – do they continue on and attempt to secure another square? Or do they let The Floor choose a new challenger? The last contestant standing who gains full control over The Floor takes home a life-changing $250,000 cash prize.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260610200000 -0400" stop="20260610210000 -0400" channel="Bravo.US">
+    <title>The Valley</title>
+    <desc>The Valley follows a group of close friends as they trade bottle service in West Hollywood for baby bottles in the Valley all while they navigate bustling businesses, rocky relationships and feisty friendships.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260610200000 -0400" stop="20260610210000 -0400" channel="MS NOW.US">
     <title>All In with Chris Hayes</title>
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
@@ -1245,6 +1280,11 @@
   <programme start="20260610200000 -0400" stop="20260610210000 -0400" channel="NewsNation.US">
     <title>Cuomo</title>
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260610200000 -0400" stop="20260610210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260610210000 -0400" stop="20260610220000 -0400" channel="FOX.US">
@@ -1277,6 +1317,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260610210000 -0400" stop="20260610220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260610220000 -0400" stop="20260610230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1290,6 +1335,11 @@
   <programme start="20260610220000 -0400" stop="20260610230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260610220000 -0400" stop="20260610230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260610220100 -0400" stop="20260610230200 -0400" channel="Discovery.US">
@@ -1310,6 +1360,11 @@
   <programme start="20260610230000 -0400" stop="20260611000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260610230000 -0400" stop="20260611000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260610233500 -0400" stop="20260611003500 -0400" channel="NBC.US">
@@ -1542,6 +1597,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260611200000 -0400" stop="20260611210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260611210000 -0400" stop="20260611220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -1582,6 +1642,11 @@
     <desc>Interrogation Raw tells the stories of dramatic murders and other serious crimes through the prism of the gripping interrogations of the accused.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260611210000 -0400" stop="20260611220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260611220000 -0400" stop="20260611230000 -0400" channel="A&amp;E.US">
     <title>Killer Investigations</title>
     <desc>Detectives chase down leads, prosecutors go head-to-head with defense attorneys, and juries wrestle with life-or-death decisions.</desc>
@@ -1607,6 +1672,11 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260611220000 -0400" stop="20260611230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260611230000 -0400" stop="20260611233500 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
@@ -1620,6 +1690,11 @@
   <programme start="20260611230000 -0400" stop="20260612000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260611230000 -0400" stop="20260612000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260611233500 -0400" stop="20260612003500 -0400" channel="ABC.US">
@@ -1832,6 +1907,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260612200000 -0400" stop="20260612210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260612203000 -0400" stop="20260612210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -1860,6 +1940,11 @@
   <programme start="20260612210000 -0400" stop="20260612220000 -0400" channel="NewsNation.US">
     <title>On Balance with Leland Vittert</title>
     <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260612210000 -0400" stop="20260612220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260612210100 -0400" stop="20260612220200 -0400" channel="Discovery.US">
@@ -1892,6 +1977,11 @@
     <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260612220000 -0400" stop="20260612230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260612230000 -0400" stop="20260613000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Stephanie Ruhle</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
@@ -1900,6 +1990,11 @@
   <programme start="20260612230000 -0400" stop="20260613000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260612230000 -0400" stop="20260613000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260606060000 -0400" stop="20260606091500 -0400" channel="5.GB">
