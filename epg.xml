@@ -2607,6 +2607,11 @@
     <desc>Celebrities help contestants by filling in the missing blanks of phrases over a series of rounds to help win some brilliant prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260613183000 -0400" stop="20260613200000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260612190000 -0400" stop="20260612200000 -0400" channel="Global.CA">
     <title>Crime Beat</title>
     <desc>Crime Beat is a true crime series that takes viewers deep into some of Canada's most infamous criminal cases. Hosted by Antony Robart and based on the highly successful podcast by Nancy Hixt, Crime Beat showcases some of the best investigative crime reporting from the Global News reporters who covered the stories in real time. Using extensive archives, intimate family interviews, each week Crime Beat reveals new details that go beyond the news headlines: giving a voice to victims and their families, unraveling how each case was solved through the eyes of the detectives and forensic specialists, and exploring lasting impacts on the community and justice system.</desc>
@@ -2630,31 +2635,6 @@
   <programme start="20260607193000 -0400" stop="20260607203000 -0400" channel="ABC.AU">
     <title>Race Around The World</title>
     <desc>In a time defined by fast-paced narratives and global connection, Race Around the World returns both as a homage to its original spirit and a bold reimagining. It celebrates the raw power of authentic, on-the-ground storytelling and the boundless curiosity that fuels it.The revival of the much-loved format is set to deliver fresh perspectives, discover new creative talent and reaffirm the ABC's commitment to original Australian content.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260607203000 -0400" stop="20260607210000 -0400" channel="ABC.AU">
-    <title>Ground Up</title>
-    <desc>Set in Tasmania, the series follows AFL administrator Hugh Shen, dispatched from Melbourne to establish the island's first-ever AFL team. But there's a catch: the locals must build a brand-new stadium and not everyone's happy about the $1.13 billion taxpayer-funded spend. Hugh's mission? Win over a divided public, meet impossible deadlines, placate feisty protesters, and somehow find a coach, players, and a mascot that won't offend anyone. Should be a piece of cake.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260607203000 -0400" stop="20260607210000 -0400" channel="ABC.AU">
-    <title>Ground Up</title>
-    <desc>Set in Tasmania, the series follows AFL administrator Hugh Shen, dispatched from Melbourne to establish the island's first-ever AFL team. But there's a catch: the locals must build a brand-new stadium and not everyone's happy about the $1.13 billion taxpayer-funded spend. Hugh's mission? Win over a divided public, meet impossible deadlines, placate feisty protesters, and somehow find a coach, players, and a mascot that won't offend anyone. Should be a piece of cake.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260607203000 -0400" stop="20260607210000 -0400" channel="ABC.AU">
-    <title>Ground Up</title>
-    <desc>Set in Tasmania, the series follows AFL administrator Hugh Shen, dispatched from Melbourne to establish the island's first-ever AFL team. But there's a catch: the locals must build a brand-new stadium and not everyone's happy about the $1.13 billion taxpayer-funded spend. Hugh's mission? Win over a divided public, meet impossible deadlines, placate feisty protesters, and somehow find a coach, players, and a mascot that won't offend anyone. Should be a piece of cake.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260607203000 -0400" stop="20260607210000 -0400" channel="ABC.AU">
-    <title>Ground Up</title>
-    <desc>Set in Tasmania, the series follows AFL administrator Hugh Shen, dispatched from Melbourne to establish the island's first-ever AFL team. But there's a catch: the locals must build a brand-new stadium and not everyone's happy about the $1.13 billion taxpayer-funded spend. Hugh's mission? Win over a divided public, meet impossible deadlines, placate feisty protesters, and somehow find a coach, players, and a mascot that won't offend anyone. Should be a piece of cake.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260607203000 -0400" stop="20260607210000 -0400" channel="ABC.AU">
-    <title>Ground Up</title>
-    <desc>Set in Tasmania, the series follows AFL administrator Hugh Shen, dispatched from Melbourne to establish the island's first-ever AFL team. But there's a catch: the locals must build a brand-new stadium and not everyone's happy about the $1.13 billion taxpayer-funded spend. Hugh's mission? Win over a divided public, meet impossible deadlines, placate feisty protesters, and somehow find a coach, players, and a mascot that won't offend anyone. Should be a piece of cake.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260608193000 -0400" stop="20260608200000 -0400" channel="ABC.AU">
