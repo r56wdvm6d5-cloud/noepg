@@ -291,6 +291,21 @@
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260608183000 -0400" stop="20260608190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608183000 -0400" stop="20260608190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608183000 -0400" stop="20260608190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260608190000 -0400" stop="20260608210000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -629,6 +644,21 @@
   <programme start="20260609183000 -0400" stop="20260609190000 -0400" channel="ESPN.US">
     <title>WNBA Countdown</title>
     <desc>WNBA Countdown serves as the primer for game telecasts on both ESPN2 and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609183000 -0400" stop="20260609190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609183000 -0400" stop="20260609190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260609183000 -0400" stop="20260609190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260609190000 -0400" stop="20260609200000 -0400" channel="MS NOW.US">
@@ -986,6 +1016,21 @@
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260610183000 -0400" stop="20260610190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260610183000 -0400" stop="20260610190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260610183000 -0400" stop="20260610190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260610190000 -0400" stop="20260610200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1299,6 +1344,21 @@
   <programme start="20260611180000 -0400" stop="20260611190000 -0400" channel="NewsNation.US">
     <title>The Hill</title>
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260611183000 -0400" stop="20260611190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260611183000 -0400" stop="20260611190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260611183000 -0400" stop="20260611190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260611190000 -0400" stop="20260611200000 -0400" channel="MS NOW.US">
@@ -1619,6 +1679,21 @@
   <programme start="20260612180000 -0400" stop="20260612190000 -0400" channel="NewsNation.US">
     <title>The Hill</title>
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260612183000 -0400" stop="20260612190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260612183000 -0400" stop="20260612190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260612183000 -0400" stop="20260612190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260612190000 -0400" stop="20260612200000 -0400" channel="MS NOW.US">
@@ -2579,6 +2654,11 @@
   <programme start="20260608212000 -0400" stop="20260608213500 -0400" channel="ABC.AU">
     <title>Media Watch</title>
     <desc>Media Watch is Australia's leading forum for media analysis and comment.Conflicts of interest, bank backflips, deceit, misrepresentation, manipulation, plagiarism, abuse of power, technical lies and straight out fraud: Media Watch has built an unrivalled record of exposing media shenanigans since it first went to air in 1989.The media provides the information we need to make decisions about our lives, but how reliable are the media reports that shape our views of the world?Media Watch turns the spotlight onto those who literally 'make the news': the reporters, editors, sub-editors, producers, camera operators, sound recordists and photographers who claim to deliver the world to our doorsteps, radios, computers and living rooms. We also keep an eye on those who try to manipulate the media: the PR consultants, spin-doctors, lobbyists and "news makers" who set the agenda.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608213500 -0400" stop="20260608220500 -0400" channel="ABC.AU">
+    <title>Planet America</title>
+    <desc>Chas Licciardello and John Barron set out to discover the real America - its politics and its people - with analysis from US and Australian experts.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260609193000 -0400" stop="20260609200000 -0400" channel="ABC.AU">
