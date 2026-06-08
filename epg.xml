@@ -132,6 +132,10 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
+  <channel id="Discovery.AU">
+    <display-name>Discovery</display-name>
+    <country>AU</country>
+  </channel>
   <programme start="20260608050000 -0400" stop="20260608060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -2560,6 +2564,11 @@
   <programme start="20260608193000 -0400" stop="20260608200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260608193000 -0400" stop="20260608203000 -0400" channel="Discovery.AU">
+    <title>Aussie Gold Hunters</title>
+    <desc>In Aussie Gold Hunters, we join three hard-core crews of gold prospectors as they take the gamble of a lifetime and battle to strike it big, deep in the wild west of outback Australia.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260608203000 -0400" stop="20260608211500 -0400" channel="ABC.AU">
