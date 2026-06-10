@@ -2458,6 +2458,11 @@
     <desc>In a time defined by fast-paced narratives and global connection, Race Around the World returns both as a homage to its original spirit and a bold reimagining. It celebrates the raw power of authentic, on-the-ground storytelling and the boundless curiosity that fuels it.The revival of the much-loved format is set to deliver fresh perspectives, discover new creative talent and reaffirm the ABC's commitment to original Australian content.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260615193000 -0400" stop="20260615200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260615200000 -0400" stop="20260615203000 -0400" channel="ABC.AU">
     <title>Stuff the British Stole</title>
     <desc>Follow Marc Fennell on a globe-trotting, emotional quest for the truth as he unravels the twisted mysteries behind six iconic and priceless objects taken by the British Empire and meets those who want them back.</desc>
@@ -2471,6 +2476,11 @@
   <programme start="20260615212000 -0400" stop="20260615213500 -0400" channel="ABC.AU">
     <title>Media Watch</title>
     <desc>Media Watch is Australia's leading forum for media analysis and comment.Conflicts of interest, bank backflips, deceit, misrepresentation, manipulation, plagiarism, abuse of power, technical lies and straight out fraud: Media Watch has built an unrivalled record of exposing media shenanigans since it first went to air in 1989.The media provides the information we need to make decisions about our lives, but how reliable are the media reports that shape our views of the world?Media Watch turns the spotlight onto those who literally 'make the news': the reporters, editors, sub-editors, producers, camera operators, sound recordists and photographers who claim to deliver the world to our doorsteps, radios, computers and living rooms. We also keep an eye on those who try to manipulate the media: the PR consultants, spin-doctors, lobbyists and "news makers" who set the agenda.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260616193000 -0400" stop="20260616200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260616203000 -0400" stop="20260616212500 -0400" channel="ABC.AU">
