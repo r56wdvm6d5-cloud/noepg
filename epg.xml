@@ -112,6 +112,10 @@
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
+  <channel id="Quest.GB">
+    <display-name>Quest</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Discovery.GB">
     <display-name>Discovery</display-name>
     <country>GB</country>
@@ -237,6 +241,11 @@
   <programme start="20260611130000 -0400" stop="20260611140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260611133000 -0400" stop="20260611140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260611140000 -0400" stop="20260611150000 -0400" channel="CBS.US">
@@ -592,6 +601,11 @@
   <programme start="20260612130000 -0400" stop="20260612140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260612133000 -0400" stop="20260612140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260612140000 -0400" stop="20260612150000 -0400" channel="CBS.US">
@@ -1154,6 +1168,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260615133000 -0400" stop="20260615140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260615140000 -0400" stop="20260615160000 -0400" channel="MS NOW.US">
     <title>The Moment with Katy Tur</title>
     <desc>The Moment with Katy Tur is designed to move beyond the immediate headlines to provide deeper context and understanding of the political and national stories shaping the day.</desc>
@@ -1444,6 +1463,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260616133000 -0400" stop="20260616140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260616140000 -0400" stop="20260616160000 -0400" channel="MS NOW.US">
     <title>The Moment with Katy Tur</title>
     <desc>The Moment with Katy Tur is designed to move beyond the immediate headlines to provide deeper context and understanding of the political and national stories shaping the day.</desc>
@@ -1732,6 +1756,11 @@
   <programme start="20260617130000 -0400" stop="20260617140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260617133000 -0400" stop="20260617140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260617140000 -0400" stop="20260617160000 -0400" channel="MS NOW.US">
@@ -2104,6 +2133,11 @@
     <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260613103000 -0400" stop="20260613131000 -0400" channel="BBC One.GB">
+    <title>Trooping the Colour</title>
+    <desc>Live coverage of the annual Trooping the Colour parade to mark the official birthday of HM The King, from St James's Park in London.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260613140000 -0400" stop="20260613150000 -0400" channel="ITV1.GB">
     <title>Dermot's Taste of Ireland</title>
     <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
@@ -2134,6 +2168,16 @@
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260613190500 -0400" stop="20260613203500 -0400" channel="BBC One.GB">
+    <title>Trooping the Colour</title>
+    <desc>Live coverage of the annual Trooping the Colour parade to mark the official birthday of HM The King, from St James's Park in London.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260613203500 -0400" stop="20260613230000 -0400" channel="BBC Two.GB">
+    <title>At the BBC</title>
+    <desc>Series of one-off documentaries that uses 70 years of the BBC archive to bring together clips under one theme, sometimes the shows have a presenter but often they don't.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260614060000 -0400" stop="20260614091500 -0400" channel="5.GB">
     <title>Milkshake!</title>
     <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
@@ -2144,6 +2188,16 @@
     <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260614121000 -0400" stop="20260614124500 -0400" channel="BBC One.GB">
+    <title>Songs of Praise</title>
+    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260614181500 -0400" stop="20260614191500 -0400" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260614183000 -0400" stop="20260614210000 -0400" channel="Channel 4.GB">
     <title>Formula 1</title>
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
@@ -2152,6 +2206,16 @@
   <programme start="20260614200000 -0400" stop="20260614210000 -0400" channel="National Geographic.GB">
     <title>Engineering by Catastrophe</title>
     <desc>Across the globe, engineers are creating extraordinary modern masterpieces, structures that push beyond the limits of what came before. Each year, innovations grow more impressive as bridges, tunnels, skyscrapers and even spacecraft become bigger, bolder and more ambitious. Yet, every breakthrough brings new risks. To ensure the safest outcomes, engineers must study worst-case scenarios in which major structures are pushed to their limits and fatal flaws are exposed. Fires, explosions, floods and catastrophic collisions are difficult to confront but essential to understand. In this series, we learn from the past to build a safer future.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260614210000 -0400" stop="20260614220000 -0400" channel="Channel 4.GB">
+    <title>Free Nelson Mandela</title>
+    <desc>The story of Nelson Mandela's journey from activist to revolutionary prisoner, and the global movement and musical activism that helped bring his freedom.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260614220000 -0400" stop="20260614224500 -0400" channel="BBC Two.GB">
+    <title>Later... with Jools Holland</title>
+    <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260615060000 -0400" stop="20260615091500 -0400" channel="5.GB">
@@ -2202,6 +2266,26 @@
   <programme start="20260615150000 -0400" stop="20260615154500 -0400" channel="BBC One.GB">
     <title>Escape to the Country</title>
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260615200000 -0400" stop="20260615210000 -0400" channel="5.GB">
+    <title>Police Interceptors</title>
+    <desc>Follow the action-packed lives of the high-speed police interception unit. Led by specially trained officers and equipped with the fastest vehicles in the force, the team tackles the most difficult-to-catch criminals on a daily basis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260615210000 -0400" stop="20260615220000 -0400" channel="Channel 4.GB">
+    <title>24 Hours in A&amp;E</title>
+    <desc>Cameras film around the clock in some of Britain's busiest A&amp;amp;E departments, where stories of life, love and loss unfold every day</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260615210000 -0400" stop="20260615213000 -0400" channel="Quest.GB">
+    <title>Shed and Buried</title>
+    <desc>The nation's favorite biker, Henry Cole, and ace-engineer, Sam 'The Bike Whisperer' Lovegrove, resume their quest to discover the amazing vintage vehicles lying abandoned in Britain's sheds. Motorbikes, cars, jeeps, tractors, yachts - whatever it is, they'll find it, do it up and flog it for a tidy profit!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260615213000 -0400" stop="20260615220000 -0400" channel="Quest.GB">
+    <title>Shed and Buried</title>
+    <desc>The nation's favorite biker, Henry Cole, and ace-engineer, Sam 'The Bike Whisperer' Lovegrove, resume their quest to discover the amazing vintage vehicles lying abandoned in Britain's sheds. Motorbikes, cars, jeeps, tractors, yachts - whatever it is, they'll find it, do it up and flog it for a tidy profit!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260615223000 -0400" stop="20260615225800 -0400" channel="BBC Two.GB">
