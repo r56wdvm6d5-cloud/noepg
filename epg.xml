@@ -963,6 +963,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260615220000 -0400" stop="20260615230000 -0400" channel="A&amp;E.US">
+    <title>Late Night Law</title>
+    <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260615220300 -0400" stop="20260615230500 -0400" channel="History.US">
     <title>History's Greatest Machines with Dolph Lundgren</title>
     <desc>Machines can rewrite history – and no one knows that better than action legend and chemical engineer graduate Dolph Lundgren. Join him as he uncovers the stories behind history's most groundbreaking machines: witness secret stealth helicopters, spy planes outrunning missiles, espionage tech that won wars, to the rocket that took humanity to the moon. Guided by Dolph's keen insight and charisma, this is a thrilling ride through the gears, guts, and genius behind the machines that reshaped our world.</desc>
@@ -1248,7 +1253,7 @@
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260616220000 -0400" stop="20260616225900 -0400" channel="NBC.US">
+  <programme start="20260616220000 -0400" stop="20260616223000 -0400" channel="NBC.US">
     <title>Password</title>
     <desc>Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.</desc>
     <category>TV Show</category>
@@ -1276,6 +1281,11 @@
   <programme start="20260616220100 -0400" stop="20260616223200 -0400" channel="A&amp;E.US">
     <title>Squatters</title>
     <desc>Squatters are taking over homes across the country and Flash Shelton is the man who gets them out. With bold tactics and street smarts, Flash and his team face tense and sometimes dangerous situations to help families reclaim their property. Each episode reveals the emotional and high-stakes battles where the fight for justice can quickly escalate, putting everyone involved at risk. This is the struggle to take back what rightfully belongs to them.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260616223000 -0400" stop="20260616230000 -0400" channel="NBC.US">
+    <title>Password</title>
+    <desc>Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260616223200 -0400" stop="20260616230400 -0400" channel="A&amp;E.US">
