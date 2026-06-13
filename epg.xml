@@ -24,6 +24,10 @@
     <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
+  <channel id="NBC.US">
+    <display-name>NBC</display-name>
+    <country>US</country>
+  </channel>
   <channel id="Fox News Channel.US">
     <display-name>Fox News Channel</display-name>
     <country>US</country>
@@ -34,10 +38,6 @@
   </channel>
   <channel id="Syndication.US">
     <display-name>Syndication</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="NBC.US">
-    <display-name>NBC</display-name>
     <country>US</country>
   </channel>
   <channel id="Bravo.US">
@@ -202,6 +202,11 @@
   <programme start="20260613170000 -0400" stop="20260613190000 -0400" channel="Newsmax.US">
     <title>The Count</title>
     <desc>Newsmax counts up the top stories of the week, while offering analysis by lawmakers, newsmakers, and policy experts.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260613183000 -0400" stop="20260613190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260613200000 -0400" stop="20260613210000 -0400" channel="A&amp;E.US">
@@ -529,6 +534,11 @@
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260615183000 -0400" stop="20260615190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260615190000 -0400" stop="20260615200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -650,7 +660,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260615230000 -0400" stop="20260616000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Stephanie Ruhle</title>
+    <title>The 11th Hour with Ali Velshi</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
@@ -849,6 +859,11 @@
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260616183000 -0400" stop="20260616190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260616190000 -0400" stop="20260616200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -990,7 +1005,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260616230000 -0400" stop="20260617000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Stephanie Ruhle</title>
+    <title>The 11th Hour with Ali Velshi</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
@@ -1169,6 +1184,11 @@
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260617183000 -0400" stop="20260617190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260617190000 -0400" stop="20260617200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1285,7 +1305,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260617230000 -0400" stop="20260618000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Stephanie Ruhle</title>
+    <title>The 11th Hour with Ali Velshi</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
@@ -1464,6 +1484,11 @@
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260618183000 -0400" stop="20260618190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260618190000 -0400" stop="20260618200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1585,7 +1610,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260618230000 -0400" stop="20260619000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Stephanie Ruhle</title>
+    <title>The 11th Hour with Ali Velshi</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
@@ -1754,6 +1779,11 @@
     <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260619183000 -0400" stop="20260619190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260619190000 -0400" stop="20260619200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1840,7 +1870,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260619230000 -0400" stop="20260620000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Stephanie Ruhle</title>
+    <title>The 11th Hour with Ali Velshi</title>
     <desc>On The 11th Hour with Stephanie Ruhle, Stephanie looks at the major political stories of the day and breaking campaign news.</desc>
     <category>TV Show</category>
   </programme>
