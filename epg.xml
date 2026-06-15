@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
-  <channel id="Syndication.US">
-    <display-name>Syndication</display-name>
-    <country>US</country>
-  </channel>
   <channel id="MS NOW.US">
     <display-name>MS NOW</display-name>
     <country>US</country>
   </channel>
   <channel id="Newsmax.US">
     <display-name>Newsmax</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="NewsNation.US">
+    <display-name>NewsNation</display-name>
     <country>US</country>
   </channel>
   <channel id="ABC.US">
@@ -24,12 +24,20 @@
     <display-name>CBS</display-name>
     <country>US</country>
   </channel>
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
+  <channel id="NFL Network.US">
+    <display-name>NFL Network</display-name>
     <country>US</country>
   </channel>
-  <channel id="Fox News Channel.US">
-    <display-name>Fox News Channel</display-name>
+  <channel id="ESPN.US">
+    <display-name>ESPN</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="History.US">
+    <display-name>History</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
     <country>US</country>
   </channel>
   <channel id="Bravo.US">
@@ -40,32 +48,12 @@
     <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
-  <channel id="History.US">
-    <display-name>History</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="National Geographic.US">
-    <display-name>National Geographic</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="A&amp;E.US">
-    <display-name>A&amp;E</display-name>
-    <country>US</country>
-  </channel>
   <channel id="HBO.US">
     <display-name>HBO</display-name>
     <country>US</country>
   </channel>
-  <channel id="NewsNation.US">
-    <display-name>NewsNation</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="NFL Network.US">
-    <display-name>NFL Network</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="ESPN.US">
-    <display-name>ESPN</display-name>
+  <channel id="A&amp;E.US">
+    <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
@@ -76,6 +64,14 @@
     <display-name>The CW</display-name>
     <country>US</country>
   </channel>
+  <channel id="Syndication.US">
+    <display-name>Syndication</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="National Geographic.US">
+    <display-name>National Geographic</display-name>
+    <country>US</country>
+  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
     <country>US</country>
@@ -84,28 +80,32 @@
     <display-name>STARZ</display-name>
     <country>US</country>
   </channel>
+  <channel id="Fox News Channel.US">
+    <display-name>Fox News Channel</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="FOX.US">
+    <display-name>FOX</display-name>
+    <country>US</country>
+  </channel>
   <channel id="5.GB">
     <display-name>5</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="Channel 4.GB">
-    <display-name>Channel 4</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC One.GB">
     <display-name>BBC One</display-name>
     <country>GB</country>
   </channel>
-  <channel id="National Geographic.GB">
-    <display-name>National Geographic</display-name>
+  <channel id="ITV1.GB">
+    <display-name>ITV1</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC Two.GB">
     <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
-  <channel id="ITV1.GB">
-    <display-name>ITV1</display-name>
+  <channel id="Channel 4.GB">
+    <display-name>Channel 4</display-name>
     <country>GB</country>
   </channel>
   <channel id="Quest.GB">
@@ -120,155 +120,14 @@
     <display-name>Discovery</display-name>
     <country>GB</country>
   </channel>
+  <channel id="National Geographic.GB">
+    <display-name>National Geographic</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260613000000 -0400" stop="20260613010000 -0400" channel="Syndication.US">
-    <title>WOW - Women of Wrestling</title>
-    <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614070000 -0400" stop="20260614100000 -0400" channel="MS NOW.US">
-    <title>The Weekend</title>
-    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614070000 -0400" stop="20260614090000 -0400" channel="Newsmax.US">
-    <title>Wake Up America Weekend</title>
-    <desc>Start your weekend days with real news and analysis from Michael Grimm, Sarah Williamson and team.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614070000 -0400" stop="20260614080000 -0400" channel="ABC.US">
-    <title>Good Morning America: Weekend Edition</title>
-    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614080000 -0400" stop="20260614090000 -0400" channel="NBC.US">
-    <title>Sunday TODAY with Willie Geist</title>
-    <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614090000 -0400" stop="20260614100000 -0400" channel="NBC.US">
-    <title>Meet the Press</title>
-    <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614090000 -0400" stop="20260614103000 -0400" channel="CBS.US">
-    <title>CBS News Sunday Morning</title>
-    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614090000 -0400" stop="20260614100000 -0400" channel="CNN.US">
-    <title>State of the Union with Jake Tapper and Dana Bash</title>
-    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614100000 -0400" stop="20260614130000 -0400" channel="MS NOW.US">
-    <title>Connect with Jacob Soboroff</title>
-    <desc>Connect with Jacob Soboroffwill be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614100000 -0400" stop="20260614110000 -0400" channel="ABC.US">
-    <title>This Week</title>
-    <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614100000 -0400" stop="20260614110000 -0400" channel="Fox News Channel.US">
-    <title>Sunday Morning Futures with Maria Bartiromo</title>
-    <desc>As part of her role as FOX Business Network's global markets editor, business journalist Maria Bartiromo hosts this weekly Sunday morning show on FBN sister network FOX News Channel Sunday Morning Futures with Maria Bartiromo that focuses more on the general economy than the stock market specifically. The hourlong show provides viewers with information about how recent news events affect the economy. In addition, Bartiromo interviews business leaders and newsmakers on topics that include job creation and investment opportunities.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614103000 -0400" stop="20260614113000 -0400" channel="CBS.US">
-    <title>Face the Nation</title>
-    <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614130000 -0400" stop="20260614160000 -0400" channel="MS NOW.US">
-    <title>Alex Witt Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614170000 -0400" stop="20260614180000 -0400" channel="MS NOW.US">
-    <title>PoliticsNation</title>
-    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614180000 -0400" stop="20260614210000 -0400" channel="MS NOW.US">
-    <title>The Weekend Primetime</title>
-    <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614183000 -0400" stop="20260614190000 -0400" channel="NBC.US">
-    <title>NBC Nightly News</title>
-    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614200000 -0400" stop="20260614210000 -0400" channel="Bravo.US">
-    <title>The Real Housewives of Atlanta</title>
-    <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614200000 -0400" stop="20260614220100 -0400" channel="Discovery.US">
-    <title>Naked and Afraid: Global Showdown</title>
-    <desc>Survivalists from all over the world - including Brazil, Australia, Mexico, and the United States - represent their homelands in a grueling 40-day primitive bushcraft competition. Paired with a partner, their skills, toughness and teamwork will be tested as they compete for national pride and the largest cash prize in franchise history.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614210000 -0400" stop="20260614220300 -0400" channel="History.US">
-    <title>Hazardous History with Henry Winkler</title>
-    <desc>The eight-episode fast-paced, nostalgia-fueled series will take viewers on a thrilling ride through America's past.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614210000 -0400" stop="20260614220000 -0400" channel="Bravo.US">
-    <title>The Real Housewives of Rhode Island</title>
-    <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614210000 -0400" stop="20260614220000 -0400" channel="National Geographic.US">
-    <title>Best of the World with Antoni Porowski</title>
-    <desc>National Geographic announced today the greenlight of Best of the World with Antoni Porowski, a vibrant new travel docuseries set to premiere in 2026 on National Geographic, Disney+ and Hulu. Inspired by National Geographic's annual Best of the World list of travel recommendations and bestselling book, the four-part series follows Emmy®-winner and New York Times bestselling author Antoni Porowski on a deeply personal journey through Paris, Mexico City, London and New York City.Bringing his signature curiosity, humor and refined taste, Porowski takes the Best of the World list one step further to explore food, places to stay, wellness and hidden corners of each city. He plunges into unforgettable moments: learning the delicate precision of Paris' most hyper-local and inventive Michelin-starred restaurant, paddling through centuries-old canals in Mexico City, and connecting with locals whose stories define what makes each city truly shine. Using National Geographic's signature cinematography and storytelling expertise, the series brings each city to life with the authenticity and visual richness the brand is known for. Each episode presents a mosaic of accessible yet aspirational moments that reflect the diversity, creativity, and emerging trends shaping each city today.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614220000 -0400" stop="20260614230000 -0400" channel="National Geographic.US">
-    <title>Best of the World with Antoni Porowski</title>
-    <desc>National Geographic announced today the greenlight of Best of the World with Antoni Porowski, a vibrant new travel docuseries set to premiere in 2026 on National Geographic, Disney+ and Hulu. Inspired by National Geographic's annual Best of the World list of travel recommendations and bestselling book, the four-part series follows Emmy®-winner and New York Times bestselling author Antoni Porowski on a deeply personal journey through Paris, Mexico City, London and New York City.Bringing his signature curiosity, humor and refined taste, Porowski takes the Best of the World list one step further to explore food, places to stay, wellness and hidden corners of each city. He plunges into unforgettable moments: learning the delicate precision of Paris' most hyper-local and inventive Michelin-starred restaurant, paddling through centuries-old canals in Mexico City, and connecting with locals whose stories define what makes each city truly shine. Using National Geographic's signature cinematography and storytelling expertise, the series brings each city to life with the authenticity and visual richness the brand is known for. Each episode presents a mosaic of accessible yet aspirational moments that reflect the diversity, creativity, and emerging trends shaping each city today.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614220100 -0400" stop="20260614230300 -0400" channel="Discovery.US">
-    <title>In the Eye of the Storm: Chasers</title>
-    <desc>In the Eye of the Storm: Chasers, a heart-pounding ride into nature at its most extreme. The series follows twelve teams of certified weather spotters and professional storm chasers as they self-shoot their close encounters with dangerous tornadoes. With no producers or camera crews, each team ventures into America's Tornado Alley, risking everything to spot tornados, warn people in harm's way, and help save lives when disaster strikes.The series captures raw, harrowing encounters as storm chasers, outfitted with their own camera rigs and advanced weather tech, race into the American Midwest during one of the most active tornado seasons in decades. These men and women risk their lives while redefining storm chasing for a new generation.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614220100 -0400" stop="20260614230400 -0400" channel="A&amp;E.US">
-    <title>WWE LFG</title>
-    <desc>WWE LFG (Legends &amp;amp; Future Greats) will offer viewers an inside look at the rigorous training process, featuring iconic WWE Legends such as Paul "Triple H" Levesque and Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley as they mentor a new generation in weekly matches on their quest to become the next WWE Superstars.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614220300 -0400" stop="20260614230500 -0400" channel="History.US">
-    <title>The Food That Built America</title>
-    <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614221500 -0400" stop="20260614224500 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614230000 -0400" stop="20260614233000 -0400" channel="HBO.US">
-    <title>Last Week Tonight with John Oliver</title>
-    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614230400 -0400" stop="20260614233400 -0400" channel="A&amp;E.US">
-    <title>WWE's Greatest Moments</title>
-    <desc>WWE's Greatest Moments will feature legendary play-by-play announcer Michael Cole hosting half-hour episodes with various WWE Superstars &amp;amp; Legends, including "Stone Cold" Steve Austin, Hulk Hogan, Kevin Owens and others, to share vivid recollections and perspectives on the most remarkable moments in wrestling history.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260614233400 -0400" stop="20260615000300 -0400" channel="A&amp;E.US">
-    <title>WWE's Greatest Moments</title>
-    <desc>WWE's Greatest Moments will feature legendary play-by-play announcer Michael Cole hosting half-hour episodes with various WWE Superstars &amp;amp; Legends, including "Stone Cold" Steve Austin, Hulk Hogan, Kevin Owens and others, to share vivid recollections and perspectives on the most remarkable moments in wrestling history.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260615050000 -0400" stop="20260615060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -444,6 +303,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260615183000 -0400" stop="20260615190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260615190000 -0400" stop="20260615200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -487,6 +351,11 @@
   <programme start="20260615200000 -0400" stop="20260615210000 -0400" channel="Bravo.US">
     <title>Below Deck Mediterranean</title>
     <desc>With a new boat, new location, and new faces, the excitement, drama, and adventure of life aboard a private luxury yacht is taken to another level in the Mediterranean. Providing unparalleled service to wealthy and uncompromising guests is made even more difficult as the team faces everything from love triangles to seeing fellow crew members shockingly cross the line with guests. Voyaging from Santorini, Mykonos, and many of the Greek islands, each episode features a new group of elite clientele who present a new set of challenges, all while offering the crew a glamorous lifestyle and exotic perks that most people only dream of experiencing. For these young, attractive, and adventurous yachties, the "work hard, play harder" nature of the job combined with the pressure of working in the most exclusive yachting scene in the world pushes the team close to the breaking point on Below Deck Mediterranean.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260615200000 -0400" stop="20260615210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Border</title>
+    <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260615210000 -0400" stop="20260615220300 -0400" channel="History.US">
@@ -777,6 +646,11 @@
   <programme start="20260616183000 -0400" stop="20260616190000 -0400" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260616183000 -0400" stop="20260616190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260616190000 -0400" stop="20260616200000 -0400" channel="MS NOW.US">
@@ -1114,6 +988,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260617183000 -0400" stop="20260617190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260617190000 -0400" stop="20260617200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1424,6 +1303,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260618183000 -0400" stop="20260618190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260618190000 -0400" stop="20260618200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1724,6 +1608,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260619183000 -0400" stop="20260619190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260619190000 -0400" stop="20260619200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1909,44 +1798,159 @@
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614060000 -0400" stop="20260614091500 -0400" channel="5.GB">
-    <title>Milkshake!</title>
-    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+  <programme start="20260621070000 -0400" stop="20260621100000 -0400" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614100000 -0400" stop="20260614130000 -0400" channel="Channel 4.GB">
-    <title>Sunday Brunch</title>
-    <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
+  <programme start="20260621070000 -0400" stop="20260621090000 -0400" channel="Newsmax.US">
+    <title>Wake Up America Weekend</title>
+    <desc>Start your weekend days with real news and analysis from Michael Grimm, Sarah Williamson and team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614121000 -0400" stop="20260614124500 -0400" channel="BBC One.GB">
-    <title>Songs of Praise</title>
-    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+  <programme start="20260621070000 -0400" stop="20260621080000 -0400" channel="ABC.US">
+    <title>Good Morning America: Weekend Edition</title>
+    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614181500 -0400" stop="20260614191500 -0400" channel="BBC One.GB">
-    <title>Countryfile</title>
-    <desc>The people, places and stories making news in the British countryside.</desc>
+  <programme start="20260621080000 -0400" stop="20260621090000 -0400" channel="NBC.US">
+    <title>Sunday TODAY with Willie Geist</title>
+    <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614183000 -0400" stop="20260614210000 -0400" channel="Channel 4.GB">
-    <title>Formula 1</title>
-    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+  <programme start="20260621090000 -0400" stop="20260621100000 -0400" channel="NBC.US">
+    <title>Meet the Press</title>
+    <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614200000 -0400" stop="20260614210000 -0400" channel="National Geographic.GB">
-    <title>Engineering by Catastrophe</title>
-    <desc>Across the globe, engineers are creating extraordinary modern masterpieces, structures that push beyond the limits of what came before. Each year, innovations grow more impressive as bridges, tunnels, skyscrapers and even spacecraft become bigger, bolder and more ambitious. Yet, every breakthrough brings new risks. To ensure the safest outcomes, engineers must study worst-case scenarios in which major structures are pushed to their limits and fatal flaws are exposed. Fires, explosions, floods and catastrophic collisions are difficult to confront but essential to understand. In this series, we learn from the past to build a safer future.</desc>
+  <programme start="20260621090000 -0400" stop="20260621103000 -0400" channel="CBS.US">
+    <title>CBS News Sunday Morning</title>
+    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614210000 -0400" stop="20260614220000 -0400" channel="Channel 4.GB">
-    <title>Free Nelson Mandela</title>
-    <desc>The story of Nelson Mandela's journey from activist to revolutionary prisoner, and the global movement and musical activism that helped bring his freedom.</desc>
+  <programme start="20260621090000 -0400" stop="20260621100000 -0400" channel="CNN.US">
+    <title>State of the Union with Jake Tapper and Dana Bash</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614220000 -0400" stop="20260614224500 -0400" channel="BBC Two.GB">
-    <title>Later... with Jools Holland</title>
-    <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
+  <programme start="20260621100000 -0400" stop="20260621130000 -0400" channel="MS NOW.US">
+    <title>Connect with Jacob Soboroff</title>
+    <desc>Connect with Jacob Soboroffwill be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621100000 -0400" stop="20260621110000 -0400" channel="Fox News Channel.US">
+    <title>Sunday Morning Futures with Maria Bartiromo</title>
+    <desc>As part of her role as FOX Business Network's global markets editor, business journalist Maria Bartiromo hosts this weekly Sunday morning show on FBN sister network FOX News Channel Sunday Morning Futures with Maria Bartiromo that focuses more on the general economy than the stock market specifically. The hourlong show provides viewers with information about how recent news events affect the economy. In addition, Bartiromo interviews business leaders and newsmakers on topics that include job creation and investment opportunities.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621100000 -0400" stop="20260621110000 -0400" channel="ABC.US">
+    <title>This Week</title>
+    <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621103000 -0400" stop="20260621113000 -0400" channel="CBS.US">
+    <title>Face the Nation</title>
+    <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621130000 -0400" stop="20260621160000 -0400" channel="MS NOW.US">
+    <title>Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621170000 -0400" stop="20260621180000 -0400" channel="MS NOW.US">
+    <title>PoliticsNation</title>
+    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621180000 -0400" stop="20260621210000 -0400" channel="MS NOW.US">
+    <title>The Weekend Primetime</title>
+    <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621200000 -0400" stop="20260621210000 -0400" channel="Bravo.US">
+    <title>The Real Housewives of Atlanta</title>
+    <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621200000 -0400" stop="20260621220100 -0400" channel="Discovery.US">
+    <title>Naked and Afraid: Global Showdown</title>
+    <desc>Survivalists from all over the world - including Brazil, Australia, Mexico, and the United States - represent their homelands in a grueling 40-day primitive bushcraft competition. Paired with a partner, their skills, toughness and teamwork will be tested as they compete for national pride and the largest cash prize in franchise history.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621200000 -0400" stop="20260621210000 -0400" channel="A&amp;E.US">
+    <title>UFC Rivals</title>
+    <desc>UFC Rivals is an electrifying deep dive into the most iconic feuds in UFC history. Blending gripping archival footage, exclusive interviews, and a dynamic roundtable, the series revisits the unforgettable moments and high-stakes drama behind the fiercest battles inside the Octagon. UFC superfan, Mario Lopez brings together fan-favorite voices, including C.M. Punk and Ken Shamrock, to break down the rivalries that defined eras, shaped legacies, and helped propel the UFC into a global phenomenon.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621210000 -0400" stop="20260621221200 -0400" channel="HBO.US">
+    <title>House of the Dragon</title>
+    <desc>Set 200 years before the events of Game of Thrones, House of the Dragon tells the history of House Targaryen as they fight through a civil war.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621210000 -0400" stop="20260621213000 -0400" channel="FOX.US">
+    <title>American Dad!</title>
+    <desc>In American Dad!, Stan Smith leads the all-American family in this animated sitcom filled with wild and crazy extremes. Everyday life is taken to the limit as Stan applies the same drastic measures used in his job at the CIA to his home life. Driven by machismo and the American dream, he often is blind to how horribly he fails at his attempts. This father might not know best, but he never stops trying.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621210000 -0400" stop="20260621220300 -0400" channel="History.US">
+    <title>Hazardous History with Henry Winkler</title>
+    <desc>The eight-episode fast-paced, nostalgia-fueled series will take viewers on a thrilling ride through America's past.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621210000 -0400" stop="20260621220000 -0400" channel="Bravo.US">
+    <title>The Real Housewives of Rhode Island</title>
+    <desc>They may live in the smallest state in the country, but their drama? Extra large. Bravo is expanding the distinguished franchise with The Real Housewives of Rhode Island, spotlighting a fresh, charismatic group of women whose lives intertwine across the storied coastline of New England luxury.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621210000 -0400" stop="20260621220100 -0400" channel="A&amp;E.US">
+    <title>UFC Rivals</title>
+    <desc>UFC Rivals is an electrifying deep dive into the most iconic feuds in UFC history. Blending gripping archival footage, exclusive interviews, and a dynamic roundtable, the series revisits the unforgettable moments and high-stakes drama behind the fiercest battles inside the Octagon. UFC superfan, Mario Lopez brings together fan-favorite voices, including C.M. Punk and Ken Shamrock, to break down the rivalries that defined eras, shaped legacies, and helped propel the UFC into a global phenomenon.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621210000 -0400" stop="20260621220000 -0400" channel="CNN.US">
+    <title>This Land</title>
+    <desc>Exploring the history of America's expansion through six defining frontiers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621213000 -0400" stop="20260621220000 -0400" channel="FOX.US">
+    <title>American Dad!</title>
+    <desc>In American Dad!, Stan Smith leads the all-American family in this animated sitcom filled with wild and crazy extremes. Everyday life is taken to the limit as Stan applies the same drastic measures used in his job at the CIA to his home life. Driven by machismo and the American dream, he often is blind to how horribly he fails at his attempts. This father might not know best, but he never stops trying.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621220000 -0400" stop="20260621230000 -0400" channel="CNN.US">
+    <title>This Land</title>
+    <desc>Exploring the history of America's expansion through six defining frontiers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621220100 -0400" stop="20260621230200 -0400" channel="Discovery.US">
+    <title>In the Eye of the Storm: Chasers</title>
+    <desc>In the Eye of the Storm: Chasers, a heart-pounding ride into nature at its most extreme. The series follows twelve teams of certified weather spotters and professional storm chasers as they self-shoot their close encounters with dangerous tornadoes. With no producers or camera crews, each team ventures into America's Tornado Alley, risking everything to spot tornados, warn people in harm's way, and help save lives when disaster strikes.The series captures raw, harrowing encounters as storm chasers, outfitted with their own camera rigs and advanced weather tech, race into the American Midwest during one of the most active tornado seasons in decades. These men and women risk their lives while redefining storm chasing for a new generation.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621220100 -0400" stop="20260621230400 -0400" channel="A&amp;E.US">
+    <title>WWE LFG</title>
+    <desc>WWE LFG (Legends &amp;amp; Future Greats) will offer viewers an inside look at the rigorous training process, featuring iconic WWE Legends such as Paul "Triple H" Levesque and Shawn Michaels and weekly regular coaches Undertaker, Booker T, Mickie James and Bubba Ray Dudley as they mentor a new generation in weekly matches on their quest to become the next WWE Superstars.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621220300 -0400" stop="20260621230500 -0400" channel="History.US">
+    <title>The Food That Built America</title>
+    <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621230000 -0400" stop="20260621233000 -0400" channel="HBO.US">
+    <title>Last Week Tonight with John Oliver</title>
+    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621230400 -0400" stop="20260621233400 -0400" channel="A&amp;E.US">
+    <title>WWE's Greatest Moments</title>
+    <desc>WWE's Greatest Moments will feature legendary play-by-play announcer Michael Cole hosting half-hour episodes with various WWE Superstars &amp;amp; Legends, including "Stone Cold" Steve Austin, Hulk Hogan, Kevin Owens and others, to share vivid recollections and perspectives on the most remarkable moments in wrestling history.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621233400 -0400" stop="20260622000300 -0400" channel="A&amp;E.US">
+    <title>WWE's Greatest Moments</title>
+    <desc>WWE's Greatest Moments will feature legendary play-by-play announcer Michael Cole hosting half-hour episodes with various WWE Superstars &amp;amp; Legends, including "Stone Cold" Steve Austin, Hulk Hogan, Kevin Owens and others, to share vivid recollections and perspectives on the most remarkable moments in wrestling history.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260615060000 -0400" stop="20260615091500 -0400" channel="5.GB">
@@ -2279,6 +2283,11 @@
     <desc>Gardening show packed with good ideas, tips, advice from experts and timely reminders to get the most out of your garden, whatever its size or type.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260619210000 -0400" stop="20260619220000 -0400" channel="Channel 4.GB">
+    <title>Celebrity Gogglebox</title>
+    <desc>A rolling cast of famous faces, some of Britain's best loved personalities, turn their hand to being the country's most opinionated viewers, sharing their opinions on what they have been watching during the week.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260619223000 -0400" stop="20260619225800 -0400" channel="BBC Two.GB">
     <title>Newsnight</title>
     <desc>Newsnight is the BBC's flagship news programme and runs on BBC2 five nights a week. Its format, with a limited number of items covered in each show, allows an in-depth analytical approach to news stories, with a particular emphasis on political and economic affairs. The show largely eschews the "human-interest" stories favoured by many news programmes.</desc>
@@ -2294,24 +2303,34 @@
     <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614090000 -0400" stop="20260614100000 -0400" channel="ABC.AU">
-    <title>Insiders</title>
-    <desc>Australia's must-watch political program continues to be a platform for the country's best political analysts and commentators, taking you to the heart of the action every Sunday morning.Insiders entered a very crowded Sunday morning political market in 2001. But our approach was to provide coverage with so many more elements, and to do it in a way that is informative but irreverent. And of course have a few laughs along the way. If you took politics too seriously you'd go mad," said founding host Barrie Cassidy.Insiders is the most watched morning show on Australian TV any day of the week. So start your week with the program the politicians rely on to find out what's going on.Insiders is broadcast on Sundays from 9am to 10am (AEST) on ABC TV and the ABC News channel.</desc>
+  <programme start="20260621060000 -0400" stop="20260621091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614123000 -0400" stop="20260614133000 -0400" channel="ABC.AU">
-    <title>Landline</title>
-    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
+  <programme start="20260621100000 -0400" stop="20260621130000 -0400" channel="Channel 4.GB">
+    <title>Sunday Brunch</title>
+    <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614183000 -0400" stop="20260614190000 -0400" channel="ABC.AU">
-    <title>Compass</title>
-    <desc>Compass explores the Australian soul - our beliefs, our ethical dilemmas and the changing face of our spirituality, with new host, popular journalist and broadcaster, Indira Naidoo.</desc>
+  <programme start="20260621121500 -0400" stop="20260621125000 -0400" channel="BBC One.GB">
+    <title>Songs of Praise</title>
+    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260614193000 -0400" stop="20260614203000 -0400" channel="ABC.AU">
-    <title>Race Around The World</title>
-    <desc>In a time defined by fast-paced narratives and global connection, Race Around the World returns both as a homage to its original spirit and a bold reimagining. It celebrates the raw power of authentic, on-the-ground storytelling and the boundless curiosity that fuels it.The revival of the much-loved format is set to deliver fresh perspectives, discover new creative talent and reaffirm the ABC's commitment to original Australian content.</desc>
+  <programme start="20260621191500 -0400" stop="20260621201500 -0400" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621200000 -0400" stop="20260621210000 -0400" channel="National Geographic.GB">
+    <title>Engineering by Catastrophe</title>
+    <desc>Across the globe, engineers are creating extraordinary modern masterpieces, structures that push beyond the limits of what came before. Each year, innovations grow more impressive as bridges, tunnels, skyscrapers and even spacecraft become bigger, bolder and more ambitious. Yet, every breakthrough brings new risks. To ensure the safest outcomes, engineers must study worst-case scenarios in which major structures are pushed to their limits and fatal flaws are exposed. Fires, explosions, floods and catastrophic collisions are difficult to confront but essential to understand. In this series, we learn from the past to build a safer future.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621210000 -0400" stop="20260621220000 -0400" channel="Channel 4.GB">
+    <title>Free Nelson Mandela</title>
+    <desc>The story of Nelson Mandela's journey from activist to revolutionary prisoner, and the global movement and musical activism that helped bring his freedom.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260615193000 -0400" stop="20260615200000 -0400" channel="ABC.AU">
@@ -2319,12 +2338,12 @@
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260615200000 -0400" stop="20260615203000 -0400" channel="ABC.AU">
+  <programme start="20260615200000 -0400" stop="20260615203400 -0400" channel="ABC.AU">
     <title>Australian Story</title>
     <desc>These are the stories of who we are. Australian Story presents unique tales that provide an insight into Australian life with all its complexities and challenges.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260615203000 -0400" stop="20260615211500 -0400" channel="ABC.AU">
+  <programme start="20260615203400 -0400" stop="20260615212100 -0400" channel="ABC.AU">
     <title>Four Corners</title>
     <desc>Four Corners is Australia's premier television current affairs program. It has been part of the national story since August 1961, exposing scandals, triggering inquiries, firing debate, confronting taboos and interpreting fads, trends and sub-cultures. Its consistently high standards of journalism and film-making have earned international recognition and an array of Walkleys, Logies and other national awards.</desc>
     <category>TV Show</category>
@@ -2367,6 +2386,21 @@
   <programme start="20260619193000 -0400" stop="20260619203000 -0400" channel="ABC.AU">
     <title>Gardening Australia</title>
     <desc>Gardening Australia provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation. Presented by Australia's leading horticultural experts, Gardening Australia is a valuable resource to all gardeners through the television program, the magazine, books, DVDs and extensive online content.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621090000 -0400" stop="20260621100000 -0400" channel="ABC.AU">
+    <title>Insiders</title>
+    <desc>Australia's must-watch political program continues to be a platform for the country's best political analysts and commentators, taking you to the heart of the action every Sunday morning.Insiders entered a very crowded Sunday morning political market in 2001. But our approach was to provide coverage with so many more elements, and to do it in a way that is informative but irreverent. And of course have a few laughs along the way. If you took politics too seriously you'd go mad," said founding host Barrie Cassidy.Insiders is the most watched morning show on Australian TV any day of the week. So start your week with the program the politicians rely on to find out what's going on.Insiders is broadcast on Sundays from 9am to 10am (AEST) on ABC TV and the ABC News channel.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621123000 -0400" stop="20260621133000 -0400" channel="ABC.AU">
+    <title>Landline</title>
+    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260621183000 -0400" stop="20260621190000 -0400" channel="ABC.AU">
+    <title>Compass</title>
+    <desc>Compass explores the Australian soul - our beliefs, our ethical dilemmas and the changing face of our spirituality, with new host, popular journalist and broadcaster, Indira Naidoo.</desc>
     <category>TV Show</category>
   </programme>
 </tv>
