@@ -124,6 +124,10 @@
     <display-name>National Geographic</display-name>
     <country>GB</country>
   </channel>
+  <channel id="Global.CA">
+    <display-name>Global</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -250,6 +254,11 @@
   <programme start="20260615140000 -0400" stop="20260615150000 -0400" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260615140000 -0400" stop="20260615150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260615150000 -0400" stop="20260615180000 -0400" channel="NewsNation.US">
@@ -597,6 +606,11 @@
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260616140000 -0400" stop="20260616150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260616150000 -0400" stop="20260616180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -942,6 +956,11 @@
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260617140000 -0400" stop="20260617150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260617150000 -0400" stop="20260617180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -1257,6 +1276,11 @@
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260618140000 -0400" stop="20260618150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260618150000 -0400" stop="20260618180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -1565,6 +1589,11 @@
   <programme start="20260619140000 -0400" stop="20260619150000 -0400" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260619140000 -0400" stop="20260619150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260619150000 -0400" stop="20260619180000 -0400" channel="NewsNation.US">
@@ -2335,6 +2364,11 @@
   <programme start="20260621210000 -0400" stop="20260621220000 -0400" channel="Channel 4.GB">
     <title>Free Nelson Mandela</title>
     <desc>The story of Nelson Mandela's journey from activist to revolutionary prisoner, and the global movement and musical activism that helped bring his freedom.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260619190000 -0400" stop="20260619200000 -0400" channel="Global.CA">
+    <title>Crime Beat</title>
+    <desc>Crime Beat is a true crime series that takes viewers deep into some of Canada's most infamous criminal cases. Hosted by Antony Robart and based on the highly successful podcast by Nancy Hixt, Crime Beat showcases some of the best investigative crime reporting from the Global News reporters who covered the stories in real time. Using extensive archives, intimate family interviews, each week Crime Beat reveals new details that go beyond the news headlines: giving a voice to victims and their families, unraveling how each case was solved through the eyes of the detectives and forensic specialists, and exploring lasting impacts on the community and justice system.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260615193000 -0400" stop="20260615200000 -0400" channel="ABC.AU">
