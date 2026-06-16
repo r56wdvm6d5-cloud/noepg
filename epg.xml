@@ -408,11 +408,6 @@
     <desc>In the city that never sleeps, a group of New Yorkers navigates the biggest transitions of their lives — marriage, parenthood, reinvention, and the reality of growing up without growing apart. Can they have it all, or will they need to choose between the lives they've built and the futures they never saw coming?</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260616210000 -0400" stop="20260616213000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260616213000 -0400" stop="20260616220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -441,6 +436,11 @@
   <programme start="20260616220000 -0400" stop="20260616225900 -0400" channel="NBC.US">
     <title>Password</title>
     <desc>Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260616220000 -0400" stop="20260616223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260616220100 -0400" stop="20260616223200 -0400" channel="A&amp;E.US">
@@ -1373,6 +1373,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260619210000 -0400" stop="20260619220000 -0400" channel="ESPN.US">
+    <title>E:60</title>
+    <desc>E:60 is ESPN's first multi-subject prime-time newsmagazine program offering a combination of investigative features, profiles of intriguing sports personalities, and cutting edge stories on innovation in the sports world, including emerging sports and new technology. The series will tell life stories that relate or have a basis in sports, melding its stories with a glimpse of the reporters' experiences discussing the story ideas. The show will be produced and aired in high definition, a first for the newsmagazine genre.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260619210100 -0400" stop="20260619220200 -0400" channel="Discovery.US">
     <title>The Last Woodsmen</title>
     <desc>The Last Woodsmen takes us deep into the secluded wilderness with these courageous and highly skilled loggers as they literally risk their lives. It's a rarely explored, dangerous business which translates to incredibly engrossing television.On a floating barge hundreds of miles from civilization, veteran logger Jared Douglas puts everything on the line to harvest the largest timber in the world. One misstep in this high-risk industry could cost tens of thousands of dollars, or even a life. Joining him at the edge of the world is a tight-knit crew of lumbermen who, with only axes and hand-held power saws, take down massive, highly valuable trees that can be worth up to $70K each.</desc>
@@ -1891,6 +1896,11 @@
   <programme start="20260616100000 -0400" stop="20260616123000 -0400" channel="ITV1.GB">
     <title>This Morning</title>
     <desc>A long-running daytime magazine show co-hosted by two presenters live on weekdays since 1988. Features news and topical items, celebrity guests, expert advice, real life stories, competitions and a mix of cookery, health, beauty, lifestyle and more.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260616104500 -0400" stop="20260616111500 -0400" channel="BBC One.GB">
+    <title>Doorbell Detectives</title>
+    <desc>Neighbourhood Watch with a digital upgrade! Matt Allwright has gobsmacking stories of crafty crooks and dodgy deliveries caught on camera, and top tips to help make a safer street.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260616113000 -0400" stop="20260616124500 -0400" channel="5.GB">
