@@ -221,6 +221,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260617090000 -0400" stop="20260617110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260617100000 -0400" stop="20260617120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -241,6 +246,11 @@
     <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260617110000 -0400" stop="20260617120000 -0400" channel="Fox News Channel.US">
+    <title>The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260617120000 -0400" stop="20260617140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -256,9 +266,19 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260617120000 -0400" stop="20260617130000 -0400" channel="Fox News Channel.US">
+    <title>Outnumbered</title>
+    <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260617130000 -0400" stop="20260617140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260617130000 -0400" stop="20260617150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260617133000 -0400" stop="20260617140000 -0400" channel="CBS.US">
@@ -571,6 +591,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260618090000 -0400" stop="20260618110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260618100000 -0400" stop="20260618120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -591,6 +616,11 @@
     <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260618110000 -0400" stop="20260618120000 -0400" channel="Fox News Channel.US">
+    <title>The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260618120000 -0400" stop="20260618140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -606,9 +636,19 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260618120000 -0400" stop="20260618130000 -0400" channel="Fox News Channel.US">
+    <title>Outnumbered</title>
+    <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260618130000 -0400" stop="20260618140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260618130000 -0400" stop="20260618150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260618133000 -0400" stop="20260618140000 -0400" channel="CBS.US">
@@ -916,6 +956,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260619090000 -0400" stop="20260619110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260619100000 -0400" stop="20260619120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -936,6 +981,11 @@
     <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260619110000 -0400" stop="20260619120000 -0400" channel="Fox News Channel.US">
+    <title>The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260619120000 -0400" stop="20260619140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -951,9 +1001,19 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260619120000 -0400" stop="20260619130000 -0400" channel="Fox News Channel.US">
+    <title>Outnumbered</title>
+    <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260619130000 -0400" stop="20260619140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260619130000 -0400" stop="20260619150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260619133000 -0400" stop="20260619140000 -0400" channel="CBS.US">
@@ -1301,6 +1361,11 @@
     <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260621190000 -0400" stop="20260621193000 -0400" channel="ESPN.US">
+    <title>WNBA Countdown</title>
+    <desc>WNBA Countdown serves as the primer for game telecasts on both ESPN2 and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260621200000 -0400" stop="20260621210000 -0400" channel="Bravo.US">
     <title>The Real Housewives of Atlanta</title>
     <desc>An up-close and personal look at life in Hotlanta, The Real Housewives of Atlanta follows five glamorous southern belles as they balance motherhood, demanding careers and a fast-paced social calendar, and shows what life is like in the most exclusive areas of Atlanta. These driven and ambitious women prove that they're not just "housewives," but entrepreneurs, doting mothers and classy southern women. These ladies show the world what it takes to live large in some of the hottest zip codes in the south.</desc>
@@ -1421,6 +1486,21 @@
     <desc>Start your day and weekend with real news and analysis from Rob Finnerty, Michael Grimm &amp;amp; Sarah Williamson and team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260622070000 -0400" stop="20260622090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622070000 -0400" stop="20260622090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622070000 -0400" stop="20260622090000 -0400" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260622090000 -0400" stop="20260622110000 -0400" channel="MS NOW.US">
     <title>Money, Power, Politics with Stephanie Ruhle</title>
     <desc>Money, Power, Politics with Stephanie Ruhle, utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the "Nightcap" roundtable segment from her previous show, The 11th Hour</desc>
@@ -1434,6 +1514,31 @@
   <programme start="20260622090000 -0400" stop="20260622120000 -0400" channel="NewsNation.US">
     <title>NewsNation Live with Marni Hughes</title>
     <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622090000 -0400" stop="20260622100000 -0400" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622090000 -0400" stop="20260622110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622100000 -0400" stop="20260622120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622100000 -0400" stop="20260622110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622110000 -0400" stop="20260622120000 -0400" channel="Fox News Channel.US">
+    <title>The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260622120000 -0400" stop="20260622140000 -0400" channel="MS NOW.US">
@@ -1451,9 +1556,19 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260622120000 -0400" stop="20260622130000 -0400" channel="Fox News Channel.US">
+    <title>Outnumbered</title>
+    <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260622130000 -0400" stop="20260622140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622130000 -0400" stop="20260622150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260622133000 -0400" stop="20260622140000 -0400" channel="CBS.US">
@@ -1676,6 +1791,21 @@
     <desc>Start your day and weekend with real news and analysis from Rob Finnerty, Michael Grimm &amp;amp; Sarah Williamson and team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260623070000 -0400" stop="20260623090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623070000 -0400" stop="20260623090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623070000 -0400" stop="20260623090000 -0400" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260623090000 -0400" stop="20260623110000 -0400" channel="MS NOW.US">
     <title>Money, Power, Politics with Stephanie Ruhle</title>
     <desc>Money, Power, Politics with Stephanie Ruhle, utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the "Nightcap" roundtable segment from her previous show, The 11th Hour</desc>
@@ -1691,6 +1821,31 @@
     <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260623090000 -0400" stop="20260623100000 -0400" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623090000 -0400" stop="20260623110000 -0400" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623100000 -0400" stop="20260623120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623100000 -0400" stop="20260623110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623110000 -0400" stop="20260623120000 -0400" channel="Fox News Channel.US">
+    <title>The Faulkner Focus</title>
+    <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260623120000 -0400" stop="20260623140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1704,6 +1859,26 @@
   <programme start="20260623120000 -0400" stop="20260623150000 -0400" channel="NewsNation.US">
     <title>NewsNation Live with Nichole Berlie</title>
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623120000 -0400" stop="20260623130000 -0400" channel="Fox News Channel.US">
+    <title>Outnumbered</title>
+    <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623123000 -0400" stop="20260623133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623130000 -0400" stop="20260623140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623130000 -0400" stop="20260623150000 -0400" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260623133000 -0400" stop="20260623140000 -0400" channel="CBS.US">
