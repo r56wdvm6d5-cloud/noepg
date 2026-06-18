@@ -2312,6 +2312,11 @@
     <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260621125000 -0400" stop="20260621130500 -0400" channel="BBC One.GB">
+    <title>Points of View</title>
+    <desc>The show that lets you air your views on the BBC's television programmes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260621190000 -0400" stop="20260621194000 -0400" channel="Sky Arts.GB">
     <title>Isle of Wight Festival</title>
     <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
@@ -2575,11 +2580,6 @@
   <programme start="20260618193000 -0400" stop="20260618200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260619193000 -0400" stop="20260619203000 -0400" channel="ABC.AU">
-    <title>Gardening Australia</title>
-    <desc>Gardening Australia provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation. Presented by Australia's leading horticultural experts, Gardening Australia is a valuable resource to all gardeners through the television program, the magazine, books, DVDs and extensive online content.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260621090000 -0400" stop="20260621100000 -0400" channel="ABC.AU">
