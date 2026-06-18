@@ -232,24 +232,19 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260618100000 -0400" stop="20260618150000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260618110000 -0400" stop="20260618120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260618110000 -0400" stop="20260618120000 -0400" channel="MS NOW.US">
-    <title>MS NOW Reports</title>
-    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260618110000 -0400" stop="20260618120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260618120000 -0400" stop="20260618140000 -0400" channel="MS NOW.US">
-    <title>On the Line with Alicia Menendez</title>
-    <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260618120000 -0400" stop="20260618140000 -0400" channel="Newsmax.US">
@@ -612,11 +607,6 @@
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260619110000 -0400" stop="20260619120000 -0400" channel="MS NOW.US">
-    <title>MS NOW Reports</title>
-    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260619110000 -0400" stop="20260619120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
@@ -680,6 +670,11 @@
   <programme start="20260619140000 -0400" stop="20260619150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260619140000 -0400" stop="20260619150000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260619150000 -0400" stop="20260619180000 -0400" channel="NewsNation.US">
@@ -825,6 +820,11 @@
   <programme start="20260619220000 -0400" stop="20260619230000 -0400" channel="NBC.US">
     <title>Dateline NBC</title>
     <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260619220000 -0400" stop="20260619230000 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260619230000 -0400" stop="20260620000000 -0400" channel="MS NOW.US">
@@ -1192,6 +1192,16 @@
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260622110000 -0400" stop="20260622120000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260622110000 -0400" stop="20260622120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260622120000 -0400" stop="20260622140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1505,6 +1515,11 @@
   <programme start="20260623110000 -0400" stop="20260623120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623110000 -0400" stop="20260623120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260623120000 -0400" stop="20260623140000 -0400" channel="MS NOW.US">
@@ -1842,6 +1857,11 @@
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260624110000 -0400" stop="20260624120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260624120000 -0400" stop="20260624140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -2130,6 +2150,11 @@
   <programme start="20260618154500 -0400" stop="20260618163000 -0400" channel="BBC One.GB">
     <title>Garden Rescue</title>
     <desc>Charlie Dimmock and award-winning garden designers the Rich brothers compete to design gardens for homeowners around the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260618160000 -0400" stop="20260618170000 -0400" channel="Channel 4.GB">
+    <title>Narrow Escapes</title>
+    <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260618200000 -0400" stop="20260618210000 -0400" channel="Channel 4.GB">
@@ -2660,6 +2685,11 @@
   <programme start="20260624193000 -0400" stop="20260624200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260624200000 -0400" stop="20260624203500 -0400" channel="ABC.AU">
+    <title>Gruen</title>
+    <desc>The Gruen Transfer is about advertising, how it works, and how it works on us. It decodes and defuses the commercial messages that swirl through our lives, with the help of a panel of ad industry experts. From Season 5 the show was renamed "Gruen Planet" and expanded the topics covered to include political and commercial "spin" as well as advertising. In 2015 it is re-named as Gruen.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260624203500 -0400" stop="20260624212500 -0400" channel="ABC.AU">
