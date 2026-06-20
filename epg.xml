@@ -1,9 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
-    <country>US</country>
-  </channel>
   <channel id="MS NOW.US">
     <display-name>MS NOW</display-name>
     <country>US</country>
@@ -18,6 +14,10 @@
   </channel>
   <channel id="CBS.US">
     <display-name>CBS</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
     <country>US</country>
   </channel>
   <channel id="A&amp;E.US">
@@ -124,11 +124,6 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260619000000 -0400" stop="20260619020000 -0400" channel="CNN.US">
-    <title>The Story Is with Elex Michaelson</title>
-    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260620070000 -0400" stop="20260620100000 -0400" channel="MS NOW.US">
     <title>The Weekend</title>
     <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
@@ -689,6 +684,11 @@
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260622220000 -0400" stop="20260622230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260622220300 -0400" stop="20260622230500 -0400" channel="History.US">
     <title>History's Greatest Machines with Dolph Lundgren</title>
     <desc>Machines can rewrite history – and no one knows that better than action legend and chemical engineer graduate Dolph Lundgren. Join him as he uncovers the stories behind history's most groundbreaking machines: witness secret stealth helicopters, spy planes outrunning missiles, espionage tech that won wars, to the rocket that took humanity to the moon. Guided by Dolph's keen insight and charisma, this is a thrilling ride through the gears, guts, and genius behind the machines that reshaped our world.</desc>
@@ -964,6 +964,11 @@
     <desc>The NBA Draft is an annual event dating back to 1947 in which the teams from the National Basketball Association can draft players who are eligible and wish to join the league. These are typically college basketball players, but international players are also eligible to be drafted. College players who have finished their four-year college eligibility are automatically eligible for selection, while the underclassmen have to declare their eligibility and give up their remaining college eligibility. International players who are at least 22 years old are automatically eligible for selection, while the players younger than 22 have to declare their eligibility. Players who are not automatically eligible but have declared their eligibility are often called "early-entrants" or "early-entry candidates". The draft usually takes place near the end of June, during the NBA offseason.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260623200000 -0400" stop="20260623210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260623210000 -0400" stop="20260623213000 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -992,6 +997,11 @@
   <programme start="20260623210000 -0400" stop="20260623220000 -0400" channel="Bravo.US">
     <title>In the City</title>
     <desc>In the city that never sleeps, a group of New Yorkers navigates the biggest transitions of their lives — marriage, parenthood, reinvention, and the reality of growing up without growing apart. Can they have it all, or will they need to choose between the lives they've built and the futures they never saw coming?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623210000 -0400" stop="20260623220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260623213000 -0400" stop="20260623220100 -0400" channel="A&amp;E.US">
@@ -1029,6 +1039,11 @@
     <desc>Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change..</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260623220000 -0400" stop="20260623230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260623220100 -0400" stop="20260623223200 -0400" channel="A&amp;E.US">
     <title>Squatters</title>
     <desc>Squatters are taking over homes across the country and Flash Shelton is the man who gets them out. With bold tactics and street smarts, Flash and his team face tense and sometimes dangerous situations to help families reclaim their property. Each episode reveals the emotional and high-stakes battles where the fight for justice can quickly escalate, putting everyone involved at risk. This is the struggle to take back what rightfully belongs to them.</desc>
@@ -1062,6 +1077,11 @@
   <programme start="20260623233500 -0400" stop="20260624003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260623000000 -0400" stop="20260623020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260623000000 -0400" stop="20260623020000 -0400" channel="CNN.US">
@@ -1419,6 +1439,11 @@
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260624000000 -0400" stop="20260624020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260625050000 -0400" stop="20260625060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -1669,6 +1694,11 @@
     <desc>Scrabble is a captivating, fast-paced take on the global board-game phenomenon. In each episode, wordsmiths battle it out playing a series of addictive, word-based games to win points and add words to a giant SCRABBLE board in the center of the set.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260625200000 -0400" stop="20260625210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260625210000 -0400" stop="20260625220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -1697,6 +1727,11 @@
   <programme start="20260625210000 -0400" stop="20260625220000 -0400" channel="The CW.US">
     <title>Trivial Pursuit</title>
     <desc>The all-time classic trivia game Trivial Pursuit is reimagined in a question-packed entertainment format. Gameplay takes place on a giant version of the iconic Trivial Pursuit game board, as contestants battle it out over a range of play-along question categories to win wedges and beat each other to the center. The victor then takes on a dramatic finale against the clock to claim the big money jackpot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260625210000 -0400" stop="20260625220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260625220000 -0400" stop="20260625230000 -0400" channel="A&amp;E.US">
@@ -1732,6 +1767,16 @@
   <programme start="20260625230000 -0400" stop="20260626000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260625000000 -0400" stop="20260625020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260625000000 -0400" stop="20260625020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260626050000 -0400" stop="20260626060000 -0400" channel="MS NOW.US">
@@ -2009,6 +2054,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260626210000 -0400" stop="20260626220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260626210100 -0400" stop="20260626220100 -0400" channel="Discovery.US">
     <title>The Last Woodsmen</title>
     <desc>The Last Woodsmen takes us deep into the secluded wilderness with these courageous and highly skilled loggers as they literally risk their lives. It's a rarely explored, dangerous business which translates to incredibly engrossing television.On a floating barge hundreds of miles from civilization, veteran logger Jared Douglas puts everything on the line to harvest the largest timber in the world. One misstep in this high-risk industry could cost tens of thousands of dollars, or even a life. Joining him at the edge of the world is a tight-knit crew of lumbermen who, with only axes and hand-held power saws, take down massive, highly valuable trees that can be worth up to $70K each.</desc>
@@ -2037,6 +2087,11 @@
   <programme start="20260626230000 -0400" stop="20260627000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260626000000 -0400" stop="20260626020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260619001000 -0400" stop="20260619010500 -0400" channel="Sky Arts.GB">
