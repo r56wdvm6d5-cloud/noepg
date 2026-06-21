@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
+  <channel id="NBC.US">
+    <display-name>NBC</display-name>
+    <country>US</country>
+  </channel>
   <channel id="MS NOW.US">
     <display-name>MS NOW</display-name>
     <country>US</country>
@@ -12,6 +16,10 @@
     <display-name>ABC</display-name>
     <country>US</country>
   </channel>
+  <channel id="ESPN.US">
+    <display-name>ESPN</display-name>
+    <country>US</country>
+  </channel>
   <channel id="CBS.US">
     <display-name>CBS</display-name>
     <country>US</country>
@@ -20,20 +28,8 @@
     <display-name>CNN</display-name>
     <country>US</country>
   </channel>
-  <channel id="A&amp;E.US">
-    <display-name>A&amp;E</display-name>
-    <country>US</country>
-  </channel>
   <channel id="Fox News Channel.US">
     <display-name>Fox News Channel</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="NBC.US">
-    <display-name>NBC</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="ESPN.US">
-    <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
   <channel id="Bravo.US">
@@ -42,6 +38,10 @@
   </channel>
   <channel id="Discovery.US">
     <display-name>Discovery</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="A&amp;E.US">
+    <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
   <channel id="HBO.US">
@@ -92,10 +92,6 @@
     <display-name>5</display-name>
     <country>GB</country>
   </channel>
-  <channel id="ITV1.GB">
-    <display-name>ITV1</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="Channel 4.GB">
     <display-name>Channel 4</display-name>
     <country>GB</country>
@@ -112,6 +108,10 @@
     <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
+  <channel id="ITV1.GB">
+    <display-name>ITV1</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Quest.GB">
     <display-name>Quest</display-name>
     <country>GB</country>
@@ -124,101 +124,6 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260620070000 -0400" stop="20260620100000 -0400" channel="MS NOW.US">
-    <title>The Weekend</title>
-    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620070000 -0400" stop="20260620090000 -0400" channel="Newsmax.US">
-    <title>Wake Up America Weekend</title>
-    <desc>Start your weekend days with real news and analysis from Michael Grimm, Sarah Williamson and team.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620070000 -0400" stop="20260620080000 -0400" channel="ABC.US">
-    <title>Good Morning America: Weekend Edition</title>
-    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620070000 -0400" stop="20260620090000 -0400" channel="CBS.US">
-    <title>CBS Saturday Morning</title>
-    <desc>Hosts Jeff Glor, Dana Jacobson and Michelle Miller provide original reporting, breaking news, and profiles of leading figures in culture and the arts from the Times Square studio on the Saturday edition of the CBS morning news family.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620090000 -0400" stop="20260620110000 -0400" channel="Newsmax.US">
-    <title>America Right Now</title>
-    <desc>Tom Basile tackles the week's biggest stories with top talkers from politics, Hollywood, and across America.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620090000 -0400" stop="20260620100000 -0400" channel="CNN.US">
-    <title>Smerconish</title>
-    <desc>After serving as an MSNBC contributor and guest-host on the network for four years, TV and radio personality Michael Smerconish believed he was ready to head a show of his own. CNN agreed, and thus was born Smerconish, an hour long Saturday morning program that takes after its host's independent views. Using a topical, conversational format, he aims for the TV show to be an extension of his weekday radio broadcast, with free-flowing topics and the ability to discuss issues that strike a chord with the audience. Along the same lines, he thinks it's important to present the content in an engaging manner, free of my-way-or-the-highway ideology. Smerconish, who has a law degree from the University of Pennsylvania, is also a New York Times' best-selling author.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620100000 -0400" stop="20260620130000 -0400" channel="MS NOW.US">
-    <title>Connect with Jacob Soboroff</title>
-    <desc>Connect with Jacob Soboroffwill be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620100000 -0400" stop="20260620110000 -0400" channel="A&amp;E.US">
-    <title>Zombie House Flipping</title>
-    <desc>When a house has been left for dead, the Zombie House Flippers bring it back to life and into beautifully remade shape for top dollar. These flippers show the inner workings of this high-stakes world full of unexpected disasters, hidden costs, and quirky personalities. With tight budgets and short timelines, it's a mad scramble to finish these flips and make bank for the team.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620110000 -0400" stop="20260620120000 -0400" channel="A&amp;E.US">
-    <title>Million Dollar Zombie Flips</title>
-    <desc>Million Dollar Zombie Flips follows James Dainard and his team as they hunt for, fix, and flip zombie houses in the Seattle area. In each episode, James brings the cash and teams up with a rookie flipper who finds a dilapidated house and together, they attempt to turn it into a stunning million-dollar home. Following James' plan, the flipping partner is in charge of the renovation process and if all goes smoothly, they split the profit 50/50. However, if the newbie can't meet the team's standards, James will take over and keep the full profit for himself. With millions of dollars on the line, do these real-estate newbies have what it takes to turn big bucks in the high-stakes world of flipping?</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620110000 -0400" stop="20260620130000 -0400" channel="Newsmax.US">
-    <title>Saturday Report</title>
-    <desc>Rita Cosby and Jon Glasgow tackles the big headlines with smart analysis from top experts.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620110000 -0400" stop="20260620120000 -0400" channel="A&amp;E.US">
-    <title>Zombie House Flipping: Family Business</title>
-    <desc>In Columbus, Ohio, power flipper Tommy Harr and his family have built a business on seeing opportunity where others see disaster. Their edge comes from within the family — two generations of elite home inspectors, a fearless construction crew led by his middle brother, and a mom who doubles as both designer and real estate agent. Together, they take on the city's worst "zombie" houses, transforming rundown properties into stunning dream homes.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620130000 -0400" stop="20260620150000 -0400" channel="Newsmax.US">
-    <title>Saturday Agenda</title>
-    <desc>Rob Astorino reveals Washington's inner workings and the fight for core values.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620130000 -0400" stop="20260620160000 -0400" channel="MS NOW.US">
-    <title>Alex Witt Reports</title>
-    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620170000 -0400" stop="20260620180000 -0400" channel="MS NOW.US">
-    <title>PoliticsNation</title>
-    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620170000 -0400" stop="20260620190000 -0400" channel="Newsmax.US">
-    <title>The Count</title>
-    <desc>Newsmax counts up the top stories of the week, while offering analysis by lawmakers, newsmakers, and policy experts.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620180000 -0400" stop="20260620210000 -0400" channel="MS NOW.US">
-    <title>The Weekend Primetime</title>
-    <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620200000 -0400" stop="20260620210000 -0400" channel="A&amp;E.US">
-    <title>Storage Wars: Back to the Locker</title>
-    <desc>Storage Wars: Back to the Locker refers to a series of episodes within the larger "Storage Wars" series, where the focus is on the competitive bidding and treasure hunting within abandoned storage units. These episodes continue the main show's premise of professional buyers vying to acquire the contents of storage lockers, often with the hope of finding valuable items among the discarded belongings. The "Back to the Locker" part emphasizes the return to the core concept of exploring what lies behind the doors of these storage units.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620210000 -0400" stop="20260620220000 -0400" channel="Fox News Channel.US">
-    <title>My View with Lara Trump</title>
-    <desc>My View with Lara Trump features big picture analysis and interviews with thought leaders, shedding light on the headlines driving the national conversation and affecting families around the country.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260620210000 -0400" stop="20260620220100 -0400" channel="A&amp;E.US">
-    <title>Storage Wars</title>
-    <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260620010200 -0400" stop="20260620013200 -0400" channel="NBC.US">
     <title>1st Look</title>
     <desc>1st Look is the Emmy-winning, lifestyle show that takes you to the country's hottest destinations for amazing eats, thrilling adventures and crazy fun nightlife. Each week, join Johnny Bananas as he takes you along for the ride!</desc>
@@ -2119,59 +2024,114 @@
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260619001000 -0400" stop="20260619010500 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260626000000 -0400" stop="20260626020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620060000 -0400" stop="20260620091500 -0400" channel="5.GB">
-    <title>Milkshake!</title>
-    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+  <programme start="20260627070000 -0400" stop="20260627100000 -0400" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620140000 -0400" stop="20260620150000 -0400" channel="ITV1.GB">
-    <title>Dermot's Taste of Ireland</title>
-    <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
+  <programme start="20260627070000 -0400" stop="20260627090000 -0400" channel="Newsmax.US">
+    <title>Wake Up America Weekend</title>
+    <desc>Start your weekend days with real news and analysis from Michael Grimm, Sarah Williamson and team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620190000 -0400" stop="20260620194000 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627070000 -0400" stop="20260627080000 -0400" channel="ABC.US">
+    <title>Good Morning America: Weekend Edition</title>
+    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620194000 -0400" stop="20260620200500 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627070000 -0400" stop="20260627090000 -0400" channel="CBS.US">
+    <title>CBS Saturday Morning</title>
+    <desc>Hosts Jeff Glor, Dana Jacobson and Michelle Miller provide original reporting, breaking news, and profiles of leading figures in culture and the arts from the Times Square studio on the Saturday edition of the CBS morning news family.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620200500 -0400" stop="20260620203000 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627090000 -0400" stop="20260627110000 -0400" channel="Newsmax.US">
+    <title>America Right Now</title>
+    <desc>Tom Basile tackles the week's biggest stories with top talkers from politics, Hollywood, and across America.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620203000 -0400" stop="20260620210000 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627090000 -0400" stop="20260627100000 -0400" channel="CNN.US">
+    <title>Smerconish</title>
+    <desc>After serving as an MSNBC contributor and guest-host on the network for four years, TV and radio personality Michael Smerconish believed he was ready to head a show of his own. CNN agreed, and thus was born Smerconish, an hour long Saturday morning program that takes after its host's independent views. Using a topical, conversational format, he aims for the TV show to be an extension of his weekday radio broadcast, with free-flowing topics and the ability to discuss issues that strike a chord with the audience. Along the same lines, he thinks it's important to present the content in an engaging manner, free of my-way-or-the-highway ideology. Smerconish, who has a law degree from the University of Pennsylvania, is also a New York Times' best-selling author.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620210000 -0400" stop="20260620221000 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627100000 -0400" stop="20260627130000 -0400" channel="MS NOW.US">
+    <title>Connect with Jacob Soboroff</title>
+    <desc>Connect with Jacob Soboroffwill be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620221000 -0400" stop="20260620223500 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627100000 -0400" stop="20260627110000 -0400" channel="A&amp;E.US">
+    <title>Zombie House Flipping</title>
+    <desc>When a house has been left for dead, the Zombie House Flippers bring it back to life and into beautifully remade shape for top dollar. These flippers show the inner workings of this high-stakes world full of unexpected disasters, hidden costs, and quirky personalities. With tight budgets and short timelines, it's a mad scramble to finish these flips and make bank for the team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620223500 -0400" stop="20260620230000 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627110000 -0400" stop="20260627120000 -0400" channel="A&amp;E.US">
+    <title>Million Dollar Zombie Flips</title>
+    <desc>Million Dollar Zombie Flips follows James Dainard and his team as they hunt for, fix, and flip zombie houses in the Seattle area. In each episode, James brings the cash and teams up with a rookie flipper who finds a dilapidated house and together, they attempt to turn it into a stunning million-dollar home. Following James' plan, the flipping partner is in charge of the renovation process and if all goes smoothly, they split the profit 50/50. However, if the newbie can't meet the team's standards, James will take over and keep the full profit for himself. With millions of dollars on the line, do these real-estate newbies have what it takes to turn big bucks in the high-stakes world of flipping?</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260620230000 -0400" stop="20260621003000 -0400" channel="Sky Arts.GB">
-    <title>Isle of Wight Festival</title>
-    <desc>The Isle of Wight Festival is an annual music festival that showcases some of the biggest music artists from around the world.</desc>
+  <programme start="20260627110000 -0400" stop="20260627130000 -0400" channel="Newsmax.US">
+    <title>Saturday Report</title>
+    <desc>Rita Cosby and Jon Glasgow tackles the big headlines with smart analysis from top experts.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627110000 -0400" stop="20260627120000 -0400" channel="A&amp;E.US">
+    <title>Zombie House Flipping: Family Business</title>
+    <desc>In Columbus, Ohio, power flipper Tommy Harr and his family have built a business on seeing opportunity where others see disaster. Their edge comes from within the family — two generations of elite home inspectors, a fearless construction crew led by his middle brother, and a mom who doubles as both designer and real estate agent. Together, they take on the city's worst "zombie" houses, transforming rundown properties into stunning dream homes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627130000 -0400" stop="20260627150000 -0400" channel="Newsmax.US">
+    <title>Saturday Agenda</title>
+    <desc>Rob Astorino reveals Washington's inner workings and the fight for core values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627130000 -0400" stop="20260627160000 -0400" channel="MS NOW.US">
+    <title>Alex Witt Reports</title>
+    <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627170000 -0400" stop="20260627180000 -0400" channel="MS NOW.US">
+    <title>PoliticsNation</title>
+    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627170000 -0400" stop="20260627190000 -0400" channel="Newsmax.US">
+    <title>The Count</title>
+    <desc>Newsmax counts up the top stories of the week, while offering analysis by lawmakers, newsmakers, and policy experts.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627180000 -0400" stop="20260627210000 -0400" channel="MS NOW.US">
+    <title>The Weekend Primetime</title>
+    <desc>A diverse panel of journalists navigates the week's biggest stories and sets the agenda for the week ahead, offering context, analysis, and civil debate in a three-hour Saturday and Sunday evening format.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627193000 -0400" stop="20260627200000 -0400" channel="CBS.US">
+    <title>WNBA Tip-Off</title>
+    <desc>WNBA Tip-Off serves as the pre-game telecast on CBS. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627200000 -0400" stop="20260627210000 -0400" channel="A&amp;E.US">
+    <title>Storage Wars: Back to the Locker</title>
+    <desc>Storage Wars: Back to the Locker refers to a series of episodes within the larger "Storage Wars" series, where the focus is on the competitive bidding and treasure hunting within abandoned storage units. These episodes continue the main show's premise of professional buyers vying to acquire the contents of storage lockers, often with the hope of finding valuable items among the discarded belongings. The "Back to the Locker" part emphasizes the return to the core concept of exploring what lies behind the doors of these storage units.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627210000 -0400" stop="20260627220000 -0400" channel="Fox News Channel.US">
+    <title>My View with Lara Trump</title>
+    <desc>My View with Lara Trump features big picture analysis and interviews with thought leaders, shedding light on the headlines driving the national conversation and affecting families around the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627210000 -0400" stop="20260627220100 -0400" channel="A&amp;E.US">
+    <title>Storage Wars</title>
+    <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627210000 -0400" stop="20260627220000 -0400" channel="CNN.US">
+    <title>Craig Ferguson: American on Purpose</title>
+    <desc>Follows a cross-country journey exploring modern America's identity, freedoms, contradictions, and cultural quirks as the nation celebrates its 250th anniversary of independence.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260620003000 -0400" stop="20260620010500 -0400" channel="Sky Arts.GB">
@@ -2572,6 +2532,26 @@
   <programme start="20260626210000 -0400" stop="20260626220000 -0400" channel="Channel 4.GB">
     <title>Celebrity Gogglebox</title>
     <desc>A rolling cast of famous faces, some of Britain's best loved personalities, turn their hand to being the country's most opinionated viewers, sharing their opinions on what they have been watching during the week.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627060000 -0400" stop="20260627091500 -0400" channel="5.GB">
+    <title>Milkshake!</title>
+    <desc>Milkshake! is presented by a number of different presenters who introduce children's TV shows every morning on Channel 5.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627140000 -0400" stop="20260627150000 -0400" channel="ITV1.GB">
+    <title>Dermot's Taste of Ireland</title>
+    <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627172000 -0400" stop="20260627180500 -0400" channel="BBC One.GB">
+    <title>Bridge of Lies Celebrity Specials</title>
+    <desc>Teams of celebrities take on the nail-biting quiz hosted by Ross Kemp.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627183000 -0400" stop="20260627200000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260621090000 -0400" stop="20260621100000 -0400" channel="ABC.AU">
