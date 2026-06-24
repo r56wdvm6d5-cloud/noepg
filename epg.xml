@@ -208,6 +208,11 @@
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260624110000 -0400" stop="20260624120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260624120000 -0400" stop="20260624140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -633,6 +638,11 @@
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260625110000 -0400" stop="20260625120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260625120000 -0400" stop="20260625140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1036,6 +1046,11 @@
   <programme start="20260626110000 -0400" stop="20260626120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260626110000 -0400" stop="20260626120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260626120000 -0400" stop="20260626140000 -0400" channel="MS NOW.US">
@@ -1481,6 +1496,11 @@
   <programme start="20260628100000 -0400" stop="20260628110000 -0400" channel="ABC.US">
     <title>This Week</title>
     <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260628100000 -0400" stop="20260628110000 -0400" channel="CNN.US">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Fareed Zakaria GPS is a weekly public affairs show hosted by journalist and author Fareed Zakaria. As of November 2011, the show airs Sundays at 10 am Eastern Time and 1 pm Eastern Time on CNN. The show also airs Sundays at 1200 and 1900 GMT on CNN International. The "GPS" in the show's title stands for "Global Public Square," a reference to the show's focus on international issues and foreign affairs. On August 10, 2012, CNN suspended the program pending their investigation of suspected plagiarism. One week later, the New York Times reported, "Time and CNN said they had completed their reviews, found no evidence of plagiarism, and restored Mr. Zakaria to his demanding schedule." Each installment features Zakaria leading a panel discussion and conducting an extended one-on-one interview.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260628103000 -0400" stop="20260628113000 -0400" channel="CBS.US">
@@ -2443,6 +2463,11 @@
     <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260627170500 -0400" stop="20260627180500 -0400" channel="5.GB">
+    <title>The Royals: Uncensored</title>
+    <desc>Katie Nicholl and Jo Elvin host this new show that pulls back the velvet curtain on the world's most famous family with fearless debate, insider analysis and exclusive insights.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260627172000 -0400" stop="20260627180500 -0400" channel="BBC One.GB">
     <title>Bridge of Lies Celebrity Specials</title>
     <desc>Teams of celebrities take on the nail-biting quiz hosted by Ross Kemp.</desc>
@@ -2451,6 +2476,11 @@
   <programme start="20260627183000 -0400" stop="20260627200000 -0400" channel="Channel 4.GB">
     <title>Formula 1</title>
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260627200000 -0400" stop="20260627210000 -0400" channel="5.GB">
+    <title>Alexander Armstrong Across America</title>
+    <desc>Alexander Armstrong embarks on a journey across the United States to explore how a nation founded on bold ideals has grown into one of the world's most powerful and complex countries. From historic heartlands to modern extremes, this is a country shaped by its past but constantly reinventing itself.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260628060000 -0400" stop="20260628091500 -0400" channel="5.GB">
@@ -2466,6 +2496,11 @@
   <programme start="20260628135000 -0400" stop="20260628140500 -0400" channel="BBC One.GB">
     <title>Points of View</title>
     <desc>The show that lets you air your views on the BBC's television programmes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260628140000 -0400" stop="20260628150000 -0400" channel="ITV1.GB">
+    <title>Dermot's Taste of Ireland</title>
+    <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260628183000 -0400" stop="20260628193000 -0400" channel="BBC One.GB">
