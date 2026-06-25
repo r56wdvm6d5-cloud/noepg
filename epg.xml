@@ -964,14 +964,14 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260626220000 -0400" stop="20260626230000 -0400" channel="HBO.US">
-    <title>Real Time with Bill Maher</title>
-    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260626220000 -0400" stop="20260626230000 -0400" channel="NBC.US">
     <title>Dateline NBC</title>
     <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260626220800 -0400" stop="20260626230800 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260626230000 -0400" stop="20260627000000 -0400" channel="MS NOW.US">
@@ -2427,6 +2427,11 @@
   <programme start="20260625141000 -0400" stop="20260625150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260625160000 -0400" stop="20260625170000 -0400" channel="Channel 4.GB">
+    <title>Narrow Escapes</title>
+    <desc>From bobbing businesses to continuous cruisers, we meet the vibrant community who call the UK's canal network home.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260625200000 -0400" stop="20260625210000 -0400" channel="Channel 4.GB">
