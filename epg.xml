@@ -518,6 +518,11 @@
     <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260626220000 -0400" stop="20260626230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260626220800 -0400" stop="20260626230800 -0400" channel="HBO.US">
     <title>Real Time with Bill Maher</title>
     <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
@@ -781,6 +786,11 @@
   <programme start="20260628220300 -0400" stop="20260628230500 -0400" channel="History.US">
     <title>The Food That Built America</title>
     <desc>For generations of Americans, food titans like Henry Heinz, Milton Hershey, John and Will Kellogg, C.W. Post and the McDonald brothers have literally been household names, but you don't know their stories. Before they were brand names, they were brilliant, sometimes ruthless, visionaries who revolutionized food and changed the landscape of America forever. This miniseries event will tell the fascinating stories of the people behind the food that built America – those who used brains, muscle, blood, sweat and tears to get to America's heart through its stomach, and along the way built cities, invented new technologies and helped win wars.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260628221500 -0400" stop="20260628224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260628230000 -0400" stop="20260628233000 -0400" channel="HBO.US">
@@ -1136,6 +1146,11 @@
   <programme start="20260629220000 -0400" stop="20260629230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260629220000 -0400" stop="20260629230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260629220300 -0400" stop="20260629230500 -0400" channel="History.US">
@@ -1513,6 +1528,16 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260630220000 -0400" stop="20260630230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260630220000 -0400" stop="20260630223000 -0400" channel="History.US">
+    <title>The Secret of Skinwalker Ranch: Behind the Gates</title>
+    <desc>The Secret of Skinwalker Ranch: Behind the Gates offers a more in-depth look at the mysteries surrounding the ranch and the team's investigations, often featuring interviews with team members and experts.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260630220100 -0400" stop="20260630223200 -0400" channel="A&amp;E.US">
     <title>Squatters</title>
     <desc>Squatters are taking over homes across the country and Flash Shelton is the man who gets them out. With bold tactics and street smarts, Flash and his team face tense and sometimes dangerous situations to help families reclaim their property. Each episode reveals the emotional and high-stakes battles where the fight for justice can quickly escalate, putting everyone involved at risk. This is the struggle to take back what rightfully belongs to them.</desc>
@@ -1641,11 +1666,6 @@
   <programme start="20260701090000 -0400" stop="20260701100000 -0400" channel="NBC.US">
     <title>Today 3rd Hour</title>
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260701100000 -0400" stop="20260701110000 -0400" channel="History.US">
-    <title>Forged in Fire</title>
-    <desc>Forged in Fire features world-class bladesmiths competing against each other to create some of the most iconic edged weapons from history. In each episode, four of the best bladesmiths in the country will come together to put both their skills and reputations on the line. Whether they are making a Japanese katana, a medieval broadsword, or an ancient throwing blade like the chakram, the weapons they forge will be fully functional and lethal works of art and war. The unique histories contained within each weapon will be creatively told during the forging process and the final weapons themselves will be assessed and ruthlessly tested by our panel of expert judges. These dynamic and explosive tests will be individually designed to push the weapons to their absolute limit. One by one, the bladesmiths will be eliminated until only one remains to be crowned the champion.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260701100000 -0400" stop="20260701110000 -0400" channel="NBC.US">
@@ -1901,6 +1921,11 @@
   <programme start="20260701220000 -0400" stop="20260701230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260701220000 -0400" stop="20260701230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260701220800 -0400" stop="20260701230800 -0400" channel="Discovery.US">
@@ -2261,6 +2286,11 @@
   <programme start="20260702220000 -0400" stop="20260702230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260702220000 -0400" stop="20260702230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260702220500 -0400" stop="20260702230500 -0400" channel="History.US">
