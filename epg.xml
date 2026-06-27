@@ -2328,6 +2328,11 @@
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260629141000 -0400" stop="20260629150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260629200000 -0400" stop="20260629210000 -0400" channel="Channel 4.GB">
     <title>Dover 24/7: Britain's Busiest Port</title>
     <desc>Dover 24/7: Britain's Busiest Port takes viewers inside one of the UK's most critical transport hubs, the Port of Dover.The series takes viewers inside some of the key port control centres to meet frontline staff and shine a light on the teamwork, expertise, operational challenges, and crucial minute-by-minute decisions that impact millions around the UK to reveal some of the huge 24/7 operation that keeps the nation's most important transport hub open for business. From the terminal and port control teams to the Port of Dover Police and the ferry and cruise companies, viewers will get to know the individuals keeping the port moving around the clock.</desc>
@@ -2403,6 +2408,11 @@
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260630141000 -0400" stop="20260630150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260630200000 -0400" stop="20260630210000 -0400" channel="Channel 4.GB">
     <title>Bake Off: The Professionals</title>
     <desc>Twelve professional duos from across the U.K. go head to head in a series of competitive heats judged by celebrated pastry chefs Cherish Finden and Benoit Blin.In each episode the expert pairs are challenged to two rounds that will test their professional ability and allow them to showcase their creative flair. A new presenting line up of Tom Allen and Liam Charles will offer their own comedic take on events in the professional's kitchen.</desc>
@@ -2451,6 +2461,11 @@
   <programme start="20260701140000 -0400" stop="20260701150000 -0400" channel="5.GB">
     <title>Vanessa</title>
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260701141000 -0400" stop="20260701150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260701200000 -0400" stop="20260701210000 -0400" channel="Channel 4.GB">
@@ -2508,6 +2523,11 @@
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260702141000 -0400" stop="20260702150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260702230000 -0400" stop="20260703000000 -0400" channel="BBC Two.GB">
     <title>Today at Wimbledon</title>
     <desc>A look back at the day's action and a preview of the big matches.</desc>
@@ -2546,6 +2566,16 @@
   <programme start="20260703140000 -0400" stop="20260703150000 -0400" channel="5.GB">
     <title>Vanessa</title>
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260703143500 -0400" stop="20260703152500 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260703160000 -0400" stop="20260703174500 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260703210000 -0400" stop="20260703220000 -0400" channel="BBC Two.GB">
