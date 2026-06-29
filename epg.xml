@@ -2594,6 +2594,11 @@
     <desc>A look back at the day's action and a preview of the big matches.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260629193000 -0400" stop="20260629200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260629200000 -0400" stop="20260629203000 -0400" channel="ABC.AU">
     <title>Deep End: The Scott Miller Story</title>
     <desc>A compelling new two-part documentary charting the dramatic rise and fall of Olympic swimmer Scott Miller, and his ongoing fight to rebuild his life. Once a golden boy of Australian sport, Scott Miller had it all: medals, fame, and a nation's admiration. Then came personal tragedy and a fall into addiction, crime and eventually prison.</desc>
@@ -2614,6 +2619,16 @@
     <desc>Chas Licciardello and John Barron set out to discover the real America - its politics and its people - with analysis from US and Australian experts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260630193000 -0400" stop="20260630200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260701193000 -0400" stop="20260701200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260701200000 -0400" stop="20260701203500 -0400" channel="ABC.AU">
     <title>Gruen</title>
     <desc>The Gruen Transfer is about advertising, how it works, and how it works on us. It decodes and defuses the commercial messages that swirl through our lives, with the help of a panel of ad industry experts. From Season 5 the show was renamed "Gruen Planet" and expanded the topics covered to include political and commercial "spin" as well as advertising. In 2015 it is re-named as Gruen.</desc>
@@ -2622,6 +2637,11 @@
   <programme start="20260701203500 -0400" stop="20260701212500 -0400" channel="ABC.AU">
     <title>Guy Montgomery's Guy Mont Spelling Bee</title>
     <desc>Get ready to laugh-out-loud as Guy Montgomery and his loyal assistant Aaron Chen are joined by some of Australia's favourite personalities, testing their spelling prowess with wildly inventive spelling challenges designed to befuddle, bamboozle, and bedazzle them all.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260702193000 -0400" stop="20260702200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260705090000 -0400" stop="20260705100000 -0400" channel="ABC.AU">
