@@ -2395,6 +2395,11 @@
     <desc>Australia's must-watch political program continues to be a platform for the country's best political analysts and commentators, taking you to the heart of the action every Sunday morning.Insiders entered a very crowded Sunday morning political market in 2001. But our approach was to provide coverage with so many more elements, and to do it in a way that is informative but irreverent. And of course have a few laughs along the way. If you took politics too seriously you'd go mad," said founding host Barrie Cassidy.Insiders is the most watched morning show on Australian TV any day of the week. So start your week with the program the politicians rely on to find out what's going on.Insiders is broadcast on Sundays from 9am to 10am (AEST) on ABC TV and the ABC News channel.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260705123000 -0400" stop="20260705133000 -0400" channel="ABC.AU">
+    <title>Landline</title>
+    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260705183000 -0400" stop="20260705190000 -0400" channel="ABC.AU">
     <title>Compass</title>
     <desc>Compass explores the Australian soul - our beliefs, our ethical dilemmas and the changing face of our spirituality, with new host, popular journalist and broadcaster, Indira Naidoo.</desc>
