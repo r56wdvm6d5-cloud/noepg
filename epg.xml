@@ -466,6 +466,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260701210000 -0400" stop="20260701220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260701213000 -0400" stop="20260701220000 -0400" channel="A&amp;E.US">
     <title>My Strange Arrest</title>
     <desc>An in-depth look at the people who were arrested for allegedly committing some of the weirdest, wildest and most bizarre crimes ever. We dig beyond the headlines and the viral videos to look at the incidents and their consequences, hearing the stories from the accused, the arresting officers and eyewitnesses. These are bizarre crimes with real-life ramifications.</desc>
@@ -529,6 +534,16 @@
   <programme start="20260701230000 -0400" stop="20260702000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260701020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260701000000 -0400" stop="20260701020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260702050000 -0400" stop="20260702060000 -0400" channel="MS NOW.US">
@@ -876,6 +891,11 @@
     <desc>E:60 is ESPN's first multi-subject prime-time newsmagazine program offering a combination of investigative features, profiles of intriguing sports personalities, and cutting edge stories on innovation in the sports world, including emerging sports and new technology. The series will tell life stories that relate or have a basis in sports, melding its stories with a glimpse of the reporters' experiences discussing the story ideas. The show will be produced and aired in high definition, a first for the newsmagazine genre.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260702210000 -0400" stop="20260702220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260702220000 -0400" stop="20260702230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -924,6 +944,16 @@
   <programme start="20260702230000 -0400" stop="20260703000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260702000000 -0400" stop="20260702020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260702000000 -0400" stop="20260702020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260703050000 -0400" stop="20260703060000 -0400" channel="Fox News Channel.US">
@@ -1581,6 +1611,11 @@
     <desc>The McBee Dynasty: Real American Cowboys follows patriarch Steve McBee, the hard-working founder of the family business, and his four sons: Steven Jr. the business-minded heir apparent, Cole the underdog who works hard in the field, Jesse the quiet cowboy, and Brayden who has the least interest in farming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260706210000 -0400" stop="20260706220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260706220000 -0400" stop="20260706230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1604,6 +1639,16 @@
   <programme start="20260706230000 -0400" stop="20260707000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260706020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260706000000 -0400" stop="20260706020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260707050000 -0400" stop="20260707060000 -0400" channel="MS NOW.US">
@@ -1731,6 +1776,11 @@
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260707210000 -0400" stop="20260707220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260707213000 -0400" stop="20260707220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -1779,6 +1829,11 @@
   <programme start="20260707230000 -0400" stop="20260708000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260707000000 -0400" stop="20260707020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260701060000 -0400" stop="20260701091500 -0400" channel="5.GB">
