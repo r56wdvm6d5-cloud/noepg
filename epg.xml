@@ -8,12 +8,12 @@
     <display-name>Newsmax</display-name>
     <country>US</country>
   </channel>
-  <channel id="ABC.US">
-    <display-name>ABC</display-name>
-    <country>US</country>
-  </channel>
   <channel id="CBS.US">
     <display-name>CBS</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="ABC.US">
+    <display-name>ABC</display-name>
     <country>US</country>
   </channel>
   <channel id="CNN.US">
@@ -130,14 +130,14 @@
     <desc>Start your weekend days with real news and analysis from Michael Grimm, Sarah Williamson and team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260704070000 -0400" stop="20260704080000 -0400" channel="ABC.US">
-    <title>Good Morning America: Weekend Edition</title>
-    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260704070000 -0400" stop="20260704090000 -0400" channel="CBS.US">
     <title>CBS Saturday Morning</title>
     <desc>Hosts Jeff Glor, Dana Jacobson and Michelle Miller provide original reporting, breaking news, and profiles of leading figures in culture and the arts from the Times Square studio on the Saturday edition of the CBS morning news family.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260704070000 -0400" stop="20260704100000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260704090000 -0400" stop="20260704110000 -0400" channel="Newsmax.US">
@@ -190,7 +190,7 @@
     <desc>Start your weekend days with real news and analysis from Michael Grimm, Sarah Williamson and team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260705070000 -0400" stop="20260705080000 -0400" channel="ABC.US">
+  <programme start="20260705070000 -0400" stop="20260705100000 -0400" channel="ABC.US">
     <title>Good Morning America: Weekend Edition</title>
     <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
     <category>TV Show</category>
