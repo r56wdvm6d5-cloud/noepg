@@ -20,12 +20,12 @@
     <display-name>CNN</display-name>
     <country>US</country>
   </channel>
-  <channel id="PBS.US">
-    <display-name>PBS</display-name>
-    <country>US</country>
-  </channel>
   <channel id="NBC.US">
     <display-name>NBC</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Discovery.US">
+    <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
   <channel id="Fox News Channel.US">
@@ -34,10 +34,6 @@
   </channel>
   <channel id="ESPN.US">
     <display-name>ESPN</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Discovery.US">
-    <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
   <channel id="HBO.US">
@@ -64,6 +60,10 @@
     <display-name>Bravo</display-name>
     <country>US</country>
   </channel>
+  <channel id="PBS.US">
+    <display-name>PBS</display-name>
+    <country>US</country>
+  </channel>
   <channel id="The CW.US">
     <display-name>The CW</display-name>
     <country>US</country>
@@ -84,12 +84,12 @@
     <display-name>5</display-name>
     <country>GB</country>
   </channel>
-  <channel id="BBC Two.GB">
-    <display-name>BBC Two</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="ITV1.GB">
     <display-name>ITV1</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="BBC Two.GB">
+    <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
   <channel id="Comedy Central.GB">
@@ -150,6 +150,11 @@
     <desc>After serving as an MSNBC contributor and guest-host on the network for four years, TV and radio personality Michael Smerconish believed he was ready to head a show of his own. CNN agreed, and thus was born Smerconish, an hour long Saturday morning program that takes after its host's independent views. Using a topical, conversational format, he aims for the TV show to be an extension of his weekday radio broadcast, with free-flowing topics and the ability to discuss issues that strike a chord with the audience. Along the same lines, he thinks it's important to present the content in an engaging manner, free of my-way-or-the-highway ideology. Smerconish, who has a law degree from the University of Pennsylvania, is also a New York Times' best-selling author.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260704100000 -0400" stop="20260704103000 -0400" channel="CBS.US">
+    <title>Mission Unstoppable</title>
+    <desc>In Mission Unstoppable, each week celebrity host Miranda Cosgrove highlights the fascinating female innovators who are on the cutting edge of science – including zoologists, engineers, astronauts, codebreakers and oceanographers. Viewers will be inspired by female STEM (science, technology, engineering and math) superstars in the fields of social media, entertainment, animals, design and the internet – all categories key to the teen experience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260704110000 -0400" stop="20260704130000 -0400" channel="Newsmax.US">
     <title>Saturday Report</title>
     <desc>Rita Cosby and Jon Glasgow tackles the big headlines with smart analysis from top experts.</desc>
@@ -168,11 +173,6 @@
   <programme start="20260704170000 -0400" stop="20260704180000 -0400" channel="MS NOW.US">
     <title>PoliticsNation</title>
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260704200000 -0400" stop="20260704213000 -0400" channel="PBS.US">
-    <title>A Capitol Fourth</title>
-    <desc>America's favorite Independence Day celebration, A Capitol Fourth puts viewers front and center for the greatest display of fireworks anywhere in the nation. A Capitol Fourth is broadcast live from the West Lawn of the U.S. Capitol, before a concert audience of hundreds of thousands, millions more at home, and our troops watching around the world on the American Forces Network.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260704200000 -0400" stop="20260704220000 -0400" channel="NBC.US">
@@ -198,6 +198,11 @@
   <programme start="20260705080000 -0400" stop="20260705090000 -0400" channel="NBC.US">
     <title>Sunday TODAY with Willie Geist</title>
     <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260705083000 -0400" stop="20260705090000 -0400" channel="Discovery.US">
+    <title>RV There Yet?</title>
+    <desc>Explore America's national parks and check out the fun detours along the way! Featuring hacks to common RV challenges, cooking tips, best routs, must-have equipment, RV care and more!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260705090000 -0400" stop="20260705100000 -0400" channel="NBC.US">
@@ -720,6 +725,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260707210000 -0400" stop="20260707213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260707213000 -0400" stop="20260707220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -743,11 +753,6 @@
   <programme start="20260707220000 -0400" stop="20260707230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260707220000 -0400" stop="20260707223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260707220100 -0400" stop="20260707223200 -0400" channel="A&amp;E.US">
@@ -995,11 +1000,6 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260708220000 -0400" stop="20260708223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260708220100 -0400" stop="20260708223200 -0400" channel="A&amp;E.US">
     <title>Swamp Patrol</title>
     <desc>SWAMP PATROL pulls viewers into the unpredictable world of law enforcement operating in America's most unforgiving swamps. From the tangled bayous of Louisiana to the coastal inlets of Florida, Swamp Patrol follows officers in real time through bodycam footage as they respond to a wide range of threats, including armed suspects, drug busts, missing persons, stolen boats, 11-foot gators, and deadly snakes. Every call comes with its own dangers, and in the depths of the swamp, there is no backup. The series offers a captivating look at the chaos and courage required to hold the line in places most people never step.</desc>
@@ -1008,6 +1008,11 @@
   <programme start="20260708220800 -0400" stop="20260708230800 -0400" channel="Discovery.US">
     <title>Mystery at Blind Frog Ranch</title>
     <desc>There are some places on earth where the land just seems different, and Blind Frog Ranch in eastern Utah is one of those places. Locals say the land is cursed. That it's trying to hold on to something. From Aztec treasure to caverns of gold and silver to lost Mormon mines, legends surround Duane Ollinger's 160-acre ranch in Utah's Uintah Basin. But Duane isn't concerned with the lore. After discovering a system of seven underground caves that run through his property, he is singularly focused on finding what's hidden in them - no matter what the cost.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260708221500 -0400" stop="20260708224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260708223200 -0400" stop="20260708230400 -0400" channel="A&amp;E.US">
@@ -1240,6 +1245,11 @@
     <desc>A game of wits, strategy and high stakes as contestants try to avoid the iconic WHAMMY for a chance at life-changing cash and prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260709211500 -0400" stop="20260709214500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260709220000 -0400" stop="20260709230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1248,11 +1258,6 @@
   <programme start="20260709220000 -0400" stop="20260709230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260709220000 -0400" stop="20260709223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260709220500 -0400" stop="20260709230500 -0400" channel="History.US">
@@ -1508,6 +1513,11 @@
   <programme start="20260704130000 -0400" stop="20260704140000 -0400" channel="5.GB">
     <title>The Royals: Uncensored</title>
     <desc>Katie Nicholl and Jo Elvin host this new show that pulls back the velvet curtain on the world's most famous family with fearless debate, insider analysis and exclusive insights.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260704140000 -0400" stop="20260704150000 -0400" channel="ITV1.GB">
+    <title>Dermot's Taste of Ireland</title>
+    <desc>From traditional Irish stew to soda bread, fresh seafood, and boxty potato pancakes - Dermot will taste his way across the island, meeting the chefs and locals that champion and celebrate Ireland's gastronomic heritage. Having opened two of his own fish-themed restaurants and sharing some of his favourite home recipes on ITV's This Morning, he is now taking his passion on the road whilst exploring Ireland's ancient landscapes, diverse cities and stunning coastlines. From Michelin Star restaurants in the ‘Gourmet Capital of Ireland' Kinsale; to fishing for oysters by the sea in Cork; sitting down for some home-grown comfort food in Wexford; and exploring the buzz of the Dublin food scene; before venturing across to Northern Ireland and the bustling city of Belfast and beyond - Dermot's Taste of Ireland promises to be a foodie delight, full of surprises.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260704150000 -0400" stop="20260704180000 -0400" channel="Channel 4.GB">
