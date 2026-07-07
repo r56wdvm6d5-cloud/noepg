@@ -1476,6 +1476,11 @@
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713100000 -0400" stop="20260713110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713120000 -0400" stop="20260713130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -1489,6 +1494,11 @@
   <programme start="20260713130000 -0400" stop="20260713160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713130000 -0400" stop="20260713140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713140000 -0400" stop="20260713150000 -0400" channel="CBS.US">
