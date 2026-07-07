@@ -2041,6 +2041,11 @@
     <desc>Compass explores the Australian soul - our beliefs, our ethical dilemmas and the changing face of our spirituality, with new host, popular journalist and broadcaster, Indira Naidoo.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260712193000 -0400" stop="20260712203000 -0400" channel="ABC.AU">
+    <title>Race Around The World</title>
+    <desc>In a time defined by fast-paced narratives and global connection, Race Around the World returns both as a homage to its original spirit and a bold reimagining. It celebrates the raw power of authentic, on-the-ground storytelling and the boundless curiosity that fuels it.The revival of the much-loved format is set to deliver fresh perspectives, discover new creative talent and reaffirm the ABC's commitment to original Australian content.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713060000 -0400" stop="20260713090000 -0400" channel="ABC.AU">
     <title>ABC News Breakfast</title>
     <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
