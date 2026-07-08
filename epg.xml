@@ -312,11 +312,6 @@
     <desc>An in-depth look at the people who were arrested for allegedly committing some of the weirdest, wildest and most bizarre crimes ever. We dig beyond the headlines and the viral videos to look at the incidents and their consequences, hearing the stories from the accused, the arresting officers and eyewitnesses. These are bizarre crimes with real-life ramifications.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260708210000 -0400" stop="20260708220000 -0400" channel="Bravo.US">
-    <title>Next Gen NYC</title>
-    <desc>Next Gen NYC follows a tangled web of friends raised in the spotlight — or at least close enough for good lighting — as they stumble into adulthood one brunch, breakup and spontaneous decision at a time. Whether stepping out of their parents' shadows or creating their own legacies from scratch, these twentysomethings are determined to conquer Manhattan — if they can figure out how to adult first. Together, they'll navigate friendships, careers and romance, proving that trouble runs on espresso martinis and questionable decisions.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260708210000 -0400" stop="20260708220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
@@ -330,6 +325,11 @@
   <programme start="20260708210000 -0400" stop="20260708214200 -0400" channel="Discovery.US">
     <title>Expedition Unknown</title>
     <desc>In the hit series Expedition Unknown, Travel Channel's witty explorer Josh Gates seeks answers to some of the world's most captivating unsolved stories and legends. Gates is on a mission to find the truth behind each iconic legend, digging through years of historical evidence, facts and myths. Leaving no stone unturned, his adventures take him around the globe as he immerses himself in the core locales linked to each tale. From excavating ruins in search of the real Robin Hood to sailing the high seas investigating Christopher Columbus and exploring Nepal's "sky caves" for Shangri La, Gates' archaeological background and ubiquitous sense of humor generate a new take on age-old stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260708211500 -0400" stop="20260708221500 -0400" channel="Bravo.US">
+    <title>Next Gen NYC</title>
+    <desc>Next Gen NYC follows a tangled web of friends raised in the spotlight — or at least close enough for good lighting — as they stumble into adulthood one brunch, breakup and spontaneous decision at a time. Whether stepping out of their parents' shadows or creating their own legacies from scratch, these twentysomethings are determined to conquer Manhattan — if they can figure out how to adult first. Together, they'll navigate friendships, careers and romance, proving that trouble runs on espresso martinis and questionable decisions.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260708213000 -0400" stop="20260708220100 -0400" channel="A&amp;E.US">
