@@ -547,6 +547,11 @@
     <desc>The eight-episode fast-paced, nostalgia-fueled series will take viewers on a thrilling ride through America's past.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260712210000 -0400" stop="20260712213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260712220000 -0400" stop="20260712230000 -0400" channel="Discovery.US">
     <title>In the Eye of the Storm</title>
     <desc>In the Eye of the Storm Megastorms like 2021's Hurricane Ida and the 2023 Maui Wildfires were captured by onlookers who found themselves in the wrong place at the right time and boldly held up their camera phones to document their experiences.</desc>
@@ -802,6 +807,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713220000 -0400" stop="20260713223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713220300 -0400" stop="20260713230500 -0400" channel="History.US">
     <title>History's Greatest Machines with Dolph Lundgren</title>
     <desc>Machines can rewrite history – and no one knows that better than action legend and chemical engineer graduate Dolph Lundgren. Join him as he uncovers the stories behind history's most groundbreaking machines: witness secret stealth helicopters, spy planes outrunning missiles, espionage tech that won wars, to the rocket that took humanity to the moon. Guided by Dolph's keen insight and charisma, this is a thrilling ride through the gears, guts, and genius behind the machines that reshaped our world.</desc>
@@ -820,6 +830,11 @@
   <programme start="20260713233500 -0400" stop="20260714003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713233500 -0400" stop="20260714003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713000000 -0400" stop="20260713020000 -0400" channel="CNN.US">
@@ -1017,6 +1032,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714210000 -0400" stop="20260714213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714213000 -0400" stop="20260714220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -1070,6 +1090,11 @@
   <programme start="20260714233500 -0400" stop="20260715003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714233500 -0400" stop="20260715003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714003500 -0400" stop="20260714013500 -0400" channel="NBC.US">
@@ -1277,6 +1302,11 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715220000 -0400" stop="20260715223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715220100 -0400" stop="20260715230100 -0400" channel="Discovery.US">
     <title>Mystery at Blind Frog Ranch</title>
     <desc>There are some places on earth where the land just seems different, and Blind Frog Ranch in eastern Utah is one of those places. Locals say the land is cursed. That it's trying to hold on to something. From Aztec treasure to caverns of gold and silver to lost Mormon mines, legends surround Duane Ollinger's 160-acre ranch in Utah's Uintah Basin. But Duane isn't concerned with the lore. After discovering a system of seven underground caves that run through his property, he is singularly focused on finding what's hidden in them - no matter what the cost.</desc>
@@ -1310,6 +1340,11 @@
   <programme start="20260715233500 -0400" stop="20260716003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715233500 -0400" stop="20260716003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715003500 -0400" stop="20260715013500 -0400" channel="NBC.US">
@@ -1497,6 +1532,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716210000 -0400" stop="20260716213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1520,6 +1560,11 @@
   <programme start="20260716233500 -0400" stop="20260717003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716233500 -0400" stop="20260717003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260710124500 -0400" stop="20260710125000 -0400" channel="5.GB">
