@@ -387,6 +387,11 @@
     <desc>Hosts Jeff Glor, Dana Jacobson and Michelle Miller provide original reporting, breaking news, and profiles of leading figures in culture and the arts from the Times Square studio on the Saturday edition of the CBS morning news family.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260711070000 -0400" stop="20260711100000 -0400" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260711090000 -0400" stop="20260711110000 -0400" channel="Newsmax.US">
     <title>America Right Now</title>
     <desc>Tom Basile tackles the week's biggest stories with top talkers from politics, Hollywood, and across America.</desc>
@@ -455,6 +460,11 @@
   <programme start="20260712070000 -0400" stop="20260712080000 -0400" channel="ABC.US">
     <title>Good Morning America: Weekend Edition</title>
     <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260712070000 -0400" stop="20260712100000 -0400" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260712080000 -0400" stop="20260712090000 -0400" channel="NBC.US">
@@ -645,6 +655,11 @@
   <programme start="20260713100000 -0400" stop="20260713110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713110000 -0400" stop="20260713120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713120000 -0400" stop="20260713130000 -0400" channel="CNN.US">
@@ -927,6 +942,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714110000 -0400" stop="20260714120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714120000 -0400" stop="20260714130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -1175,6 +1195,11 @@
   <programme start="20260715100000 -0400" stop="20260715110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715110000 -0400" stop="20260715120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715120000 -0400" stop="20260715130000 -0400" channel="CNN.US">
@@ -1427,6 +1452,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716110000 -0400" stop="20260716120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716120000 -0400" stop="20260716130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -1652,6 +1682,11 @@
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713141000 -0400" stop="20260713150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713150000 -0400" stop="20260713154500 -0400" channel="BBC One.GB">
     <title>Escape to the Country</title>
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
@@ -1672,6 +1707,11 @@
     <desc>Award-winning investigations - revealing secrets, rooting out injustice, and exposing crime, corruption, and abuse. The biggest stories from BBC correspondents all over the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713193000 -0400" stop="20260713200000 -0400" channel="BBC Two.GB">
+    <title>Mastermind</title>
+    <desc>Mastermind is a British quiz show, well known for its challenging questions, intimidating setting and air of seriousness. It first aired on 11 September 1972 &amp;amp; is still running today. Four contestants brave the black chair as they answer questions on their specialist subjects and test their general knowledge to win the coveted trophy.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713195500 -0400" stop="20260713200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -1680,6 +1720,16 @@
   <programme start="20260713200000 -0400" stop="20260713210000 -0400" channel="Channel 4.GB">
     <title>Dover 24/7: Britain's Busiest Port</title>
     <desc>Dover 24/7: Britain's Busiest Port takes viewers inside one of the UK's most critical transport hubs, the Port of Dover.The series takes viewers inside some of the key port control centres to meet frontline staff and shine a light on the teamwork, expertise, operational challenges, and crucial minute-by-minute decisions that impact millions around the UK to reveal some of the huge 24/7 operation that keeps the nation's most important transport hub open for business. From the terminal and port control teams to the Port of Dover Police and the ferry and cruise companies, viewers will get to know the individuals keeping the port moving around the clock.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713200000 -0400" stop="20260713203000 -0400" channel="BBC Two.GB">
+    <title>Only Connect</title>
+    <desc>Quiz show in which connections must be made between apparently unconnected things, where patience and lateral thinking are as vital as knowledge.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713203000 -0400" stop="20260713210000 -0400" channel="BBC Two.GB">
+    <title>University Challenge</title>
+    <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713210000 -0400" stop="20260713220000 -0400" channel="Channel 4.GB">
@@ -1695,6 +1745,11 @@
   <programme start="20260714140000 -0400" stop="20260714150000 -0400" channel="5.GB">
     <title>Vanessa</title>
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714141000 -0400" stop="20260714150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714150000 -0400" stop="20260714154500 -0400" channel="BBC One.GB">
@@ -1737,6 +1792,11 @@
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715141000 -0400" stop="20260715150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715170000 -0400" stop="20260715180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -1760,6 +1820,11 @@
   <programme start="20260716140000 -0400" stop="20260716150000 -0400" channel="5.GB">
     <title>Vanessa</title>
     <desc>Raw, unfiltered, authentic and personal, Vanessa Feltz wants you to tell her what's on your mind. Fiery discussions, a good giggle and plenty of afternoon gossip!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716141000 -0400" stop="20260716150000 -0400" channel="Channel 4.GB">
+    <title>Countdown</title>
+    <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716170000 -0400" stop="20260716180000 -0400" channel="5.GB">
