@@ -48,6 +48,10 @@
     <display-name>Newsmax</display-name>
     <country>US</country>
   </channel>
+  <channel id="NewsNation.US">
+    <display-name>NewsNation</display-name>
+    <country>US</country>
+  </channel>
   <channel id="NFL Network.US">
     <display-name>NFL Network</display-name>
     <country>US</country>
@@ -266,6 +270,11 @@
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713060000 -0400" stop="20260713090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713070000 -0400" stop="20260713100000 -0400" channel="CNN.US">
     <title>CNN News Central</title>
     <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
@@ -321,6 +330,11 @@
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713090000 -0400" stop="20260713120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713100000 -0400" stop="20260713120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -354,6 +368,11 @@
   <programme start="20260713120000 -0400" stop="20260713140000 -0400" channel="Newsmax.US">
     <title>Bianca Across the Nation</title>
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713120000 -0400" stop="20260713150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713130000 -0400" stop="20260713160000 -0400" channel="CNN.US">
@@ -391,6 +410,11 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713150000 -0400" stop="20260713180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713160000 -0400" stop="20260713180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -426,6 +450,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713180000 -0400" stop="20260713190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713183000 -0400" stop="20260713190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
@@ -444,6 +473,11 @@
   <programme start="20260713190000 -0400" stop="20260713200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713190000 -0400" stop="20260713200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713200000 -0400" stop="20260713210000 -0400" channel="The CW.US">
@@ -491,6 +525,11 @@
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713200000 -0400" stop="20260713210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713210000 -0400" stop="20260713220000 -0400" channel="FOX.US">
     <title>The Quiz with Balls</title>
     <desc>The Quiz with Balls pits brains against balls combining a high-stakes quiz show with a large-scale physical competition. Each episode features two families competing for $100,000 in a "battle of the balls".</desc>
@@ -531,6 +570,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713210000 -0400" stop="20260713220000 -0400" channel="NewsNation.US">
+    <title>On Balance with Leland Vittert</title>
+    <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713220000 -0400" stop="20260713233000 -0400" channel="PBS.US">
     <title>Independent Lens</title>
     <desc>Independent Lens is an anthology of independent documentary films.</desc>
@@ -561,6 +605,11 @@
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713220000 -0400" stop="20260713230000 -0400" channel="NewsNation.US">
+    <title>Katie Pavlich Tonight</title>
+    <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713220300 -0400" stop="20260713230500 -0400" channel="History.US">
     <title>History's Greatest Machines with Dolph Lundgren</title>
     <desc>Machines can rewrite history – and no one knows that better than action legend and chemical engineer graduate Dolph Lundgren. Join him as he uncovers the stories behind history's most groundbreaking machines: witness secret stealth helicopters, spy planes outrunning missiles, espionage tech that won wars, to the rocket that took humanity to the moon. Guided by Dolph's keen insight and charisma, this is a thrilling ride through the gears, guts, and genius behind the machines that reshaped our world.</desc>
@@ -579,6 +628,11 @@
   <programme start="20260713230000 -0400" stop="20260714000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713230000 -0400" stop="20260714000000 -0400" channel="NewsNation.US">
+    <title>Jesse Weber Live</title>
+    <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713233500 -0400" stop="20260714003500 -0400" channel="ABC.US">
@@ -629,6 +683,11 @@
   <programme start="20260714060000 -0400" stop="20260714070000 -0400" channel="Newsmax.US">
     <title>Wake Up America Early</title>
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714060000 -0400" stop="20260714090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714070000 -0400" stop="20260714100000 -0400" channel="CNN.US">
@@ -686,6 +745,11 @@
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714090000 -0400" stop="20260714120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714100000 -0400" stop="20260714120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -721,6 +785,11 @@
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714120000 -0400" stop="20260714150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714130000 -0400" stop="20260714160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -749,6 +818,11 @@
   <programme start="20260714140000 -0400" stop="20260714160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714150000 -0400" stop="20260714180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714160000 -0400" stop="20260714180000 -0400" channel="MS NOW.US">
@@ -786,6 +860,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714180000 -0400" stop="20260714190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714183000 -0400" stop="20260714190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
@@ -809,6 +888,11 @@
   <programme start="20260714190000 -0400" stop="20260714200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714190000 -0400" stop="20260714200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714200000 -0400" stop="20260714220000 -0400" channel="The CW.US">
@@ -846,6 +930,11 @@
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714200000 -0400" stop="20260714210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714210000 -0400" stop="20260714220000 -0400" channel="History.US">
     <title>The Secret of Skinwalker Ranch</title>
     <desc>Gaining full and unprecedented access to one of the most infamous and secretive hotspots of paranormal and UFO-related activities on earth, The Secret of Skinwalker Ranch will feature a team of scientists and experts who will conduct a thorough search of this infamous 512-acre property located in Utah's Uinta Basin. They will attempt to find out the truth behind more than 200 years of mysteries - involving everything from UFO sightings and paranormal activities to animal mutilations and Native American legends of a shape-shifting creature known simply as The Skinwalker.</desc>
@@ -871,6 +960,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714210000 -0400" stop="20260714220000 -0400" channel="NewsNation.US">
+    <title>On Balance with Leland Vittert</title>
+    <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714213000 -0400" stop="20260714220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -894,6 +988,11 @@
   <programme start="20260714220000 -0400" stop="20260714230000 -0400" channel="Newsmax.US">
     <title>Chris Plante: The Right Squad</title>
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714220000 -0400" stop="20260714230000 -0400" channel="NewsNation.US">
+    <title>Katie Pavlich Tonight</title>
+    <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714220100 -0400" stop="20260714223200 -0400" channel="A&amp;E.US">
@@ -929,6 +1028,11 @@
   <programme start="20260714230000 -0400" stop="20260715000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714230000 -0400" stop="20260715000000 -0400" channel="NewsNation.US">
+    <title>Jesse Weber Live</title>
+    <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714233500 -0400" stop="20260715003500 -0400" channel="ABC.US">
@@ -969,6 +1073,11 @@
   <programme start="20260715060000 -0400" stop="20260715070000 -0400" channel="Newsmax.US">
     <title>Wake Up America Early</title>
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715060000 -0400" stop="20260715090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715070000 -0400" stop="20260715100000 -0400" channel="CNN.US">
@@ -1026,6 +1135,11 @@
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715090000 -0400" stop="20260715120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715100000 -0400" stop="20260715120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -1061,6 +1175,11 @@
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715120000 -0400" stop="20260715150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715130000 -0400" stop="20260715160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -1089,6 +1208,11 @@
   <programme start="20260715140000 -0400" stop="20260715160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715150000 -0400" stop="20260715180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715160000 -0400" stop="20260715180000 -0400" channel="MS NOW.US">
@@ -1126,6 +1250,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715180000 -0400" stop="20260715190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715183000 -0400" stop="20260715190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
@@ -1149,6 +1278,11 @@
   <programme start="20260715190000 -0400" stop="20260715200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715190000 -0400" stop="20260715200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715200000 -0400" stop="20260715230000 -0400" channel="ABC.US">
@@ -1179,6 +1313,11 @@
   <programme start="20260715200000 -0400" stop="20260715210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715200000 -0400" stop="20260715210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715210000 -0400" stop="20260715220000 -0400" channel="FOX.US">
@@ -1216,6 +1355,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715210000 -0400" stop="20260715220000 -0400" channel="NewsNation.US">
+    <title>On Balance with Leland Vittert</title>
+    <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715213000 -0400" stop="20260715220100 -0400" channel="A&amp;E.US">
     <title>My Strange Arrest</title>
     <desc>An in-depth look at the people who were arrested for allegedly committing some of the weirdest, wildest and most bizarre crimes ever. We dig beyond the headlines and the viral videos to look at the incidents and their consequences, hearing the stories from the accused, the arresting officers and eyewitnesses. These are bizarre crimes with real-life ramifications.</desc>
@@ -1234,6 +1378,11 @@
   <programme start="20260715220000 -0400" stop="20260715230000 -0400" channel="Newsmax.US">
     <title>Chris Plante: The Right Squad</title>
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715220000 -0400" stop="20260715230000 -0400" channel="NewsNation.US">
+    <title>Katie Pavlich Tonight</title>
+    <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715220100 -0400" stop="20260715230100 -0400" channel="Discovery.US">
@@ -1269,6 +1418,11 @@
   <programme start="20260715230000 -0400" stop="20260716000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715230000 -0400" stop="20260716000000 -0400" channel="NewsNation.US">
+    <title>Jesse Weber Live</title>
+    <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715233500 -0400" stop="20260716003500 -0400" channel="ABC.US">
@@ -1309,6 +1463,11 @@
   <programme start="20260716060000 -0400" stop="20260716070000 -0400" channel="Newsmax.US">
     <title>Wake Up America Early</title>
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716060000 -0400" stop="20260716090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716070000 -0400" stop="20260716100000 -0400" channel="CNN.US">
@@ -1366,6 +1525,11 @@
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716090000 -0400" stop="20260716120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716100000 -0400" stop="20260716120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -1401,6 +1565,11 @@
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716120000 -0400" stop="20260716150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716130000 -0400" stop="20260716160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -1429,6 +1598,11 @@
   <programme start="20260716140000 -0400" stop="20260716160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716150000 -0400" stop="20260716180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716160000 -0400" stop="20260716180000 -0400" channel="MS NOW.US">
@@ -1466,6 +1640,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716180000 -0400" stop="20260716190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716183000 -0400" stop="20260716190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
@@ -1489,6 +1668,11 @@
   <programme start="20260716190000 -0400" stop="20260716200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716190000 -0400" stop="20260716200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716200000 -0400" stop="20260716210000 -0400" channel="NBC.US">
@@ -1521,6 +1705,11 @@
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716200000 -0400" stop="20260716210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716210000 -0400" stop="20260716220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -1551,6 +1740,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716210000 -0400" stop="20260716220000 -0400" channel="NewsNation.US">
+    <title>On Balance with Leland Vittert</title>
+    <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1559,6 +1753,11 @@
   <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="Newsmax.US">
     <title>Chris Plante: The Right Squad</title>
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="NewsNation.US">
+    <title>Katie Pavlich Tonight</title>
+    <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716220500 -0400" stop="20260716230500 -0400" channel="History.US">
@@ -1579,6 +1778,11 @@
   <programme start="20260716230000 -0400" stop="20260717000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716230000 -0400" stop="20260717000000 -0400" channel="NewsNation.US">
+    <title>Jesse Weber Live</title>
+    <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716233500 -0400" stop="20260717003500 -0400" channel="ABC.US">
@@ -1619,6 +1823,11 @@
   <programme start="20260717060000 -0400" stop="20260717070000 -0400" channel="Newsmax.US">
     <title>Wake Up America Early</title>
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717060000 -0400" stop="20260717090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717070000 -0400" stop="20260717100000 -0400" channel="CNN.US">
@@ -1676,6 +1885,11 @@
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717090000 -0400" stop="20260717120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717100000 -0400" stop="20260717120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
@@ -1711,6 +1925,11 @@
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717120000 -0400" stop="20260717150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717130000 -0400" stop="20260717160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -1739,6 +1958,11 @@
   <programme start="20260717140000 -0400" stop="20260717160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717150000 -0400" stop="20260717180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717160000 -0400" stop="20260717180000 -0400" channel="MS NOW.US">
@@ -1776,6 +2000,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717180000 -0400" stop="20260717190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717183000 -0400" stop="20260717190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
@@ -1801,6 +2030,11 @@
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717190000 -0400" stop="20260717200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717200000 -0400" stop="20260717210000 -0400" channel="STARZ.US">
     <title>Power Book III: Raising Kanan</title>
     <desc>Power Book III: Raising Kanan is a prequel story that takes viewers back to the '90s and the early years of iconic Power character Kanan Stark.</desc>
@@ -1819,6 +2053,11 @@
   <programme start="20260717200000 -0400" stop="20260717210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717200000 -0400" stop="20260717210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717210000 -0400" stop="20260717220000 -0400" channel="HBO.US">
@@ -1841,6 +2080,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717210000 -0400" stop="20260717220000 -0400" channel="NewsNation.US">
+    <title>On Balance with Leland Vittert</title>
+    <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717220000 -0400" stop="20260717230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1851,6 +2095,11 @@
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717220000 -0400" stop="20260717230000 -0400" channel="NewsNation.US">
+    <title>Katie Pavlich Tonight</title>
+    <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717230000 -0400" stop="20260718000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -1859,6 +2108,11 @@
   <programme start="20260717230000 -0400" stop="20260718000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717230000 -0400" stop="20260718000000 -0400" channel="NewsNation.US">
+    <title>Jesse Weber Live</title>
+    <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717020000 -0400" stop="20260717030000 -0400" channel="ABC.US">
@@ -2006,6 +2260,11 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713154500 -0400" stop="20260713163000 -0400" channel="BBC One.GB">
+    <title>The Bidding Room</title>
+    <desc>From the makers of The Repair Shop, comes a new BBC One daytime series, The Bidding Room.Set in an emporium deep in the Yorkshire countryside, a group of expert dealers will attempt to outbid each other to buy extraordinary items brought in by the public.Nigel Havers welcomes people with an item they'd like to sell, introducing them to a valuation expert who gives them the specialist information they need to drive a hard bargain. Tooled up with this information, Nigel guides the sellers through to the bidding room, where the five eager dealers square up to spend their money.The competition will be fierce and the sellers will need to haggle get the best possible price for their item before finally shaking hands and doing a deal.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713170000 -0400" stop="20260713180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2039,6 +2298,16 @@
   <programme start="20260713200000 -0400" stop="20260713203000 -0400" channel="BBC Two.GB">
     <title>Only Connect</title>
     <desc>Quiz show in which connections must be made between apparently unconnected things, where patience and lateral thinking are as vital as knowledge.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713200000 -0400" stop="20260713203000 -0400" channel="BBC One.GB">
+    <title>Panorama</title>
+    <desc>Panorama is a current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713200000 -0400" stop="20260713210000 -0400" channel="5.GB">
+    <title>Police Interceptors</title>
+    <desc>Follow the action-packed lives of the high-speed police interception unit. Led by specially trained officers and equipped with the fastest vehicles in the force, the team tackles the most difficult-to-catch criminals on a daily basis.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260713203000 -0400" stop="20260713210000 -0400" channel="BBC Two.GB">
@@ -2114,6 +2383,11 @@
   <programme start="20260715141000 -0400" stop="20260715150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715154500 -0400" stop="20260715163000 -0400" channel="BBC One.GB">
+    <title>The Bidding Room</title>
+    <desc>From the makers of The Repair Shop, comes a new BBC One daytime series, The Bidding Room.Set in an emporium deep in the Yorkshire countryside, a group of expert dealers will attempt to outbid each other to buy extraordinary items brought in by the public.Nigel Havers welcomes people with an item they'd like to sell, introducing them to a valuation expert who gives them the specialist information they need to drive a hard bargain. Tooled up with this information, Nigel guides the sellers through to the bidding room, where the five eager dealers square up to spend their money.The competition will be fierce and the sellers will need to haggle get the best possible price for their item before finally shaking hands and doing a deal.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715170000 -0400" stop="20260715180000 -0400" channel="5.GB">
@@ -2209,6 +2483,11 @@
   <programme start="20260717141000 -0400" stop="20260717150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717154500 -0400" stop="20260717163000 -0400" channel="BBC One.GB">
+    <title>The Bidding Room</title>
+    <desc>From the makers of The Repair Shop, comes a new BBC One daytime series, The Bidding Room.Set in an emporium deep in the Yorkshire countryside, a group of expert dealers will attempt to outbid each other to buy extraordinary items brought in by the public.Nigel Havers welcomes people with an item they'd like to sell, introducing them to a valuation expert who gives them the specialist information they need to drive a hard bargain. Tooled up with this information, Nigel guides the sellers through to the bidding room, where the five eager dealers square up to spend their money.The competition will be fierce and the sellers will need to haggle get the best possible price for their item before finally shaking hands and doing a deal.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717170000 -0400" stop="20260717180000 -0400" channel="5.GB">
