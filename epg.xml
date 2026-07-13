@@ -108,6 +108,10 @@
     <display-name>BBC Alba</display-name>
     <country>GB</country>
   </channel>
+  <channel id="Comedy Central.GB">
+    <display-name>Comedy Central</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="TRUE CRIME.GB">
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
@@ -464,6 +468,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713210000 -0400" stop="20260713220000 -0400" channel="MS NOW.US">
+    <title>The Rachel Maddow Show</title>
+    <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713220000 -0400" stop="20260713233000 -0400" channel="PBS.US">
     <title>Independent Lens</title>
     <desc>Independent Lens is an anthology of independent documentary films.</desc>
@@ -552,6 +561,11 @@
   <programme start="20260713020000 -0400" stop="20260713030000 -0400" channel="ABC.US">
     <title>ABC World News Now</title>
     <desc>ABC World News Now gives viewers up-to-date information on current events and news from around the world, airing in the overnight hours. Its tone is somewhat lighter than a regular news broadcast, though reports are filed from the usual ABC News correspondents. Weather and pop culture stories round out the reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713040000 -0400" stop="20260713041900 -0400" channel="HBO.US">
+    <title>House of the Dragon: The House That Dragons Built</title>
+    <desc>HBO takes viewers behind the scenes of House of the Dragon. Each episode showcases everything from set construction and digital effects to cast interviews and producer insight.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714050000 -0400" stop="20260714060000 -0400" channel="MS NOW.US">
@@ -2332,6 +2346,16 @@
   <programme start="20260713210000 -0400" stop="20260713220000 -0400" channel="Channel 4.GB">
     <title>24 Hours in A&amp;E</title>
     <desc>Cameras film around the clock in some of Britain's busiest A&amp;amp;E departments, where stories of life, love and loss unfold every day</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713210000 -0400" stop="20260713213000 -0400" channel="Comedy Central.GB">
+    <title>Stupid Central</title>
+    <desc>Babatunde Aléshé presents funny videos from the internet.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260713213000 -0400" stop="20260713220000 -0400" channel="Comedy Central.GB">
+    <title>Stupid Central</title>
+    <desc>Babatunde Aléshé presents funny videos from the internet.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714124500 -0400" stop="20260714125000 -0400" channel="5.GB">
