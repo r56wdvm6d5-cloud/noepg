@@ -2263,6 +2263,11 @@
     <desc>Coverage of the Scottish Open from the picturesque Loch Lomond course.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713070000 -0400" stop="20260713072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713123000 -0400" stop="20260713133000 -0400" channel="ITV1.GB">
     <title>Loose Women</title>
     <desc>Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
@@ -2343,6 +2348,11 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260713200000 -0400" stop="20260713210000 -0400" channel="Channel 4.GB">
+    <title>Cruising to the Ends of the Earth</title>
+    <desc>Cruising to the Ends of the Earth follows three wildly different voyages to share the diverse and breathtaking landscape of our planet. Filmed on board Princess Cruises ships, the series will journey to the frozen peaks of Alaska, the dazzling coastlines of South Korea and Japan, as well as travelling through ancient history via the Mediterranean.Along the way, viewers will meet guests and crew on board the ships for the extraordinary trips. The series will follow them on sea and on land as they embark on bucket-list experiences and explore terrains like volcanic basins, archaeological sites, and cities with fascinating cuisine and culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260713203000 -0400" stop="20260713210000 -0400" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -2418,6 +2428,11 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715070000 -0400" stop="20260715074400 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715124500 -0400" stop="20260715125000 -0400" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2461,6 +2476,11 @@
   <programme start="20260715200000 -0400" stop="20260715203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716070000 -0400" stop="20260716072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716124500 -0400" stop="20260716125000 -0400" channel="5.GB">
@@ -2526,6 +2546,11 @@
   <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="TRUE CRIME.GB">
     <title>Britain's Countryside Killers</title>
     <desc>This British series examines notorious murders that have had a lasting impact on rural communities in the UK. Each episode revisits a case that shocked once-peaceful towns and villages, highlighting how these seemingly idyllic settings were forever changed by violent crime. The series includes contributions from retired police detectives, forensic psychologists, and local journalists who provide detailed analysis of the investigative process behind each case.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717070000 -0400" stop="20260717072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717124500 -0400" stop="20260717125000 -0400" channel="5.GB">
