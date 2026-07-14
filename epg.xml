@@ -277,6 +277,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714123000 -0400" stop="20260714133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714130000 -0400" stop="20260714160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -290,6 +295,11 @@
   <programme start="20260714130000 -0400" stop="20260714150000 -0400" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714133000 -0400" stop="20260714140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714140000 -0400" stop="20260714150000 -0400" channel="CBS.US">
@@ -432,6 +442,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714200000 -0400" stop="20260714210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714210000 -0400" stop="20260714220000 -0400" channel="History.US">
     <title>The Secret of Skinwalker Ranch</title>
     <desc>Gaining full and unprecedented access to one of the most infamous and secretive hotspots of paranormal and UFO-related activities on earth, The Secret of Skinwalker Ranch will feature a team of scientists and experts who will conduct a thorough search of this infamous 512-acre property located in Utah's Uinta Basin. They will attempt to find out the truth behind more than 200 years of mysteries - involving everything from UFO sightings and paranormal activities to animal mutilations and Native American legends of a shape-shifting creature known simply as The Skinwalker.</desc>
@@ -462,6 +477,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260714210000 -0400" stop="20260714220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260714213000 -0400" stop="20260714220100 -0400" channel="A&amp;E.US">
     <title>Neighborhood Wars</title>
     <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
@@ -490,6 +510,11 @@
   <programme start="20260714220000 -0400" stop="20260714230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714220000 -0400" stop="20260714230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714220100 -0400" stop="20260714223200 -0400" channel="A&amp;E.US">
@@ -540,6 +565,16 @@
   <programme start="20260714233500 -0400" stop="20260715003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714000000 -0400" stop="20260714020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260714000000 -0400" stop="20260714020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714003500 -0400" stop="20260714013500 -0400" channel="NBC.US">
@@ -677,6 +712,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715123000 -0400" stop="20260715133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715130000 -0400" stop="20260715160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -690,6 +730,11 @@
   <programme start="20260715130000 -0400" stop="20260715150000 -0400" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715133000 -0400" stop="20260715140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715140000 -0400" stop="20260715150000 -0400" channel="CBS.US">
@@ -827,6 +872,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715200000 -0400" stop="20260715210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715210000 -0400" stop="20260715220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -867,6 +917,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260715210000 -0400" stop="20260715220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260715213000 -0400" stop="20260715220100 -0400" channel="A&amp;E.US">
     <title>My Strange Arrest</title>
     <desc>An in-depth look at the people who were arrested for allegedly committing some of the weirdest, wildest and most bizarre crimes ever. We dig beyond the headlines and the viral videos to look at the incidents and their consequences, hearing the stories from the accused, the arresting officers and eyewitnesses. These are bizarre crimes with real-life ramifications.</desc>
@@ -890,6 +945,11 @@
   <programme start="20260715220000 -0400" stop="20260715230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715220000 -0400" stop="20260715230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715220100 -0400" stop="20260715230100 -0400" channel="Discovery.US">
@@ -940,6 +1000,16 @@
   <programme start="20260715233500 -0400" stop="20260716003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715000000 -0400" stop="20260715020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260715000000 -0400" stop="20260715020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260715003500 -0400" stop="20260715013500 -0400" channel="NBC.US">
@@ -1077,6 +1147,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716123000 -0400" stop="20260716133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716130000 -0400" stop="20260716160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -1090,6 +1165,11 @@
   <programme start="20260716130000 -0400" stop="20260716150000 -0400" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716133000 -0400" stop="20260716140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716140000 -0400" stop="20260716150000 -0400" channel="CBS.US">
@@ -1227,6 +1307,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716200000 -0400" stop="20260716210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716210000 -0400" stop="20260716220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -1262,6 +1347,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716210000 -0400" stop="20260716220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1275,6 +1365,11 @@
   <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716220500 -0400" stop="20260716230500 -0400" channel="History.US">
@@ -1310,6 +1405,16 @@
   <programme start="20260716233500 -0400" stop="20260717003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716000000 -0400" stop="20260716020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716000000 -0400" stop="20260716020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716003500 -0400" stop="20260716013500 -0400" channel="NBC.US">
@@ -1447,6 +1552,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717123000 -0400" stop="20260717133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717130000 -0400" stop="20260717160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -1460,6 +1570,11 @@
   <programme start="20260717130000 -0400" stop="20260717150000 -0400" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717133000 -0400" stop="20260717140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717140000 -0400" stop="20260717150000 -0400" channel="CBS.US">
@@ -1587,6 +1702,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717200000 -0400" stop="20260717210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717210000 -0400" stop="20260717220000 -0400" channel="HBO.US">
     <title>Life, Larry and the Pursuit of Unhappiness</title>
     <desc>President and Mrs. Obama wanted to honor America's 250th anniversary and celebrate the unique history of our nation on this special occasion....But then Larry David called.</desc>
@@ -1617,6 +1737,11 @@
     <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717210000 -0400" stop="20260717220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717220000 -0400" stop="20260717230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1632,6 +1757,11 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717220000 -0400" stop="20260717230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260717230000 -0400" stop="20260718000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -1645,6 +1775,16 @@
   <programme start="20260717230000 -0400" stop="20260718000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717000000 -0400" stop="20260717020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717000000 -0400" stop="20260717020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717020000 -0400" stop="20260717030000 -0400" channel="ABC.US">
@@ -1922,6 +2062,11 @@
     <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260720123000 -0400" stop="20260720133000 -0400" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260720130000 -0400" stop="20260720160000 -0400" channel="CNN.US">
     <title>CNN News Central (PM)</title>
     <desc>News from around the world with Brianna Keilar and Boris Sanchez.</desc>
@@ -1930,6 +2075,11 @@
   <programme start="20260720130000 -0400" stop="20260720150000 -0400" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260720133000 -0400" stop="20260720140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260720140000 -0400" stop="20260720160000 -0400" channel="MS NOW.US">
@@ -2057,6 +2207,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260720200000 -0400" stop="20260720210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260720210000 -0400" stop="20260720220000 -0400" channel="FOX.US">
     <title>The Quiz with Balls</title>
     <desc>The Quiz with Balls pits brains against balls combining a high-stakes quiz show with a large-scale physical competition. Each episode features two families competing for $100,000 in a "battle of the balls".</desc>
@@ -2097,6 +2252,11 @@
     <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260720210000 -0400" stop="20260720220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260720220000 -0400" stop="20260720230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -2110,6 +2270,11 @@
   <programme start="20260720220000 -0400" stop="20260720230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260720220000 -0400" stop="20260720230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260720220300 -0400" stop="20260720230500 -0400" channel="History.US">
@@ -2135,6 +2300,11 @@
   <programme start="20260720230000 -0400" stop="20260721000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260720000000 -0400" stop="20260720020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260714123000 -0400" stop="20260714133000 -0400" channel="ITV1.GB">
@@ -2327,6 +2497,11 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716200000 -0400" stop="20260716210000 -0400" channel="5.GB">
+    <title>Cornwall: A Year by the Sea</title>
+    <desc>Series exploring Cornwall as a thriving county all year round.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716203000 -0400" stop="20260716210000 -0400" channel="ITV1.GB">
     <title>Tom Kerridge Cooks...</title>
     <desc>Tom Kerridge hits the road in his 1950s food truck to discover wonderful produce, cooking with the ingredients he finds along the way.</desc>
@@ -2342,9 +2517,29 @@
     <desc>Series in which celebrities trace their ancestry, discovering secrets and surprises from their past.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260716210000 -0400" stop="20260716223000 -0400" channel="BBC Two.GB">
+    <title>Golf: The Open</title>
+    <desc>Daily highlights of The Open Championship, the oldest of the four Major Championships in professional golf.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716210000 -0400" stop="20260716220000 -0400" channel="Channel 4.GB">
+    <title>Murder Case: The Digital Detectives</title>
+    <desc>The next generation crime series revealing the ground-breaking police techniques used to solve murders on Britain's streets.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="TRUE CRIME.GB">
     <title>Britain's Countryside Killers</title>
     <desc>This British series examines notorious murders that have had a lasting impact on rural communities in the UK. Each episode revisits a case that shocked once-peaceful towns and villages, highlighting how these seemingly idyllic settings were forever changed by violent crime. The series includes contributions from retired police detectives, forensic psychologists, and local journalists who provide detailed analysis of the investigative process behind each case.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716220000 -0400" stop="20260716230000 -0400" channel="Channel 4.GB">
+    <title>Murder in Suburbia</title>
+    <desc>In December 2007, a quiet Surrey town is shaken by a horrific murder. But who killed Sharon Birchwood? Detectives follow a trail to Thailand in one of the most bizarre murder cases in recent memory.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260716230000 -0400" stop="20260717000500 -0400" channel="Channel 4.GB">
+    <title>Murder in Suburbia</title>
+    <desc>In December 2007, a quiet Surrey town is shaken by a horrific murder. But who killed Sharon Birchwood? Detectives follow a trail to Thailand in one of the most bizarre murder cases in recent memory.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260717070000 -0400" stop="20260717072200 -0400" channel="ITV1.GB">
@@ -2402,6 +2597,26 @@
     <desc>National and international news</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260717200000 -0400" stop="20260717210000 -0400" channel="Channel 4.GB">
+    <title>Surgery Secrets of the Super Rich</title>
+    <desc>With privileged access to elite clinics in London and Manchester, this series follows world-renowned doctors delivering bespoke, undetectable results for high-net-worth clients, revealing pioneering treatments and eye-watering price tags.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717210000 -0400" stop="20260717223000 -0400" channel="BBC Two.GB">
+    <title>Golf: The Open</title>
+    <desc>Daily highlights of The Open Championship, the oldest of the four Major Championships in professional golf.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717210000 -0400" stop="20260717220000 -0400" channel="Channel 4.GB">
+    <title>Celebrity Gogglebox</title>
+    <desc>A rolling cast of famous faces, some of Britain's best loved personalities, turn their hand to being the country's most opinionated viewers, sharing their opinions on what they have been watching during the week.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260717220000 -0400" stop="20260717230500 -0400" channel="Channel 4.GB">
+    <title>Big Fat Quiz: Best Bits</title>
+    <desc>This new series of special compilation episodes looks back on the biggest laughs from 20 years of Big Fat Quizzing on Channel 4.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260718174500 -0400" stop="20260718181500 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
@@ -2427,6 +2642,11 @@
     <desc>Alexander Armstrong embarks on a journey across the United States to explore how a nation founded on bold ideals has grown into one of the world's most powerful and complex countries. From historic heartlands to modern extremes, this is a country shaped by its past but constantly reinventing itself.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260718203000 -0400" stop="20260718220000 -0400" channel="BBC Two.GB">
+    <title>Golf: The Open</title>
+    <desc>Daily highlights of The Open Championship, the oldest of the four Major Championships in professional golf.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260719181500 -0400" stop="20260719184500 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
@@ -2450,6 +2670,16 @@
   <programme start="20260719210000 -0400" stop="20260719220000 -0400" channel="Channel 4.GB">
     <title>The Piano</title>
     <desc>Claudia Winkleman hosts the search for the UK's best amateur pianists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260719215500 -0400" stop="20260719232500 -0400" channel="BBC Two.GB">
+    <title>Golf: The Open</title>
+    <desc>Daily highlights of The Open Championship, the oldest of the four Major Championships in professional golf.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260720070000 -0400" stop="20260720072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260720124500 -0400" stop="20260720125000 -0400" channel="5.GB">
