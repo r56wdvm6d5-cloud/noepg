@@ -1495,6 +1495,11 @@
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260720220000 -0400" stop="20260720230000 -0400" channel="NBC.US">
+    <title>The Wall</title>
+    <desc>The Wall is packed with drama and action, this is a game that the entire family can root for together. Executive producer LeBron James presents a challenge infused with the thrill of victory and the agony of defeat, where regular people can achieve their dreams with one bounce of the ball. Hosted by comedian Chris Hardwick and set in a large glossy arena centering on the colossal 40-foot wall, the gameplay involves quick thinking, shrewd strategy and a little luck. Played by contestant pairs, this is an unpredictable journey with giant swings of fortune and millions of dollars passing through the contestants' hands throughout the hour.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260720220300 -0400" stop="20260720230500 -0400" channel="History.US">
     <title>History's Greatest Machines with Dolph Lundgren</title>
     <desc>Machines can rewrite history – and no one knows that better than action legend and chemical engineer graduate Dolph Lundgren. Join him as he uncovers the stories behind history's most groundbreaking machines: witness secret stealth helicopters, spy planes outrunning missiles, espionage tech that won wars, to the rocket that took humanity to the moon. Guided by Dolph's keen insight and charisma, this is a thrilling ride through the gears, guts, and genius behind the machines that reshaped our world.</desc>
@@ -2288,6 +2293,11 @@
   <programme start="20260722230000 -0400" stop="20260723000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260722233500 -0400" stop="20260723003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260716070000 -0400" stop="20260716072200 -0400" channel="ITV1.GB">
