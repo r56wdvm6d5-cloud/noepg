@@ -821,6 +821,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260720110000 -0400" stop="20260720120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260720120000 -0400" stop="20260720130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -1241,6 +1246,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260721110000 -0400" stop="20260721120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260721120000 -0400" stop="20260721130000 -0400" channel="CNN.US">
     <title>Inside Politics</title>
     <desc>Dana Bash features the top political stories, sourced by the best reporters.</desc>
@@ -1624,6 +1634,11 @@
   <programme start="20260722100000 -0400" stop="20260722110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260722110000 -0400" stop="20260722120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260722120000 -0400" stop="20260722130000 -0400" channel="CNN.US">
@@ -2019,6 +2034,11 @@
   <programme start="20260723100000 -0400" stop="20260723110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260723110000 -0400" stop="20260723120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260723120000 -0400" stop="20260723130000 -0400" channel="CNN.US">
