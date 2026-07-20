@@ -1355,6 +1355,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260722210000 -0400" stop="20260722214200 -0400" channel="Discovery.US">
+    <title>Expedition Unknown</title>
+    <desc>In the hit series Expedition Unknown, Travel Channel's witty explorer Josh Gates seeks answers to some of the world's most captivating unsolved stories and legends. Gates is on a mission to find the truth behind each iconic legend, digging through years of historical evidence, facts and myths. Leaving no stone unturned, his adventures take him around the globe as he immerses himself in the core locales linked to each tale. From excavating ruins in search of the real Robin Hood to sailing the high seas investigating Christopher Columbus and exploring Nepal's "sky caves" for Shangri La, Gates' archaeological background and ubiquitous sense of humor generate a new take on age-old stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260722210200 -0400" stop="20260722220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -2473,6 +2478,11 @@
   <programme start="20260720185500 -0400" stop="20260720190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260720190000 -0400" stop="20260720192800 -0400" channel="BBC Two.GB">
+    <title>Global Eye</title>
+    <desc>Award-winning investigations - revealing secrets, rooting out injustice, and exposing crime, corruption, and abuse. The biggest stories from BBC correspondents all over the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260720193000 -0400" stop="20260720200000 -0400" channel="BBC Two.GB">
