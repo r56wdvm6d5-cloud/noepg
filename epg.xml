@@ -445,6 +445,11 @@
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260720200000 -0400" stop="20260720210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Border</title>
+    <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260720210000 -0400" stop="20260720220000 -0400" channel="FOX.US">
     <title>The Quiz with Balls</title>
     <desc>The Quiz with Balls pits brains against balls combining a high-stakes quiz show with a large-scale physical competition. Each episode features two families competing for $100,000 in a "battle of the balls".</desc>
@@ -945,6 +950,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260721220000 -0400" stop="20260721223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260721220100 -0400" stop="20260721223200 -0400" channel="A&amp;E.US">
     <title>Customer Wars</title>
     <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
@@ -1375,6 +1385,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260722220000 -0400" stop="20260722223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260722220100 -0400" stop="20260722223200 -0400" channel="A&amp;E.US">
     <title>Swamp Patrol</title>
     <desc>SWAMP PATROL pulls viewers into the unpredictable world of law enforcement operating in America's most unforgiving swamps. From the tangled bayous of Louisiana to the coastal inlets of Florida, Swamp Patrol follows officers in real time through bodycam footage as they respond to a wide range of threats, including armed suspects, drug busts, missing persons, stolen boats, 11-foot gators, and deadly snakes. Every call comes with its own dangers, and in the depths of the swamp, there is no backup. The series offers a captivating look at the chaos and courage required to hold the line in places most people never step.</desc>
@@ -1763,6 +1778,11 @@
   <programme start="20260723210000 -0400" stop="20260723220000 -0400" channel="A&amp;E.US">
     <title>Behind Bars: Officer Cam</title>
     <desc>Behind Bars: Officer Cam takes viewers inside two of the country's most pressurized correctional facilities, where sheriffs equip every officer with body-worn cameras to transform how their jails operate. Through raw, first-hand footage, the series reveals what it takes to run a modern American jail. Once viewed primarily as tools of oversight, bodycams have become catalysts for change—driving smarter training, stronger decision-making, and safer outcomes for officers and inmates alike.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260723210000 -0400" stop="20260723213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260723220000 -0400" stop="20260723230000 -0400" channel="MS NOW.US">
@@ -2725,6 +2745,11 @@
     <desc>The latest national and international news, sport and weather.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260725193000 -0400" stop="20260725210000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260725200000 -0400" stop="20260725203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
@@ -2733,6 +2758,11 @@
   <programme start="20260726070000 -0400" stop="20260726072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260726183000 -0400" stop="20260726210000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260726192500 -0400" stop="20260726193000 -0400" channel="5.GB">
