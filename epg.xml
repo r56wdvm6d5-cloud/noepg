@@ -516,14 +516,14 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260721220000 -0400" stop="20260721223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260721220100 -0400" stop="20260721223200 -0400" channel="A&amp;E.US">
     <title>Customer Wars</title>
     <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260721221500 -0400" stop="20260721224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260721223200 -0400" stop="20260721230400 -0400" channel="A&amp;E.US">
@@ -1316,6 +1316,11 @@
     <desc>The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260723200000 -0400" stop="20260723210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260723210000 -0400" stop="20260723220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -1351,6 +1356,11 @@
     <desc>Behind Bars: Officer Cam takes viewers inside two of the country's most pressurized correctional facilities, where sheriffs equip every officer with body-worn cameras to transform how their jails operate. Through raw, first-hand footage, the series reveals what it takes to run a modern American jail. Once viewed primarily as tools of oversight, bodycams have become catalysts for change—driving smarter training, stronger decision-making, and safer outcomes for officers and inmates alike.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260723210000 -0400" stop="20260723220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260723210000 -0400" stop="20260723213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
@@ -1374,6 +1384,11 @@
   <programme start="20260723220000 -0400" stop="20260723230000 -0400" channel="A&amp;E.US">
     <title>Behind Bars: Officer Cam</title>
     <desc>Behind Bars: Officer Cam takes viewers inside two of the country's most pressurized correctional facilities, where sheriffs equip every officer with body-worn cameras to transform how their jails operate. Through raw, first-hand footage, the series reveals what it takes to run a modern American jail. Once viewed primarily as tools of oversight, bodycams have become catalysts for change—driving smarter training, stronger decision-making, and safer outcomes for officers and inmates alike.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260723220000 -0400" stop="20260723230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260723220500 -0400" stop="20260723230500 -0400" channel="History.US">
@@ -2061,6 +2076,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260727080000 -0400" stop="20260727100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260727090000 -0400" stop="20260727100000 -0400" channel="Syndication.US">
     <title>The 700 Club</title>
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
@@ -2086,9 +2106,24 @@
     <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260727090000 -0400" stop="20260727100000 -0400" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260727100000 -0400" stop="20260727120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260727100000 -0400" stop="20260727120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260727100000 -0400" stop="20260727110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260727120000 -0400" stop="20260727130000 -0400" channel="CNN.US">
@@ -2124,6 +2159,11 @@
   <programme start="20260727130000 -0400" stop="20260727150000 -0400" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260727130000 -0400" stop="20260727140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260727133000 -0400" stop="20260727140000 -0400" channel="CBS.US">
@@ -2264,6 +2304,11 @@
   <programme start="20260727200000 -0400" stop="20260727210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260727200000 -0400" stop="20260727210000 -0400" channel="Bravo.US">
+    <title>Below Deck Mediterranean</title>
+    <desc>With a new boat, new location, and new faces, the excitement, drama, and adventure of life aboard a private luxury yacht is taken to another level in the Mediterranean. Providing unparalleled service to wealthy and uncompromising guests is made even more difficult as the team faces everything from love triangles to seeing fellow crew members shockingly cross the line with guests. Voyaging from Santorini, Mykonos, and many of the Greek islands, each episode features a new group of elite clientele who present a new set of challenges, all while offering the crew a glamorous lifestyle and exotic perks that most people only dream of experiencing. For these young, attractive, and adventurous yachties, the "work hard, play harder" nature of the job combined with the pressure of working in the most exclusive yachting scene in the world pushes the team close to the breaking point on Below Deck Mediterranean.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260727210000 -0400" stop="20260727220300 -0400" channel="History.US">
