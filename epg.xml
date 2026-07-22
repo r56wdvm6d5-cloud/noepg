@@ -1972,6 +1972,11 @@
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260727233500 -0400" stop="20260728003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260727000000 -0400" stop="20260727020000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -2262,11 +2267,6 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260728210000 -0400" stop="20260728213000 -0400" channel="A&amp;E.US">
-    <title>Neighborhood Wars</title>
-    <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260728210000 -0400" stop="20260728213000 -0400" channel="ESPN.US">
     <title>WNBA Countdown</title>
     <desc>WNBA Countdown serves as the primer for game telecasts on both ESPN2 and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
@@ -2302,11 +2302,6 @@
     <desc>Beat Shazam is a unique and interactive game show in which teams of two race against the clock and each other as they attempt to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the world's most popular song identification app, for the chance to win a cash prize.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260728213000 -0400" stop="20260728220100 -0400" channel="A&amp;E.US">
-    <title>Neighborhood Wars</title>
-    <desc>With a record number of Americans trading city life for homes in the suburbs, relationships between neighbors are being put to the test. Neighborhood Wars takes viewers into the homes and backyards of neighbors across the country with some of the most unexpected and emotionally charged events caught on camera. Featuring footage from cell phones, drones, home security cameras and more, the series showcases the kindness and conflict between real-life neighbors throughout the US.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260728220000 -0400" stop="20260728225900 -0400" channel="NBC.US">
     <title>Password</title>
     <desc>Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.</desc>
@@ -2337,16 +2332,6 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260728220100 -0400" stop="20260728223200 -0400" channel="A&amp;E.US">
-    <title>Customer Wars</title>
-    <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260728223200 -0400" stop="20260728230400 -0400" channel="A&amp;E.US">
-    <title>Customer Wars</title>
-    <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260728223200 -0400" stop="20260728233300 -0400" channel="History.US">
     <title>The Proof Is Out There: Unexplained Edition</title>
     <desc>In this special edition series of The Proof Is Out There, journalist Tony Harris explores some of the most astonishing phenomena ever captured on camera. From UFOs and cryptids to eerie encounters and unexplained forces, Tony and a team of experts analyze the evidence and deliver their verdict.</desc>
@@ -2370,6 +2355,11 @@
   <programme start="20260728230000 -0400" stop="20260729000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260728233500 -0400" stop="20260729003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260722070000 -0400" stop="20260722072200 -0400" channel="ITV1.GB">
@@ -2740,11 +2730,6 @@
   <programme start="20260724120000 -0400" stop="20260724130000 -0400" channel="ABC.AU">
     <title>ABC News at Noon</title>
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260724193000 -0400" stop="20260724203000 -0400" channel="ABC.AU">
-    <title>Gardening Australia</title>
-    <desc>Gardening Australia provides practical, realistic, and credible horticultural and gardening advice, inspiring and entertaining all Australian gardeners around the nation. Presented by Australia's leading horticultural experts, Gardening Australia is a valuable resource to all gardeners through the television program, the magazine, books, DVDs and extensive online content.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260724230000 -0400" stop="20260724233000 -0400" channel="ABC.AU">
