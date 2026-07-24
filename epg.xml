@@ -633,6 +633,11 @@
     <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260726080000 -0400" stop="20260726083000 -0400" channel="ESPN.US">
+    <title>SC Featured</title>
+    <desc>SC Featured is a special ESPN documentary series that airs compelling stories centered around sports and athletes, ranging from dramatic to comedic.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260726090000 -0400" stop="20260726100000 -0400" channel="CNN.US">
     <title>State of the Union with Jake Tapper and Dana Bash</title>
     <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
@@ -721,6 +726,11 @@
   <programme start="20260726210100 -0400" stop="20260726220200 -0400" channel="Discovery.US">
     <title>Shark Week</title>
     <desc>Shark Week is an annual, week-long TV programming block created by Tom Golden at the Discovery Channel, which features shark-based programming. Shark Week originally premiered on July 17, 1988.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260726220000 -0400" stop="20260726223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260726220100 -0400" stop="20260726230400 -0400" channel="A&amp;E.US">
@@ -1118,6 +1128,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260727220000 -0400" stop="20260727223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260727220100 -0400" stop="20260727230100 -0400" channel="Discovery.US">
     <title>Shark Week</title>
     <desc>Shark Week is an annual, week-long TV programming block created by Tom Golden at the Discovery Channel, which features shark-based programming. Shark Week originally premiered on July 17, 1988.</desc>
@@ -1513,6 +1528,11 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260728220000 -0400" stop="20260728223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260728223200 -0400" stop="20260728233300 -0400" channel="History.US">
     <title>The Proof Is Out There: Unexplained Edition</title>
     <desc>In this special edition series of The Proof Is Out There, journalist Tony Harris explores some of the most astonishing phenomena ever captured on camera. From UFOs and cryptids to eerie encounters and unexplained forces, Tony and a team of experts analyze the evidence and deliver their verdict.</desc>
@@ -1898,6 +1918,11 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260729220000 -0400" stop="20260729223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260729220100 -0400" stop="20260729223200 -0400" channel="A&amp;E.US">
     <title>Swamp Patrol</title>
     <desc>SWAMP PATROL pulls viewers into the unpredictable world of law enforcement operating in America's most unforgiving swamps. From the tangled bayous of Louisiana to the coastal inlets of Florida, Swamp Patrol follows officers in real time through bodycam footage as they respond to a wide range of threats, including armed suspects, drug busts, missing persons, stolen boats, 11-foot gators, and deadly snakes. Every call comes with its own dangers, and in the depths of the swamp, there is no backup. The series offers a captivating look at the chaos and courage required to hold the line in places most people never step.</desc>
@@ -2281,6 +2306,11 @@
   <programme start="20260730220000 -0400" stop="20260730230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260730220000 -0400" stop="20260730223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730220100 -0400" stop="20260730230100 -0400" channel="A&amp;E.US">
