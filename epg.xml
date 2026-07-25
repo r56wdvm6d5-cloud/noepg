@@ -72,17 +72,21 @@
     <display-name>The CW</display-name>
     <country>US</country>
   </channel>
-  <channel id="Comedy Central.US">
-    <display-name>Comedy Central</display-name>
-    <country>US</country>
-  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Comedy Central.US">
+    <display-name>Comedy Central</display-name>
     <country>US</country>
   </channel>
   <channel id="STARZ.US">
     <display-name>STARZ</display-name>
     <country>US</country>
+  </channel>
+  <channel id="BBC One.GB">
+    <display-name>BBC One</display-name>
+    <country>GB</country>
   </channel>
   <channel id="5.GB">
     <display-name>5</display-name>
@@ -96,20 +100,16 @@
     <display-name>BBC Alba</display-name>
     <country>GB</country>
   </channel>
-  <channel id="ITV1.GB">
-    <display-name>ITV1</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="BBC Two.GB">
     <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
-  <channel id="Quest.GB">
-    <display-name>Quest</display-name>
+  <channel id="ITV1.GB">
+    <display-name>ITV1</display-name>
     <country>GB</country>
   </channel>
-  <channel id="BBC One.GB">
-    <display-name>BBC One</display-name>
+  <channel id="Quest.GB">
+    <display-name>Quest</display-name>
     <country>GB</country>
   </channel>
   <channel id="TRUE CRIME.GB">
@@ -323,14 +323,14 @@
     <desc>The eight-episode fast-paced, nostalgia-fueled series will take viewers on a thrilling ride through America's past.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260726210000 -0400" stop="20260726213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260726210100 -0400" stop="20260726220200 -0400" channel="Discovery.US">
     <title>Shark Week</title>
     <desc>Shark Week is an annual, week-long TV programming block created by Tom Golden at the Discovery Channel, which features shark-based programming. Shark Week originally premiered on July 17, 1988.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260726220000 -0400" stop="20260726223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260726220100 -0400" stop="20260726230400 -0400" channel="A&amp;E.US">
@@ -731,6 +731,11 @@
   <programme start="20260727220000 -0400" stop="20260727223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260727220000 -0400" stop="20260727230000 -0400" channel="PBS.US">
+    <title>POV</title>
+    <desc>POV (a cinema term for "point of view" ) is television's longest-running showcase for independent non-fiction films. POV premieres 14-16 of the best, boldest and most innovative programs every year on PBS. Since 1988, POV has presented over 400 films to public television audiences across the country. POV films are known for their intimacy, their unforgettable storytelling and their timeliness, putting a human face on contemporary social issues.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260727220100 -0400" stop="20260727230100 -0400" channel="Discovery.US">
@@ -1138,14 +1143,14 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260728220000 -0400" stop="20260728223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260728220000 -0400" stop="20260728230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260728221500 -0400" stop="20260728224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260728223200 -0400" stop="20260728233300 -0400" channel="History.US">
@@ -1943,6 +1948,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260730210000 -0400" stop="20260730213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260730210000 -0400" stop="20260730220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
@@ -1958,6 +1968,11 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260730220000 -0400" stop="20260730230000 -0400" channel="A&amp;E.US">
+    <title>Accused: Guilty or Innocent?</title>
+    <desc>Accused: Guilty or Innocent? offers an intimate account of what happens when someone is formally charged with a crime and sent to trial – all solely from the perspective of the accused, their legal team and family members.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260730220000 -0400" stop="20260730230000 -0400" channel="Newsmax.US">
     <title>Chris Plante: The Right Squad</title>
     <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
@@ -1968,19 +1983,9 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260730220000 -0400" stop="20260730223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260730220000 -0400" stop="20260730230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260730220100 -0400" stop="20260730230100 -0400" channel="A&amp;E.US">
-    <title>Accused: Guilty or Innocent?</title>
-    <desc>Accused: Guilty or Innocent? offers an intimate account of what happens when someone is formally charged with a crime and sent to trial – all solely from the perspective of the accused, their legal team and family members.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730220500 -0400" stop="20260730230500 -0400" channel="History.US">
@@ -2388,6 +2393,16 @@
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260725174000 -0400" stop="20260725182500 -0400" channel="BBC One.GB">
+    <title>The Hit List</title>
+    <desc>The playalong pop quiz where you've 'heard' the answers before. But can you tell your Stormzy from your Weather Girls when there's money at stake? With Rochelle and Marvin Humes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260725175000 -0400" stop="20260725183500 -0400" channel="BBC One.GB">
+    <title>Alan Carr's Picture Slam</title>
+    <desc>Alan Carr's Picture Slam will see three teams face a series of pictures and each picture is worth cash. The more they can name the more they win, but for the big money they need to name them ALL, and if they do that, they've got a Picture Slam!This is the fast paced game that asks do you know your Eiffel Tower from your Blackpool Tower? Your Victoria Beckham from your Victoria Sponge and your Buckingham Palace from your Crystal Palace? Across four thrilling rounds, contestants will need to know something about everything to try and win up to £10,000!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260725192500 -0400" stop="20260725193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2401,6 +2416,11 @@
   <programme start="20260725200000 -0400" stop="20260725203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260725203000 -0400" stop="20260725213000 -0400" channel="BBC Two.GB">
+    <title>At the BBC</title>
+    <desc>Series of one-off documentaries that uses 70 years of the BBC archive to bring together clips under one theme, sometimes the shows have a presenter but often they don't.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260726070000 -0400" stop="20260726072200 -0400" channel="ITV1.GB">
@@ -2621,6 +2641,11 @@
   <programme start="20260730200000 -0400" stop="20260730203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260730203000 -0400" stop="20260730210000 -0400" channel="ITV1.GB">
+    <title>Tom Kerridge Cooks...</title>
+    <desc>Tom Kerridge hits the road in his 1950s food truck to discover wonderful produce, cooking with the ingredients he finds along the way.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730210000 -0400" stop="20260730220000 -0400" channel="ITV1.GB">
