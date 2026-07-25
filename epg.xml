@@ -1143,6 +1143,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260728220000 -0400" stop="20260728230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260728223200 -0400" stop="20260728233300 -0400" channel="History.US">
     <title>The Proof Is Out There: Unexplained Edition</title>
     <desc>In this special edition series of The Proof Is Out There, journalist Tony Harris explores some of the most astonishing phenomena ever captured on camera. From UFOs and cryptids to eerie encounters and unexplained forces, Tony and a team of experts analyze the evidence and deliver their verdict.</desc>
@@ -1171,6 +1176,16 @@
   <programme start="20260728233500 -0400" stop="20260729003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260728000000 -0400" stop="20260728020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260728000000 -0400" stop="20260728020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260728003500 -0400" stop="20260728013500 -0400" channel="NBC.US">
@@ -1543,6 +1558,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260729220000 -0400" stop="20260729230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260729220100 -0400" stop="20260729223200 -0400" channel="A&amp;E.US">
     <title>Swamp Patrol</title>
     <desc>SWAMP PATROL pulls viewers into the unpredictable world of law enforcement operating in America's most unforgiving swamps. From the tangled bayous of Louisiana to the coastal inlets of Florida, Swamp Patrol follows officers in real time through bodycam footage as they respond to a wide range of threats, including armed suspects, drug busts, missing persons, stolen boats, 11-foot gators, and deadly snakes. Every call comes with its own dangers, and in the depths of the swamp, there is no backup. The series offers a captivating look at the chaos and courage required to hold the line in places most people never step.</desc>
@@ -1581,6 +1601,16 @@
   <programme start="20260729233500 -0400" stop="20260730003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260729000000 -0400" stop="20260729020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260729000000 -0400" stop="20260729020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260729020000 -0400" stop="20260729030000 -0400" channel="ABC.US">
@@ -1943,6 +1973,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260730220000 -0400" stop="20260730230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260730220100 -0400" stop="20260730230100 -0400" channel="A&amp;E.US">
     <title>Accused: Guilty or Innocent?</title>
     <desc>Accused: Guilty or Innocent? offers an intimate account of what happens when someone is formally charged with a crime and sent to trial – all solely from the perspective of the accused, their legal team and family members.</desc>
@@ -1971,6 +2006,11 @@
   <programme start="20260730230000 -0400" stop="20260731000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260730000000 -0400" stop="20260730020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730000000 -0400" stop="20260730020000 -0400" channel="CNN.US">
@@ -2251,6 +2291,11 @@
   <programme start="20260731210000 -0400" stop="20260731220000 -0400" channel="HBO.US">
     <title>Life, Larry and the Pursuit of Unhappiness</title>
     <desc>President and Mrs. Obama wanted to honor America's 250th anniversary and celebrate the unique history of our nation on this special occasion....But then Larry David called.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260731210000 -0400" stop="20260731220000 -0400" channel="STARZ.US">
+    <title>Fightland</title>
+    <desc>Fightland follows a disgraced, formerly incarcerated boxing champion who returns to London to seek vengeance against the crime family he thinks betrayed him. With edge-of-seat action and populated by dangerous characters, this is a world of money and power never seen before.On the night Duke Kilroy becomes world heavyweight champion, a vicious assault leaves his brother, Calvin, dead, causing Duke to snap and results in him spending eight years in a U.S. prison. Upon his release, and after having made a sinister discovery, Duke returns home seeking vengeance against the man he believes set him up -- the criminal kingpin and former promoter, Kingsley Marshall. But Kingsley has vanished, leaving his children and wife, Joy, who happens to be the love of Duke's life, to pick up the pieces.Working with a cartel desperate to control London's drug market, Duke begins a high-risk game of infiltrating Kingsley's empire to destroy it from within and smoke out his enemy. But amidst a volatile criminal landscape, and competing influences threatening to pull him off course, Duke will need to channel everything that made him a champion fighter into his bloody pursuit to win the ultimate victory - revenge for his brother.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260731210000 -0400" stop="20260731220000 -0400" channel="Discovery.US">
@@ -2671,6 +2716,11 @@
   <programme start="20260727193000 -0400" stop="20260727200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260727200000 -0400" stop="20260727203000 -0400" channel="ABC.AU">
+    <title>Australian Story</title>
+    <desc>These are the stories of who we are. Australian Story presents unique tales that provide an insight into Australian life with all its complexities and challenges.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260727203000 -0400" stop="20260727211500 -0400" channel="ABC.AU">
