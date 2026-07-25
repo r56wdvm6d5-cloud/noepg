@@ -1063,6 +1063,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260728200000 -0400" stop="20260728210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260728210000 -0400" stop="20260728213000 -0400" channel="ESPN.US">
     <title>WNBA Countdown</title>
     <desc>WNBA Countdown serves as the primer for game telecasts on both ESPN2 and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
@@ -1091,6 +1096,11 @@
   <programme start="20260728210000 -0400" stop="20260728220000 -0400" channel="NewsNation.US">
     <title>On Balance with Leland Vittert</title>
     <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260728210000 -0400" stop="20260728220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260728210200 -0400" stop="20260728220000 -0400" channel="FOX.US">
@@ -1453,6 +1463,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260729200000 -0400" stop="20260729210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260729210000 -0400" stop="20260729220000 -0400" channel="Discovery.US">
     <title>Shark Week</title>
     <desc>Shark Week is an annual, week-long TV programming block created by Tom Golden at the Discovery Channel, which features shark-based programming. Shark Week originally premiered on July 17, 1988.</desc>
@@ -1486,6 +1501,11 @@
   <programme start="20260729210000 -0400" stop="20260729220000 -0400" channel="Bravo.US">
     <title>Next Gen NYC</title>
     <desc>Next Gen NYC follows a tangled web of friends raised in the spotlight — or at least close enough for good lighting — as they stumble into adulthood one brunch, breakup and spontaneous decision at a time. Whether stepping out of their parents' shadows or creating their own legacies from scratch, these twentysomethings are determined to conquer Manhattan — if they can figure out how to adult first. Together, they'll navigate friendships, careers and romance, proving that trouble runs on espresso martinis and questionable decisions.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260729210000 -0400" stop="20260729220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260729210200 -0400" stop="20260729220000 -0400" channel="FOX.US">
@@ -1848,6 +1868,11 @@
     <desc>These ladies show no signs of slowing down and although they may be enjoying the sunny SoCal lifestyle, replete with plastic surgery and frequent shopping sprees, real life still manages to find them, even in the land of excess and indulgence on The Real Housewives of Orange County.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260730200000 -0400" stop="20260730210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260730210000 -0400" stop="20260730220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -1886,6 +1911,11 @@
   <programme start="20260730210000 -0400" stop="20260730220000 -0400" channel="NewsNation.US">
     <title>On Balance with Leland Vittert</title>
     <desc>The day's hottest subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260730210000 -0400" stop="20260730220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730220000 -0400" stop="20260730230000 -0400" channel="Discovery.US">
@@ -1941,6 +1971,11 @@
   <programme start="20260730230000 -0400" stop="20260731000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260730000000 -0400" stop="20260730020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730020000 -0400" stop="20260730030000 -0400" channel="ABC.US">
@@ -2208,6 +2243,11 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260731200000 -0400" stop="20260731210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260731210000 -0400" stop="20260731220000 -0400" channel="HBO.US">
     <title>Life, Larry and the Pursuit of Unhappiness</title>
     <desc>President and Mrs. Obama wanted to honor America's 250th anniversary and celebrate the unique history of our nation on this special occasion....But then Larry David called.</desc>
@@ -2243,6 +2283,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260731210000 -0400" stop="20260731220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260731213000 -0400" stop="20260731220000 -0400" channel="The CW.US">
     <title>Totally Funny Animals</title>
     <desc>Totally Funny Animals features caught-on-camera videos that highlight the outrageous and wacky world of animals. Hosted by comedian Andy Woodhull, this clip show features everything from sneezing cats and calamitous canines to dumpster-diving bears and rascally racoons.</desc>
@@ -2273,6 +2318,11 @@
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260731220000 -0400" stop="20260731230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260731230000 -0400" stop="20260801000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -2286,6 +2336,11 @@
   <programme start="20260731230000 -0400" stop="20260801000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260731000000 -0400" stop="20260731020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260725192500 -0400" stop="20260725193000 -0400" channel="5.GB">
