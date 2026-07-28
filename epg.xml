@@ -1928,6 +1928,11 @@
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260802183000 -0400" stop="20260802190000 -0400" channel="ESPN.US">
+    <title>WNBA Countdown</title>
+    <desc>WNBA Countdown serves as the primer for game telecasts on both ESPN2 and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260802192000 -0400" stop="20260802220000 -0400" channel="NBC.US">
     <title>NBC Sunday Night Baseball</title>
     <desc>The new Sunday Night Baseball package marks the return of Major League Baseball to NBC for the first time in more than two decades. The debut marks the beginning of a new three-year partnership between NBCUniversal and Major League Baseball and it comes on the heels of the debut season of Sunday Night Basketball, the first of an 11-year agreement between NBCU and the NBA.</desc>
@@ -1956,6 +1961,11 @@
   <programme start="20260802210000 -0400" stop="20260802220300 -0400" channel="History.US">
     <title>Hazardous History with Henry Winkler</title>
     <desc>The eight-episode fast-paced, nostalgia-fueled series will take viewers on a thrilling ride through America's past.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260802210000 -0400" stop="20260802220000 -0400" channel="Fox News Channel.US">
+    <title>Sunday Night in America with Trey Gowdy</title>
+    <desc>Trey Gowdy will offer insightful analysis and a new outlook on the latest issues facing the country. Capitalizing on his experiences as a former prosecutor and Chairman of the House Oversight and Government Reform Committee, the former South Carolina Congressman will utilize his signature mixture of wisdom, humor and historical references to break down the latest legal and political news from across the nation. "Sunday Night in America" will offer seasoned perspective while providing viewers with the tools and information to draw their own conclusions. The program will also feature timely, solution-oriented interviews with decision makers and Washington insiders, as well as original stories of triumph and success highlighting why Americans should be optimistic about the future.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260802220000 -0400" stop="20260802230000 -0400" channel="Discovery.US">
