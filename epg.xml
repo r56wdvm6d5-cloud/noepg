@@ -2438,6 +2438,11 @@
     <desc>Series in which celebrities trace their ancestry, discovering secrets and surprises from their past.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260730210000 -0400" stop="20260730220000 -0400" channel="ITV1.GB">
+    <title>Cold Case Forensics</title>
+    <desc>Cold Case Forensics unlocks the secrets that finally solved some of Britain's most controversial murder cases. The series delves into the world of leading forensic scientist Dr Angela Gallop and her team, as they unpick clues that no one had unearthed before.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260731070000 -0400" stop="20260731072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
