@@ -52,16 +52,16 @@
     <display-name>Bravo</display-name>
     <country>US</country>
   </channel>
+  <channel id="A&amp;E.US">
+    <display-name>A&amp;E</display-name>
+    <country>US</country>
+  </channel>
   <channel id="History.US">
     <display-name>History</display-name>
     <country>US</country>
   </channel>
   <channel id="HBO.US">
     <display-name>HBO</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="A&amp;E.US">
-    <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
@@ -237,6 +237,11 @@
   <programme start="20260730100000 -0400" stop="20260730110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260730110000 -0400" stop="20260730120000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730120000 -0400" stop="20260730130000 -0400" channel="CNN.US">
@@ -432,6 +437,11 @@
   <programme start="20260730200000 -0400" stop="20260730210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260730200000 -0400" stop="20260730210000 -0400" channel="A&amp;E.US">
+    <title>The First 48</title>
+    <desc>The First 48 follows detectives from around the country during these first critical hours as they race against time to find the suspect. Gritty and fast-paced, it takes viewers behind the scenes of real-life investigations with unprecedented access to crime scenes, autopsies, forensic processing, and interrogations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260730210000 -0400" stop="20260730220300 -0400" channel="History.US">
@@ -662,6 +672,11 @@
   <programme start="20260731100000 -0400" stop="20260731110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260731110000 -0400" stop="20260731120000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260731120000 -0400" stop="20260731130000 -0400" channel="CNN.US">
@@ -1369,6 +1384,11 @@
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260803200000 -0400" stop="20260803210000 -0400" channel="Bravo.US">
+    <title>Below Deck Mediterranean</title>
+    <desc>With a new boat, new location, and new faces, the excitement, drama, and adventure of life aboard a private luxury yacht is taken to another level in the Mediterranean. Providing unparalleled service to wealthy and uncompromising guests is made even more difficult as the team faces everything from love triangles to seeing fellow crew members shockingly cross the line with guests. Voyaging from Santorini, Mykonos, and many of the Greek islands, each episode features a new group of elite clientele who present a new set of challenges, all while offering the crew a glamorous lifestyle and exotic perks that most people only dream of experiencing. For these young, attractive, and adventurous yachties, the "work hard, play harder" nature of the job combined with the pressure of working in the most exclusive yachting scene in the world pushes the team close to the breaking point on Below Deck Mediterranean.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260803210000 -0400" stop="20260803220000 -0400" channel="Bravo.US">
     <title>The McBee Dynasty: Real American Cowboys</title>
     <desc>The McBee Dynasty: Real American Cowboys follows patriarch Steve McBee, the hard-working founder of the family business, and his four sons: Steven Jr. the business-minded heir apparent, Cole the underdog who works hard in the field, Jesse the quiet cowboy, and Brayden who has the least interest in farming.</desc>
@@ -1574,6 +1594,11 @@
     <desc>Gaining full and unprecedented access to one of the most infamous and secretive hotspots of paranormal and UFO-related activities on earth, The Secret of Skinwalker Ranch will feature a team of scientists and experts who will conduct a thorough search of this infamous 512-acre property located in Utah's Uinta Basin. They will attempt to find out the truth behind more than 200 years of mysteries - involving everything from UFO sightings and paranormal activities to animal mutilations and Native American legends of a shape-shifting creature known simply as The Skinwalker.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260804210000 -0400" stop="20260805010000 -0400" channel="MS NOW.US">
+    <title>MS NOW Special Coverage</title>
+    <desc>Special coverage of news events on MS NOW.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260804210200 -0400" stop="20260804220000 -0400" channel="FOX.US">
     <title>Beat Shazam</title>
     <desc>Beat Shazam is a unique and interactive game show in which teams of two race against the clock and each other as they attempt to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the world's most popular song identification app, for the chance to win a cash prize.</desc>
@@ -1582,11 +1607,6 @@
   <programme start="20260804220000 -0400" stop="20260804225900 -0400" channel="NBC.US">
     <title>Password</title>
     <desc>Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260804220000 -0400" stop="20260804230000 -0400" channel="MS NOW.US">
-    <title>The Last Word with Lawrence O'Donnell</title>
-    <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260804220000 -0400" stop="20260804223000 -0400" channel="History.US">
@@ -1602,6 +1622,11 @@
   <programme start="20260804233500 -0400" stop="20260805003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805050000 -0400" stop="20260805060000 -0400" channel="MS NOW.US">
+    <title>Way Too Early</title>
+    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805060000 -0400" stop="20260805090000 -0400" channel="MS NOW.US">
@@ -1704,6 +1729,11 @@
     <desc>The Valley follows a group of close friends as they trade bottle service in West Hollywood for baby bottles in the Valley all while they navigate bustling businesses, rocky relationships and feisty friendships.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805200000 -0400" stop="20260805210000 -0400" channel="MS NOW.US">
+    <title>All In with Chris Hayes</title>
+    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805210000 -0400" stop="20260805223400 -0400" channel="History.US">
     <title>Alone</title>
     <desc>Alone places ten hardcore survivalists alone in the wilderness - no camera crew, no teams, no producers - on a single mission to stay alive. At stake is $500,000 awarded to the person who can last the longest. They will face extreme isolation and psychological distress as they plunge into the unknown, self-documenting their experience.</desc>
@@ -1719,6 +1749,11 @@
     <desc>An in-depth look at the people who were arrested for allegedly committing some of the weirdest, wildest and most bizarre crimes ever. We dig beyond the headlines and the viral videos to look at the incidents and their consequences, hearing the stories from the accused, the arresting officers and eyewitnesses. These are bizarre crimes with real-life ramifications.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805210000 -0400" stop="20260805220000 -0400" channel="MS NOW.US">
+    <title>The Briefing with Jen Psaki</title>
+    <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805210200 -0400" stop="20260805220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -1727,6 +1762,11 @@
   <programme start="20260805213000 -0400" stop="20260805220000 -0400" channel="A&amp;E.US">
     <title>My Strange Arrest</title>
     <desc>An in-depth look at the people who were arrested for allegedly committing some of the weirdest, wildest and most bizarre crimes ever. We dig beyond the headlines and the viral videos to look at the incidents and their consequences, hearing the stories from the accused, the arresting officers and eyewitnesses. These are bizarre crimes with real-life ramifications.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805220000 -0400" stop="20260805230000 -0400" channel="MS NOW.US">
+    <title>The Last Word with Lawrence O'Donnell</title>
+    <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805220100 -0400" stop="20260805223200 -0400" channel="A&amp;E.US">
@@ -1742,6 +1782,11 @@
   <programme start="20260805223400 -0400" stop="20260805233400 -0400" channel="History.US">
     <title>Forged in Fire</title>
     <desc>Forged in Fire features world-class bladesmiths competing against each other to create some of the most iconic edged weapons from history. In each episode, four of the best bladesmiths in the country will come together to put both their skills and reputations on the line. Whether they are making a Japanese katana, a medieval broadsword, or an ancient throwing blade like the chakram, the weapons they forge will be fully functional and lethal works of art and war. The unique histories contained within each weapon will be creatively told during the forging process and the final weapons themselves will be assessed and ruthlessly tested by our panel of expert judges. These dynamic and explosive tests will be individually designed to push the weapons to their absolute limit. One by one, the bladesmiths will be eliminated until only one remains to be crowned the champion.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805230000 -0400" stop="20260806000000 -0400" channel="MS NOW.US">
+    <title>The 11th Hour with Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805233500 -0400" stop="20260806003500 -0400" channel="NBC.US">
