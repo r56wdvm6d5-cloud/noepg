@@ -112,6 +112,10 @@
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -940,6 +944,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260803183000 -0400" stop="20260803190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260803190000 -0400" stop="20260803200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1185,6 +1194,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260804183000 -0400" stop="20260804190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260804190000 -0400" stop="20260804200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1348,6 +1362,11 @@
   <programme start="20260805183000 -0400" stop="20260805190000 -0400" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805183000 -0400" stop="20260805190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805190000 -0400" stop="20260805200000 -0400" channel="MS NOW.US">
@@ -1533,6 +1552,11 @@
   <programme start="20260806183000 -0400" stop="20260806190000 -0400" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806183000 -0400" stop="20260806190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806190000 -0400" stop="20260806201500 -0400" channel="NBC.US">
@@ -1808,6 +1832,11 @@
   <programme start="20260806210000 -0400" stop="20260806220000 -0400" channel="ITV1.GB">
     <title>Cold Case Forensics</title>
     <desc>Cold Case Forensics unlocks the secrets that finally solved some of Britain's most controversial murder cases. The series delves into the world of leading forensic scientist Dr Angela Gallop and her team, as they unpick clues that no one had unearthed before.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806210000 -0400" stop="20260806220000 -0400" channel="E4.GB">
+    <title>Cruising Paradise: Above &amp; Below Deck</title>
+    <desc>Filmed aboard Princess Cruises and Regent Seven Seas Cruises ships, the series follows the highs and lows of working life at sea, from demanding shifts and missing home to late-night camaraderie with colleagues and off-duty adventures as the ships call at some of the world's most spectacular destinations. For the crew it's a glamorous, all-encompassing job which sees personal and professional lives intertwine – and the Cruising Paradise cameras will cover all the fun, friendships and romance that unfolds during a season onboard. A select group of passengers will also feature throughout the series – from first-time cruisers to experienced travellers enjoying the wonder of these ships for the first time – offering viewers a fascinating window into what many young Brits now consider to be the ultimate #holidaygoals.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260731060000 -0400" stop="20260731090000 -0400" channel="ABC.AU">
