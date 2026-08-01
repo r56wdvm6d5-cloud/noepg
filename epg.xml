@@ -645,6 +645,11 @@
     <desc>POV (a cinema term for "point of view" ) is television's longest-running showcase for independent non-fiction films. POV premieres 14-16 of the best, boldest and most innovative programs every year on PBS. Since 1988, POV has presented over 400 films to public television audiences across the country. POV films are known for their intimacy, their unforgettable storytelling and their timeliness, putting a human face on contemporary social issues.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260803220000 -0400" stop="20260803230000 -0400" channel="NBC.US">
+    <title>The Wall</title>
+    <desc>The Wall is packed with drama and action, this is a game that the entire family can root for together. Executive producer LeBron James presents a challenge infused with the thrill of victory and the agony of defeat, where regular people can achieve their dreams with one bounce of the ball. Hosted by comedian Chris Hardwick and set in a large glossy arena centering on the colossal 40-foot wall, the gameplay involves quick thinking, shrewd strategy and a little luck. Played by contestant pairs, this is an unpredictable journey with giant swings of fortune and millions of dollars passing through the contestants' hands throughout the hour.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260803220000 -0400" stop="20260803223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
@@ -805,6 +810,11 @@
     <desc>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on WWE NXT, a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260804200000 -0400" stop="20260804210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260804210000 -0400" stop="20260804220000 -0400" channel="HBO.US">
     <title>Hard Knocks</title>
     <desc>HBO Sports, NFL Films and the Seattle Seahawks team up for an all-access look at what it takes to make it in the National Football League when the first sports-based reality series - and one of the fastest-turnaround programs on TV.</desc>
@@ -818,6 +828,11 @@
   <programme start="20260804210000 -0400" stop="20260805010000 -0400" channel="MS NOW.US">
     <title>MS NOW Special Coverage</title>
     <desc>Special coverage of news events on MS NOW.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260804210000 -0400" stop="20260804220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260804210200 -0400" stop="20260804220000 -0400" channel="FOX.US">
@@ -840,6 +855,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260804220000 -0400" stop="20260804230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260804223200 -0400" stop="20260804233300 -0400" channel="History.US">
     <title>The Proof Is Out There: Unexplained Edition</title>
     <desc>In this special edition series of The Proof Is Out There, journalist Tony Harris explores some of the most astonishing phenomena ever captured on camera. From UFOs and cryptids to eerie encounters and unexplained forces, Tony and a team of experts analyze the evidence and deliver their verdict.</desc>
@@ -848,6 +868,16 @@
   <programme start="20260804233500 -0400" stop="20260805003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260804000000 -0400" stop="20260804020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260804000000 -0400" stop="20260804020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805050000 -0400" stop="20260805060000 -0400" channel="MS NOW.US">
@@ -980,6 +1010,11 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805200000 -0400" stop="20260805210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805210000 -0400" stop="20260805223400 -0400" channel="History.US">
     <title>Alone</title>
     <desc>Alone places ten hardcore survivalists alone in the wilderness - no camera crew, no teams, no producers - on a single mission to stay alive. At stake is $500,000 awarded to the person who can last the longest. They will face extreme isolation and psychological distress as they plunge into the unknown, self-documenting their experience.</desc>
@@ -1000,6 +1035,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805210000 -0400" stop="20260805220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805210200 -0400" stop="20260805220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -1018,6 +1058,11 @@
   <programme start="20260805220000 -0400" stop="20260805223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805220000 -0400" stop="20260805230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805220100 -0400" stop="20260805223200 -0400" channel="A&amp;E.US">
@@ -1043,6 +1088,16 @@
   <programme start="20260805233500 -0400" stop="20260806003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805000000 -0400" stop="20260805020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805000000 -0400" stop="20260805020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806050000 -0400" stop="20260806060000 -0400" channel="MS NOW.US">
@@ -1170,6 +1225,11 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260806200000 -0400" stop="20260806210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260806210000 -0400" stop="20260806220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -1195,9 +1255,19 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260806210000 -0400" stop="20260806220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260806220000 -0400" stop="20260806230000 -0400" channel="History.US">
     <title>Ancient Aliens</title>
     <desc>Ancient Aliens explores the controversial theory that extraterrestrials have visited Earth for millions of years. From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode in this hit History series gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate. Did intelligent beings from outer space visit Earth thousands of years ago?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806220000 -0400" stop="20260806230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806220100 -0400" stop="20260806230400 -0400" channel="A&amp;E.US">
@@ -1208,6 +1278,16 @@
   <programme start="20260806233500 -0400" stop="20260807003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806000000 -0400" stop="20260806020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806000000 -0400" stop="20260806020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260807050000 -0400" stop="20260807060000 -0400" channel="MS NOW.US">
@@ -1330,6 +1410,11 @@
     <desc>On Washington Week (formerly Washington Week with Gwen Ifill) guest journalists weigh in on issues of the week in this venerable roundtable, the first program ever fed by PBS (previously it had aired on WETA-TV in Washington, D.C., and other East Coast public stations). Though its format is panel discussion, there have been occasional one-on-one interviews, a notable example being host Paul Duke's 1994 White House visit with President Bill Clinton. The series won a DuPont-Columbia University Award in 1974.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260807200000 -0400" stop="20260807210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260807210000 -0400" stop="20260807220000 -0400" channel="HBO.US">
     <title>Life, Larry and the Pursuit of Unhappiness</title>
     <desc>President and Mrs. Obama wanted to honor America's 250th anniversary and celebrate the unique history of our nation on this special occasion....But then Larry David called.</desc>
@@ -1350,9 +1435,24 @@
     <desc>Totally Funny Animals features caught-on-camera videos that highlight the outrageous and wacky world of animals. Hosted by comedian Andy Woodhull, this clip show features everything from sneezing cats and calamitous canines to dumpster-diving bears and rascally racoons.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260807210000 -0400" stop="20260807220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260807213000 -0400" stop="20260807220000 -0400" channel="The CW.US">
     <title>Totally Funny Animals</title>
     <desc>Totally Funny Animals features caught-on-camera videos that highlight the outrageous and wacky world of animals. Hosted by comedian Andy Woodhull, this clip show features everything from sneezing cats and calamitous canines to dumpster-diving bears and rascally racoons.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260807220000 -0400" stop="20260807230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260807000000 -0400" stop="20260807020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260801174000 -0400" stop="20260801182500 -0400" channel="BBC One.GB">
