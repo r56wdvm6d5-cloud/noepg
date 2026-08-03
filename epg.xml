@@ -343,6 +343,11 @@
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260803140000 -0400" stop="20260803150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260803150000 -0400" stop="20260803180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -351,6 +356,11 @@
   <programme start="20260803150000 -0400" stop="20260803160000 -0400" channel="Fox News Channel.US">
     <title>The Story</title>
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260803150000 -0400" stop="20260803160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260803160000 -0400" stop="20260803180000 -0400" channel="MS NOW.US">
@@ -373,6 +383,11 @@
     <desc>Featuring conversations with newsmakers from across politics, business, culture and sports, The Will Cain Show will offer a comprehensive look at the news of the day in a signature podcast style.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260803160000 -0400" stop="20260803170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260803170000 -0400" stop="20260803190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
@@ -386,6 +401,11 @@
   <programme start="20260803170000 -0400" stop="20260803180000 -0400" channel="Fox News Channel.US">
     <title>The Five</title>
     <desc>The Five is an American news and talk show on Fox News Channel featuring a rotating panel who discuss current stories, political issues, and pop culture. The show premiered in July 2011, replacing the Glenn Beck program, and airs on weekdays at 5:00 p.m. ET with replays at 4:00 a.m. ET. On October 3, 2011, after successful ratings and high popularity, Fox News announced that The Five would become the permanent 5 p.m. series, as the program had previously been announced to last only during the summer. The Five is currently the second-most-watched program in all of cable news in the United States, placing only behind The O'Reilly Factor, also on the Fox News Channel. The program has occasionally been the number one rated cable news series in the key 25 to 54 viewing demographic.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260803170000 -0400" stop="20260803180000 -0400" channel="CNBC.US">
+    <title>Fast Money</title>
+    <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260803180000 -0400" stop="20260803190000 -0400" channel="MS NOW.US">
@@ -406,6 +426,11 @@
   <programme start="20260803180000 -0400" stop="20260803190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260803180000 -0400" stop="20260803190000 -0400" channel="CNBC.US">
+    <title>Mad Money</title>
+    <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260803183000 -0400" stop="20260803190000 -0400" channel="NBC.US">
@@ -848,6 +873,11 @@
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260804150000 -0400" stop="20260804160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260804160000 -0400" stop="20260804180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -873,6 +903,11 @@
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260804160000 -0400" stop="20260804170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260804170000 -0400" stop="20260804180000 -0400" channel="Newsmax.US">
     <title>Ed Henry the Big Take</title>
     <desc>Ed Henry offers his common-sense take on the news.</desc>
@@ -886,6 +921,11 @@
   <programme start="20260804170000 -0400" stop="20260804190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260804170000 -0400" stop="20260804180000 -0400" channel="CNBC.US">
+    <title>Fast Money</title>
+    <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260804173000 -0400" stop="20260804180000 -0400" channel="ESPN.US">
@@ -911,6 +951,11 @@
   <programme start="20260804180000 -0400" stop="20260804190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260804180000 -0400" stop="20260804190000 -0400" channel="CNBC.US">
+    <title>Mad Money</title>
+    <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260804183000 -0400" stop="20260804190000 -0400" channel="NBC.US">
@@ -1333,6 +1378,11 @@
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805150000 -0400" stop="20260805160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805160000 -0400" stop="20260805180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1358,6 +1408,11 @@
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805160000 -0400" stop="20260805170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805170000 -0400" stop="20260805180000 -0400" channel="Newsmax.US">
     <title>Ed Henry the Big Take</title>
     <desc>Ed Henry offers his common-sense take on the news.</desc>
@@ -1371,6 +1426,11 @@
   <programme start="20260805170000 -0400" stop="20260805190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805170000 -0400" stop="20260805180000 -0400" channel="CNBC.US">
+    <title>Fast Money</title>
+    <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805220200 -0400" stop="20260805230200 -0400" channel="Discovery.US">
@@ -1401,6 +1461,11 @@
   <programme start="20260805180000 -0400" stop="20260805190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805180000 -0400" stop="20260805190000 -0400" channel="CNBC.US">
+    <title>Mad Money</title>
+    <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805183000 -0400" stop="20260805190000 -0400" channel="NBC.US">
@@ -1848,6 +1913,11 @@
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260806150000 -0400" stop="20260806160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260806160000 -0400" stop="20260806180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1873,6 +1943,11 @@
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260806160000 -0400" stop="20260806170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260806170000 -0400" stop="20260806180000 -0400" channel="Newsmax.US">
     <title>Ed Henry the Big Take</title>
     <desc>Ed Henry offers his common-sense take on the news.</desc>
@@ -1886,6 +1961,11 @@
   <programme start="20260806170000 -0400" stop="20260806190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806170000 -0400" stop="20260806180000 -0400" channel="CNBC.US">
+    <title>Fast Money</title>
+    <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806173000 -0400" stop="20260806180000 -0400" channel="ESPN.US">
@@ -1911,6 +1991,11 @@
   <programme start="20260806180000 -0400" stop="20260806190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806180000 -0400" stop="20260806190000 -0400" channel="CNBC.US">
+    <title>Mad Money</title>
+    <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806183000 -0400" stop="20260806190000 -0400" channel="NBC.US">
@@ -2333,6 +2418,11 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260807140000 -0400" stop="20260807150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260807150000 -0400" stop="20260807180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -2341,6 +2431,11 @@
   <programme start="20260807150000 -0400" stop="20260807160000 -0400" channel="Fox News Channel.US">
     <title>The Story</title>
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260807150000 -0400" stop="20260807160000 -0400" channel="CNBC.US">
+    <title>Closing Bell</title>
+    <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260807160000 -0400" stop="20260807180000 -0400" channel="MS NOW.US">
@@ -2363,6 +2458,11 @@
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260807160000 -0400" stop="20260807170000 -0400" channel="CNBC.US">
+    <title>Closing Bell: Overtime</title>
+    <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260807170000 -0400" stop="20260807180000 -0400" channel="Newsmax.US">
     <title>Ed Henry the Big Take</title>
     <desc>Ed Henry offers his common-sense take on the news.</desc>
@@ -2376,6 +2476,11 @@
   <programme start="20260807170000 -0400" stop="20260807190000 -0400" channel="CNN.US">
     <title>The Lead with Jake Tapper</title>
     <desc>CNN's chief Washington correspondent, Jake Tapper, hosts this hourlong weekday afternoon program, which mixes Tapper's interests with headlines from around the country and the world, headlines that span politics, money, sports and popular culture. The Lead with Jake Tapper also concentrates on bringing stories that aren't found on front pages -- buried leads -- to the forefront. Tapper came to CNN from ABC News, where he most recently served as senior White House correspondent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260807170000 -0400" stop="20260807180000 -0400" channel="CNBC.US">
+    <title>Fast Money</title>
+    <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260807173000 -0400" stop="20260807180000 -0400" channel="ESPN.US">
@@ -2401,6 +2506,11 @@
   <programme start="20260807180000 -0400" stop="20260807190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260807180000 -0400" stop="20260807190000 -0400" channel="CNBC.US">
+    <title>Mad Money</title>
+    <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260807183000 -0400" stop="20260807190000 -0400" channel="NBC.US">
@@ -2828,6 +2938,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260803163000 -0400" stop="20260803171500 -0400" channel="BBC One.GB">
+    <title>The Answer Run</title>
+    <desc>The Answer Run sees three pairs battle it out in a fast paced, quick-thinking general knowledge quiz show, where contestants are always one swipe away from banking the cash or crashing out.The format is based on 50/50 decisions where each question can only fit into one of the two answers provided. However, faced with the pressure of The Answer Run, will the teams make the right call as to which way they will swipe their answers before they run out of time?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260803170000 -0400" stop="20260803180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2908,6 +3023,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260804163000 -0400" stop="20260804171500 -0400" channel="BBC One.GB">
+    <title>The Answer Run</title>
+    <desc>The Answer Run sees three pairs battle it out in a fast paced, quick-thinking general knowledge quiz show, where contestants are always one swipe away from banking the cash or crashing out.The format is based on 50/50 decisions where each question can only fit into one of the two answers provided. However, faced with the pressure of The Answer Run, will the teams make the right call as to which way they will swipe their answers before they run out of time?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260804170000 -0400" stop="20260804180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2958,6 +3078,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805163000 -0400" stop="20260805171500 -0400" channel="BBC One.GB">
+    <title>The Answer Run</title>
+    <desc>The Answer Run sees three pairs battle it out in a fast paced, quick-thinking general knowledge quiz show, where contestants are always one swipe away from banking the cash or crashing out.The format is based on 50/50 decisions where each question can only fit into one of the two answers provided. However, faced with the pressure of The Answer Run, will the teams make the right call as to which way they will swipe their answers before they run out of time?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805170000 -0400" stop="20260805180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2996,6 +3121,11 @@
   <programme start="20260806141000 -0400" stop="20260806150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806163000 -0400" stop="20260806171500 -0400" channel="BBC One.GB">
+    <title>The Answer Run</title>
+    <desc>The Answer Run sees three pairs battle it out in a fast paced, quick-thinking general knowledge quiz show, where contestants are always one swipe away from banking the cash or crashing out.The format is based on 50/50 decisions where each question can only fit into one of the two answers provided. However, faced with the pressure of The Answer Run, will the teams make the right call as to which way they will swipe their answers before they run out of time?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806170000 -0400" stop="20260806180000 -0400" channel="5.GB">
@@ -3051,6 +3181,11 @@
   <programme start="20260807141000 -0400" stop="20260807150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260807163000 -0400" stop="20260807171500 -0400" channel="BBC One.GB">
+    <title>The Answer Run</title>
+    <desc>The Answer Run sees three pairs battle it out in a fast paced, quick-thinking general knowledge quiz show, where contestants are always one swipe away from banking the cash or crashing out.The format is based on 50/50 decisions where each question can only fit into one of the two answers provided. However, faced with the pressure of The Answer Run, will the teams make the right call as to which way they will swipe their answers before they run out of time?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260807170000 -0400" stop="20260807180000 -0400" channel="5.GB">
