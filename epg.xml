@@ -488,6 +488,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260803200000 -0400" stop="20260803210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Border</title>
+    <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260803210000 -0400" stop="20260803220000 -0400" channel="Bravo.US">
     <title>The McBee Dynasty: Real American Cowboys</title>
     <desc>The McBee Dynasty: Real American Cowboys follows patriarch Steve McBee, the hard-working founder of the family business, and his four sons: Steven Jr. the business-minded heir apparent, Cole the underdog who works hard in the field, Jesse the quiet cowboy, and Brayden who has the least interest in farming.</desc>
@@ -826,6 +831,11 @@
   <programme start="20260804140000 -0400" stop="20260804160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260804140000 -0400" stop="20260804150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260804150000 -0400" stop="20260804180000 -0400" channel="NewsNation.US">
@@ -1306,6 +1316,11 @@
   <programme start="20260805140000 -0400" stop="20260805160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805140000 -0400" stop="20260805150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805150000 -0400" stop="20260805180000 -0400" channel="NewsNation.US">
@@ -1816,6 +1831,11 @@
   <programme start="20260806140000 -0400" stop="20260806160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806140000 -0400" stop="20260806150000 -0400" channel="CNBC.US">
+    <title>Power Lunch</title>
+    <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806150000 -0400" stop="20260806180000 -0400" channel="NewsNation.US">
@@ -2618,6 +2638,11 @@
     <desc>In Columbus, Ohio, power flipper Tommy Harr and his family have built a business on seeing opportunity where others see disaster. Their edge comes from within the family — two generations of elite home inspectors, a fearless construction crew led by his middle brother, and a mom who doubles as both designer and real estate agent. Together, they take on the city's worst "zombie" houses, transforming rundown properties into stunning dream homes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260808120000 -0400" stop="20260808143000 -0400" channel="NFL Network.US">
+    <title>Pro Football Hall of Fame Induction Ceremony</title>
+    <desc>The Pro Football Hall of Fame Induction Ceremony is an annual event that normally takes place during the 1st weekend in August every year. This ceremony originally began in 1963 and today's event is the 52nd annual event. When the 1st ceremony was held in 1963 a total of 17 retired NFL players were inducted. Players are selected by a 44-person Committee that meets every year at the time and location of that year's Super Bowl. The rules for induction is a player, coach or football related figure must not have participated anytime in the previous 5 years. Enshrinement is limited to between 4 and 7 players each year.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260808130000 -0400" stop="20260808160000 -0400" channel="MS NOW.US">
     <title>Alex Witt Reports</title>
     <desc>The latest breaking news, reporting and live coverage of the day's important stories; hosted by trusted NBC News journalists, these dynamic hours offer discussions with newsmakers, journalists and politicians.</desc>
@@ -2626,11 +2651,6 @@
   <programme start="20260808170000 -0400" stop="20260808180000 -0400" channel="MS NOW.US">
     <title>PoliticsNation</title>
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260808210000 -0400" stop="20260808220000 -0400" channel="NFL Network.US">
-    <title>Pro Football Hall of Fame Induction Ceremony</title>
-    <desc>The Pro Football Hall of Fame Induction Ceremony is an annual event that normally takes place during the 1st weekend in August every year. This ceremony originally began in 1963 and today's event is the 52nd annual event. When the 1st ceremony was held in 1963 a total of 17 retired NFL players were inducted. Players are selected by a 44-person Committee that meets every year at the time and location of that year's Super Bowl. The rules for induction is a player, coach or football related figure must not have participated anytime in the previous 5 years. Enshrinement is limited to between 4 and 7 players each year.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260808000000 -0400" stop="20260808010000 -0400" channel="Syndication.US">
@@ -3101,6 +3121,11 @@
   <programme start="20260809200000 -0400" stop="20260809203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260809200000 -0400" stop="20260809210000 -0400" channel="Channel 4.GB">
+    <title>Richard E. Grant's Very Modern Odyssey</title>
+    <desc>In celebration of the biggest movie release of this summer – Christopher Nolans' The Odyssey, Richard E. Grant recreates the route of Odysseus' 20-year voyage, travelling to Malta, Sicily, Italy, Tunisia, Turkey, Corfu and Ithaca, exploring the ancient worlds and modern places which formed the inspiration for Homer's masterpiece.In The Odyssey, the great warrior Odysseus, faces deathly perils as he battles to return home after ten years of war. On his modern Odyssey, Richard encounters a terrifying volcano, performs in an ancient amphitheatre, tries his hand at archery, marvels at a baroque masterpiece, eats intoxicating lotus fruit and discovers a sorceress' cave, as he tries to separate myth from reality and receives a much warmer welcome on his travels than Odysseus!Featuring breath-taking photography and fascinating encounters with the people who call these ancient places home today, Richard discovers that the temptations that lured Odysseus are still present in the Mediterranean but the dream of home always wins in the end.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260809210000 -0400" stop="20260809220000 -0400" channel="Channel 4.GB">
