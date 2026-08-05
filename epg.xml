@@ -1732,6 +1732,11 @@
     <desc>NewsNation, America's fastest-growing cable news network, today announced the debut of the weekend edition of Morning in America with Hena Doba. The new weekend show will premiere on Saturday, January 27, and will be anchored by journalist Hena Doba on Saturdays and Sundays from 7-10 a.m. ET.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260808070000 -0400" stop="20260808090000 -0400" channel="NBC.US">
+    <title>Saturday Today</title>
+    <desc>Interviews, stories and reviews intended to inform, entertain, inspire and set the day's agenda.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260808090000 -0400" stop="20260808100000 -0400" channel="CNN.US">
     <title>Smerconish</title>
     <desc>After serving as an MSNBC contributor and guest-host on the network for four years, TV and radio personality Michael Smerconish believed he was ready to head a show of his own. CNN agreed, and thus was born Smerconish, an hour long Saturday morning program that takes after its host's independent views. Using a topical, conversational format, he aims for the TV show to be an extension of his weekday radio broadcast, with free-flowing topics and the ability to discuss issues that strike a chord with the audience. Along the same lines, he thinks it's important to present the content in an engaging manner, free of my-way-or-the-highway ideology. Smerconish, who has a law degree from the University of Pennsylvania, is also a New York Times' best-selling author.</desc>
