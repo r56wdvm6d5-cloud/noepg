@@ -267,6 +267,11 @@
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805100000 -0400" stop="20260805130000 -0400" channel="NFL Network.US">
+    <title>Inside Training Camp Live</title>
+    <desc>Inside Training Camp Live is a sports talk-show that provides coverage of NFL Training Camps across the country with exclusive access and live reports from all 32 NFL teams as they prepare for the upcoming season.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805110000 -0400" stop="20260805120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
@@ -400,11 +405,6 @@
   <programme start="20260805160000 -0400" stop="20260805170000 -0400" channel="CNBC.US">
     <title>Closing Bell: Overtime</title>
     <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260805160000 -0400" stop="20260805190000 -0400" channel="NFL Network.US">
-    <title>Inside Training Camp Live</title>
-    <desc>Inside Training Camp Live is a sports talk-show that provides coverage of NFL Training Camps across the country with exclusive access and live reports from all 32 NFL teams as they prepare for the upcoming season.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805170000 -0400" stop="20260805180000 -0400" channel="Newsmax.US">
@@ -2967,6 +2967,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260806193000 -0400" stop="20260806200000 -0400" channel="ITV1.GB">
+    <title>Tom Kerridge Cooks...</title>
+    <desc>Tom Kerridge hits the road in his 1950s food truck to discover wonderful produce, cooking with the ingredients he finds along the way.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260806195500 -0400" stop="20260806200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -2977,9 +2982,19 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260806203000 -0400" stop="20260806210000 -0400" channel="ITV1.GB">
-    <title>Tom Kerridge Cooks...</title>
-    <desc>Tom Kerridge hits the road in his 1950s food truck to discover wonderful produce, cooking with the ingredients he finds along the way.</desc>
+  <programme start="20260806200000 -0400" stop="20260806210000 -0400" channel="BBC One.GB">
+    <title>Fake or Fortune?</title>
+    <desc>Journalist Fiona Bruce teams up with art expert Philip Mould to investigate mysteries behind paintings.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806200000 -0400" stop="20260806210000 -0400" channel="Channel 4.GB">
+    <title>Renovation Rescue</title>
+    <desc>Vogue Williams and Luke Mabbott will pick up where the bad builders have left off, bringing their expertise, warmth and passion to help homeowners wanting to transform their home all by themselves. The series will follow ambitious renovations as Vogue and Luke share money-saving skills, offer design inspiration, and demonstrate simple DIY techniques anyone can try at home! Together they will prove just how easy, satisfying, and cost effective it can be to pick up a power tool and get your hands dirty!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806200000 -0400" stop="20260806210000 -0400" channel="5.GB">
+    <title>Cornwall: A Year by the Sea</title>
+    <desc>Series exploring Cornwall as a thriving county all year round.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260806210000 -0400" stop="20260806220000 -0400" channel="BBC One.GB">
@@ -3000,6 +3015,11 @@
   <programme start="20260806210000 -0400" stop="20260806220000 -0400" channel="E4.GB">
     <title>Cruising Paradise: Above &amp; Below Deck</title>
     <desc>Filmed aboard Princess Cruises and Regent Seven Seas Cruises ships, the series follows the highs and lows of working life at sea, from demanding shifts and missing home to late-night camaraderie with colleagues and off-duty adventures as the ships call at some of the world's most spectacular destinations. For the crew it's a glamorous, all-encompassing job which sees personal and professional lives intertwine – and the Cruising Paradise cameras will cover all the fun, friendships and romance that unfolds during a season onboard. A select group of passengers will also feature throughout the series – from first-time cruisers to experienced travellers enjoying the wonder of these ships for the first time – offering viewers a fascinating window into what many young Brits now consider to be the ultimate #holidaygoals.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260806210000 -0400" stop="20260806220000 -0400" channel="Channel 4.GB">
+    <title>Murder Case: The Digital Detectives</title>
+    <desc>The next generation crime series revealing the ground-breaking police techniques used to solve murders on Britain's streets.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260807124500 -0400" stop="20260807125000 -0400" channel="5.GB">
