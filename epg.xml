@@ -48,10 +48,6 @@
     <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
-  <channel id="Discovery.US">
-    <display-name>Discovery</display-name>
-    <country>US</country>
-  </channel>
   <channel id="FOX.US">
     <display-name>FOX</display-name>
     <country>US</country>
@@ -66,6 +62,10 @@
   </channel>
   <channel id="A&amp;E.US">
     <display-name>A&amp;E</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Discovery.US">
+    <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
   <channel id="PBS.US">
@@ -132,7 +132,7 @@
     <display-name>Discovery</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260804000000 -0400" stop="20260804020000 -0400" channel="CNN.US">
+  <programme start="20260804000000 -0400" stop="20260804030000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
@@ -427,11 +427,6 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260805220200 -0400" stop="20260805230200 -0400" channel="Discovery.US">
-    <title>How to Catch a Dirtbag</title>
-    <desc>A new series featuring the 'investigations' of internet sensation Michael McWhorter, aka 'Tizzy Ent', who has popularized the art of internet crowd sourcing to help identify those who appear to do horrible things in public and seem to get away with it. With over 10 million social media followers, Tizzy's signature blend of humor and fearless tenacity has proven that the internet is just 'one big, small town' and sooner or later, justice will be served.The show features eight one-hour episodes that highlight and investigate viral clips of apparent bad behavior, using digital clues to help identify the alleged offender, get the real story behind the video, and sometimes even a conviction. Included are interviews with victims, witnesses, law enforcement, and occasionally the accused themselves, with each episode striving to explore the full arc from incident to outcome.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260805173000 -0400" stop="20260805180000 -0400" channel="ESPN.US">
     <title>Pardon the Interruption</title>
     <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
@@ -587,6 +582,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260805210000 -0400" stop="20260805214200 -0400" channel="Discovery.US">
+    <title>Expedition Unknown</title>
+    <desc>In the hit series Expedition Unknown, Travel Channel's witty explorer Josh Gates seeks answers to some of the world's most captivating unsolved stories and legends. Gates is on a mission to find the truth behind each iconic legend, digging through years of historical evidence, facts and myths. Leaving no stone unturned, his adventures take him around the globe as he immerses himself in the core locales linked to each tale. From excavating ruins in search of the real Robin Hood to sailing the high seas investigating Christopher Columbus and exploring Nepal's "sky caves" for Shangri La, Gates' archaeological background and ubiquitous sense of humor generate a new take on age-old stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260805210200 -0400" stop="20260805220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -630,6 +630,11 @@
   <programme start="20260805220100 -0400" stop="20260805223200 -0400" channel="A&amp;E.US">
     <title>Swamp Patrol</title>
     <desc>SWAMP PATROL pulls viewers into the unpredictable world of law enforcement operating in America's most unforgiving swamps. From the tangled bayous of Louisiana to the coastal inlets of Florida, Swamp Patrol follows officers in real time through bodycam footage as they respond to a wide range of threats, including armed suspects, drug busts, missing persons, stolen boats, 11-foot gators, and deadly snakes. Every call comes with its own dangers, and in the depths of the swamp, there is no backup. The series offers a captivating look at the chaos and courage required to hold the line in places most people never step.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260805220200 -0400" stop="20260805230200 -0400" channel="Discovery.US">
+    <title>How to Catch a Dirtbag</title>
+    <desc>A new series featuring the 'investigations' of internet sensation Michael McWhorter, aka 'Tizzy Ent', who has popularized the art of internet crowd sourcing to help identify those who appear to do horrible things in public and seem to get away with it. With over 10 million social media followers, Tizzy's signature blend of humor and fearless tenacity has proven that the internet is just 'one big, small town' and sooner or later, justice will be served.The show features eight one-hour episodes that highlight and investigate viral clips of apparent bad behavior, using digital clues to help identify the alleged offender, get the real story behind the video, and sometimes even a conviction. Included are interviews with victims, witnesses, law enforcement, and occasionally the accused themselves, with each episode striving to explore the full arc from incident to outcome.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260805223200 -0400" stop="20260805230400 -0400" channel="A&amp;E.US">
@@ -2385,6 +2390,11 @@
   <programme start="20260810230000 -0400" stop="20260811000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260810233500 -0400" stop="20260811003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260810000000 -0400" stop="20260810020000 -0400" channel="CNN.US">
