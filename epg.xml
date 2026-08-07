@@ -712,6 +712,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260808183000 -0400" stop="20260808190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260808000000 -0400" stop="20260808010000 -0400" channel="Syndication.US">
     <title>WOW - Women of Wrestling</title>
     <desc>The series will feature 35 wrestlers, including third generation wrestling superstar Tessa Blanchard, returning superheroes The Beast, Stephy Slays, Jungle Grrrl, Beverly Hills Babe and talented newcomers to WOW such as Faith the Lioness and Princess Aussie.</desc>
@@ -850,6 +855,11 @@
   <programme start="20260809220300 -0400" stop="20260809230500 -0400" channel="History.US">
     <title>The Mega-Brands That Built America</title>
     <desc>The Mega-Brands That Built America is the newest series in History's "That Built" franchise, telling the origin stories of some of the most successful businesses in history: from mega-stores like Costco and Walmart to sporting goods giants like Spalding and Wilson, titans like Ivory Soap, Schick and Gillette, to shipping giants like Fedex and UPS, and countless more of the biggest brand names in history. Each story is told through the "That Built" franchises' signature blend of expert interviews and archival, mixed with original premium recreations. Through the eyes of the visionaries and entrepreneurs behind the brands, the series takes viewers on a journey; starting with how it all began, following the innovations, the failures, and all the incredible achievements that forever changed the way Americans live. It's everything you didn't know about the colossal brands you know so well.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260809221500 -0400" stop="20260809224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260809230000 -0400" stop="20260809233000 -0400" channel="HBO.US">
@@ -1322,6 +1332,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260810220000 -0400" stop="20260810223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260810230000 -0400" stop="20260811000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -1785,6 +1800,11 @@
   <programme start="20260811220000 -0400" stop="20260811230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260811220000 -0400" stop="20260811223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260811223200 -0400" stop="20260811233300 -0400" channel="History.US">
@@ -2257,6 +2277,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260812220000 -0400" stop="20260812223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260812220100 -0400" stop="20260812230100 -0400" channel="Discovery.US">
     <title>How to Catch a Dirtbag</title>
     <desc>A new series featuring the 'investigations' of internet sensation Michael McWhorter, aka 'Tizzy Ent', who has popularized the art of internet crowd sourcing to help identify those who appear to do horrible things in public and seem to get away with it. With over 10 million social media followers, Tizzy's signature blend of humor and fearless tenacity has proven that the internet is just 'one big, small town' and sooner or later, justice will be served.The show features eight one-hour episodes that highlight and investigate viral clips of apparent bad behavior, using digital clues to help identify the alleged offender, get the real story behind the video, and sometimes even a conviction. Included are interviews with victims, witnesses, law enforcement, and occasionally the accused themselves, with each episode striving to explore the full arc from incident to outcome.</desc>
@@ -2700,6 +2725,11 @@
   <programme start="20260813210000 -0400" stop="20260813220000 -0400" channel="Fox News Channel.US">
     <title>Hannity</title>
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260813210000 -0400" stop="20260813213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260813220000 -0400" stop="20260813230000 -0400" channel="ABC.US">
