@@ -682,6 +682,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260810183000 -0400" stop="20260810190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260810190000 -0400" stop="20260810200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1187,6 +1192,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260811183000 -0400" stop="20260811190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260811190000 -0400" stop="20260811200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1677,6 +1687,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260812183000 -0400" stop="20260812190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260812190000 -0400" stop="20260812200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -2157,6 +2172,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260813183000 -0400" stop="20260813190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260813190000 -0400" stop="20260813200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -2215,6 +2235,11 @@
   <programme start="20260813200000 -0400" stop="20260813210000 -0400" channel="Fox News Channel.US">
     <title>Jesse Watters Primetime</title>
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260813200000 -0400" stop="20260813210000 -0400" channel="A&amp;E.US">
+    <title>The First 48: Inside the Tape</title>
+    <desc />
     <category>TV Show</category>
   </programme>
   <programme start="20260813210000 -0400" stop="20260813220300 -0400" channel="History.US">
@@ -2635,6 +2660,11 @@
   <programme start="20260814183000 -0400" stop="20260814190000 -0400" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260814183000 -0400" stop="20260814190000 -0400" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260814190000 -0400" stop="20260814200000 -0400" channel="MS NOW.US">
@@ -3277,7 +3307,7 @@
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260811203000 -0400" stop="20260811210500 -0400" channel="ABC.AU">
+  <programme start="20260811203000 -0400" stop="20260811210200 -0400" channel="ABC.AU">
     <title>Kitchen Cabinet with Annabel Crabb</title>
     <desc>Annabel Crabb is back for more, knocking on the doors of politician's homes around Australia, in search of a good meal and some answers. Join Annabel as she gets beyond the sound bite and helps us to understand the curious creature that is the Australian politician.</desc>
     <category>TV Show</category>
