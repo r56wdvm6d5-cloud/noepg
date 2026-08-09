@@ -32,6 +32,10 @@
     <display-name>CBS</display-name>
     <country>US</country>
   </channel>
+  <channel id="NFL Network.US">
+    <display-name>NFL Network</display-name>
+    <country>US</country>
+  </channel>
   <channel id="ESPN.US">
     <display-name>ESPN</display-name>
     <country>US</country>
@@ -62,10 +66,6 @@
   </channel>
   <channel id="Newsmax.US">
     <display-name>Newsmax</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="NFL Network.US">
-    <display-name>NFL Network</display-name>
     <country>US</country>
   </channel>
   <channel id="The CW.US">
@@ -199,6 +199,11 @@
   <programme start="20260809100000 -0400" stop="20260809110000 -0400" channel="ABC.US">
     <title>This Week</title>
     <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260809100000 -0400" stop="20260809130000 -0400" channel="NFL Network.US">
+    <title>Inside Training Camp Live</title>
+    <desc>Inside Training Camp Live is a sports talk-show that provides coverage of NFL Training Camps across the country with exclusive access and live reports from all 32 NFL teams as they prepare for the upcoming season.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260809103000 -0400" stop="20260809113000 -0400" channel="CBS.US">
@@ -514,6 +519,11 @@
   <programme start="20260810140000 -0400" stop="20260810150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260810140000 -0400" stop="20260810150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260810150000 -0400" stop="20260810180000 -0400" channel="NewsNation.US">
@@ -936,11 +946,6 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260811100000 -0400" stop="20260811130000 -0400" channel="NFL Network.US">
-    <title>Inside Training Camp Live</title>
-    <desc>Inside Training Camp Live is a sports talk-show that provides coverage of NFL Training Camps across the country with exclusive access and live reports from all 32 NFL teams as they prepare for the upcoming season.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260811110000 -0400" stop="20260811120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
@@ -1031,6 +1036,11 @@
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260811140000 -0400" stop="20260811150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260811150000 -0400" stop="20260811180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -1069,6 +1079,11 @@
   <programme start="20260811160000 -0400" stop="20260811170000 -0400" channel="CNBC.US">
     <title>Closing Bell: Overtime</title>
     <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260811160000 -0400" stop="20260811190000 -0400" channel="NFL Network.US">
+    <title>Inside Training Camp Live</title>
+    <desc>Inside Training Camp Live is a sports talk-show that provides coverage of NFL Training Camps across the country with exclusive access and live reports from all 32 NFL teams as they prepare for the upcoming season.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260811170000 -0400" stop="20260811180000 -0400" channel="Newsmax.US">
@@ -1526,6 +1541,11 @@
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260812140000 -0400" stop="20260812150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260812150000 -0400" stop="20260812180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -1564,11 +1584,6 @@
   <programme start="20260812160000 -0400" stop="20260812170000 -0400" channel="CNBC.US">
     <title>Closing Bell: Overtime</title>
     <desc>A look at after-hours moves, including breaking news, corporate earnings and post-market trading.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260812160000 -0400" stop="20260812190000 -0400" channel="NFL Network.US">
-    <title>Inside Training Camp Live</title>
-    <desc>Inside Training Camp Live is a sports talk-show that provides coverage of NFL Training Camps across the country with exclusive access and live reports from all 32 NFL teams as they prepare for the upcoming season.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260812170000 -0400" stop="20260812180000 -0400" channel="Newsmax.US">
@@ -2014,6 +2029,11 @@
   <programme start="20260813140000 -0400" stop="20260813150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260813140000 -0400" stop="20260813150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260813150000 -0400" stop="20260813180000 -0400" channel="NewsNation.US">
@@ -2504,6 +2524,11 @@
   <programme start="20260814140000 -0400" stop="20260814150000 -0400" channel="CNBC.US">
     <title>Power Lunch</title>
     <desc>Power Lunch takes you through the heart of the business day, focusing on real-time market coverage, breaking news and up-to-the-instant stock information. The show delves into the economy, the markets, real estate, media and technology -- any place where there's money to be made. The program features daily contributions from the Nasdaq MarketSite's Times Square studio and coverage from CNBC's Post 9 position on the floor of the New York Stock Exchange, as well as from CNBC's bureaus around the world. "Power Lunch" showcases the best stories of the day from CNBC's roster of digital and television journalists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260814140000 -0400" stop="20260814150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260814150000 -0400" stop="20260814180000 -0400" channel="NewsNation.US">
@@ -3247,6 +3272,11 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260809193000 -0400" stop="20260809203000 -0400" channel="ABC.AU">
+    <title>Race Around The World</title>
+    <desc>In a time defined by fast-paced narratives and global connection, Race Around the World returns both as a homage to its original spirit and a bold reimagining. It celebrates the raw power of authentic, on-the-ground storytelling and the boundless curiosity that fuels it.The revival of the much-loved format is set to deliver fresh perspectives, discover new creative talent and reaffirm the ABC's commitment to original Australian content.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260809200000 -0400" stop="20260809202400 -0400" channel="ABC.AU">
     <title>Race Around The World</title>
     <desc>In a time defined by fast-paced narratives and global connection, Race Around the World returns both as a homage to its original spirit and a bold reimagining. It celebrates the raw power of authentic, on-the-ground storytelling and the boundless curiosity that fuels it.The revival of the much-loved format is set to deliver fresh perspectives, discover new creative talent and reaffirm the ABC's commitment to original Australian content.</desc>
     <category>TV Show</category>
