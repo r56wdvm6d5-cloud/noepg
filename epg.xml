@@ -1581,6 +1581,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260812210000 -0400" stop="20260812214200 -0400" channel="Discovery.US">
+    <title>Expedition Unknown</title>
+    <desc>In the hit series Expedition Unknown, Travel Channel's witty explorer Josh Gates seeks answers to some of the world's most captivating unsolved stories and legends. Gates is on a mission to find the truth behind each iconic legend, digging through years of historical evidence, facts and myths. Leaving no stone unturned, his adventures take him around the globe as he immerses himself in the core locales linked to each tale. From excavating ruins in search of the real Robin Hood to sailing the high seas investigating Christopher Columbus and exploring Nepal's "sky caves" for Shangri La, Gates' archaeological background and ubiquitous sense of humor generate a new take on age-old stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260812210200 -0400" stop="20260812220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -2109,6 +2114,11 @@
   <programme start="20260813220000 -0400" stop="20260813230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260813220000 -0400" stop="20260813230000 -0400" channel="History.US">
+    <title>Ancient Aliens</title>
+    <desc>Ancient Aliens explores the controversial theory that extraterrestrials have visited Earth for millions of years. From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode in this hit History series gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate. Did intelligent beings from outer space visit Earth thousands of years ago?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260813220100 -0400" stop="20260813230400 -0400" channel="A&amp;E.US">
