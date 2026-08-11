@@ -614,6 +614,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260811220000 -0400" stop="20260811230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260811223200 -0400" stop="20260811233300 -0400" channel="History.US">
     <title>The Proof Is Out There</title>
     <desc>The Proof Is Out There takes an in-depth look at some of the most incredible and thought provoking videos of unexplained phenomena and mysterious must-see moments of all time. Each half-hour episode explores and analyzes the full story of each irregularity in question from bizarre footage of people seemingly immune to lightning, to a fifty-foot snake, apocalyptic sounds in a man's backyard, enigmatic creatures, and UFOS that split and dive underwater. Through expert examination and the use of the latest technologies, The Proof Is Out There aims to get to the bottom of what's real? What's fake? And everything in between.</desc>
@@ -1117,6 +1122,11 @@
   <programme start="20260812220000 -0400" stop="20260812223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260812220000 -0400" stop="20260812230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260812220100 -0400" stop="20260812230100 -0400" channel="Discovery.US">
@@ -1629,6 +1639,11 @@
     <desc>Ancient Aliens explores the controversial theory that extraterrestrials have visited Earth for millions of years. From the age of the dinosaurs to ancient Egypt, from early cave drawings to continued mass sightings in the US, each episode in this hit History series gives historic depth to the questions, speculations, provocative controversies, first-hand accounts and grounded theories surrounding this age old debate. Did intelligent beings from outer space visit Earth thousands of years ago?</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260813220000 -0400" stop="20260813230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260813220100 -0400" stop="20260813230400 -0400" channel="A&amp;E.US">
     <title>Accused: Guilty or Innocent?</title>
     <desc>Accused: Guilty or Innocent? offers an intimate account of what happens when someone is formally charged with a crime and sent to trial – all solely from the perspective of the accused, their legal team and family members.</desc>
@@ -2119,6 +2134,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260814220000 -0400" stop="20260814230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260814220200 -0400" stop="20260814230200 -0400" channel="HBO.US">
     <title>Real Time with Bill Maher</title>
     <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
@@ -2422,6 +2442,21 @@
   <programme start="20260817070000 -0400" stop="20260817100000 -0400" channel="CNN.US">
     <title>CNN News Central</title>
     <desc>Anchored by John Berman, Kate Bolduan and Sara Sidner, CNN News Central is the core hub of the network's best-in-class newsgathering operation during the day, bringing stories to viewers in real time, while offering perspective and context to key issues. Modeled after CNN's special election programming, CNN News Central uses similar technology and storytelling tools, and applies them to news well beyond politics. The immersive approach will showcase what CNN does best – breaking news, visual storytelling, and factual, impactful reporting.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260817070000 -0400" stop="20260817090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260817070000 -0400" stop="20260817090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260817070000 -0400" stop="20260817090000 -0400" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260817090000 -0400" stop="20260817110000 -0400" channel="MS NOW.US">
@@ -2759,6 +2794,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260817220000 -0400" stop="20260817230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260817230000 -0400" stop="20260818000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -2779,6 +2819,11 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260817233500 -0400" stop="20260818003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260817000000 -0400" stop="20260817020000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -2797,6 +2842,11 @@
   <programme start="20260811141000 -0400" stop="20260811150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260811141500 -0400" stop="20260811150000 -0400" channel="BBC One.GB">
+    <title>Money for Nothing</title>
+    <desc>Sarah Moore saves three items from the tip in each episode and transforms them into a much more valuable piece, before returning the profits back to the original owners of the item.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260811163000 -0400" stop="20260811171500 -0400" channel="BBC One.GB">
