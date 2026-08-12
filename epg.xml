@@ -132,6 +132,10 @@
     <display-name>Comedy Central</display-name>
     <country>GB</country>
   </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -273,6 +277,11 @@
   <programme start="20260812100000 -0400" stop="20260812110000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260812100000 -0400" stop="20260812130000 -0400" channel="NFL Network.US">
+    <title>Inside Training Camp Live</title>
+    <desc>Inside Training Camp Live is a sports talk-show that provides coverage of NFL Training Camps across the country with exclusive access and live reports from all 32 NFL teams as they prepare for the upcoming season.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260812110000 -0400" stop="20260812120000 -0400" channel="Fox News Channel.US">
@@ -3160,6 +3169,11 @@
     <desc>Panorama is a current affairs programme, featuring interviews and investigative reports on a wide variety of subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260817200000 -0400" stop="20260817210000 -0400" channel="5.GB">
+    <title>Street Cops: Catching the Yobs</title>
+    <desc>Following Britain's police as they head out to clean up the streets.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260817203000 -0400" stop="20260817210000 -0400" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -3263,6 +3277,11 @@
   <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="Channel 4.GB">
     <title>Celebrity Hunted</title>
     <desc>Seven famous faces join Channel 4's hit real-life thriller, for Stand Up to Cancer. Can they survive 14 days on the run from an elite team of hunters?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="CTV.CA">
+    <title>The Amazing Race Canada</title>
+    <desc>The Amazing Race Canada will provide a uniquely Canadian take on the original series, with competitors discovering the world within the borders of Canada.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260812060000 -0400" stop="20260812090000 -0400" channel="ABC.AU">
