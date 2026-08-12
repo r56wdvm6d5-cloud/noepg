@@ -144,7 +144,7 @@
     <display-name>Discovery</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260811000000 -0400" stop="20260811020000 -0400" channel="CNN.US">
+  <programme start="20260811000000 -0400" stop="20260811030000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
@@ -3427,6 +3427,11 @@
   <programme start="20260818193000 -0400" stop="20260818200000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260818200000 -0400" stop="20260818203000 -0400" channel="ABC.AU">
+    <title>Foreign Correspondent</title>
+    <desc>Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260818203000 -0400" stop="20260818210000 -0400" channel="ABC.AU">
