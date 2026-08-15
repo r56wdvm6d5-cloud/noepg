@@ -1260,6 +1260,11 @@
     <desc>Wilderness experts confront people living on the edge of survival to make them choose between a professional rescue and continuing to live under dangerous conditions.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260818200000 -0400" stop="20260818210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="History.US">
     <title>The Secret of Skinwalker Ranch</title>
     <desc>Gaining full and unprecedented access to one of the most infamous and secretive hotspots of paranormal and UFO-related activities on earth, The Secret of Skinwalker Ranch will feature a team of scientists and experts who will conduct a thorough search of this infamous 512-acre property located in Utah's Uinta Basin. They will attempt to find out the truth behind more than 200 years of mysteries - involving everything from UFO sightings and paranormal activities to animal mutilations and Native American legends of a shape-shifting creature known simply as The Skinwalker.</desc>
@@ -1288,6 +1293,11 @@
   <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="Fox News Channel.US">
     <title>Hannity</title>
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260818210200 -0400" stop="20260818220000 -0400" channel="FOX.US">
@@ -1745,6 +1755,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260819200000 -0400" stop="20260819210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260819210000 -0400" stop="20260819223400 -0400" channel="History.US">
     <title>Alone</title>
     <desc>Alone places ten hardcore survivalists alone in the wilderness - no camera crew, no teams, no producers - on a single mission to stay alive. At stake is $500,000 awarded to the person who can last the longest. They will face extreme isolation and psychological distress as they plunge into the unknown, self-documenting their experience.</desc>
@@ -1788,6 +1803,11 @@
   <programme start="20260819210000 -0400" stop="20260819213000 -0400" channel="ESPN.US">
     <title>E:60</title>
     <desc>E:60 is ESPN's first multi-subject prime-time newsmagazine program offering a combination of investigative features, profiles of intriguing sports personalities, and cutting edge stories on innovation in the sports world, including emerging sports and new technology. The series will tell life stories that relate or have a basis in sports, melding its stories with a glimpse of the reporters' experiences discussing the story ideas. The show will be produced and aired in high definition, a first for the newsmagazine genre.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260819210000 -0400" stop="20260819220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260819210200 -0400" stop="20260819220000 -0400" channel="FOX.US">
@@ -2230,6 +2250,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260820200000 -0400" stop="20260820210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260820210000 -0400" stop="20260820220300 -0400" channel="History.US">
     <title>Secrets Declassified with David Duchovny</title>
     <desc>Secrets Declassified tells the incredible stories of government secrets that have only recently come to light. This series proves that secrets can be uncovered, and mysteries can still be unraveled." Each episode will find Duchovny focusing on a different topic, speaking with different experts. Subjects include the real-life story behind Argo and the mystery of the Area 51 conspiracy. Mulder would approve.From black ops and bizarre experiments to deadly cover-ups and nefarious gadgets, David Duchovny pulls the curtain back on all the government secrets in modern history we always suspected, but were never given the answers to. Through the strange and shocking things countries the world over ? and those who work for them ? have done in the name of national interest, we?ll investigate the explosive evidence from newly declassified files that will finally shine a new light on what?s really going on deep in the shadows.</desc>
@@ -2268,6 +2293,11 @@
   <programme start="20260820210000 -0400" stop="20260820220000 -0400" channel="Fox News Channel.US">
     <title>Hannity</title>
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260820210000 -0400" stop="20260820220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260820220000 -0400" stop="20260820230000 -0400" channel="MS NOW.US">
@@ -2690,6 +2720,11 @@
     <desc>It's the deadliest job on earth: crab fishing off the Alaskan coast on the icy Bering Sea. These adventurers will battle Arctic weather, brutal waves, and a ticking clock for big money in this modern-day gold rush from which they may never return.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260821200000 -0400" stop="20260821210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260821203000 -0400" stop="20260821210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -2733,6 +2768,11 @@
   <programme start="20260821210000 -0400" stop="20260822000000 -0400" channel="PBS.US">
     <title>Great Performances at the Met</title>
     <desc>Opera lovers, rejoice! If you can't make it to New York to see a performance at the Metropolitan Opera, the next best thing to being there is to see one of its Saturday matinees broadcast on PBS on Great Performances at the Met. Originally aired as part of its "Great Performances" series, the programs got their own title in 2006. With operatic standards like "Aida", "The Barber of Seville" and "Turandot" and performances by some of opera's biggest names, including Reneé Flemming, Placido Domingo and Anna Netrebko, the series brings the best of modern opera into American homes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260821210000 -0400" stop="20260821220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260821213000 -0400" stop="20260821220000 -0400" channel="The CW.US">
