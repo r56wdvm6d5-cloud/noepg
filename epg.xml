@@ -80,6 +80,10 @@
     <display-name>PBS</display-name>
     <country>US</country>
   </channel>
+  <channel id="National Geographic.US">
+    <display-name>National Geographic</display-name>
+    <country>US</country>
+  </channel>
   <channel id="STARZ.US">
     <display-name>STARZ</display-name>
     <country>US</country>
@@ -1265,6 +1269,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260818220000 -0400" stop="20260818230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260818223000 -0400" stop="20260818230000 -0400" channel="NBC.US">
     <title>Password</title>
     <desc>Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.</desc>
@@ -1303,6 +1312,16 @@
   <programme start="20260818233500 -0400" stop="20260819003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260818000000 -0400" stop="20260818020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260818000000 -0400" stop="20260818020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260818020000 -0400" stop="20260818030000 -0400" channel="ABC.US">
@@ -1740,6 +1759,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260819210000 -0400" stop="20260819220000 -0400" channel="National Geographic.US">
+    <title>LION</title>
+    <desc />
+    <category>TV Show</category>
+  </programme>
   <programme start="20260819210200 -0400" stop="20260819220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -1775,6 +1799,16 @@
     <desc>Booked: First Day In follows arrested individuals through America's booking process, offering an extraordinary look at the most unusual, bizarre and often tense bookings. Every day in America around 25,000 people are arrested and booked into jail, each one-hour episode will follow the story of an arrestee, with their permission, as they move through the system and recount what ultimately led them to their time in jail. From petty offenses to serious crimes, viewers will be taken on a harrowing adventure while they watch the arrestees throughout the booking process.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260819220000 -0400" stop="20260819230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260819220000 -0400" stop="20260819230000 -0400" channel="National Geographic.US">
+    <title>LION</title>
+    <desc />
+    <category>TV Show</category>
+  </programme>
   <programme start="20260819223400 -0400" stop="20260819233400 -0400" channel="History.US">
     <title>Forged in Fire</title>
     <desc>Forged in Fire features world-class bladesmiths competing against each other to create some of the most iconic edged weapons from history. In each episode, four of the best bladesmiths in the country will come together to put both their skills and reputations on the line. Whether they are making a Japanese katana, a medieval broadsword, or an ancient throwing blade like the chakram, the weapons they forge will be fully functional and lethal works of art and war. The unique histories contained within each weapon will be creatively told during the forging process and the final weapons themselves will be assessed and ruthlessly tested by our panel of expert judges. These dynamic and explosive tests will be individually designed to push the weapons to their absolute limit. One by one, the bladesmiths will be eliminated until only one remains to be crowned the champion.</desc>
@@ -1808,6 +1842,16 @@
   <programme start="20260819233500 -0400" stop="20260820003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260819000000 -0400" stop="20260819020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260819000000 -0400" stop="20260819020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260819020000 -0400" stop="20260819030000 -0400" channel="ABC.US">
@@ -2250,6 +2294,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260820220000 -0400" stop="20260820230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260820220100 -0400" stop="20260820230400 -0400" channel="A&amp;E.US">
     <title>Accused: Guilty or Innocent?</title>
     <desc>Accused: Guilty or Innocent? offers an intimate account of what happens when someone is formally charged with a crime and sent to trial – all solely from the perspective of the accused, their legal team and family members.</desc>
@@ -2288,6 +2337,16 @@
   <programme start="20260820233500 -0400" stop="20260821003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260820000000 -0400" stop="20260820020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260820000000 -0400" stop="20260820020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260820020000 -0400" stop="20260820030000 -0400" channel="ABC.US">
@@ -2730,6 +2789,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260821220000 -0400" stop="20260821230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260821230000 -0400" stop="20260822000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -2748,6 +2812,16 @@
   <programme start="20260821230000 -0400" stop="20260822000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260821000000 -0400" stop="20260821020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260821000000 -0400" stop="20260821020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260821020000 -0400" stop="20260821030000 -0400" channel="ABC.US">
@@ -3005,6 +3079,11 @@
     <desc>Amateur sewers take on challenges as they compete to be named Britain's best home sewer.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260818200000 -0400" stop="20260818210000 -0400" channel="BBC Two.GB">
+    <title>Saving Lives at Sea</title>
+    <desc>Documentary following the men and women of the Royal National Lifeboat Institution (RNLI).</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="Quest.GB">
     <title>Johnny Vegas' Little Shop of Antiques</title>
     <desc>Actor and comedian Johnny Vegas embarks on a new adventure: opening an antiques shop in Lancashire. Can he turn his ramshackle dream into a business?</desc>
@@ -3023,6 +3102,11 @@
   <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="Channel 4.GB">
     <title>Celebrity Hunted</title>
     <desc>Seven famous faces join Channel 4's hit real-life thriller, for Stand Up to Cancer. Can they survive 14 days on the run from an elite team of hunters?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260818210000 -0400" stop="20260818220000 -0400" channel="BBC Two.GB">
+    <title>Emergency 24/7</title>
+    <desc>In the race to save lives, every second counts. Witness up close how a team comes together to care for A&amp;amp;E's most critically ill patients.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260819070000 -0400" stop="20260819072200 -0400" channel="ITV1.GB">
