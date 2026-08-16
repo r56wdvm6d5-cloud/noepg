@@ -695,6 +695,11 @@
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260817200000 -0400" stop="20260817210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Border</title>
+    <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260817210000 -0400" stop="20260817220000 -0400" channel="FOX.US">
     <title>The Quiz with Balls</title>
     <desc>The Quiz with Balls pits brains against balls combining a high-stakes quiz show with a large-scale physical competition. Each episode features two families competing for $100,000 in a "battle of the balls".</desc>
@@ -3118,6 +3123,11 @@
   <programme start="20260820185500 -0400" stop="20260820190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260820193000 -0400" stop="20260820200000 -0400" channel="ITV1.GB">
+    <title>Tom Kerridge Cooks...</title>
+    <desc>Tom Kerridge hits the road in his 1950s food truck to discover wonderful produce, cooking with the ingredients he finds along the way.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260820195500 -0400" stop="20260820200000 -0400" channel="5.GB">
