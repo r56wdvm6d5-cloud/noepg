@@ -3244,6 +3244,21 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260820200000 -0400" stop="20260820210000 -0400" channel="BBC One.GB">
+    <title>Dragons' Den</title>
+    <desc>Series in which budding entrepreneurs get three minutes to pitch their business ideas to five multi-millionaires willing to invest their own cash.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260820200000 -0400" stop="20260820210000 -0400" channel="Channel 4.GB">
+    <title>Renovation Rescue</title>
+    <desc>Vogue Williams and Luke Mabbott will pick up where the bad builders have left off, bringing their expertise, warmth and passion to help homeowners wanting to transform their home all by themselves. The series will follow ambitious renovations as Vogue and Luke share money-saving skills, offer design inspiration, and demonstrate simple DIY techniques anyone can try at home! Together they will prove just how easy, satisfying, and cost effective it can be to pick up a power tool and get your hands dirty!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260820200000 -0400" stop="20260820210000 -0400" channel="5.GB">
+    <title>The Yorkshire Vet</title>
+    <desc>The Yorkshire Vet is a documentary series about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260820210000 -0400" stop="20260820220000 -0400" channel="5.GB">
     <title>Benidorm Is Murder</title>
     <desc>Former detective Dennis Crown has swapped the chaos of the UK for a quieter life running a bar in Benidorm. But when tourists start turning up dead, he's reluctantly drawn back into detective work—egged on by his barmaid Rosa, a crime drama superfan. With Dennis's real-world experience and Rosa's encyclopaedic TV knowledge, each episode sees the duo tackling a new murder in paradise, whilst trying to remain on the right side of the local Spanish cops.</desc>
