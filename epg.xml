@@ -1887,6 +1887,11 @@
     <desc>The Mega-Brands That Built America is the newest series in History's "That Built" franchise, telling the origin stories of some of the most successful businesses in history: from mega-stores like Costco and Walmart to sporting goods giants like Spalding and Wilson, titans like Ivory Soap, Schick and Gillette, to shipping giants like Fedex and UPS, and countless more of the biggest brand names in history. Each story is told through the "That Built" franchises' signature blend of expert interviews and archival, mixed with original premium recreations. Through the eyes of the visionaries and entrepreneurs behind the brands, the series takes viewers on a journey; starting with how it all began, following the innovations, the failures, and all the incredible achievements that forever changed the way Americans live. It's everything you didn't know about the colossal brands you know so well.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260823230000 -0400" stop="20260823234100 -0400" channel="HBO.US">
+    <title>Last Week Tonight with John Oliver</title>
+    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260824050000 -0400" stop="20260824060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -3070,6 +3075,11 @@
   <programme start="20260821220000 -0400" stop="20260821230500 -0400" channel="Channel 4.GB">
     <title>Big Fat Quiz: Best Bits</title>
     <desc>This new series of special compilation episodes looks back on the biggest laughs from 20 years of Big Fat Quizzing on Channel 4.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260822154500 -0400" stop="20260822172500 -0400" channel="BBC One.GB">
+    <title>Final Score</title>
+    <desc>Final Score provides the latest football results as they come in, covering the Premiership, Football League, Non-League and Scottish League's.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260822174500 -0400" stop="20260822182800 -0400" channel="BBC One.GB">
