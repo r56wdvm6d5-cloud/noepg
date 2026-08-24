@@ -2641,6 +2641,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260828220000 -0400" stop="20260828230000 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260828230000 -0400" stop="20260829000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -3026,6 +3031,11 @@
     <desc>Documentary following the men and women of the Royal National Lifeboat Institution (RNLI).</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260825200000 -0400" stop="20260825210000 -0400" channel="5.GB">
+    <title>The Motorway Cops: Catching Britain's Speeders</title>
+    <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260825210000 -0400" stop="20260825220000 -0400" channel="Channel 4.GB">
     <title>Celebrity Hunted</title>
     <desc>Seven famous faces join Channel 4's hit real-life thriller, for Stand Up to Cancer. Can they survive 14 days on the run from an elite team of hunters?</desc>
@@ -3034,6 +3044,16 @@
   <programme start="20260825210000 -0400" stop="20260825220000 -0400" channel="BBC Two.GB">
     <title>Emergency 24/7</title>
     <desc>In the race to save lives, every second counts. Witness up close how a team comes together to care for A&amp;amp;E's most critically ill patients.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260825210000 -0400" stop="20260825223000 -0400" channel="5.GB">
+    <title>Rich Lives, Poor Lives</title>
+    <desc>In Rich Lives, Poor Lives, Rob and Ruth follow the stories of real people who lived through extraordinary moments in British history - from Emperor Hadrian's visit to Britain, to the arrival of the Spanish Armada and Railway mania in the 1840s.They uncover gripping stories of survival, resilience, and question how wealth shaped your experience. Was it luck, grit, or the size of your bank balance that got you through?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260825210000 -0400" stop="20260825220000 -0400" channel="Quest.GB">
+    <title>Johnny Vegas' Little Shop of Antiques</title>
+    <desc>Actor and comedian Johnny Vegas embarks on a new adventure: opening an antiques shop in Lancashire. Can he turn his ramshackle dream into a business?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260826070000 -0400" stop="20260826072200 -0400" channel="ITV1.GB">
@@ -3084,6 +3104,11 @@
   <programme start="20260826200000 -0400" stop="20260826210000 -0400" channel="Channel 4.GB">
     <title>Love It or List It: Brilliant Builds</title>
     <desc>Kirstie Allsopp and Phil Spencer look back at some of their most resplendent renovations, and deliver handy tips and tricks to help us maximise the spend on our precious bricks and mortar.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260826210000 -0400" stop="20260826220000 -0400" channel="Channel 4.GB">
+    <title>The Murder Detective</title>
+    <desc>A gripping real-world thriller, seven years in the making, telling the inside story of the complex, high-risk police investigation into the murder of journalist Lyra McKee</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260826220000 -0400" stop="20260826230000 -0400" channel="Discovery.GB">
@@ -3161,6 +3186,11 @@
     <desc>Filmed aboard Princess Cruises and Regent Seven Seas Cruises ships, the series follows the highs and lows of working life at sea, from demanding shifts and missing home to late-night camaraderie with colleagues and off-duty adventures as the ships call at some of the world's most spectacular destinations. For the crew it's a glamorous, all-encompassing job which sees personal and professional lives intertwine – and the Cruising Paradise cameras will cover all the fun, friendships and romance that unfolds during a season onboard. A select group of passengers will also feature throughout the series – from first-time cruisers to experienced travellers enjoying the wonder of these ships for the first time – offering viewers a fascinating window into what many young Brits now consider to be the ultimate #holidaygoals.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260827210000 -0400" stop="20260827220000 -0400" channel="Channel 4.GB">
+    <title>The Murder Detective</title>
+    <desc>A gripping real-world thriller, seven years in the making, telling the inside story of the complex, high-risk police investigation into the murder of journalist Lyra McKee</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260828070000 -0400" stop="20260828072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -3199,6 +3229,11 @@
   <programme start="20260828200000 -0400" stop="20260828203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260828210000 -0400" stop="20260828221000 -0400" channel="Channel 4.GB">
+    <title>The Murder Detective</title>
+    <desc>A gripping real-world thriller, seven years in the making, telling the inside story of the complex, high-risk police investigation into the murder of journalist Lyra McKee</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260829154500 -0400" stop="20260829163000 -0400" channel="BBC One.GB">
