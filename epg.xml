@@ -124,6 +124,10 @@
     <display-name>E4</display-name>
     <country>GB</country>
   </channel>
+  <channel id="Sky Arts.GB">
+    <display-name>Sky Arts</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Comedy Central.GB">
     <display-name>Comedy Central</display-name>
     <country>GB</country>
@@ -3051,6 +3055,11 @@
     <desc>Highlights of the La Vuelta A Espana cycling competition.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260827193000 -0400" stop="20260827200000 -0400" channel="ITV1.GB">
+    <title>It'll Be Alright on the Night</title>
+    <desc>Hilarious out-takes from the worlds of TV, cinema and commercials. The blooper-snooper team uncover calamities and catastrophes from cutting room floors around the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260827195500 -0400" stop="20260827200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -3249,6 +3258,11 @@
   <programme start="20260831203000 -0400" stop="20260831210000 -0400" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260831210000 -0400" stop="20260831220000 -0400" channel="Sky Arts.GB">
+    <title>Tea with Judi Dench</title>
+    <desc>National treasure Dame Judi Dench invites her friends over for tea at her Surrey home. They swap star-studded stories from their careers on stage and screen.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260831210000 -0400" stop="20260831220000 -0400" channel="5.GB">
