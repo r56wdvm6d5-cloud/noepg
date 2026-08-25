@@ -2336,6 +2336,11 @@
     <desc>Under the impression that they are entering a standard 35-day group challenge at dawn, the survivalists instead begin their insertion adrift at sea overnight. With emergency flares shooting overhead, the survivalists must grab whatever limited resources they can before making their way ashore. Divided into four groups of three, the survivalists are stranded on a mysterious and isolated island on the lost coast of the Philippines, often described as the "Bermuda Triangle of Southeast Asia," due to its history of past shipwrecks and unexplained disappearances. The terrain offers both opportunities and risk, with a dense, resource-rich jungle that contains the remnants of those who came before. Teams work together to build shelters and tools from the wreckage, including a 300-foot primitive water aqueduct. In the surrounding seas, survivalists must contend with tiger and hammerhead sharks, stingrays, sea snakes and box jellyfish whose venom contains one of the ocean's most lethal toxins. Far removed from civilization and with no food, no fresh water and no clothing, the survivalists must adapt quickly, relying not only on their individual skills but also on their ability to innovate and salvage whatever they can from the environment. With each team receiving only one piece of the challenge map, they must track down the others and combine pieces to rescue themselves from the island on Day 35.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260830200000 -0400" stop="20260830210000 -0400" channel="CNN.US">
+    <title>The Whole Story with Anderson Cooper</title>
+    <desc>The Whole Story with Anderson Cooper is a collection of unique and immersive single-subject, one-hour episodes from CNN's Emmy®  and Peabody Award-winning long-form storytelling team.  The recurring weekly series will be hosted by Cooper and showcase character-driven stories, special interviews, profiles, and investigative deep dives featuring reporting from CNN's anchors and correspondents.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260830210000 -0400" stop="20260830220300 -0400" channel="History.US">
     <title>Hazardous History with Henry Winkler</title>
     <desc>The eight-episode fast-paced, nostalgia-fueled series will take viewers on a thrilling ride through America's past.</desc>
@@ -2986,9 +2991,19 @@
     <desc>Kirstie Allsopp and Phil Spencer look back at some of their most resplendent renovations, and deliver handy tips and tricks to help us maximise the spend on our precious bricks and mortar.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260826200000 -0400" stop="20260826210000 -0400" channel="5.GB">
+    <title>Call the Bailiffs: Time to Pay Up</title>
+    <desc>Series following the work of enforcement agents as they execute High Court writs on behalf of people desperate to recover money they are owed.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260826210000 -0400" stop="20260826220000 -0400" channel="Channel 4.GB">
     <title>The Murder Detective</title>
     <desc>A gripping real-world thriller, seven years in the making, telling the inside story of the complex, high-risk police investigation into the murder of journalist Lyra McKee</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260826210000 -0400" stop="20260826220000 -0400" channel="Quest.GB">
+    <title>The Yorkshire Auction House</title>
+    <desc>Auctioneer Angus Ashworth has been running his auction house for more than a decade. With the help of his team and family, he clears out cluttered homes, uncovering hidden gems that he can sell at auction.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260826220000 -0400" stop="20260826230000 -0400" channel="Discovery.GB">
