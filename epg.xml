@@ -270,11 +270,6 @@
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260826100000 -0400" stop="20260826120000 -0400" channel="ESPN.US">
-    <title>College Football Countdown</title>
-    <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260826100000 -0400" stop="20260826110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
@@ -3020,9 +3015,19 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260828200000 -0400" stop="20260828210000 -0400" channel="BBC Two.GB">
+    <title>Gardeners' World</title>
+    <desc>Gardening show packed with good ideas, tips, advice from experts and timely reminders to get the most out of your garden, whatever its size or type.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260828210000 -0400" stop="20260828221000 -0400" channel="Channel 4.GB">
     <title>The Murder Detective</title>
     <desc>A gripping real-world thriller, seven years in the making, telling the inside story of the complex, high-risk police investigation into the murder of journalist Lyra McKee</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260828224000 -0400" stop="20260829001000 -0400" channel="BBC One.GB">
+    <title>Reading and Leeds Festivals</title>
+    <desc>Coverage of the annual festivals that happen at Leeds and Reading.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260829154500 -0400" stop="20260829163000 -0400" channel="BBC One.GB">
@@ -3053,6 +3058,11 @@
   <programme start="20260829200000 -0400" stop="20260829203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260829233500 -0400" stop="20260830005000 -0400" channel="BBC One.GB">
+    <title>Reading and Leeds Festivals</title>
+    <desc>Coverage of the annual festivals that happen at Leeds and Reading.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260830070000 -0400" stop="20260830072200 -0400" channel="ITV1.GB">
@@ -3088,6 +3098,11 @@
   <programme start="20260830210000 -0400" stop="20260830220000 -0400" channel="5.GB">
     <title>Inside the Four Seasons Park Lane</title>
     <desc>You are cordially invited to check in for a five star stay at Four Seasons Hotel London at Park Lane! The iconic yet discreet hotel in the heart of London's Mayfair throws open its doors to cameras for the very first time as we learn the secrets of five-star service.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260830234000 -0400" stop="20260831005500 -0400" channel="BBC One.GB">
+    <title>Reading and Leeds Festivals</title>
+    <desc>Coverage of the annual festivals that happen at Leeds and Reading.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260831070000 -0400" stop="20260831072200 -0400" channel="ITV1.GB">
