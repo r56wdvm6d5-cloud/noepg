@@ -76,16 +76,16 @@
     <display-name>PBS</display-name>
     <country>US</country>
   </channel>
+  <channel id="The CW.US">
+    <display-name>The CW</display-name>
+    <country>US</country>
+  </channel>
   <channel id="HBO.US">
     <display-name>HBO</display-name>
     <country>US</country>
   </channel>
   <channel id="STARZ.US">
     <display-name>STARZ</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="The CW.US">
-    <display-name>The CW</display-name>
     <country>US</country>
   </channel>
   <channel id="ITV1.GB">
@@ -1068,6 +1068,11 @@
   <programme start="20260827200000 -0400" stop="20260827210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260827200000 -0400" stop="20260827230000 -0400" channel="The CW.US">
+    <title>Miss USA Pageant</title>
+    <desc>The Miss USA Pageant is a beauty contest that has been held annually since 1952 to select the United States entrant in the Miss Universe pageant. The Miss Universe Organization operates both pageants, as well as Miss Teen USA. In 2016 the pageant will air for the very first time on FOX TV.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260827210000 -0400" stop="20260827220000 -0400" channel="HBO.US">
@@ -3105,6 +3110,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260831180000 -0400" stop="20260831190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260831185500 -0400" stop="20260831190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -3180,6 +3190,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260901180000 -0400" stop="20260901190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260901185500 -0400" stop="20260901190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -3218,6 +3233,11 @@
   <programme start="20260901210000 -0400" stop="20260901220000 -0400" channel="Channel 4.GB">
     <title>The Jury: Murder Trial</title>
     <desc>How much can we trust our justice system? As a real-life murder trial is restaged for a jury of 12 ordinary people, will the jury reach the same verdict as the original trial?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260901210000 -0400" stop="20260901220000 -0400" channel="BBC Two.GB">
+    <title>Emergency 24/7</title>
+    <desc>In the race to save lives, every second counts. Witness up close how a team comes together to care for A&amp;amp;E's most critically ill patients.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260826060000 -0400" stop="20260826090000 -0400" channel="ABC.AU">
