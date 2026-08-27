@@ -44,10 +44,6 @@
     <display-name>Syndication</display-name>
     <country>US</country>
   </channel>
-  <channel id="ESPN.US">
-    <display-name>ESPN</display-name>
-    <country>US</country>
-  </channel>
   <channel id="Bravo.US">
     <display-name>Bravo</display-name>
     <country>US</country>
@@ -70,6 +66,10 @@
   </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="ESPN.US">
+    <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
   <channel id="Discovery.US">
@@ -255,11 +255,6 @@
   <programme start="20260827100000 -0400" stop="20260827120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260827100000 -0400" stop="20260827120000 -0400" channel="ESPN.US">
-    <title>First Take</title>
-    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260827100000 -0400" stop="20260827110000 -0400" channel="NBC.US">
@@ -2687,6 +2682,11 @@
     <desc>Booked: First Day In follows arrested individuals through America's booking process, offering an extraordinary look at the most unusual, bizarre and often tense bookings. Every day in America around 25,000 people are arrested and booked into jail, each one-hour episode will follow the story of an arrestee, with their permission, as they move through the system and recount what ultimately led them to their time in jail. From petty offenses to serious crimes, viewers will be taken on a harrowing adventure while they watch the arrestees throughout the booking process.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260902210000 -0400" stop="20260902220000 -0400" channel="Discovery.US">
+    <title>Expedition X</title>
+    <desc>In Expedition X, Josh Gates joined by scientist Phil Torres and paranormal researcher Heather Amaro to investigate reports of supernatural encounters, mysterious creatures, and astonishing extraterrestrial phenomena. Whether trekking through the remote jungles of Cambodia in search of a legendary ape-man or exploring the secrets of the world's largest cave system right here in the United States, the Expedition X team is taking viewers to the stranger side of the unknown.Making her debut in Expedition X Season 8 is third-generation paranormal investigator Heather Amaro. Amaro notably replaced former host Jessica Chobot, who was one of the main stars of Expedition X for its first seven seasons.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260902210200 -0400" stop="20260902220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -2897,6 +2897,11 @@
     <desc>Highlights of the La Vuelta A Espana cycling competition.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260829190000 -0400" stop="20260829201500 -0400" channel="ITV1.GB">
+    <title>The Voice UK</title>
+    <desc>Join will.i.am and our other superstar coaches on their mission to find the next big thing for the music business. Alongside Will we have award-winning Jennifer Hudson, Lord of rock Gavin Rossdale and the legend that is Sir Tom Jones - all on the look out for the next big superstar. Will is promising magic, drama and lots of talent - and we can guarantee that this series of The Voice UK will not disappoint! The prize is a life-changing record deal with Polydor Records, one of the industry's most successful labels.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260829192500 -0400" stop="20260829193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2907,6 +2912,11 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260829222500 -0400" stop="20260829233500 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260829233500 -0400" stop="20260830005000 -0400" channel="BBC One.GB">
     <title>Reading and Leeds Festivals</title>
     <desc>Coverage of the annual festivals that happen at Leeds and Reading.</desc>
@@ -2915,6 +2925,16 @@
   <programme start="20260830070000 -0400" stop="20260830072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260830113000 -0400" stop="20260830123000 -0400" channel="ITV1.GB">
+    <title>The Joy of Pets</title>
+    <desc>Join Gaby Roslin and vet Dr Bolu Eso for a celebration of Britain's pets in this heartwarming series packed with extraordinary animals, incredible stories and plenty of surprises!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260830123000 -0400" stop="20260830130000 -0400" channel="ITV1.GB">
+    <title>Gary Barlow's Wine Tour</title>
+    <desc>Gary Barlow's Wine Tour follows the multi-platinum Take That star to explore another passion of his… discovering new food and wine!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260830190000 -0400" stop="20260830200000 -0400" channel="5.GB">
@@ -2945,6 +2965,11 @@
   <programme start="20260830210000 -0400" stop="20260830220000 -0400" channel="5.GB">
     <title>Inside the Four Seasons Park Lane</title>
     <desc>You are cordially invited to check in for a five star stay at Four Seasons Hotel London at Park Lane! The iconic yet discreet hotel in the heart of London's Mayfair throws open its doors to cameras for the very first time as we learn the secrets of five-star service.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260830223000 -0400" stop="20260830234000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260830234000 -0400" stop="20260831005500 -0400" channel="BBC One.GB">
