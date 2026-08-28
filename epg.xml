@@ -253,7 +253,7 @@
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260828100000 -0400" stop="20260828120000 -0400" channel="ESPN.US">
+  <programme start="20260828100000 -0400" stop="20260828110000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
@@ -403,11 +403,6 @@
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260828160000 -0400" stop="20260828170000 -0400" channel="ESPN.US">
-    <title>NFL Live</title>
-    <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260828170000 -0400" stop="20260828180000 -0400" channel="Newsmax.US">
     <title>Ed Henry the Big Take</title>
     <desc>Ed Henry offers his common-sense take on the news.</desc>
@@ -426,6 +421,11 @@
   <programme start="20260828170000 -0400" stop="20260828180000 -0400" channel="CNBC.US">
     <title>Fast Money</title>
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260828173000 -0400" stop="20260828180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260828180000 -0400" stop="20260828190000 -0400" channel="MS NOW.US">
@@ -788,6 +788,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260830183000 -0400" stop="20260830190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260830192000 -0400" stop="20260830220000 -0400" channel="NBC.US">
     <title>NBC Sunday Night Baseball</title>
     <desc>The new Sunday Night Baseball package marks the return of Major League Baseball to NBC for the first time in more than two decades. The debut marks the beginning of a new three-year partnership between NBCUniversal and Major League Baseball and it comes on the heels of the debut season of Sunday Night Basketball, the first of an 11-year agreement between NBCU and the NBA.</desc>
@@ -963,11 +968,6 @@
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260831100000 -0400" stop="20260831113000 -0400" channel="ESPN.US">
-    <title>First Take</title>
-    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260831100000 -0400" stop="20260831110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
@@ -1118,6 +1118,11 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260831173000 -0400" stop="20260831180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260831180000 -0400" stop="20260831190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1141,6 +1146,11 @@
   <programme start="20260831180000 -0400" stop="20260831190000 -0400" channel="CNBC.US">
     <title>Mad Money</title>
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260831183000 -0400" stop="20260831190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260831190000 -0400" stop="20260831200000 -0400" channel="MS NOW.US">
@@ -1448,7 +1458,7 @@
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260901100000 -0400" stop="20260901113000 -0400" channel="ESPN.US">
+  <programme start="20260901100000 -0400" stop="20260901110000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
@@ -1603,6 +1613,11 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260901173000 -0400" stop="20260901180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260901180000 -0400" stop="20260901190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1626,6 +1641,11 @@
   <programme start="20260901180000 -0400" stop="20260901190000 -0400" channel="CNBC.US">
     <title>Mad Money</title>
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260901183000 -0400" stop="20260901190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260901190000 -0400" stop="20260901200000 -0400" channel="MS NOW.US">
@@ -2058,6 +2078,11 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260902173000 -0400" stop="20260902180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260902180000 -0400" stop="20260902190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -2081,6 +2106,11 @@
   <programme start="20260902180000 -0400" stop="20260902190000 -0400" channel="CNBC.US">
     <title>Mad Money</title>
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260902183000 -0400" stop="20260902190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260902190000 -0400" stop="20260902200000 -0400" channel="MS NOW.US">
@@ -2146,11 +2176,6 @@
   <programme start="20260902200000 -0400" stop="20260902210000 -0400" channel="Fox News Channel.US">
     <title>Jesse Watters Primetime</title>
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260902210000 -0400" stop="20260902220000 -0400" channel="The CW.US">
-    <title>The Great American Road Rally: Celebrity Edition</title>
-    <desc>The series takes audiences on a high-energy journey across America's most iconic highway, combining adventure, competition, entertainment, community celebration, and philanthropy.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260902210000 -0400" stop="20260902220000 -0400" channel="MS NOW.US">
@@ -2523,6 +2548,11 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260903173000 -0400" stop="20260903180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260903180000 -0400" stop="20260903190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -2546,6 +2576,11 @@
   <programme start="20260903180000 -0400" stop="20260903190000 -0400" channel="CNBC.US">
     <title>Mad Money</title>
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260903183000 -0400" stop="20260903190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260903190000 -0400" stop="20260903200000 -0400" channel="MS NOW.US">
@@ -2733,6 +2768,11 @@
     <desc>Coverage of the annual festivals that happen at Leeds and Reading.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260829082500 -0400" stop="20260829092500 -0400" channel="ITV1.GB">
+    <title>Prue Leith's Cotswold Kitchen</title>
+    <desc>Prue Leith opens the doors to her Cotswold Kitchen, sharing cherished recipes, tips, and handy culinary hacks. Joined by her husband John and a cast of special friends, including Sandi Toksvig, Alison Hammond and chef Tommy Banks, each episode is a unique culinary adventure. Beyond the kitchen, Prue celebrates her personal food heroes both locally and beyond.  And husband John gets to grips with a varied mix of country activities on offer in the Cotswolds. The series is a celebration of food, friendship and fun – with easy-to-cook recipes for every occasion.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260829154500 -0400" stop="20260829163000 -0400" channel="BBC One.GB">
     <title>Final Score</title>
     <desc>Final Score provides the latest football results as they come in, covering the Premiership, Football League, Non-League and Scottish League's.</desc>
@@ -2823,6 +2863,16 @@
     <desc>You are cordially invited to check in for a five star stay at Four Seasons Hotel London at Park Lane! The iconic yet discreet hotel in the heart of London's Mayfair throws open its doors to cameras for the very first time as we learn the secrets of five-star service.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260830210000 -0400" stop="20260830221500 -0400" channel="Channel 4.GB">
+    <title>24 Hours in Police Custody</title>
+    <desc>Bedfordshire Police allowed more than 80 cameras to follow their work for this landmark documentary series from the makers of 24 Hours in A&amp;amp;E.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260830221500 -0400" stop="20260830231500 -0400" channel="Channel 4.GB">
+    <title>Love Cheats</title>
+    <desc>Extraordinary stories of romance fraud, exposing the lies and jaw-dropping scams of heartless manipulators; and the fight to bring them to justice.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260830223000 -0400" stop="20260830234000 -0400" channel="BBC One.GB">
     <title>Match of the Day</title>
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
@@ -2911,6 +2961,11 @@
   <programme start="20260831213000 -0400" stop="20260831220000 -0400" channel="Comedy Central.GB">
     <title>Stupid Central</title>
     <desc>Babatunde Aléshé presents funny videos from the internet.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260831220000 -0400" stop="20260831230500 -0400" channel="Channel 4.GB">
+    <title>Love Cheats</title>
+    <desc>Extraordinary stories of romance fraud, exposing the lies and jaw-dropping scams of heartless manipulators; and the fight to bring them to justice.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260901070000 -0400" stop="20260901072200 -0400" channel="ITV1.GB">
@@ -3143,6 +3198,11 @@
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260831193000 -0400" stop="20260831200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260831200000 -0400" stop="20260831211500 -0400" channel="ABC.AU">
     <title>Australian Story</title>
     <desc>These are the stories of who we are. Australian Story presents unique tales that provide an insight into Australian life with all its complexities and challenges.</desc>
@@ -3173,6 +3233,11 @@
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260901193000 -0400" stop="20260901200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260901200000 -0400" stop="20260901203000 -0400" channel="ABC.AU">
     <title>Foreign Correspondent</title>
     <desc>Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.</desc>
@@ -3191,6 +3256,11 @@
   <programme start="20260902120000 -0400" stop="20260902130000 -0400" channel="ABC.AU">
     <title>ABC News at Noon</title>
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260902193000 -0400" stop="20260902200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260902200000 -0400" stop="20260902203000 -0400" channel="ABC.AU">
@@ -3216,6 +3286,11 @@
   <programme start="20260903120000 -0400" stop="20260903130000 -0400" channel="ABC.AU">
     <title>ABC News at Noon</title>
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260903193000 -0400" stop="20260903200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260903230000 -0400" stop="20260903233000 -0400" channel="ABC.AU">
