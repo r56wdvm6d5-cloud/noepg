@@ -713,11 +713,6 @@
     <desc>American Ninja Warrior is an action-packed series that follows competitors as they tackle a series of challenging obstacle courses in both qualifying and finals rounds across the country. Those that successfully complete a course in their designated region move on to the national finals round in Las Vegas, where they face a stunning four-stage course modeled after the famed Mt. Midoriyama in Japan.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260831200000 -0400" stop="20260831210000 -0400" channel="FOX.US">
-    <title>Beat Shazam</title>
-    <desc>Beat Shazam is a unique and interactive game show in which teams of two race against the clock and each other as they attempt to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the world's most popular song identification app, for the chance to win a cash prize.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260831200000 -0400" stop="20260831210000 -0400" channel="Discovery.US">
     <title>Contraband: Seized at the Border</title>
     <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
@@ -751,6 +746,11 @@
   <programme start="20260831210000 -0400" stop="20260831220300 -0400" channel="History.US">
     <title>History's Greatest Mysteries</title>
     <desc>History's Greatest Mysteries will investigate a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Each program within the franchise will showcase fresh, new evidence and perspectives including never-before-released documents to the general public, personal diaries and DNA evidence to unearth brand-new information about these infamous and enigmatic chapters in history.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260831210000 -0400" stop="20260831220000 -0400" channel="FOX.US">
+    <title>Beat Shazam</title>
+    <desc>Beat Shazam is a unique and interactive game show in which teams of two race against the clock and each other as they attempt to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the world's most popular song identification app, for the chance to win a cash prize.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260831210000 -0400" stop="20260831220000 -0400" channel="MS NOW.US">
@@ -1208,6 +1208,11 @@
     <desc>Chef Gordon Ramsay of Hell's Kitchen fame is back, and this time he's hitting the road, exposing restaurants that are barely staying afloat.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260901200000 -0400" stop="20260901210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260901210000 -0400" stop="20260901220000 -0400" channel="HBO.US">
     <title>Hard Knocks</title>
     <desc>HBO Sports, NFL Films and the Seattle Seahawks team up for an all-access look at what it takes to make it in the National Football League when the first sports-based reality series - and one of the fastest-turnaround programs on TV.</desc>
@@ -1236,6 +1241,11 @@
   <programme start="20260901210000 -0400" stop="20260901220300 -0400" channel="History.US">
     <title>The Proof Is Out There</title>
     <desc>The Proof Is Out There takes an in-depth look at some of the most incredible and thought provoking videos of unexplained phenomena and mysterious must-see moments of all time. Each half-hour episode explores and analyzes the full story of each irregularity in question from bizarre footage of people seemingly immune to lightning, to a fifty-foot snake, apocalyptic sounds in a man's backyard, enigmatic creatures, and UFOS that split and dive underwater. Through expert examination and the use of the latest technologies, The Proof Is Out There aims to get to the bottom of what's real? What's fake? And everything in between.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260901210000 -0400" stop="20260901220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260901210200 -0400" stop="20260901220000 -0400" channel="FOX.US">
@@ -1268,6 +1278,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260901220000 -0400" stop="20260901230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260901220300 -0400" stop="20260901230500 -0400" channel="History.US">
     <title>The Proof Is Out There</title>
     <desc>The Proof Is Out There takes an in-depth look at some of the most incredible and thought provoking videos of unexplained phenomena and mysterious must-see moments of all time. Each half-hour episode explores and analyzes the full story of each irregularity in question from bizarre footage of people seemingly immune to lightning, to a fifty-foot snake, apocalyptic sounds in a man's backyard, enigmatic creatures, and UFOS that split and dive underwater. Through expert examination and the use of the latest technologies, The Proof Is Out There aims to get to the bottom of what's real? What's fake? And everything in between.</desc>
@@ -1296,6 +1311,16 @@
   <programme start="20260901230000 -0400" stop="20260902000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260901000000 -0400" stop="20260901020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260901000000 -0400" stop="20260901020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260901020000 -0400" stop="20260901030000 -0400" channel="ABC.US">
@@ -1673,6 +1698,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260902200000 -0400" stop="20260902210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260902210000 -0400" stop="20260902220000 -0400" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
@@ -1713,6 +1743,11 @@
     <desc>In Expedition X, Josh Gates joined by scientist Phil Torres and paranormal researcher Heather Amaro to investigate reports of supernatural encounters, mysterious creatures, and astonishing extraterrestrial phenomena. Whether trekking through the remote jungles of Cambodia in search of a legendary ape-man or exploring the secrets of the world's largest cave system right here in the United States, the Expedition X team is taking viewers to the stranger side of the unknown.Making her debut in Expedition X Season 8 is third-generation paranormal investigator Heather Amaro. Amaro notably replaced former host Jessica Chobot, who was one of the main stars of Expedition X for its first seven seasons.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260902210000 -0400" stop="20260902220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260902210200 -0400" stop="20260902220000 -0400" channel="FOX.US">
     <title>Nation's Dumbest</title>
     <desc>Nation's Dumbest is the first television show where the loser is the winner. Celebrities fight it out to be eliminated from the competition as quickly as possible to avoid being crowned the nation's dumbest. From influencers to wrestlers, comedians to politicians, the contestants are put to the test in a series of physical and mental rounds about all the things you really should know.</desc>
@@ -1743,6 +1778,11 @@
     <desc>Booked: First Day In follows arrested individuals through America's booking process, offering an extraordinary look at the most unusual, bizarre and often tense bookings. Every day in America around 25,000 people are arrested and booked into jail, each one-hour episode will follow the story of an arrestee, with their permission, as they move through the system and recount what ultimately led them to their time in jail. From petty offenses to serious crimes, viewers will be taken on a harrowing adventure while they watch the arrestees throughout the booking process.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260902220000 -0400" stop="20260902230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260902220100 -0400" stop="20260902230200 -0400" channel="Discovery.US">
     <title>How to Catch a Dirtbag</title>
     <desc>A new series featuring the 'investigations' of internet sensation Michael McWhorter, aka 'Tizzy Ent', who has popularized the art of internet crowd sourcing to help identify those who appear to do horrible things in public and seem to get away with it. With over 10 million social media followers, Tizzy's signature blend of humor and fearless tenacity has proven that the internet is just 'one big, small town' and sooner or later, justice will be served.The show features eight one-hour episodes that highlight and investigate viral clips of apparent bad behavior, using digital clues to help identify the alleged offender, get the real story behind the video, and sometimes even a conviction. Included are interviews with victims, witnesses, law enforcement, and occasionally the accused themselves, with each episode striving to explore the full arc from incident to outcome.</desc>
@@ -1766,6 +1806,16 @@
   <programme start="20260902230000 -0400" stop="20260903000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260902000000 -0400" stop="20260902020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260902000000 -0400" stop="20260902020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260902020000 -0400" stop="20260902030000 -0400" channel="ABC.US">
@@ -2143,6 +2193,11 @@
     <desc>These ladies show no signs of slowing down and although they may be enjoying the sunny SoCal lifestyle, replete with plastic surgery and frequent shopping sprees, real life still manages to find them, even in the land of excess and indulgence on The Real Housewives of Orange County.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260903200000 -0400" stop="20260903210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260903210000 -0400" stop="20260903220000 -0400" channel="HBO.US">
     <title>Monsters of God</title>
     <desc>Filmmaker Eric Goode follows his first love – reptiles – into the dark and gonzo underworld of exotic animal smuggling. In this global network, everyone is chasing the ultimate prize, whether it be owning the rarest of species, claiming the biggest fortunes, or taking down the most elusive criminals. The billion-dollar criminal enterprise is fueled by extreme obsession for these creatures, driving many to push the boundaries of laws and environmental ethics. As he digs deeper, Goode uncovers a labyrinth of outlaw traffickers, bombastic collectors, and the dogged law enforcement agents on their tails. Unfolding over decades, Monsters of God traces the evolution of the reptile trade as it skirts the Endangered Species Act of 1973 and grows into a secretive, high-stakes world of backroom dealings and fanatical collectors. With unprecedented access to the major players, from traffickers to animal enthusiasts to federal agents, Goode unravels a web of larger-than-life characters who run a complex international crime ring. A thrilling exposé of a hidden underworld, Monsters of God warns of the devastating impact of the insatiable desire for the forbidden, and how this mad obsession is pushing some species to the brink of extinction.</desc>
@@ -2163,6 +2218,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260903210000 -0400" stop="20260903220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260903220000 -0400" stop="20260903230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -2181,6 +2241,11 @@
   <programme start="20260903220000 -0400" stop="20260903230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260903220000 -0400" stop="20260903230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260903220300 -0400" stop="20260903230500 -0400" channel="History.US">
@@ -2206,6 +2271,16 @@
   <programme start="20260903230000 -0400" stop="20260904000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260903000000 -0400" stop="20260903020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260903000000 -0400" stop="20260903020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260903020000 -0400" stop="20260903030000 -0400" channel="ABC.US">
@@ -2323,6 +2398,11 @@
     <desc>It's the deadliest job on earth: crab fishing off the Alaskan coast on the icy Bering Sea. These adventurers will battle Arctic weather, brutal waves, and a ticking clock for big money in this modern-day gold rush from which they may never return.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260904200000 -0400" stop="20260904210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260904203000 -0400" stop="20260904210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -2336,6 +2416,11 @@
   <programme start="20260904210000 -0400" stop="20260904213000 -0400" channel="The CW.US">
     <title>Totally Funny Animals</title>
     <desc>Totally Funny Animals features caught-on-camera videos that highlight the outrageous and wacky world of animals. Hosted by comedian Andy Woodhull, this clip show features everything from sneezing cats and calamitous canines to dumpster-diving bears and rascally racoons.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260904210000 -0400" stop="20260904220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260904213000 -0400" stop="20260904220000 -0400" channel="The CW.US">
@@ -2353,9 +2438,19 @@
     <desc>Austin City Limits is an American television music program and a staple of the Public Broadcasting Service. Austin City Limits was initially created with an eye and ear toward original Texas music, featuring artists that created innovative new sounds in everything from western swing and Texas blues to Tejano music, progressive country and rock n' roll. The series went on to feature a wide range of American roots artists, covering a variety of styles and expanding beyond the borders of the Lone Star State. As the programs audience has grown, the music has encompassed regional, national and even international performers, and producer Terry Lickona continues to seek a balance of music genres in every new season. Austin City Limits today focuses on the unique contributions of diverse artists, music and songwriting from around the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260904220000 -0400" stop="20260904230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260904230000 -0400" stop="20260905000000 -0400" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260904000000 -0400" stop="20260904020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260829082500 -0400" stop="20260829092500 -0400" channel="ITV1.GB">
@@ -2736,6 +2831,11 @@
   <programme start="20260903200000 -0400" stop="20260903203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260903200000 -0400" stop="20260903210000 -0400" channel="BBC One.GB">
+    <title>Dragons' Den</title>
+    <desc>Series in which budding entrepreneurs get three minutes to pitch their business ideas to five multi-millionaires willing to invest their own cash.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260903210000 -0400" stop="20260903220000 -0400" channel="Channel 4.GB">
