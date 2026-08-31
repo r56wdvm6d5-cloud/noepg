@@ -243,6 +243,11 @@
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260831100000 -0400" stop="20260831113000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260831100000 -0400" stop="20260831110000 -0400" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
@@ -751,11 +756,6 @@
   <programme start="20260901100000 -0400" stop="20260901120000 -0400" channel="CNN.US">
     <title>The Situation Room</title>
     <desc>The Situation Room with Wolf Blitzer and Pamela Brown: The command center for breaking news, politics and extraordinary reports from around the world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260901100000 -0400" stop="20260901110000 -0400" channel="ESPN.US">
-    <title>First Take</title>
-    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260901100000 -0400" stop="20260901110000 -0400" channel="NBC.US">
@@ -2848,6 +2848,11 @@
     <desc>Documentary following the men and women of the Royal National Lifeboat Institution (RNLI).</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260901200000 -0400" stop="20260901210000 -0400" channel="5.GB">
+    <title>The Motorway Cops: Catching Britain's Speeders</title>
+    <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260901210000 -0400" stop="20260901220000 -0400" channel="5.GB">
     <title>The Game</title>
     <desc>A retired detective believes he's finally found the stalker from his unsolved case—but is he right, or losing his grip on what's real?</desc>
@@ -2866,6 +2871,11 @@
   <programme start="20260901210000 -0400" stop="20260901220000 -0400" channel="ITV1.GB">
     <title>True Crime Presents</title>
     <desc>A collection of true crime documentaries that cover a range of real-life offences and notorious offenders.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260901210000 -0400" stop="20260901220000 -0400" channel="Quest.GB">
+    <title>Johnny Vegas' Little Shop of Antiques</title>
+    <desc>Actor and comedian Johnny Vegas embarks on a new adventure: opening an antiques shop in Lancashire. Can he turn his ramshackle dream into a business?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260902070000 -0400" stop="20260902072200 -0400" channel="ITV1.GB">
