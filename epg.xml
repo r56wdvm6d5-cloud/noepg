@@ -2250,11 +2250,6 @@
     <desc>Beat Shazam is a unique and interactive game show in which teams of two race against the clock and each other as they attempt to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the world's most popular song identification app, for the chance to win a cash prize.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="CNN.US">
-    <title>Anderson Cooper 360°</title>
-    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="MS NOW.US">
     <title>All In with Chris Hayes</title>
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
@@ -2280,11 +2275,6 @@
     <desc>Over five intense days, 120 Hours Behind Bars delivers an unfiltered look inside America's toughest jails, where officers are outnumbered, cellblocks are overcrowded, and violence erupts without warning.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907210000 -0400" stop="20260907220000 -0400" channel="CNN.US">
-    <title>The Source with Kaitlan Collins</title>
-    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907210000 -0400" stop="20260907220000 -0400" channel="History.US">
     <title>History's Greatest Mysteries</title>
     <desc>History's Greatest Mysteries will investigate a wide range of historically compelling topics and the mysteries surrounding each including the Titanic, D.B. Cooper, Roswell, John Wilkes Booth, and more. Each program within the franchise will showcase fresh, new evidence and perspectives including never-before-released documents to the general public, personal diaries and DNA evidence to unearth brand-new information about these infamous and enigmatic chapters in history.</desc>
@@ -2295,11 +2285,6 @@
     <desc>POV (a cinema term for "point of view" ) is television's longest-running showcase for independent non-fiction films. POV premieres 14-16 of the best, boldest and most innovative programs every year on PBS. Since 1988, POV has presented over 400 films to public television audiences across the country. POV films are known for their intimacy, their unforgettable storytelling and their timeliness, putting a human face on contemporary social issues.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907220000 -0400" stop="20260907230000 -0400" channel="CNN.US">
-    <title>CNN NewsNight with Abby Phillip</title>
-    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907220000 -0400" stop="20260907230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -2308,11 +2293,6 @@
   <programme start="20260907230000 -0400" stop="20260908000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260907000000 -0400" stop="20260907020000 -0400" channel="CNN.US">
-    <title>The Story Is with Elex Michaelson</title>
-    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260901070000 -0400" stop="20260901072200 -0400" channel="ITV1.GB">
