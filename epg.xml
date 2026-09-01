@@ -116,6 +116,10 @@
     <display-name>Quest</display-name>
     <country>GB</country>
   </channel>
+  <channel id="Discovery.GB">
+    <display-name>Discovery</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -2500,6 +2504,11 @@
     <desc>Kirstie Allsopp and Phil Spencer look back at some of their most resplendent renovations, and deliver handy tips and tricks to help us maximise the spend on our precious bricks and mortar.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260902200000 -0400" stop="20260902210000 -0400" channel="BBC One.GB">
+    <title>The Repair Shop: Beyond the Barn</title>
+    <desc>The Repair Shop experts visit some of the people who have been reunited with cherished mementos.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260902210000 -0400" stop="20260902220000 -0400" channel="5.GB">
     <title>The Game</title>
     <desc>A retired detective believes he's finally found the stalker from his unsolved case—but is he right, or losing his grip on what's real?</desc>
@@ -2510,9 +2519,29 @@
     <desc>How much can we trust our justice system? As a real-life murder trial is restaged for a jury of 12 ordinary people, will the jury reach the same verdict as the original trial?</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260902210000 -0400" stop="20260902220000 -0400" channel="Quest.GB">
+    <title>The Yorkshire Auction House</title>
+    <desc>Auctioneer Angus Ashworth has been running his auction house for more than a decade. With the help of his team and family, he clears out cluttered homes, uncovering hidden gems that he can sell at auction.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260902220000 -0400" stop="20260902230000 -0400" channel="Channel 4.GB">
+    <title>9/11: Days That Shocked the World</title>
+    <desc>Rescue workers, survivors and witnesses relive the traumatic events of the September 11 terror attacks. Some tell their story for the first time, of how a regular morning turned into a nightmare.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260902220000 -0400" stop="20260902230000 -0400" channel="Discovery.GB">
+    <title>Mighty Truckers</title>
+    <desc>Being a truck driver isn't easy - long hours, huge loads and busy roads are just some of the issues. Truckers from Germany, Italy and Holland share their journeys.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260902224000 -0400" stop="20260902234000 -0400" channel="BBC One.GB">
     <title>Reading and Leeds Festivals</title>
     <desc>Coverage of the annual festivals that happen at Leeds and Reading.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260902230000 -0400" stop="20260903000000 -0400" channel="Channel 4.GB">
+    <title>9/11: Days That Shocked the World</title>
+    <desc>Rescue workers, survivors and witnesses relive the traumatic events of the September 11 terror attacks. Some tell their story for the first time, of how a regular morning turned into a nightmare.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260903070000 -0400" stop="20260903072200 -0400" channel="ITV1.GB">
@@ -2575,6 +2604,11 @@
     <desc>Series in which budding entrepreneurs get three minutes to pitch their business ideas to five multi-millionaires willing to invest their own cash.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260903200000 -0400" stop="20260903210000 -0400" channel="5.GB">
+    <title>The Yorkshire Vet</title>
+    <desc>The Yorkshire Vet is a documentary series about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260903210000 -0400" stop="20260903220000 -0400" channel="Channel 4.GB">
     <title>Taskmaster</title>
     <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
@@ -2583,6 +2617,11 @@
   <programme start="20260903210000 -0400" stop="20260903220000 -0400" channel="5.GB">
     <title>Benidorm Is Murder</title>
     <desc>Former detective Dennis Crown has swapped the chaos of the UK for a quieter life running a bar in Benidorm. But when tourists start turning up dead, he's reluctantly drawn back into detective work—egged on by his barmaid Rosa, a crime drama superfan. With Dennis's real-world experience and Rosa's encyclopaedic TV knowledge, each episode sees the duo tackling a new murder in paradise, whilst trying to remain on the right side of the local Spanish cops.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260903210000 -0400" stop="20260903220000 -0400" channel="ITV1.GB">
+    <title>Long Lost Family</title>
+    <desc>Long Lost Family traces &amp;amp; reunites family members, delivering some of the most emotionally powerful scenes ever seen on television.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260904070000 -0400" stop="20260904072200 -0400" channel="ITV1.GB">
@@ -2633,11 +2672,6 @@
   <programme start="20260904200000 -0400" stop="20260904210000 -0400" channel="BBC Two.GB">
     <title>Gardeners' World</title>
     <desc>Gardening show packed with good ideas, tips, advice from experts and timely reminders to get the most out of your garden, whatever its size or type.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260904210000 -0400" stop="20260904220000 -0400" channel="Quest.GB">
-    <title>The Yorkshire Auction House</title>
-    <desc>Auctioneer Angus Ashworth has been running his auction house for more than a decade. With the help of his team and family, he clears out cluttered homes, uncovering hidden gems that he can sell at auction.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260905082500 -0400" stop="20260905092500 -0400" channel="ITV1.GB">
