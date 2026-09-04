@@ -686,6 +686,11 @@
     <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260906090000 -0400" stop="20260906103000 -0400" channel="CBS.US">
+    <title>CBS News Sunday Morning</title>
+    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260906100000 -0400" stop="20260906130000 -0400" channel="MS NOW.US">
     <title>Connect with Jacob Soboroff</title>
     <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
