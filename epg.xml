@@ -128,6 +128,10 @@
     <display-name>CBC</display-name>
     <country>CA</country>
   </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -982,6 +986,11 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260907183000 -0400" stop="20260907190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="ESPN.US">
     <title>College Football Countdown</title>
     <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
@@ -1282,6 +1291,11 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260908183000 -0400" stop="20260908190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260908190000 -0400" stop="20260908200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1355,6 +1369,11 @@
   <programme start="20260908210000 -0400" stop="20260908220000 -0400" channel="Fox News Channel.US">
     <title>Hannity</title>
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260908210000 -0400" stop="20260908213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260908220000 -0400" stop="20260908230000 -0400" channel="NBC.US">
@@ -1617,6 +1636,11 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260909183000 -0400" stop="20260909190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260909190000 -0400" stop="20260909201500 -0400" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -1700,6 +1724,11 @@
   <programme start="20260909220000 -0400" stop="20260909230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260909220000 -0400" stop="20260909223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260909220100 -0400" stop="20260909230200 -0400" channel="Discovery.US">
@@ -1942,6 +1971,11 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910183000 -0400" stop="20260910190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910190000 -0400" stop="20260910210000 -0400" channel="Syndication.US">
     <title>Ring of Honor Wrestling</title>
     <desc>Hard-hitting pro-wrestling action from the stars of ROH.</desc>
@@ -1997,6 +2031,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910210000 -0400" stop="20260910213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910220000 -0400" stop="20260910230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -2020,6 +2059,11 @@
   <programme start="20260910230000 -0400" stop="20260911000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260910233500 -0400" stop="20260911003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260904070000 -0400" stop="20260904072200 -0400" channel="ITV1.GB">
@@ -2350,6 +2394,11 @@
   <programme start="20260908203000 -0400" stop="20260908210000 -0400" channel="CBC.CA">
     <title>Son of a Critch</title>
     <desc>Based on the award-winning, best-selling memoir from Mark Critch. This new original comedy is the hilarious and very real story of 11-year-old Mark coming of age in St. John's, Newfoundland in the 80s. It's a heartfelt window into the life of a child – much older inside than his 11 years – using comedy and self-deprecation to win friends and connect with the small collection of people in his limited world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260908210000 -0400" stop="20260908220000 -0400" channel="CTV.CA">
+    <title>The Amazing Race Canada</title>
+    <desc>The Amazing Race Canada will provide a uniquely Canadian take on the original series, with competitors discovering the world within the borders of Canada.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260904060000 -0400" stop="20260904090000 -0400" channel="ABC.AU">
