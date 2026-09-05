@@ -626,14 +626,14 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="ESPN.US">
-    <title>College Football Countdown</title>
-    <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="ESPN.US">
+    <title>College Football Countdown</title>
+    <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="Fox News Channel.US">
@@ -646,6 +646,11 @@
     <desc>When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds — Compton and Beverly Hills — begin to collide. Inspired by the life of pro football player Spencer Paysinger.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="MS NOW.US">
+    <title>All In with Chris Hayes</title>
+    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="Bravo.US">
     <title>Below Deck Mediterranean</title>
     <desc>With a new boat, new location, and new faces, the excitement, drama, and adventure of life aboard a private luxury yacht is taken to another level in the Mediterranean. Providing unparalleled service to wealthy and uncompromising guests is made even more difficult as the team faces everything from love triangles to seeing fellow crew members shockingly cross the line with guests. Voyaging from Santorini, Mykonos, and many of the Greek islands, each episode features a new group of elite clientele who present a new set of challenges, all while offering the crew a glamorous lifestyle and exotic perks that most people only dream of experiencing. For these young, attractive, and adventurous yachties, the "work hard, play harder" nature of the job combined with the pressure of working in the most exclusive yachting scene in the world pushes the team close to the breaking point on Below Deck Mediterranean.</desc>
@@ -654,11 +659,6 @@
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="FOX.US">
     <title>Beat Shazam</title>
     <desc>Beat Shazam is a unique and interactive game show in which teams of two race against the clock and each other as they attempt to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the world's most popular song identification app, for the chance to win a cash prize.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="MS NOW.US">
-    <title>All In with Chris Hayes</title>
-    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="Fox News Channel.US">
@@ -1341,6 +1341,11 @@
     <desc>In Expedition X, Josh Gates joined by scientist Phil Torres and paranormal researcher Heather Amaro to investigate reports of supernatural encounters, mysterious creatures, and astonishing extraterrestrial phenomena. Whether trekking through the remote jungles of Cambodia in search of a legendary ape-man or exploring the secrets of the world's largest cave system right here in the United States, the Expedition X team is taking viewers to the stranger side of the unknown.Making her debut in Expedition X Season 8 is third-generation paranormal investigator Heather Amaro. Amaro notably replaced former host Jessica Chobot, who was one of the main stars of Expedition X for its first seven seasons.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260909210000 -0400" stop="20260909220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260909210000 -0400" stop="20260909220000 -0400" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
@@ -1681,6 +1686,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910210000 -0400" stop="20260910220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910220000 -0400" stop="20260910230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1974,6 +1984,11 @@
   <programme start="20260911210000 -0400" stop="20260911220000 -0400" channel="Fox News Channel.US">
     <title>Hannity</title>
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911210000 -0400" stop="20260911220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911213000 -0400" stop="20260911220000 -0400" channel="The CW.US">
@@ -2274,6 +2289,16 @@
   <programme start="20260911193000 -0400" stop="20260911200000 -0400" channel="ITV1.GB">
     <title>Millionaire Hot Seat</title>
     <desc>Millionaire Hot Seat is a fast-paced, tactical twist on the classic format. Hosted by Jeremy Clarkson, the show places six contestants in a rotating "hot seat", demanding quick thinking, strategy and composure under pressure.Six contestants compete in a queue around the Hot Seat. Only the contestant currently in the Hot Seat can answer questions on the money ladder.Answer correctly → climb the ladderAnswer incorrectly → you're out, and the top prize drops. Pass → you stay in the game, but return to the back of the queue.Passed questions must be answered by the next player correctly to stay, answer incorrectly and they're out.Only the top remaining prize can be won.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911210000 -0400" stop="20260911220000 -0400" channel="Channel 4.GB">
+    <title>Gogglebox</title>
+    <desc>Gogglebox is a British observational documentary television show which has aired on Channel 4 since 2013. The show focuses on families, friends and couples from around the country in their living rooms watching the last week's of British television.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911220000 -0400" stop="20260911230500 -0400" channel="Channel 4.GB">
+    <title>Live From The Lycett Arms</title>
+    <desc>Joe Lycett presents comedy, celebrity chat and chaos from his own pub, open for only one hour a week on a Friday night, with a guest manager on hand to keep things ticking over as well as guests from the world of comedy, star-studded punters and other regulars.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260908200000 -0400" stop="20260908203000 -0400" channel="CBC.CA">
