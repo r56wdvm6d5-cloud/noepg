@@ -24,10 +24,6 @@
     <display-name>NBC</display-name>
     <country>US</country>
   </channel>
-  <channel id="NFL Network.US">
-    <display-name>NFL Network</display-name>
-    <country>US</country>
-  </channel>
   <channel id="CNN.US">
     <display-name>CNN</display-name>
     <country>US</country>
@@ -58,6 +54,10 @@
   </channel>
   <channel id="CNBC.US">
     <display-name>CNBC</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="NFL Network.US">
+    <display-name>NFL Network</display-name>
     <country>US</country>
   </channel>
   <channel id="The CW.US">
@@ -173,11 +173,6 @@
   <programme start="20260906083000 -0400" stop="20260906090000 -0400" channel="Discovery.US">
     <title>RV There Yet?</title>
     <desc>Explore America's national parks and check out the fun detours along the way! Featuring hacks to common RV challenges, cooking tips, best routs, must-have equipment, RV care and more!</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260906083000 -0400" stop="20260906090000 -0400" channel="NFL Network.US">
-    <title>NFL Films Presents</title>
-    <desc>NFL Films Presents is devoted to producing commercials, television programs, feature films, and documentaries on the National Football League, as well as other unrelated major events and awards shows. It is currently owned by the NFL and produces most of its videotaped content except its live game coverage, which is handled separately by the individual networks."</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260906090000 -0400" stop="20260906100000 -0400" channel="CNN.US">
@@ -695,6 +690,11 @@
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260908110000 -0400" stop="20260908120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260908120000 -0400" stop="20260908140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1010,6 +1010,11 @@
     <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260909083000 -0400" stop="20260909090000 -0400" channel="NFL Network.US">
+    <title>NFL Films Presents</title>
+    <desc>NFL Films Presents is devoted to producing commercials, television programs, feature films, and documentaries on the National Football League, as well as other unrelated major events and awards shows. It is currently owned by the NFL and produces most of its videotaped content except its live game coverage, which is handled separately by the individual networks."</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260909090000 -0400" stop="20260909110000 -0400" channel="MS NOW.US">
     <title>Money, Power, Politics with Stephanie Ruhle</title>
     <desc>Money, Power, Politics with Stephanie Ruhle, utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the "Nightcap" roundtable segment from her previous show, The 11th Hour</desc>
@@ -1053,6 +1058,11 @@
   <programme start="20260909110000 -0400" stop="20260909120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260909110000 -0400" stop="20260909120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260909120000 -0400" stop="20260909140000 -0400" channel="MS NOW.US">
@@ -1410,6 +1420,11 @@
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910110000 -0400" stop="20260910120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910120000 -0400" stop="20260910140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1580,7 +1595,7 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260910210000 -0400" stop="20260910214000 -0400" channel="HBO.US">
+  <programme start="20260910210000 -0400" stop="20260910220000 -0400" channel="HBO.US">
     <title>A Killer Story</title>
     <desc>A Killer Story examines a polarizing murder case that spanned more than two decades and captured national attention. At the center of the case is Dana Chandler, who was accused of killing her ex-husband and his girlfriend in 2002.</desc>
     <category>TV Show</category>
@@ -1733,6 +1748,11 @@
   <programme start="20260911110000 -0400" stop="20260911120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911110000 -0400" stop="20260911120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911120000 -0400" stop="20260911140000 -0400" channel="MS NOW.US">
@@ -2240,9 +2260,19 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260908160000 -0400" stop="20260908170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260908170000 -0400" stop="20260908180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260908180000 -0400" stop="20260908190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260908185500 -0400" stop="20260908190000 -0400" channel="5.GB">
@@ -2305,9 +2335,19 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260909160000 -0400" stop="20260909170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260909170000 -0400" stop="20260909180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260909180000 -0400" stop="20260909190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260909185500 -0400" stop="20260909190000 -0400" channel="5.GB">
@@ -2328,6 +2368,11 @@
   <programme start="20260909200000 -0400" stop="20260909210000 -0400" channel="BBC One.GB">
     <title>The Repair Shop: Beyond the Barn</title>
     <desc>The Repair Shop experts visit some of the people who have been reunited with cherished mementos.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260909200000 -0400" stop="20260909210000 -0400" channel="Channel 4.GB">
+    <title>Love It or List It: Brilliant Builds</title>
+    <desc>Kirstie Allsopp and Phil Spencer look back at some of their most resplendent renovations, and deliver handy tips and tricks to help us maximise the spend on our precious bricks and mortar.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260909210000 -0400" stop="20260909220000 -0400" channel="Quest.GB">
@@ -2360,9 +2405,19 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910160000 -0400" stop="20260910170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910170000 -0400" stop="20260910180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260910180000 -0400" stop="20260910190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260910185500 -0400" stop="20260910190000 -0400" channel="5.GB">
@@ -2410,9 +2465,19 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260911160000 -0400" stop="20260911170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260911170000 -0400" stop="20260911180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911180000 -0400" stop="20260911190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911185500 -0400" stop="20260911190000 -0400" channel="5.GB">
