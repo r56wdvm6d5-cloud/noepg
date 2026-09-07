@@ -322,6 +322,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260907183000 -0400" stop="20260907190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="ESPN.US">
     <title>College Football Countdown</title>
     <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
@@ -630,6 +635,11 @@
   <programme start="20260908183000 -0400" stop="20260908190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260908183000 -0400" stop="20260908190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260908190000 -0400" stop="20260908200000 -0400" channel="MS NOW.US">
@@ -1002,6 +1012,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260909183000 -0400" stop="20260909190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260909190000 -0400" stop="20260909201500 -0400" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -1367,6 +1382,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910183000 -0400" stop="20260910190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910190000 -0400" stop="20260910210000 -0400" channel="Syndication.US">
     <title>Ring of Honor Wrestling</title>
     <desc>Hard-hitting pro-wrestling action from the stars of ROH.</desc>
@@ -1685,6 +1705,11 @@
   <programme start="20260911183000 -0400" stop="20260911190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911183000 -0400" stop="20260911190000 -0400" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911190000 -0400" stop="20260911200000 -0400" channel="MS NOW.US">
