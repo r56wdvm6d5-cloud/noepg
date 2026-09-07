@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
-  <channel id="MS NOW.US">
-    <display-name>MS NOW</display-name>
-    <country>US</country>
-  </channel>
   <channel id="Fox News Channel.US">
     <display-name>Fox News Channel</display-name>
     <country>US</country>
   </channel>
   <channel id="CNBC.US">
     <display-name>CNBC</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="MS NOW.US">
+    <display-name>MS NOW</display-name>
     <country>US</country>
   </channel>
   <channel id="ABC.US">
@@ -52,12 +52,12 @@
     <display-name>History</display-name>
     <country>US</country>
   </channel>
-  <channel id="PBS.US">
-    <display-name>PBS</display-name>
-    <country>US</country>
-  </channel>
   <channel id="CNN.US">
     <display-name>CNN</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="PBS.US">
+    <display-name>PBS</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
@@ -132,11 +132,6 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20260907050000 -0400" stop="20260907060000 -0400" channel="MS NOW.US">
-    <title>Way Too Early</title>
-    <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907050000 -0400" stop="20260907060000 -0400" channel="Fox News Channel.US">
     <title>FOX &amp; Friends First</title>
     <desc>Kicking off the day, FOX &amp;amp; Friends First delivers all the headlines viewers may have missed overnight, along with a preview of upcoming news events. Presented two hours before FOX &amp;amp; Friends, the first hour of the program is hosted by Todd Piro and Carley Shimkus</desc>
@@ -307,11 +302,6 @@
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907180000 -0400" stop="20260907190000 -0400" channel="MS NOW.US">
-    <title>The Beat with Ari Melber</title>
-    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907180000 -0400" stop="20260907190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
@@ -332,11 +322,6 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="MS NOW.US">
-    <title>The Weeknight</title>
-    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907190000 -0400" stop="20260907200000 -0400" channel="ESPN.US">
     <title>College Football Countdown</title>
     <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
@@ -350,11 +335,6 @@
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="The CW.US">
     <title>All American</title>
     <desc>When a rising high school football player from South Central L.A. is recruited to play for Beverly Hills High, the wins, losses and struggles of two families from vastly different worlds — Compton and Beverly Hills — begin to collide. Inspired by the life of pro football player Spencer Paysinger.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="MS NOW.US">
-    <title>All In with Chris Hayes</title>
-    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907200000 -0400" stop="20260907210000 -0400" channel="Bravo.US">
@@ -382,11 +362,6 @@
     <desc>The new Sunday Night Baseball package marks the return of Major League Baseball to NBC for the first time in more than two decades. The debut marks the beginning of a new three-year partnership between NBCUniversal and Major League Baseball and it comes on the heels of the debut season of Sunday Night Basketball, the first of an 11-year agreement between NBCU and the NBA.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907210000 -0400" stop="20260907220000 -0400" channel="MS NOW.US">
-    <title>The Rachel Maddow Show</title>
-    <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907210000 -0400" stop="20260907220000 -0400" channel="FOX.US">
     <title>Beat Shazam</title>
     <desc>Beat Shazam is a unique and interactive game show in which teams of two race against the clock and each other as they attempt to identify the biggest hit songs of all time. In the end, the team with the highest score will outlast the competition and go against Shazam, the world's most popular song identification app, for the chance to win a cash prize.</desc>
@@ -407,14 +382,14 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260907210000 -0400" stop="20260907220000 -0400" channel="CNN.US">
+    <title>The Whole Story with Anderson Cooper</title>
+    <desc>The Whole Story with Anderson Cooper is a collection of unique and immersive single-subject, one-hour episodes from CNN's Emmy®  and Peabody Award-winning long-form storytelling team.  The recurring weekly series will be hosted by Cooper and showcase character-driven stories, special interviews, profiles, and investigative deep dives featuring reporting from CNN's anchors and correspondents.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260907220000 -0400" stop="20260907230000 -0400" channel="PBS.US">
     <title>POV</title>
     <desc>POV (a cinema term for "point of view" ) is television's longest-running showcase for independent non-fiction films. POV premieres 14-16 of the best, boldest and most innovative programs every year on PBS. Since 1988, POV has presented over 400 films to public television audiences across the country. POV films are known for their intimacy, their unforgettable storytelling and their timeliness, putting a human face on contemporary social issues.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260907220000 -0400" stop="20260907230000 -0400" channel="MS NOW.US">
-    <title>The Last Word with Lawrence O'Donnell</title>
-    <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907220000 -0400" stop="20260907230000 -0400" channel="Fox News Channel.US">
@@ -687,6 +662,11 @@
     <desc>Each Wednesday at 8:00 p.m. ET, WWE Superstars and Divas of tomorrow face off on WWE NXT, a one-hour weekly show that features the brightest and best of WWE's rising stars. WWE NXT showcases the Superstars and Divas from WWE's Performance Center as well as appearances from WWE Superstars and Legends in an intimate setting. WWE NXT broadcasts from the state-of-the-art Full Sail LIVE venue on the Full Sail University in campus in Orlando, Florida.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260908200000 -0400" stop="20260908210000 -0400" channel="MS NOW.US">
+    <title>All In with Chris Hayes</title>
+    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260908200000 -0400" stop="20260908210000 -0400" channel="FOX.US">
     <title>Kitchen Nightmares</title>
     <desc>Chef Gordon Ramsay of Hell's Kitchen fame is back, and this time he's hitting the road, exposing restaurants that are barely staying afloat.</desc>
@@ -695,11 +675,6 @@
   <programme start="20260908200000 -0400" stop="20260908210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260908200000 -0400" stop="20260908210000 -0400" channel="MS NOW.US">
-    <title>All In with Chris Hayes</title>
-    <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260908200000 -0400" stop="20260908210000 -0400" channel="Fox News Channel.US">
@@ -2485,6 +2460,11 @@
   <programme start="20260912230000 -0400" stop="20260913002500 -0400" channel="BBC One.GB">
     <title>Match of the Day</title>
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260913100000 -0400" stop="20260913130000 -0400" channel="Channel 4.GB">
+    <title>Sunday Brunch</title>
+    <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260913141500 -0400" stop="20260913145000 -0400" channel="BBC One.GB">
