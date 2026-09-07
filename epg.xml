@@ -8,10 +8,6 @@
     <display-name>CNBC</display-name>
     <country>US</country>
   </channel>
-  <channel id="MS NOW.US">
-    <display-name>MS NOW</display-name>
-    <country>US</country>
-  </channel>
   <channel id="ABC.US">
     <display-name>ABC</display-name>
     <country>US</country>
@@ -26,6 +22,10 @@
   </channel>
   <channel id="NFL Network.US">
     <display-name>NFL Network</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="MS NOW.US">
+    <display-name>MS NOW</display-name>
     <country>US</country>
   </channel>
   <channel id="ESPN.US">
@@ -142,11 +142,6 @@
     <desc>Morning Call, anchored by Morgan Brennan, delivers the essential market intelligence that drives the trading day ahead. The program captures breaking business news as it unfolds and tracks pre‑market equity moves, commodity swings, U.S. futures, and overnight action across global markets.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907060000 -0400" stop="20260907090000 -0400" channel="MS NOW.US">
-    <title>Morning Joe</title>
-    <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907060000 -0400" stop="20260907090000 -0400" channel="Fox News Channel.US">
     <title>FOX &amp; Friends</title>
     <desc>FOX &amp;amp; Friends is a conservative American early-morning news and opinion talk show on the Fox News Channel. It begins at 6:00 a.m. Eastern Time with the latest Fox News Live headlines and news of the morning and continues with a variety of segments including current events, interviews, updates of news stories with correspondents, right-leaning analysis from the hosts, and entertainment segments.</desc>
@@ -177,9 +172,14 @@
     <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907090000 -0400" stop="20260907110000 -0400" channel="MS NOW.US">
-    <title>Money, Power, Politics with Stephanie Ruhle</title>
-    <desc>Money, Power, Politics with Stephanie Ruhle, utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the "Nightcap" roundtable segment from her previous show, The 11th Hour</desc>
+  <programme start="20260907080000 -0400" stop="20260907090000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260907090000 -0400" stop="20260907120000 -0400" channel="MS NOW.US">
+    <title>State of Play with Peter Alexander</title>
+    <desc>State of Play focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907090000 -0400" stop="20260907100000 -0400" channel="NBC.US">
@@ -207,19 +207,9 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260907110000 -0400" stop="20260907120000 -0400" channel="MS NOW.US">
-    <title>State of Play with Peter Alexander</title>
-    <desc>State of Play focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260907110000 -0400" stop="20260907120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260907120000 -0400" stop="20260907140000 -0400" channel="MS NOW.US">
-    <title>On the Line with Alicia Menendez</title>
-    <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907120000 -0400" stop="20260907130000 -0400" channel="Fox News Channel.US">
@@ -230,6 +220,11 @@
   <programme start="20260907120000 -0400" stop="20260907130000 -0400" channel="CNBC.US">
     <title>Fast Money Halftime Report</title>
     <desc>The hot trades in the market from the floor of the New York Stock Exchange.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260907120000 -0400" stop="20260907160000 -0400" channel="MS NOW.US">
+    <title>MS NOW Reports</title>
+    <desc>MS NOW Reports (formerly MSNBC) offers a live, breaking news format focusing on top political stories, daily events, and human interest segments, providing in-depth coverage of US/world news, politics, and business with familiar anchors, emphasizing justice, truth, and impact on viewers, all under the new "MS NOW: My Source for News, Opinion, and the World" brand.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907123000 -0400" stop="20260907133000 -0400" channel="CBS.US">
@@ -255,11 +250,6 @@
   <programme start="20260907133000 -0400" stop="20260907140000 -0400" channel="CBS.US">
     <title>The Bold and the Beautiful</title>
     <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260907140000 -0400" stop="20260907160000 -0400" channel="MS NOW.US">
-    <title>The Moment with Katy Tur</title>
-    <desc>The Moment with Katy Tur is designed to move beyond the immediate headlines to provide deeper context and understanding of the political and national stories shaping the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907140000 -0400" stop="20260907150000 -0400" channel="CNBC.US">
@@ -300,6 +290,11 @@
   <programme start="20260907170000 -0400" stop="20260907180000 -0400" channel="CNBC.US">
     <title>Fast Money</title>
     <desc>Fast Money is a lively hour of exchange and debate takes place among four of Wall Street's leading traders. Segments include a look at the day's business-related stories in Page Two; the Takedown, in which panelists disagree and argue their points; the Chart of the Day, which offers a look at the stock of the day; and Trade School, in which host Melissa Lee defines Wall Street jargon used by a panelist or a guest.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260907180000 -0400" stop="20260907200000 -0400" channel="MS NOW.US">
+    <title>The 11th Hour with Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907180000 -0400" stop="20260907190000 -0400" channel="Fox News Channel.US">
@@ -400,11 +395,6 @@
   <programme start="20260907220000 -0400" stop="20260907230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260907230000 -0400" stop="20260908000000 -0400" channel="MS NOW.US">
-    <title>The 11th Hour with Ali Velshi</title>
-    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907230000 -0400" stop="20260908000000 -0400" channel="Fox News Channel.US">
@@ -1327,6 +1317,11 @@
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910160000 -0400" stop="20260910170000 -0400" channel="ESPN.US">
+    <title>NFL Live</title>
+    <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910160000 -0400" stop="20260910180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -2104,7 +2099,7 @@
   </programme>
   <programme start="20260907123000 -0400" stop="20260907133000 -0400" channel="ITV1.GB">
     <title>Loose Women</title>
-    <desc>Join the Loose Women panellists as they interview celebrity guests and discuss the day's most topical issues, from current affairs to celebrity gossip and the latest showbiz news.</desc>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260907124500 -0400" stop="20260907125000 -0400" channel="5.GB">
@@ -2272,6 +2267,11 @@
     <desc>Britain's best-loved stars and a host of fans celebrate the UK's favourite TV shows and top talent, as voted for by viewers across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260908200000 -0400" stop="20260908210000 -0400" channel="5.GB">
+    <title>The Motorway Cops: Catching Britain's Speeders</title>
+    <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260908210000 -0400" stop="20260908220000 -0400" channel="BBC Two.GB">
     <title>Emergency 24/7</title>
     <desc>In the race to save lives, every second counts. Witness up close how a team comes together to care for A&amp;amp;E's most critically ill patients.</desc>
@@ -2280,6 +2280,11 @@
   <programme start="20260908210000 -0400" stop="20260908220000 -0400" channel="Channel 4.GB">
     <title>The Jury: Murder Trial</title>
     <desc>How much can we trust our justice system? As a real-life murder trial is restaged for a jury of 12 ordinary people, will the jury reach the same verdict as the original trial?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260908210000 -0400" stop="20260908220000 -0400" channel="Quest.GB">
+    <title>Johnny Vegas' Little Shop of Antiques</title>
+    <desc>Actor and comedian Johnny Vegas embarks on a new adventure: opening an antiques shop in Lancashire. Can he turn his ramshackle dream into a business?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260909124500 -0400" stop="20260909125000 -0400" channel="5.GB">
@@ -2337,6 +2342,11 @@
     <desc>Kirstie Allsopp and Phil Spencer look back at some of their most resplendent renovations, and deliver handy tips and tricks to help us maximise the spend on our precious bricks and mortar.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260909200000 -0400" stop="20260909210000 -0400" channel="5.GB">
+    <title>Call the Bailiffs: Time to Pay Up</title>
+    <desc>Series following the work of enforcement agents as they execute High Court writs on behalf of people desperate to recover money they are owed.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260909210000 -0400" stop="20260909220000 -0400" channel="Quest.GB">
     <title>The Yorkshire Auction House</title>
     <desc>Auctioneer Angus Ashworth has been running his auction house for more than a decade. With the help of his team and family, he clears out cluttered homes, uncovering hidden gems that he can sell at auction.</desc>
@@ -2350,6 +2360,11 @@
   <programme start="20260909220000 -0400" stop="20260909230000 -0400" channel="Discovery.GB">
     <title>Mighty Truckers</title>
     <desc>Being a truck driver isn't easy - long hours, huge loads and busy roads are just some of the issues. Truckers from Germany, Italy and Holland share their journeys.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260909224000 -0400" stop="20260910000000 -0400" channel="BBC One.GB">
+    <title>UEFA Champions League Highlights</title>
+    <desc>The biggest names. The biggest games. All the goals and unmissable moments from Europe's greatest football club competition.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260910124500 -0400" stop="20260910125000 -0400" channel="5.GB">
@@ -2415,6 +2430,11 @@
   <programme start="20260910210000 -0400" stop="20260910220000 -0400" channel="ITV1.GB">
     <title>Long Lost Family</title>
     <desc>Long Lost Family traces &amp;amp; reunites family members, delivering some of the most emotionally powerful scenes ever seen on television.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260910224000 -0400" stop="20260910234000 -0400" channel="BBC One.GB">
+    <title>UEFA Champions League Highlights</title>
+    <desc>The biggest names. The biggest games. All the goals and unmissable moments from Europe's greatest football club competition.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911124500 -0400" stop="20260911125000 -0400" channel="5.GB">
