@@ -467,7 +467,7 @@
     <desc>The Proof Is Out There takes an in-depth look at some of the most incredible and thought provoking videos of unexplained phenomena and mysterious must-see moments of all time. Each half-hour episode explores and analyzes the full story of each irregularity in question from bizarre footage of people seemingly immune to lightning, to a fifty-foot snake, apocalyptic sounds in a man's backyard, enigmatic creatures, and UFOS that split and dive underwater. Through expert examination and the use of the latest technologies, The Proof Is Out There aims to get to the bottom of what's real? What's fake? And everything in between.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260908230000 -0400" stop="20260908233500 -0400" channel="Comedy Central.US">
+  <programme start="20260908230000 -0400" stop="20260909000000 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
     <category>TV Show</category>
@@ -2357,6 +2357,11 @@
     <desc>The Yorkshire Vet is a documentary series about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910200000 -0400" stop="20260910210000 -0400" channel="Channel 4.GB">
+    <title>Renovation Rescue</title>
+    <desc>Vogue Williams and Luke Mabbott will pick up where the bad builders have left off, bringing their expertise, warmth and passion to help homeowners wanting to transform their home all by themselves. The series will follow ambitious renovations as Vogue and Luke share money-saving skills, offer design inspiration, and demonstrate simple DIY techniques anyone can try at home! Together they will prove just how easy, satisfying, and cost effective it can be to pick up a power tool and get your hands dirty!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910210000 -0400" stop="20260910220000 -0400" channel="Channel 4.GB">
     <title>Taskmaster</title>
     <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
@@ -2440,6 +2445,11 @@
   <programme start="20260912192500 -0400" stop="20260912193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260912201500 -0400" stop="20260912210000 -0400" channel="BBC One.GB">
+    <title>The Celebrity Inner Circle</title>
+    <desc>Amanda Holden hosts the gripping, high-stakes quiz where celebs and contestants must outsmart each other to win big. It's not just what you know - it's who can you trust?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260912230000 -0400" stop="20260913002500 -0400" channel="BBC One.GB">
