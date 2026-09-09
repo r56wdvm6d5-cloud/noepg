@@ -407,6 +407,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260909200000 -0400" stop="20260909210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260909202000 -0400" stop="20260909235000 -0400" channel="NBC.US">
     <title>NBC Sunday Night Football</title>
     <desc>NBC Sunday Night Football is a weekly television broadcast of National Football League (NFL) games on NBC in the United States. It began airing on August 6, 2006 with the Pro Football Hall of Fame Game, which opened that year's preseason. NBC took over the rights to the Sunday prime time game telecasts from ESPN, which carried the broadcasts from 1987 to 2005 (concurrently with NBC assuming the rights to Sunday evening regular-season games).</desc>
@@ -505,6 +510,16 @@
   <programme start="20260909233500 -0400" stop="20260910003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260909000000 -0400" stop="20260909020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260909000000 -0400" stop="20260909020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260910050000 -0400" stop="20260910060000 -0400" channel="MS NOW.US">
@@ -782,6 +797,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260910200000 -0400" stop="20260910210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260910210000 -0400" stop="20260910220000 -0400" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
@@ -850,6 +870,16 @@
   <programme start="20260910233500 -0400" stop="20260911003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260910000000 -0400" stop="20260910020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260910000000 -0400" stop="20260910020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911050000 -0400" stop="20260911060000 -0400" channel="MS NOW.US">
@@ -1102,6 +1132,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260911200000 -0400" stop="20260911210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260911203000 -0400" stop="20260911210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -1165,6 +1200,16 @@
   <programme start="20260911230000 -0400" stop="20260912000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911000000 -0400" stop="20260911020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260911000000 -0400" stop="20260911020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260912060000 -0400" stop="20260912100000 -0400" channel="Fox News Channel.US">
@@ -1707,6 +1752,11 @@
     <desc>Created by Harry Salter, the one-hour game show tests contestants' music knowledge, as they battle it out in an assortment of challenging musical games for cash and prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260914200000 -0400" stop="20260914210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260914210000 -0400" stop="20260914220000 -0400" channel="MS NOW.US">
     <title>The Rachel Maddow Show</title>
     <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
@@ -1760,6 +1810,16 @@
   <programme start="20260914230000 -0400" stop="20260915000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260914000000 -0400" stop="20260914020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260914000000 -0400" stop="20260914020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260915050000 -0400" stop="20260915060000 -0400" channel="MS NOW.US">
