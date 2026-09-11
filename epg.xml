@@ -168,17 +168,17 @@
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260911070000 -0400" stop="20260911090000 -0400" channel="ABC.US">
+  <programme start="20260911070000 -0400" stop="20260911084500 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260911070000 -0400" stop="20260911073000 -0400" channel="NBC.US">
+  <programme start="20260911070000 -0400" stop="20260911083000 -0400" channel="NBC.US">
     <title>Today</title>
     <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260911070000 -0400" stop="20260911090000 -0400" channel="CBS.US">
+  <programme start="20260911070000 -0400" stop="20260911083000 -0400" channel="CBS.US">
     <title>CBS Mornings</title>
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
@@ -1073,6 +1073,11 @@
     <desc>Created by Harry Salter, the one-hour game show tests contestants' music knowledge, as they battle it out in an assortment of challenging musical games for cash and prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260914210000 -0400" stop="20260914213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260914220000 -0400" stop="20260914230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1383,6 +1388,11 @@
     <desc>The Real Housewives of New York City will feature an elite and powerful set of New York socialites as they juggle their careers and home lives with busy calendars packed with charity fund-raising galas, the social whirl of the Hamptons, and interviews for elite private schools. These driven and ambitious women show everyone what it takes to make it in the upper echelon of society, where money and status are an essential way of life.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260915210000 -0400" stop="20260915213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260915220000 -0400" stop="20260915230000 -0400" channel="NBC.US">
     <title>Password</title>
     <desc>Password is a reboot of the 1960s game show in which two teams, composed of a celebrity player and a contestant, attempt to convey mystery words to each other using only single-word clues in order to win a cash prize.</desc>
@@ -1426,6 +1436,11 @@
   <programme start="20260915233500 -0400" stop="20260916003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260915233500 -0400" stop="20260916003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260915020000 -0400" stop="20260915030000 -0400" channel="ABC.US">
@@ -1743,6 +1758,11 @@
     <desc>The very best episodes of Pawn Stars.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260916221500 -0400" stop="20260916224500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260916230000 -0400" stop="20260916233500 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
@@ -1761,6 +1781,11 @@
   <programme start="20260916233500 -0400" stop="20260917003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916233500 -0400" stop="20260917003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260916020000 -0400" stop="20260916030000 -0400" channel="ABC.US">
@@ -2038,6 +2063,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260917210000 -0400" stop="20260917213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260917220000 -0400" stop="20260917230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -2076,6 +2106,11 @@
   <programme start="20260917233500 -0400" stop="20260918003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917233500 -0400" stop="20260918003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911070000 -0400" stop="20260911072200 -0400" channel="ITV1.GB">
@@ -2213,6 +2248,11 @@
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260914070000 -0400" stop="20260914072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260914123000 -0400" stop="20260914133000 -0400" channel="ITV1.GB">
     <title>Loose Women</title>
     <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
@@ -2296,6 +2336,11 @@
   <programme start="20260914210000 -0400" stop="20260914220000 -0400" channel="Comedy Central.GB">
     <title>Iain Stirling's Roast the Internet</title>
     <desc>Iain Stirling's Roast The Internet is all about the very worst things on the internet (that he's legally able to talk about on broadcast television). Every episode, Iain roasts social clips, posts and trends, with three famous faces - comedians, online celebrities and TV personalities - joining him each week to tackle their own online bugbears. And alongside all the roasting, Iain and his guests also offer up some ingenious and hilarious solutions to the dumpster fire that is the online world.With outrageous clips, funny chat and top comedy performances, Iain and his guests take the internet down a peg or two, while all also secretly hoping their best bits will go viral.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260915070000 -0400" stop="20260915072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260915123000 -0400" stop="20260915133000 -0400" channel="ITV1.GB">
@@ -2416,6 +2461,11 @@
   <programme start="20260916210000 -0400" stop="20260916220000 -0400" channel="5.GB">
     <title>Forever Home</title>
     <desc>The series follows the story of a second wife dealing with the memories of the woman who went before her. When Carol discovers a long-dead body hidden in the basement of her home, the horrific realisation is undeniable – she's living with a killer. The story that her husband's first wife ran away never to be seen again now looks like a lie, and the fact he's insisted on never selling the house suddenly makes sense. But one dark family secret is soon to be replaced by another…</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917070000 -0400" stop="20260917072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260917123000 -0400" stop="20260917133000 -0400" channel="ITV1.GB">
