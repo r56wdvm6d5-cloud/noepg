@@ -723,6 +723,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260913183000 -0400" stop="20260913190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260913190000 -0400" stop="20260913201500 -0400" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -826,6 +831,11 @@
   <programme start="20260914070000 -0400" stop="20260914090000 -0400" channel="CBS.US">
     <title>CBS Mornings</title>
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260914070000 -0400" stop="20260914090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260914080000 -0400" stop="20260914100000 -0400" channel="NFL Network.US">
@@ -981,6 +991,11 @@
   <programme start="20260914180000 -0400" stop="20260914190000 -0400" channel="CNBC.US">
     <title>Mad Money</title>
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260914183000 -0400" stop="20260914190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260914190000 -0400" stop="20260914200000 -0400" channel="MS NOW.US">
@@ -1148,6 +1163,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260915070000 -0400" stop="20260915090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260915080000 -0400" stop="20260915100000 -0400" channel="NFL Network.US">
     <title>Good Morning Football</title>
     <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
@@ -1291,6 +1311,11 @@
   <programme start="20260915180000 -0400" stop="20260915190000 -0400" channel="CNBC.US">
     <title>Mad Money</title>
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260915183000 -0400" stop="20260915190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260915190000 -0400" stop="20260915200000 -0400" channel="MS NOW.US">
@@ -1448,6 +1473,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260916070000 -0400" stop="20260916090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260916080000 -0400" stop="20260916100000 -0400" channel="NFL Network.US">
     <title>Good Morning Football</title>
     <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
@@ -1591,6 +1621,11 @@
   <programme start="20260916180000 -0400" stop="20260916190000 -0400" channel="CNBC.US">
     <title>Mad Money</title>
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916183000 -0400" stop="20260916190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260916190000 -0400" stop="20260916200000 -0400" channel="MS NOW.US">
@@ -1773,6 +1808,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260917070000 -0400" stop="20260917090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260917080000 -0400" stop="20260917100000 -0400" channel="NFL Network.US">
     <title>Good Morning Football</title>
     <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
@@ -1918,6 +1958,11 @@
     <desc>Mad Money is an American finance television program hosted by Jim Cramer that began airing on CNBC on March 14, 2005. Its main focus is investment and speculation, particularly in publicly traded stocks. In a notable departure from the CNBC programming style prior to its arrival, Mad Money presents itself in an entertainment-style format rather than a news broadcasting one. Cramer defines "mad money" as the money one "can use to invest in stocks ... not retirement money, which you want in 401K or an IRA, a savings account, bonds, or the most conservative of dividend-paying stocks." Mad Money replaced Dylan Ratigan's Bullseye for the 6 p.m. Eastern Time slot. On January 8, 2007, CNBC began airing reruns of the show at 11 p.m. Eastern Time, on Monday through Friday, and at 4 a.m. Eastern Time, on Saturdays.In March 2012, the program became a part of what was formerly branded as NBC All Night in the nominal 3:07 a.m. ET/2:07 a.m. timeslot on weeknights, replacing week-delayed repeats of NBC's late night talk shows. In that form, only the video for the program was presented on a 16:9 screen with gray branded windowboxing andpillarboxing, with all enhanced business information, including the CNBC Ticker, removed. Because of the scheduling of local station's 4 a.m. or 4:30 a.m. newscasts to airEarly Today depending on how a station schedules its overnight programming (even if it airs at the regular time in the Eastern and Pacific time zones for instance, seven minutes would have to be cut-off to fit in Early Today and a local newscast starting at 4:30 a.m.), it is subject to local pre-emption, including by NBC O&amp;amp;O's.On August 4, 2014, Mad Money was first broadcast in full 1080i HD, resulting in the removal of the sidebar that was seen on all of CNBC's other trading-day programming, until the sidebar itself was permanently removed altogether on October 13, 2014. The NBC presentation displays the native widescreen HD picture, albeit with the CNBC Ticker space still filled in with gray windowboxing.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260917183000 -0400" stop="20260917190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260917190000 -0400" stop="20260917193000 -0400" channel="ESPN.US">
     <title>College Football Countdown</title>
     <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
@@ -2026,6 +2071,11 @@
   <programme start="20260917230000 -0400" stop="20260918000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917233500 -0400" stop="20260918003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260911070000 -0400" stop="20260911072200 -0400" channel="ITV1.GB">
@@ -2473,6 +2523,11 @@
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260914193000 -0400" stop="20260914200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260914200000 -0400" stop="20260914203000 -0400" channel="ABC.AU">
     <title>Australian Story</title>
     <desc>These are the stories of who we are. Australian Story presents unique tales that provide an insight into Australian life with all its complexities and challenges.</desc>
@@ -2498,6 +2553,11 @@
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260915193000 -0400" stop="20260915200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260915200000 -0400" stop="20260915203000 -0400" channel="ABC.AU">
     <title>Foreign Correspondent</title>
     <desc>Australia's leading international affairs program featuring fascinating, in-depth stories from the ABC's unrivalled network of foreign correspondents.</desc>
@@ -2516,6 +2576,11 @@
   <programme start="20260916120000 -0400" stop="20260916130000 -0400" channel="ABC.AU">
     <title>ABC News at Noon</title>
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916193000 -0400" stop="20260916200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260916200000 -0400" stop="20260916203000 -0400" channel="ABC.AU">
@@ -2541,6 +2606,11 @@
   <programme start="20260917120000 -0400" stop="20260917130000 -0400" channel="ABC.AU">
     <title>ABC News at Noon</title>
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917193000 -0400" stop="20260917200000 -0400" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260917230000 -0400" stop="20260917233000 -0400" channel="ABC.AU">
