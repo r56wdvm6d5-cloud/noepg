@@ -1402,7 +1402,7 @@
     <desc>The hit series in which celebrities perform choreographed dance routines that are judged by a panel of renowned ballroom experts</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260916200000 -0400" stop="20260916210000 -0400" channel="Bravo.US">
+  <programme start="20260916200000 -0400" stop="20260916211500 -0400" channel="Bravo.US">
     <title>The Real Housewives of Salt Lake City</title>
     <desc>The Real Housewives of Salt Lake City takes viewers into an undiscovered world that is about so much more than religion, although the Mormon church is undeniably engrained in the culture. In the majestic mountains of Utah is a hidden social circle made up of successful women who have created their own paradise filled with luxury homes, shopping sprees and multi-million-dollar businesses and brands. With Hollywood's exclusive Sundance Film Festival in their backyards, these Type-A power-brokers are accustomed to rubbing elbows with A-listers and what party list you are on means everything. They have mastered running wildly successful enterprises by day and enjoy après ski at the finest resorts by night, all the while raising extraordinary and unconventional families. Here perfection is not an aspiration, it's a mandate. They hold themselves and each other to an extremely high standard and never hold back when things go sideways, but lord knows they are always there for each other when they need it most.</desc>
     <category>TV Show</category>
@@ -2177,6 +2177,11 @@
     <desc>Prue Leith opens the doors to her Cotswold Kitchen, sharing cherished recipes, tips, and handy culinary hacks. Joined by her husband John and a cast of special friends, including Sandi Toksvig, Alison Hammond and chef Tommy Banks, each episode is a unique culinary adventure. Beyond the kitchen, Prue celebrates her personal food heroes both locally and beyond.  And husband John gets to grips with a varied mix of country activities on offer in the Cotswolds. The series is a celebration of food, friendship and fun – with easy-to-cook recipes for every occasion.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260912120000 -0400" stop="20260912123000 -0400" channel="ITV1.GB">
+    <title>Gary Barlow's Wine Tour</title>
+    <desc>Gary Barlow's Wine Tour follows the multi-platinum Take That star to explore another passion of his… discovering new food and wine!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260912185500 -0400" stop="20260912201500 -0400" channel="Channel 4.GB">
     <title>Formula 1</title>
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
@@ -2250,6 +2255,11 @@
   <programme start="20260913200000 -0400" stop="20260913210000 -0400" channel="5.GB">
     <title>22 Kids and Counting</title>
     <desc>Series following Noel and Sue Radford as they cope with their supersized family, as well as grandchildren, dogs, teenage parties and home-schooling.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260913200000 -0400" stop="20260913210000 -0400" channel="BBC One.GB">
+    <title>Antiques Roadshow</title>
+    <desc>Antiques Roadshow experts examine and value antiques and collectables.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260913210000 -0400" stop="20260913221500 -0400" channel="Channel 4.GB">
