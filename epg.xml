@@ -116,6 +116,10 @@
     <display-name>Comedy Central</display-name>
     <country>GB</country>
   </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="TRUE CRIME.GB">
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
@@ -2152,6 +2156,11 @@
     <desc>My View with Lara Trump features big picture analysis and interviews with thought leaders, shedding light on the headlines driving the national conversation and affecting families around the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260919210000 -0400" stop="20260919220000 -0400" channel="CNN.US">
+    <title>Have I Got News for You</title>
+    <desc>Have I Got News for You is the comedy panel show which delivers comic observations from the satirical to the surreal through the lens of a news quiz show. An institution in Britain, this an award-winning comedy series is now invading America! Always relevant and topical, the series serves up a smart, silly, opinionated, and edgy take on the news of the week featuring a rotating collection of comedians, pundits, politicos, and entertainers. It features host Roy Wood Jr. along with two illustrious team captains Amber Ruffin and Michael Ian Black to guide the guests through an array of games and quick-witted panel conversations that test their knowledge of current events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260919220000 -0400" stop="20260919230000 -0400" channel="Fox News Channel.US">
     <title>Fox News Saturday Night</title>
     <desc>Discussing the big stories of the week with a group of guests, who give a humorous perspective on what America is talking about;</desc>
@@ -2257,6 +2266,11 @@
     <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260914163000 -0400" stop="20260914171500 -0400" channel="BBC One.GB">
+    <title>Antiques Road Trip</title>
+    <desc>Antiques experts compete against one another at various auctions across the country to try and earn the most money by the end of the week.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260914170000 -0400" stop="20260914180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2322,6 +2336,11 @@
     <desc>Iain Stirling's Roast The Internet is all about the very worst things on the internet (that he's legally able to talk about on broadcast television). Every episode, Iain roasts social clips, posts and trends, with three famous faces - comedians, online celebrities and TV personalities - joining him each week to tackle their own online bugbears. And alongside all the roasting, Iain and his guests also offer up some ingenious and hilarious solutions to the dumpster fire that is the online world.With outrageous clips, funny chat and top comedy performances, Iain and his guests take the internet down a peg or two, while all also secretly hoping their best bits will go viral.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260914210000 -0400" stop="20260914220500 -0400" channel="E4.GB">
+    <title>Made in Chelsea</title>
+    <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260915070000 -0400" stop="20260915072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2345,6 +2364,11 @@
   <programme start="20260915160000 -0400" stop="20260915170000 -0400" channel="Channel 4.GB">
     <title>Help! We Bought a Village</title>
     <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260915163000 -0400" stop="20260915171500 -0400" channel="BBC One.GB">
+    <title>Antiques Road Trip</title>
+    <desc>Antiques experts compete against one another at various auctions across the country to try and earn the most money by the end of the week.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260915170000 -0400" stop="20260915180000 -0400" channel="5.GB">
@@ -2412,6 +2436,11 @@
     <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260916163000 -0400" stop="20260916171500 -0400" channel="BBC One.GB">
+    <title>Antiques Road Trip</title>
+    <desc>Antiques experts compete against one another at various auctions across the country to try and earn the most money by the end of the week.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260916170000 -0400" stop="20260916180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2472,6 +2501,11 @@
     <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260917163000 -0400" stop="20260917171500 -0400" channel="BBC One.GB">
+    <title>Antiques Road Trip</title>
+    <desc>Antiques experts compete against one another at various auctions across the country to try and earn the most money by the end of the week.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260917170000 -0400" stop="20260917180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2520,6 +2554,11 @@
   <programme start="20260918160000 -0400" stop="20260918170000 -0400" channel="Channel 4.GB">
     <title>Help! We Bought a Village</title>
     <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260918163000 -0400" stop="20260918171500 -0400" channel="BBC One.GB">
+    <title>Antiques Road Trip</title>
+    <desc>Antiques experts compete against one another at various auctions across the country to try and earn the most money by the end of the week.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260918170000 -0400" stop="20260918180000 -0400" channel="5.GB">
