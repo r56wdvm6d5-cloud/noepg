@@ -411,6 +411,11 @@
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260914200000 -0400" stop="20260914210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Border</title>
+    <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260914210000 -0400" stop="20260914220000 -0400" channel="MS NOW.US">
     <title>The Rachel Maddow Show</title>
     <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
@@ -2036,6 +2041,11 @@
     <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260920083000 -0400" stop="20260920090000 -0400" channel="Discovery.US">
+    <title>RV There Yet?</title>
+    <desc>Explore America's national parks and check out the fun detours along the way! Featuring hacks to common RV challenges, cooking tips, best routs, must-have equipment, RV care and more!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260920090000 -0400" stop="20260920100000 -0400" channel="NBC.US">
     <title>Meet the Press</title>
     <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
@@ -2621,11 +2631,6 @@
     <desc>Be the first to know what's happened overnight. Michael Rowland and Lisa Millar, Paul Kennedy, Georgie Tunny and Nate Byrne bring you breaking news, interviews and all the information you need to get you through the day.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260914101500 -0400" stop="20260914104500 -0400" channel="ABC.AU">
-    <title>Planet America</title>
-    <desc>Chas Licciardello and John Barron set out to discover the real America - its politics and its people - with analysis from US and Australian experts.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260914120000 -0400" stop="20260914130000 -0400" channel="ABC.AU">
     <title>ABC News at Noon</title>
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
@@ -2644,6 +2649,11 @@
   <programme start="20260914215500 -0400" stop="20260914221000 -0400" channel="ABC.AU">
     <title>Media Watch</title>
     <desc>Media Watch is Australia's leading forum for media analysis and comment.Conflicts of interest, bank backflips, deceit, misrepresentation, manipulation, plagiarism, abuse of power, technical lies and straight out fraud: Media Watch has built an unrivalled record of exposing media shenanigans since it first went to air in 1989.The media provides the information we need to make decisions about our lives, but how reliable are the media reports that shape our views of the world?Media Watch turns the spotlight onto those who literally 'make the news': the reporters, editors, sub-editors, producers, camera operators, sound recordists and photographers who claim to deliver the world to our doorsteps, radios, computers and living rooms. We also keep an eye on those who try to manipulate the media: the PR consultants, spin-doctors, lobbyists and "news makers" who set the agenda.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260914221000 -0400" stop="20260914224000 -0400" channel="ABC.AU">
+    <title>Planet America</title>
+    <desc>Chas Licciardello and John Barron set out to discover the real America - its politics and its people - with analysis from US and Australian experts.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260914230000 -0400" stop="20260914233000 -0400" channel="ABC.AU">
