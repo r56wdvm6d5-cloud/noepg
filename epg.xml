@@ -1806,6 +1806,11 @@
     <desc>NBC Sunday Night Football is a weekly television broadcast of National Football League (NFL) games on NBC in the United States. It began airing on August 6, 2006 with the Pro Football Hall of Fame Game, which opened that year's preseason. NBC took over the rights to the Sunday prime time game telecasts from ESPN, which carried the broadcasts from 1987 to 2005 (concurrently with NBC assuming the rights to Sunday evening regular-season games).</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260920203000 -0400" stop="20260920210000 -0400" channel="ESPN.US">
+    <title>Setting the Tempo</title>
+    <desc>Setting the Tempo takes audiences inside the exhilarating, high-stakes process of building a WNBA franchise from the ground up. Led by an all-women leadership team featuring head coach Sandy Brondello, a two-time WNBA champion and the 2014 WNBA Coach of the Year, and general manager Monica Wright Rogers, a two-time WNBA champion, the series captures the relentless race against the clock as they evaluate talent, establish a culture, and lay the foundation for sustained success.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260920210000 -0400" stop="20260920220000 -0400" channel="PBS.US">
     <title>Marble Hall Murders</title>
     <desc>Susan Ryeland, is a book editor who all too often finds herself involved in baffling murders. Returning to England, she is reluctantly drawn into a new Atticus Pünd mystery, this time written by a new, young writer. "Pünd's Last Case" is a story set in 1955, in an exotic villa in Corfu – but the identity of a real killer is hidden in the book and once again Susan is going to find herself in grave danger.Atticus Pünd, the literary detective, steps out of the books to help Susan unravel the real-life mystery. Who killed Miriam Crace, the most famous children's author in the world?</desc>
@@ -1831,6 +1836,16 @@
     <desc>For the first time in television history, Bravo universes collide as iconic Housewives from different cities come together for the ultimate girls' trip to beautiful Turks and Caicos.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260920210000 -0400" stop="20260920213000 -0400" channel="ESPN.US">
+    <title>Setting the Tempo</title>
+    <desc>Setting the Tempo takes audiences inside the exhilarating, high-stakes process of building a WNBA franchise from the ground up. Led by an all-women leadership team featuring head coach Sandy Brondello, a two-time WNBA champion and the 2014 WNBA Coach of the Year, and general manager Monica Wright Rogers, a two-time WNBA champion, the series captures the relentless race against the clock as they evaluate talent, establish a culture, and lay the foundation for sustained success.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260920213000 -0400" stop="20260920220000 -0400" channel="ESPN.US">
+    <title>Setting the Tempo</title>
+    <desc>Setting the Tempo takes audiences inside the exhilarating, high-stakes process of building a WNBA franchise from the ground up. Led by an all-women leadership team featuring head coach Sandy Brondello, a two-time WNBA champion and the 2014 WNBA Coach of the Year, and general manager Monica Wright Rogers, a two-time WNBA champion, the series captures the relentless race against the clock as they evaluate talent, establish a culture, and lay the foundation for sustained success.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260920220000 -0400" stop="20260920223000 -0400" channel="HBO.US">
     <title>Youth</title>
     <desc>Youth follows a 50-year-old divorcee's search for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.</desc>
@@ -1839,6 +1854,11 @@
   <programme start="20260920220000 -0400" stop="20260920230000 -0400" channel="CNN.US">
     <title>The Detour with David Chang</title>
     <desc>The Detour with David Chang follows the acclaimed chef, restaurateur and author in his pursuit of no-frills but unforgettable eats on the open road. In the age of influencers, algorithms and listicles, Chang cuts through the noise on a classic American road trip following local leads and friends' recommendations to his next meal. Each episode represents a different leg of Chang's journey, pairing him with a new travel companion and a new culinary adventure.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260920220000 -0400" stop="20260920223000 -0400" channel="ESPN.US">
+    <title>Setting the Tempo</title>
+    <desc>Setting the Tempo takes audiences inside the exhilarating, high-stakes process of building a WNBA franchise from the ground up. Led by an all-women leadership team featuring head coach Sandy Brondello, a two-time WNBA champion and the 2014 WNBA Coach of the Year, and general manager Monica Wright Rogers, a two-time WNBA champion, the series captures the relentless race against the clock as they evaluate talent, establish a culture, and lay the foundation for sustained success.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260920223000 -0400" stop="20260920230000 -0400" channel="HBO.US">
@@ -2086,6 +2106,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260921200000 -0400" stop="20260921210000 -0400" channel="Bravo.US">
+    <title>Below Deck Mediterranean</title>
+    <desc>With a new boat, new location, and new faces, the excitement, drama, and adventure of life aboard a private luxury yacht is taken to another level in the Mediterranean. Providing unparalleled service to wealthy and uncompromising guests is made even more difficult as the team faces everything from love triangles to seeing fellow crew members shockingly cross the line with guests. Voyaging from Santorini, Mykonos, and many of the Greek islands, each episode features a new group of elite clientele who present a new set of challenges, all while offering the crew a glamorous lifestyle and exotic perks that most people only dream of experiencing. For these young, attractive, and adventurous yachties, the "work hard, play harder" nature of the job combined with the pressure of working in the most exclusive yachting scene in the world pushes the team close to the breaking point on Below Deck Mediterranean.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260921201500 -0400" stop="20260921234500 -0400" channel="ESPN.US">
     <title>Monday Night Football</title>
     <desc>Monday Night Football is a live television broadcast of weekly National Football League (NFL) games on ESPN in the United States. From 1970 to 2005, it aired on sister broadcast network ABC. Monday Night Football was, along with Hallmark Hall of Fame and the Walt Disney anthology television series, one of the longest-running prime time programs ever on commercial network television, and one of the highest-rated, particularly among male viewers.</desc>
@@ -2209,6 +2234,11 @@
   <programme start="20260915200000 -0400" stop="20260915210000 -0400" channel="5.GB">
     <title>The Motorway Cops: Catching Britain's Speeders</title>
     <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260915200000 -0400" stop="20260915210000 -0400" channel="BBC Two.GB">
+    <title>Saving Lives at Sea</title>
+    <desc>Documentary following the men and women of the Royal National Lifeboat Institution (RNLI).</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260915210000 -0400" stop="20260915220000 -0400" channel="BBC Two.GB">
