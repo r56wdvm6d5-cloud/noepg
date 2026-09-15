@@ -2491,6 +2491,11 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260921160000 -0400" stop="20260921170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260921163000 -0400" stop="20260921171500 -0400" channel="BBC One.GB">
     <title>Antiques Road Trip</title>
     <desc>Antiques experts compete against one another at various auctions across the country to try and earn the most money by the end of the week.</desc>
@@ -2539,6 +2544,16 @@
   <programme start="20260921210000 -0400" stop="20260921220500 -0400" channel="E4.GB">
     <title>Made in Chelsea</title>
     <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260921210000 -0400" stop="20260921220000 -0400" channel="Quest.GB">
+    <title>Ant Anstead: Born Mechanic</title>
+    <desc>Master mechanic Ant Anstead goes back to basics as he buys, restores and sells old cars from a ramshackle barn. But this time, it's personal, as any profit made will help him renovate a 500-year-old farmhouse that he's bought for his parents to retire in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260921220000 -0400" stop="20260921230500 -0400" channel="Channel 4.GB">
+    <title>Geordie Coppers</title>
+    <desc>New series following Newcastle's neighbourhood police teams and their partners as they tackle crime, disorder and the many unexpected challenges of keeping one of Britain's liveliest cities safe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260915200000 -0400" stop="20260915203000 -0400" channel="CBC.CA">
