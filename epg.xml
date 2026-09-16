@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
+    <country>US</country>
+  </channel>
   <channel id="ABC.US">
     <display-name>ABC</display-name>
     <country>US</country>
@@ -76,10 +80,6 @@
     <display-name>STARZ</display-name>
     <country>US</country>
   </channel>
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
-    <country>US</country>
-  </channel>
   <channel id="A&amp;E.US">
     <display-name>A&amp;E</display-name>
     <country>US</country>
@@ -136,6 +136,11 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
+  <programme start="20260915000000 -0400" stop="20260915020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260915020000 -0400" stop="20260915030000 -0400" channel="ABC.US">
     <title>ABC World News Now</title>
     <desc>ABC World News Now gives viewers up-to-date information on current events and news from around the world, airing in the overnight hours. Its tone is somewhat lighter than a regular news broadcast, though reports are filed from the usual ABC News correspondents. Weather and pop culture stories round out the reports.</desc>
@@ -411,6 +416,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260916200000 -0400" stop="20260916210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260916210000 -0400" stop="20260916215700 -0400" channel="PBS.US">
     <title>NOVA</title>
     <desc>NOVA brings you stories from the frontlines of science and engineering, answering the big questions of today and tomorrow, from how our ancestors lived, to whether parallel universes exist, to how technology will transform our lives.</desc>
@@ -434,6 +444,11 @@
   <programme start="20260916210000 -0400" stop="20260916220000 -0400" channel="The CW.US">
     <title>The Great American Road Rally: Celebrity Edition</title>
     <desc>The series takes audiences on a high-energy journey across America's most iconic highway, combining adventure, competition, entertainment, community celebration, and philanthropy.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916210000 -0400" stop="20260916220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260916210200 -0400" stop="20260916220000 -0400" channel="FOX.US">
@@ -464,6 +479,11 @@
   <programme start="20260916220000 -0400" stop="20260916230000 -0400" channel="ABC.US">
     <title>Dancing with the Stars</title>
     <desc>The hit series in which celebrities perform choreographed dance routines that are judged by a panel of renowned ballroom experts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916220000 -0400" stop="20260916230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260916220100 -0400" stop="20260916230200 -0400" channel="Discovery.US">
@@ -504,6 +524,16 @@
   <programme start="20260916233500 -0400" stop="20260917003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916000000 -0400" stop="20260916020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916000000 -0400" stop="20260916020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260916020000 -0400" stop="20260916030000 -0400" channel="ABC.US">
@@ -776,6 +806,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260917200000 -0400" stop="20260917210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260917210000 -0400" stop="20260917220000 -0400" channel="NBC.US">
     <title>The Traitors: New Blood</title>
     <desc>The Traitors: New Blood is NBC's civilian version of Peacock's Emmy Award-winning competition reality series, The Traitors, known for strategic gameplay and skillful saboteurs.</desc>
@@ -811,6 +846,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260917210000 -0400" stop="20260917220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260917220000 -0400" stop="20260917230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -824,6 +864,11 @@
   <programme start="20260917220000 -0400" stop="20260917230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917220000 -0400" stop="20260917230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260917220300 -0400" stop="20260917230500 -0400" channel="History.US">
@@ -854,6 +899,16 @@
   <programme start="20260917233500 -0400" stop="20260918003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917000000 -0400" stop="20260917020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917000000 -0400" stop="20260917020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260917020000 -0400" stop="20260917030000 -0400" channel="ABC.US">
@@ -1126,6 +1181,11 @@
     <desc>It's the deadliest job on earth: crab fishing off the Alaskan coast on the icy Bering Sea. These adventurers will battle Arctic weather, brutal waves, and a ticking clock for big money in this modern-day gold rush from which they may never return.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260918200000 -0400" stop="20260918210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260918203000 -0400" stop="20260918210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -1151,6 +1211,11 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260918210000 -0400" stop="20260918220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260918220000 -0400" stop="20260918230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
@@ -1166,6 +1231,11 @@
     <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260918220000 -0400" stop="20260918230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260918230000 -0400" stop="20260919000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -1174,6 +1244,16 @@
   <programme start="20260918230000 -0400" stop="20260919000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260918000000 -0400" stop="20260918020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260918000000 -0400" stop="20260918020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260918020000 -0400" stop="20260918030000 -0400" channel="ABC.US">
@@ -1756,6 +1836,11 @@
     <desc>With a new boat, new location, and new faces, the excitement, drama, and adventure of life aboard a private luxury yacht is taken to another level in the Mediterranean. Providing unparalleled service to wealthy and uncompromising guests is made even more difficult as the team faces everything from love triangles to seeing fellow crew members shockingly cross the line with guests. Voyaging from Santorini, Mykonos, and many of the Greek islands, each episode features a new group of elite clientele who present a new set of challenges, all while offering the crew a glamorous lifestyle and exotic perks that most people only dream of experiencing. For these young, attractive, and adventurous yachties, the "work hard, play harder" nature of the job combined with the pressure of working in the most exclusive yachting scene in the world pushes the team close to the breaking point on Below Deck Mediterranean.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260921200000 -0400" stop="20260921210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260921201500 -0400" stop="20260921234500 -0400" channel="ESPN.US">
     <title>Monday Night Football</title>
     <desc>Monday Night Football is a live television broadcast of weekly National Football League (NFL) games on ESPN in the United States. From 1970 to 2005, it aired on sister broadcast network ABC. Monday Night Football was, along with Hallmark Hall of Fame and the Walt Disney anthology television series, one of the longest-running prime time programs ever on commercial network television, and one of the highest-rated, particularly among male viewers.</desc>
@@ -1781,6 +1866,11 @@
     <desc>Over five intense days, 120 Hours Behind Bars delivers an unfiltered look inside America's toughest jails, where officers are outnumbered, cellblocks are overcrowded, and violence erupts without warning.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260921210000 -0400" stop="20260921220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260921220000 -0400" stop="20260921230000 -0400" channel="NBC.US">
     <title>Line of Fire</title>
     <desc>When a U.S. Marshal falls in the line of duty, a seemingly cut-and-dry case turns into a deadly conspiracy as a family of law enforcement agents become the target of a mysterious assassin. Bridging personal differences and crossing professional boundaries, the Hollingsworth family must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice... even if it means betraying their sworn code.</desc>
@@ -1796,6 +1886,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260921220000 -0400" stop="20260921230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260921230000 -0400" stop="20260922000000 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
@@ -1809,6 +1904,16 @@
   <programme start="20260921230000 -0400" stop="20260922000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260921000000 -0400" stop="20260921020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260921003500 -0400" stop="20260921013500 -0400" channel="NBC.US">
@@ -2041,6 +2146,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260922200000 -0400" stop="20260922210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260922210000 -0400" stop="20260922230000 -0400" channel="NBC.US">
     <title>America's Got Talent</title>
     <desc>With the talent search open to acts of all ages, America's Got Talent has brought the variety format back to the forefront of American culture by showcasing performers from across the country. The series is a true celebration of the American spirit, featuring a colorful array of singers, dancers, comedians, contortionists, impressionists, jugglers, magicians, ventriloquists and hopeful stars, all vying for their chance to win America's hearts and the $1 million prize.</desc>
@@ -2071,6 +2181,11 @@
     <desc>The Real Housewives of New York City will feature an elite and powerful set of New York socialites as they juggle their careers and home lives with busy calendars packed with charity fund-raising galas, the social whirl of the Hamptons, and interviews for elite private schools. These driven and ambitious women show everyone what it takes to make it in the upper echelon of society, where money and status are an essential way of life.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260922210000 -0400" stop="20260922220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260922220000 -0400" stop="20260922230000 -0400" channel="ABC.US">
     <title>R.J. Decker</title>
     <desc>R.J. Decker centers on the eponymous R.J. Decker, a disgraced newspaper photographer and ex-con who starts over as a private investigator in the colorful-if-crime-filled world of South Florida, tackling cases that range from slightly odd to outright bizarre with the help of his journalist ex, her police detective wife, and a shadowy new benefactor, a woman from his past who could be his greatest ally... or his one-way ticket back to prison.</desc>
@@ -2084,6 +2199,11 @@
   <programme start="20260922220000 -0400" stop="20260922230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260922220000 -0400" stop="20260922230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260922220300 -0400" stop="20260922230500 -0400" channel="History.US">
@@ -2104,6 +2224,11 @@
   <programme start="20260922230000 -0400" stop="20260923000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260922000000 -0400" stop="20260922020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260916123000 -0400" stop="20260916133000 -0400" channel="ITV1.GB">
@@ -2141,6 +2266,11 @@
     <desc>National and international news.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260916180000 -0400" stop="20260916190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260916185500 -0400" stop="20260916190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -2164,6 +2294,11 @@
   <programme start="20260916210000 -0400" stop="20260916220000 -0400" channel="Quest.GB">
     <title>The Yorkshire Auction House</title>
     <desc>Auctioneer Angus Ashworth has been running his auction house for more than a decade. With the help of his team and family, he clears out cluttered homes, uncovering hidden gems that he can sell at auction.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260916210000 -0400" stop="20260916220000 -0400" channel="Channel 4.GB">
+    <title>Grand Designs</title>
+    <desc>Kevin McCloud follows intrepid individuals trying to design and build their dream home.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260917070000 -0400" stop="20260917072200 -0400" channel="ITV1.GB">
@@ -2204,6 +2339,11 @@
   <programme start="20260917170000 -0400" stop="20260917180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260917180000 -0400" stop="20260917190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260917185500 -0400" stop="20260917190000 -0400" channel="5.GB">
@@ -2259,6 +2399,11 @@
   <programme start="20260918170000 -0400" stop="20260918180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260918180000 -0400" stop="20260918190000 -0400" channel="Channel 4.GB">
+    <title>A New Life in the Sun: Where Are They Now?</title>
+    <desc>Series revisiting Brits who swapped the UK for new ventures in Spain and France.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260918185500 -0400" stop="20260918190000 -0400" channel="5.GB">
@@ -2354,6 +2499,11 @@
   <programme start="20260920200000 -0400" stop="20260920210000 -0400" channel="BBC One.GB">
     <title>Antiques Roadshow</title>
     <desc>Antiques Roadshow experts examine and value antiques and collectables.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260920200000 -0400" stop="20260920210000 -0400" channel="5.GB">
+    <title>22 Kids and Counting</title>
+    <desc>Series following Noel and Sue Radford as they cope with their supersized family, as well as grandchildren, dogs, teenage parties and home-schooling.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260920210000 -0400" stop="20260920220000 -0400" channel="Channel 4.GB">
@@ -2599,6 +2749,11 @@
   <programme start="20260920090000 -0400" stop="20260920100000 -0400" channel="ABC.AU">
     <title>Insiders</title>
     <desc>Australia's must-watch political program continues to be a platform for the country's best political analysts and commentators, taking you to the heart of the action every Sunday morning.Insiders entered a very crowded Sunday morning political market in 2001. But our approach was to provide coverage with so many more elements, and to do it in a way that is informative but irreverent. And of course have a few laughs along the way. If you took politics too seriously you'd go mad," said founding host Barrie Cassidy.Insiders is the most watched morning show on Australian TV any day of the week. So start your week with the program the politicians rely on to find out what's going on.Insiders is broadcast on Sundays from 9am to 10am (AEST) on ABC TV and the ABC News channel.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260920123000 -0400" stop="20260920133000 -0400" channel="ABC.AU">
+    <title>Landline</title>
+    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260921060000 -0400" stop="20260921090000 -0400" channel="ABC.AU">
