@@ -2256,6 +2256,11 @@
     <desc>National and international news</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260917200000 -0400" stop="20260917210000 -0400" channel="BBC One.GB">
+    <title>Dragons' Den</title>
+    <desc>Series in which budding entrepreneurs get three minutes to pitch their business ideas to five multi-millionaires willing to invest their own cash.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260917210000 -0400" stop="20260917220000 -0400" channel="5.GB">
     <title>All Creatures Great and Small</title>
     <desc>All Creatures Great and Small chronicles the adventures of a young country veterinarian.</desc>
