@@ -2199,8 +2199,8 @@
     <category>TV Show</category>
   </programme>
   <programme start="20260925200000 -0400" stop="20260925210000 -0400" channel="CBS.US">
-    <title>Big Brother: Unlocked</title>
-    <desc>Big Brother: Unlocked features former winners hosting a deep-dive companion show to Big Brother, guiding viewers through never-before-seen footage, exclusive interviews, and behind-the-scenes access to analyze gameplay and offer an ultimate fan experience</desc>
+    <title>Big Brother</title>
+    <desc>Big Brother follows a group of people living together in a house outfitted with dozens of high-definition cameras and microphones recording their every move, 24 hours a day. Each week, the Houseguests will vote someone out of the house. At the end, the last remaining Houseguest will receive the grand prize of $500,000.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260925200000 -0400" stop="20260925203000 -0400" channel="PBS.US">
@@ -2278,7 +2278,7 @@
     <desc>Totally Funny Animals features caught-on-camera videos that highlight the outrageous and wacky world of animals. Hosted by comedian Andy Woodhull, this clip show features everything from sneezing cats and calamitous canines to dumpster-diving bears and rascally racoons.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260925220000 -0400" stop="20260925230000 -0400" channel="STARZ.US">
+  <programme start="20260925220000 -0400" stop="20260925225000 -0400" channel="STARZ.US">
     <title>S.W.A.T.: Exiles</title>
     <desc>After a high-profile mission goes sideways, Daniel "Hondo" Harrelson is pulled out of forced retirement to lead a last-chance experimental S.W.A.T. unit made up of untested, unpredictable young recruits. Hondo must bridge a generational divide, navigate clashing personalities and turn a squad of outsiders into a team capable of protecting the city — and saving the program that made him who he is.</desc>
     <category>TV Show</category>
