@@ -2628,6 +2628,11 @@
     <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260924210000 -0400" stop="20260924220000 -0400" channel="5.GB">
+    <title>All Creatures Great and Small</title>
+    <desc>All Creatures Great and Small chronicles the adventures of a young country veterinarian.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260925070000 -0400" stop="20260925072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
@@ -2661,6 +2666,11 @@
   <programme start="20260925170000 -0400" stop="20260925180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260925180000 -0400" stop="20260925193000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260925185500 -0400" stop="20260925190000 -0400" channel="5.GB">
@@ -2701,6 +2711,11 @@
   <programme start="20260926082500 -0400" stop="20260926092500 -0400" channel="ITV1.GB">
     <title>Prue Leith's Cotswold Kitchen</title>
     <desc>Prue Leith opens the doors to her Cotswold Kitchen, sharing cherished recipes, tips, and handy culinary hacks. Joined by her husband John and a cast of special friends, including Sandi Toksvig, Alison Hammond and chef Tommy Banks, each episode is a unique culinary adventure. Beyond the kitchen, Prue celebrates her personal food heroes both locally and beyond.  And husband John gets to grips with a varied mix of country activities on offer in the Cotswolds. The series is a celebration of food, friendship and fun – with easy-to-cook recipes for every occasion.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260926173000 -0400" stop="20260926200000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260926181500 -0400" stop="20260926204500 -0400" channel="BBC One.GB">
