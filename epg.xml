@@ -2723,9 +2723,24 @@
     <desc>Series following the work of enforcement agents as they execute High Court writs on behalf of people desperate to recover money they are owed.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260923200000 -0400" stop="20260923210000 -0400" channel="BBC One.GB">
+    <title>The Repair Shop: Beyond the Barn</title>
+    <desc>The Repair Shop experts visit some of the people who have been reunited with cherished mementos.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260923200000 -0400" stop="20260923210000 -0400" channel="Channel 4.GB">
+    <title>Location, Location, Location</title>
+    <desc>No floorboard is left unturned as dynamic property experts Kirstie Allsopp and Phil Spencer help house hunters find the perfect home in the perfect location.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260923210000 -0400" stop="20260923220000 -0400" channel="Channel 4.GB">
     <title>Grand Designs</title>
     <desc>Kevin McCloud follows intrepid individuals trying to design and build their dream home.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260923220000 -0400" stop="20260923230500 -0400" channel="Channel 4.GB">
+    <title>Martin Compston: Living Las Vegas</title>
+    <desc>Actor Martin Compston offers an insider's tour of Las Vegas, revealing the secrets, thrills, and irresistible allure that makes his adopted home the ultimate playground</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260924070000 -0400" stop="20260924072200 -0400" channel="ITV1.GB">
