@@ -1807,11 +1807,6 @@
     <desc>My View with Lara Trump features big picture analysis and interviews with thought leaders, shedding light on the headlines driving the national conversation and affecting families around the country.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260926210000 -0400" stop="20260926220000 -0400" channel="CNN.US">
-    <title>Have I Got News for You</title>
-    <desc>Have I Got News for You is the comedy panel show which delivers comic observations from the satirical to the surreal through the lens of a news quiz show. An institution in Britain, this an award-winning comedy series is now invading America! Always relevant and topical, the series serves up a smart, silly, opinionated, and edgy take on the news of the week featuring a rotating collection of comedians, pundits, politicos, and entertainers. It features host Roy Wood Jr. along with two illustrious team captains Amber Ruffin and Michael Ian Black to guide the guests through an array of games and quick-witted panel conversations that test their knowledge of current events.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260926220000 -0400" stop="20260926230000 -0400" channel="Fox News Channel.US">
     <title>Fox News Saturday Night</title>
     <desc>Discussing the big stories of the week with a group of guests, who give a humorous perspective on what America is talking about;</desc>
