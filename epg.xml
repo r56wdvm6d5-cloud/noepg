@@ -40,16 +40,16 @@
     <display-name>The CW</display-name>
     <country>US</country>
   </channel>
+  <channel id="Bravo.US">
+    <display-name>Bravo</display-name>
+    <country>US</country>
+  </channel>
   <channel id="FOX.US">
     <display-name>FOX</display-name>
     <country>US</country>
   </channel>
   <channel id="History.US">
     <display-name>History</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Bravo.US">
-    <display-name>Bravo</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
@@ -100,12 +100,24 @@
     <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
+  <channel id="Quest.GB">
+    <display-name>Quest</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="Discovery.GB">
+    <display-name>Discovery</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="TRUE CRIME.GB">
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
   <channel id="CBC.CA">
     <display-name>CBC</display-name>
+    <country>CA</country>
+  </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
   <channel id="ABC.AU">
@@ -402,6 +414,11 @@
     <desc>Jesse Watters brings his fresh take to Primetime. Each night, he'll speak with newsmakers from across the country and give Americans a show where straight talk is the only talk, and the obvious will never be left unsaid.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260922200000 -0400" stop="20260922210000 -0400" channel="Bravo.US">
+    <title>The Real Housewives of New York City</title>
+    <desc>The Real Housewives of New York City will feature an elite and powerful set of New York socialites as they juggle their careers and home lives with busy calendars packed with charity fund-raising galas, the social whirl of the Hamptons, and interviews for elite private schools. These driven and ambitious women show everyone what it takes to make it in the upper echelon of society, where money and status are an essential way of life.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260922200000 -0400" stop="20260922210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
@@ -430,11 +447,6 @@
   <programme start="20260922210000 -0400" stop="20260922220000 -0400" channel="Fox News Channel.US">
     <title>Hannity</title>
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260922220000 -0400" channel="Bravo.US">
-    <title>The Real Housewives of New York City</title>
-    <desc>The Real Housewives of New York City will feature an elite and powerful set of New York socialites as they juggle their careers and home lives with busy calendars packed with charity fund-raising galas, the social whirl of the Hamptons, and interviews for elite private schools. These driven and ambitious women show everyone what it takes to make it in the upper echelon of society, where money and status are an essential way of life.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260922210000 -0400" stop="20260922220000 -0400" channel="CNN.US">
@@ -2302,6 +2314,11 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260928233500 -0400" stop="20260929003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260928000000 -0400" stop="20260928020000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -2495,6 +2512,16 @@
   <programme start="20260923210000 -0400" stop="20260923220000 -0400" channel="Channel 4.GB">
     <title>Grand Designs</title>
     <desc>Kevin McCloud follows intrepid individuals trying to design and build their dream home.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260923220000 -0400" channel="Quest.GB">
+    <title>The Yorkshire Auction House</title>
+    <desc>Auctioneer Angus Ashworth has been running his auction house for more than a decade. With the help of his team and family, he clears out cluttered homes, uncovering hidden gems that he can sell at auction.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260923210000 -0400" stop="20260923220000 -0400" channel="Discovery.GB">
+    <title>Wheeler Dealers World Tour</title>
+    <desc>Mike and Elvis are going global! This time, the stakes are higher, the deadlines tighter and the motor transformations are more jaw-dropping than ever.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260923220000 -0400" stop="20260923230500 -0400" channel="Channel 4.GB">
@@ -2825,6 +2852,11 @@
   <programme start="20260924200000 -0400" stop="20260924210000 -0400" channel="CBC.CA">
     <title>Dragons' Den</title>
     <desc>Dragons' Den, an original CBC Production and audience favourite, returns to delight viewers for a new season.Aspiring entrepreneurs from across Canada vie for a coveted spot in the Den to pitch potentially profitable business investments to some of the nation's most successful tycoons. The Dragons use their own money and know-how and have the power to catapult companies into home-grown business success stories.Every episode theatre and venture capital collide. Stakes are high as good deals may be rewarded, but there's also the risk that bad ideas will get burned. Dragons' Den offers the audience a front-row view as the country's top business moguls wheel and deal with entrepreneurs who dare to brave the Den.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260928220000 -0400" channel="CTV.CA">
+    <title>The Traitors Canada</title>
+    <desc>Follow a group of contestants – including some familiar faces – who live together as they complete a series of challenges with the goal of earning a cash prize. The catch? Some of the contestants are traitors who will attempt to deceive and manipulate their way to the prize instead of sharing it amongst the group. In this psychological adventure will the traitors be unmasked in time?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260922060000 -0400" stop="20260922090000 -0400" channel="ABC.AU">
