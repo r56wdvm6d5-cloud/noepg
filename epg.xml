@@ -499,6 +499,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260923220000 -0400" stop="20260923230000 -0400" channel="PBS.US">
+    <title>Ages of Ice</title>
+    <desc>From the Emmy-Award-winning Northern Pictures, Ages of Ice follows the brave scientists pushing the boundaries of exploration and human endeavour in Earth's coldest corners to understand the changes of ice and what this means for our planet's future. In the unforgiving grip of our planet's polar regions, the series will follow these modern-day explorers as they try to understand how the fate of every place and every creature on our planet is tied to these frozen extremes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260923220300 -0400" stop="20260923230500 -0400" channel="History.US">
     <title>Pawn Stars: Best Of</title>
     <desc>The very best episodes of Pawn Stars.</desc>
@@ -1679,6 +1684,26 @@
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260928070000 -0400" stop="20260928090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928070000 -0400" stop="20260928090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928070000 -0400" stop="20260928090000 -0400" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928080000 -0400" stop="20260928100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260928090000 -0400" stop="20260928110000 -0400" channel="MS NOW.US">
     <title>Money, Power, Politics with Stephanie Ruhle</title>
     <desc>Money, Power, Politics with Stephanie Ruhle, utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the "Nightcap" roundtable segment from her previous show, The 11th Hour</desc>
@@ -1692,6 +1717,21 @@
   <programme start="20260928090000 -0400" stop="20260928110000 -0400" channel="CNBC.US">
     <title>Squawk on the Street</title>
     <desc>Squawk on the Street is headquartered live on the floor of the New York Stock Exchange. We are there when the all-important opening bell rings every day. With our exclusive "Eye on the Floor" wireless cameras at the NYSE we take the viewer onto the floor of the exchange, right to the posts where the biggest companies in the world trade. In addition, our exclusive "Tick by Tick" charts track the action of every trade of every stock. Our live market coverage doesn't stop on the corner of Wall and Broad Streets in lower Manhattan. We also have exclusive coverage from the floor of the CME Group in Chicago giving our viewers the treasury, currency and commodity action in real time. In addition, "Squawk on the Street" is also on the air when the closing bells ring throughout Europe. That final hour of European trading starting at 10:30am eastern has proven to be very volatile and has a major impact on all U.S. based markets.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928090000 -0400" stop="20260928100000 -0400" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928100000 -0400" stop="20260928120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928100000 -0400" stop="20260928110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260928110000 -0400" stop="20260928120000 -0400" channel="MS NOW.US">
@@ -1727,6 +1767,11 @@
   <programme start="20260928130000 -0400" stop="20260928140000 -0400" channel="CNBC.US">
     <title>The Exchange</title>
     <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928130000 -0400" stop="20260928140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260928140000 -0400" stop="20260928160000 -0400" channel="MS NOW.US">
@@ -1979,6 +2024,26 @@
     <desc>Squawk Box is a business news television program that airs at breakfast time on the CNBC network. The program is currently co-hosted by Joe Kernen, Rebecca Quick, and Andrew Ross Sorkin. Since debuting in 1995, the show has spawned a number of versions across CNBC's international channels, many of which employ a similar format. The program title originates from a term used in investment banks and stock brokerages for a permanent voice circuit or intercom used to communicate stock deals or sales priorities; it also may refer to the squawk of a bird, like a peacock, which is the logo of CNBC.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260929070000 -0400" stop="20260929090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929070000 -0400" stop="20260929090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929070000 -0400" stop="20260929090000 -0400" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929080000 -0400" stop="20260929100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260929090000 -0400" stop="20260929110000 -0400" channel="MS NOW.US">
     <title>Money, Power, Politics with Stephanie Ruhle</title>
     <desc>Money, Power, Politics with Stephanie Ruhle, utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the "Nightcap" roundtable segment from her previous show, The 11th Hour</desc>
@@ -1992,6 +2057,21 @@
   <programme start="20260929090000 -0400" stop="20260929110000 -0400" channel="CNBC.US">
     <title>Squawk on the Street</title>
     <desc>Squawk on the Street is headquartered live on the floor of the New York Stock Exchange. We are there when the all-important opening bell rings every day. With our exclusive "Eye on the Floor" wireless cameras at the NYSE we take the viewer onto the floor of the exchange, right to the posts where the biggest companies in the world trade. In addition, our exclusive "Tick by Tick" charts track the action of every trade of every stock. Our live market coverage doesn't stop on the corner of Wall and Broad Streets in lower Manhattan. We also have exclusive coverage from the floor of the CME Group in Chicago giving our viewers the treasury, currency and commodity action in real time. In addition, "Squawk on the Street" is also on the air when the closing bells ring throughout Europe. That final hour of European trading starting at 10:30am eastern has proven to be very volatile and has a major impact on all U.S. based markets.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929090000 -0400" stop="20260929100000 -0400" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929100000 -0400" stop="20260929120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929100000 -0400" stop="20260929110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260929110000 -0400" stop="20260929120000 -0400" channel="MS NOW.US">
@@ -2027,6 +2107,11 @@
   <programme start="20260929130000 -0400" stop="20260929140000 -0400" channel="CNBC.US">
     <title>The Exchange</title>
     <desc>Anchor Kelly Evans reports on the most important stories to today's markets and investors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929130000 -0400" stop="20260929140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260929140000 -0400" stop="20260929160000 -0400" channel="MS NOW.US">
@@ -2697,6 +2782,11 @@
   <programme start="20260929200000 -0400" stop="20260929210000 -0400" channel="BBC One.GB">
     <title>DIY SOS</title>
     <desc>Nick Knowles and the team issue a call to arms and recruit friends, family and local trades to help transform the homes of families across Britain.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260929213000 -0400" stop="20260929223500 -0400" channel="Channel 4.GB">
+    <title>Tempting Fortune</title>
+    <desc>Rob Beckett presents the epic competition with a twist. Twelve strangers trek across hostile jungles and wildernesses, but who'll spend some of the shared £300k prize pot on individual luxuries?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260929223500 -0400" stop="20260929232000 -0400" channel="Channel 4.GB">
