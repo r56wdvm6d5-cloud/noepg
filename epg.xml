@@ -443,11 +443,6 @@
     <desc>The Traitors: New Blood is NBC's civilian version of Peacock's Emmy Award-winning competition reality series, The Traitors, known for strategic gameplay and skillful saboteurs.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260924210000 -0400" stop="20260924220000 -0400" channel="FOX.US">
-    <title>Special Forces: World's Toughest Test</title>
-    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260924210000 -0400" stop="20260924220300 -0400" channel="History.US">
     <title>Engineering From Above</title>
     <desc>Explore some of the world's most remarkable engineering marvels. Using cutting-edge technology and dynamic graphics, we reveal iconic sites from new perspectives and uncover the secrets hidden within.</desc>
@@ -476,6 +471,11 @@
   <programme start="20260924210000 -0400" stop="20260924213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260924210200 -0400" stop="20260924220000 -0400" channel="FOX.US">
+    <title>Special Forces: World's Toughest Test</title>
+    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260924220000 -0400" stop="20260924230000 -0400" channel="MS NOW.US">
@@ -1181,6 +1181,11 @@
   <programme start="20260927200000 -0400" stop="20260927210000 -0400" channel="Fox News Channel.US">
     <title>Life, Liberty &amp; Levin</title>
     <desc>Life, Liberty &amp;amp; Levin explores the fundamental values and principles undergirding American society, culture, politics, and current events, and their relevance to the nation's future and everyday lives of citizens.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260927200000 -0400" stop="20260927210000 -0400" channel="CNN.US">
+    <title>The Whole Story with Anderson Cooper</title>
+    <desc>The Whole Story with Anderson Cooper is a collection of unique and immersive single-subject, one-hour episodes from CNN's Emmy®  and Peabody Award-winning long-form storytelling team.  The recurring weekly series will be hosted by Cooper and showcase character-driven stories, special interviews, profiles, and investigative deep dives featuring reporting from CNN's anchors and correspondents.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260927202000 -0400" stop="20260927235000 -0400" channel="NBC.US">
@@ -2301,6 +2306,11 @@
   <programme start="20260924195500 -0400" stop="20260924200000 -0400" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260924200000 -0400" stop="20260924210000 -0400" channel="BBC One.GB">
+    <title>Dragons' Den</title>
+    <desc>Series in which budding entrepreneurs get three minutes to pitch their business ideas to five multi-millionaires willing to invest their own cash.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260924210000 -0400" stop="20260924220000 -0400" channel="Channel 4.GB">
