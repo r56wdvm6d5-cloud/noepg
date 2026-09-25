@@ -201,11 +201,6 @@
     <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260925090000 -0400" stop="20260925110000 -0400" channel="MS NOW.US">
-    <title>Money, Power, Politics with Stephanie Ruhle</title>
-    <desc>Money, Power, Politics with Stephanie Ruhle, utilizing her extensive Wall Street background to analyze the high-stakes intersection of money, power, and politics, Stephanie Ruhle delivers original reporting and hard-hitting interviews on the stories that directly affect Americans' lives. The program focuses on business and political news, featuring the "Nightcap" roundtable segment from her previous show, The 11th Hour</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260925090000 -0400" stop="20260925110000 -0400" channel="Fox News Channel.US">
     <title>America's Newsroom</title>
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
@@ -231,7 +226,7 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260925110000 -0400" stop="20260925120000 -0400" channel="MS NOW.US">
+  <programme start="20260925110000 -0400" stop="20260925140000 -0400" channel="MS NOW.US">
     <title>State of Play with Peter Alexander</title>
     <desc>State of Play focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,</desc>
     <category>TV Show</category>
@@ -314,11 +309,6 @@
   <programme start="20260925150000 -0400" stop="20260925160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260925153000 -0400" stop="20260925160000 -0400" channel="PBS.US">
-    <title>Cook's Country from America's Test Kitchen</title>
-    <desc>"Cook's Country from America's Test Kitchen" is a half-hour cooking show distributed to public television stations (reruns airing on Create) in the United States, which are also available in most Canadian markets. The show's hosts are Julia Collin Davison &amp;amp; Bridget Lancaster; the show and the magazine are affiliated, and the magazine's test kitchen facility in Brookline, Massachusetts, is used as a set for the show. Cook's Illustrated's parent company, Boston Common Press, while retaining its corporate name, has marketed its publishing and media activities under the America's Test Kitchen brand beginning in 2004.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260925160000 -0400" stop="20260925180000 -0400" channel="MS NOW.US">
@@ -981,6 +971,11 @@
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260928110000 -0400" stop="20260928120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260928120000 -0400" stop="20260928140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1331,6 +1326,11 @@
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260929110000 -0400" stop="20260929120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260929120000 -0400" stop="20260929140000 -0400" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1561,6 +1561,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260929233500 -0400" stop="20260930003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260929003500 -0400" stop="20260929013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1664,6 +1669,11 @@
   <programme start="20260930110000 -0400" stop="20260930120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260930110000 -0400" stop="20260930120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260930120000 -0400" stop="20260930140000 -0400" channel="MS NOW.US">
@@ -2014,6 +2024,11 @@
   <programme start="20261001110000 -0400" stop="20261001120000 -0400" channel="Fox News Channel.US">
     <title>The Faulkner Focus</title>
     <desc>Emmy-winning journalist Harris Faulkner provides the latest news driving the day with insightful analysis and interviews with top newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261001110000 -0400" stop="20261001120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261001120000 -0400" stop="20261001140000 -0400" channel="MS NOW.US">
