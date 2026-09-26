@@ -20,10 +20,6 @@
     <display-name>CBS</display-name>
     <country>US</country>
   </channel>
-  <channel id="NBC.US">
-    <display-name>NBC</display-name>
-    <country>US</country>
-  </channel>
   <channel id="ESPN.US">
     <display-name>ESPN</display-name>
     <country>US</country>
@@ -42,6 +38,10 @@
   </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="NBC.US">
+    <display-name>NBC</display-name>
     <country>US</country>
   </channel>
   <channel id="Discovery.US">
@@ -168,11 +168,6 @@
   <programme start="20260926070000 -0400" stop="20260926090000 -0400" channel="CBS.US">
     <title>CBS Saturday Morning</title>
     <desc>Hosts Jeff Glor, Dana Jacobson and Michelle Miller provide original reporting, breaking news, and profiles of leading figures in culture and the arts from the Times Square studio on the Saturday edition of the CBS morning news family.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260926070000 -0400" stop="20260926090000 -0400" channel="NBC.US">
-    <title>Saturday Today</title>
-    <desc>Interviews, stories and reviews intended to inform, entertain, inspire and set the day's agenda.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260926090000 -0400" stop="20260926100000 -0400" channel="CNN.US">
@@ -518,6 +513,11 @@
   <programme start="20260927220000 -0400" stop="20260927223000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260927230000 -0400" stop="20260927233000 -0400" channel="HBO.US">
+    <title>Last Week Tonight with John Oliver</title>
+    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260927235900 -0400" stop="20260928005900 -0400" channel="NBC.US">
@@ -2720,7 +2720,7 @@
     <desc>Long Lost Family traces &amp;amp; reunites family members, delivering some of the most emotionally powerful scenes ever seen on television.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261001211500 -0400" stop="20261001220000 -0400" channel="BBC Two.GB">
+  <programme start="20261001211500 -0400" stop="20261001220000 -0400" channel="BBC One.GB">
     <title>The Celebrity Traitors: Uncloaked</title>
     <desc>Ed Gamble is joined by the latest murdered and banished players to unpack all the drama from The Celebrity Traitors.</desc>
     <category>TV Show</category>
@@ -2790,7 +2790,7 @@
     <desc>Britain is in the grip of a housing crisis, with many people unable to afford a traditional bricks-and-mortar home. In this new series, George meets the proactive and determined people finding creative ways to put a roof over their heads.Across four episodes, George and his long-time collaborator Will Hardie meet individuals, couples and families driven to create homes in unconventional spaces. From buses and boats to former toilet blocks and tiny homes, the series follows those transforming unexpected places into affordable homes of their own.Through ambitious builds and personal stories, George discovers how hard work, enthusiasm and, sometimes, clever left-field thinking can help turn unlikely spaces into beautiful, practical and life-changing places to live.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261002210000 -0400" stop="20261002213000 -0400" channel="BBC Two.GB">
+  <programme start="20261002210000 -0400" stop="20261002213000 -0400" channel="BBC One.GB">
     <title>The Celebrity Traitors: Uncloaked</title>
     <desc>Ed Gamble is joined by the latest murdered and banished players to unpack all the drama from The Celebrity Traitors.</desc>
     <category>TV Show</category>
