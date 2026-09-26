@@ -200,6 +200,11 @@
     <desc>Big Noon Kickoff is an American college football studio show broadcast by Fox, and simulcast on sister network Fox Sports 1 (FS1). Premiering on August 31, 2019, it serves as the pre-game show for Fox College Football, and in particular, Big Noon Saturday—the network's weekly 12:00 p.m ET/9:00 a.m PT kickoff window.It is hosted by Rob Stone, and features former national champion and 2004 Heisman Trophy winning USC Trojans quarterback Matt Leinart, former national champion and 2009 Heisman Trophy winning Alabama running back Mark Ingram II, former Notre Dame Fighting Irish quarterback Brady Quinn, and former Bowling Green, Utah, Florida, and Ohio State coach Urban Meyer as panelists, with Bruce Feldman acting as Fox's CFB insider, as well as Tom Verducci, who usually does baseball for Fox, and Tom Rinaldi, both working on feature reports. Radio host Clay Travis serves as a contributor, and 1997 Heisman Trophy winner and former Michigan Wolverines cornerback Charles Woodson will also join the show on select weeks, most notably if Michigan is featured.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260926100000 -0400" stop="20260926103000 -0400" channel="CBS.US">
+    <title>Mission Unstoppable</title>
+    <desc>In Mission Unstoppable, each week celebrity host Miranda Cosgrove highlights the fascinating female innovators who are on the cutting edge of science – including zoologists, engineers, astronauts, codebreakers and oceanographers. Viewers will be inspired by female STEM (science, technology, engineering and math) superstars in the fields of social media, entertainment, animals, design and the internet – all categories key to the teen experience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260926120000 -0400" stop="20260926130000 -0400" channel="A&amp;E.US">
     <title>Betting on Beloit</title>
     <desc>America's richest self-made woman Diane Hendricks is betting big on the town integral to her family's success. Betting on Beloit chronicles the billionaire entrepreneur and her driven, accomplished daughter Konya Hendricks Schuh's mission to revitalize Beloit, Wisconsin. The show follows Konya and her dynamic team—which includes her husband Matt (a plumbing contractor and former home builder), good friend and project manager Pete, and her realtor nephew Connor, as well as local artisans and designer friends Kristin and Mitch—as they purchase, restore and reimagine historic homes throughout Beloit's storied neighborhoods.</desc>
@@ -235,7 +240,7 @@
     <desc>America's Test Kitchen is filmed in a real, working test kitchen located just outside of Boston. It is the home of Cook's Illustrated magazine and the Monday-to-Friday destination for more than three dozen test cooks, editors, food scientists, tasters, and cookware specialists.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260926143000 -0400" stop="20260926150000 -0400" channel="CBS.US">
+  <programme start="20260926143500 -0400" stop="20260926150500 -0400" channel="CBS.US">
     <title>College Football Today</title>
     <desc>College Football Today is hosted by Adam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.</desc>
     <category>TV Show</category>
@@ -675,6 +680,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260928140000 -0400" stop="20260928160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260928150000 -0400" stop="20260928170000 -0400" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -1045,6 +1055,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260929140000 -0400" stop="20260929160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260929150000 -0400" stop="20260929160000 -0400" channel="Fox News Channel.US">
     <title>The Story</title>
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
@@ -1403,6 +1418,11 @@
   <programme start="20260930140000 -0400" stop="20260930150000 -0400" channel="ESPN.US">
     <title>Big Day with Peter Schrager</title>
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260930140000 -0400" stop="20260930160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260930150000 -0400" stop="20260930160000 -0400" channel="Fox News Channel.US">
@@ -1775,6 +1795,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261001140000 -0400" stop="20261001160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261001150000 -0400" stop="20261001160000 -0400" channel="Fox News Channel.US">
     <title>The Story</title>
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
@@ -2100,6 +2125,11 @@
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261002140000 -0400" stop="20261002160000 -0400" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261002150000 -0400" stop="20261002160000 -0400" channel="Fox News Channel.US">
     <title>The Story</title>
     <desc>The Story with Martha MacCallum, anchored by Martha MacCallum, focuses on the stories that are most important to Americans with insight from top newsmakers and analysts.</desc>
@@ -2278,6 +2308,11 @@
   <programme start="20260926082500 -0400" stop="20260926092500 -0400" channel="ITV1.GB">
     <title>Prue Leith's Cotswold Kitchen</title>
     <desc>Prue Leith opens the doors to her Cotswold Kitchen, sharing cherished recipes, tips, and handy culinary hacks. Joined by her husband John and a cast of special friends, including Sandi Toksvig, Alison Hammond and chef Tommy Banks, each episode is a unique culinary adventure. Beyond the kitchen, Prue celebrates her personal food heroes both locally and beyond.  And husband John gets to grips with a varied mix of country activities on offer in the Cotswolds. The series is a celebration of food, friendship and fun – with easy-to-cook recipes for every occasion.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260926120000 -0400" stop="20260926123000 -0400" channel="ITV1.GB">
+    <title>Gary Barlow's Wine Tour</title>
+    <desc>Gary Barlow's Wine Tour follows the multi-platinum Take That star to explore another passion of his… discovering new food and wine!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260926173000 -0400" stop="20260926200000 -0400" channel="Channel 4.GB">
