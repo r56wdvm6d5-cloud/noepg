@@ -235,6 +235,11 @@
     <desc>The Journal Editorial Report is a weekly American interview and panel discussion TV program on Fox News Channel, hosted by Paul Gigot, editorial page editor of The Wall Street Journal. Prior to moving to Fox News, the show aired on PBS for 15 months, ending on December 2, 2005. Opening with a newsmaker of the week, Gigot usually interviews a guest for the first half of the program, asking questions related to the writings of the guest or a current event of interest to the guest. Following the guest segment, the program becomes a panel discussion of Wall Street Journal editorial writers giving their opinions on the political, economic, and cultural issues of the current week. The final segment labeled Hits and Misses lets the panelists comment on the best and worst stories or events of the week.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260926143000 -0400" stop="20260926150000 -0400" channel="PBS.US">
+    <title>America's Test Kitchen</title>
+    <desc>America's Test Kitchen is filmed in a real, working test kitchen located just outside of Boston. It is the home of Cook's Illustrated magazine and the Monday-to-Friday destination for more than three dozen test cooks, editors, food scientists, tasters, and cookware specialists.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260926143000 -0400" stop="20260926150000 -0400" channel="CBS.US">
     <title>College Football Today</title>
     <desc>College Football Today is hosted by Adam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.</desc>
@@ -1458,11 +1463,6 @@
   <programme start="20260930183000 -0400" stop="20260930190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260930190000 -0400" stop="20260930200000 -0400" channel="The CW.US">
-    <title>WWE NXT Premium Live Events</title>
-    <desc>This is a list of WWE NXT pay-per-view and livestreaming supercards, detailing all professional wrestling cards promoted by the American promotion WWE on pay-per-view (PPV) and available via livestreaming on services such as the WWE Network. Due to the American version of the WWE Network merging under Peacock, and with the WWE Network still available in most international markets, as well as less focus being given to traditional PPV channels, in 2022, the company began using the term "Premium Live Event" to refer to their events airing on PPV and the livestreaming services. The terminology "TakeOver" was dropped in December of 2021 as the NXT brand transformed.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260930190000 -0400" stop="20260930200000 -0400" channel="MS NOW.US">
