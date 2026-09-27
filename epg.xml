@@ -108,6 +108,10 @@
     <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Quest.GB">
     <display-name>Quest</display-name>
     <country>GB</country>
@@ -2460,6 +2464,11 @@
     <desc>Quiz show in which connections must be made between apparently unconnected things, where patience and lateral thinking are as vital as knowledge.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260928200000 -0400" stop="20260928210000 -0400" channel="Channel 4.GB">
+    <title>Jamie's 20 Minute Meals</title>
+    <desc>Short on time and want something fast? Jamie Oliver shows us how to make gorgeous meals in just 20 minutes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260928203000 -0400" stop="20260928210000 -0400" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -2468,6 +2477,11 @@
   <programme start="20260928210000 -0400" stop="20260928220000 -0400" channel="5.GB">
     <title>Michael Palin in the Philippines</title>
     <desc>Michael Palin's latest adventure is an epic 2,500-mile journey across the islands of the Philippines. Known as an idyllic tropical travel hotspot, Michael also delves deeper to reveal a surprising, darker side. The legacy of Ferdinand and Imelda Marcos' spending, not just the shoes of legend but billions spent on monumental architecture, still haunts the country forty years on. Their son, Bongbong Marcos, is now President, and forty percent of the urban population lives in poverty, thirty thousand people have been lawlessly killed by vigilante anti-drug 'death squads', and a third of the country is on the UK Foreign Office 'do not travel list'. But despite all of this, Michael also experiences the Philippines as, ironically, one of the happiest and certainly the most beautiful countries he has ever visited.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260928210000 -0400" stop="20260928220500 -0400" channel="E4.GB">
+    <title>Made in Chelsea</title>
+    <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260928220000 -0400" stop="20260928230500 -0400" channel="Channel 4.GB">
@@ -2853,6 +2867,11 @@
   <programme start="20261003192500 -0400" stop="20261003193000 -0400" channel="5.GB">
     <title>5 News Weekend</title>
     <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261003195000 -0400" stop="20261003205000 -0400" channel="ITV1.GB">
+    <title>Win Win with People's Postcode Lottery</title>
+    <desc>ITV1 and ITVX's unique new quiz show Win Win with People's Postcode Lottery will be the most interactive quiz show ever aired in the UK, as viewers playing from the comfort of their sofas get the chance to win the same truly amazing prizes as the contestants playing in studio. The series builds to an epic finale where one contestant is guaranteed to win £1,000,000 - and that winner could even be a viewer who made it through to the final.Created and produced by Hello Dolly and airing on Saturday nights for six weeks, comedy duo Mel Giedroyc and Sue Perkins will host, with each show packed with humour, drama and life-changing decisions. Playing survey questions based on the views of the Great British public, a 40-strong group of studio contestants, and viewers, play to win prizes including dream holidays, luxury cars, and tickets to some of the world's biggest sporting and entertainment events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261003205000 -0400" stop="20261003213500 -0400" channel="BBC One.GB">
