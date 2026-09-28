@@ -464,6 +464,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260928210000 -0400" stop="20260928220000 -0400" channel="MS NOW.US">
+    <title>The Rachel Maddow Show</title>
+    <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260928220000 -0400" stop="20260928230000 -0400" channel="NBC.US">
     <title>Line of Fire</title>
     <desc>When a U.S. Marshal falls in the line of duty, a seemingly cut-and-dry case turns into a deadly conspiracy as a family of law enforcement agents become the target of a mysterious assassin. Bridging personal differences and crossing professional boundaries, the Hollingsworth family must use the expertise from a lifetime of protecting civilians and politicians to protect one another and bring the killer to justice... even if it means betraying their sworn code.</desc>
@@ -2009,6 +2014,11 @@
     <desc>Produced by Latino Public Broadcasting, "Voces" is PBS' signature Latino arts and culture documentary showcase and the only ongoing national television series devoted to exploring and celebrating the rich diversity of the Latino cultural experience. Now in its fourth season, the new season of VOCES explores the ever-evolving relationship between Latino culture and the larger fabric of American society, from a classic movie set in remote Texas to modern day Hollywood to the frontlines of the drug war.The series is presented by PBS SoCaL and supported in part by the National Endowment for the Arts, the National Association of Latino Arts and Cultures, the Ford Foundation, and the Surdna Foundation through a grant from the NALAC Fund for the Arts Grant Program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261002220000 -0400" stop="20261002230000 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261002230000 -0400" stop="20261003000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -3004,7 +3014,7 @@
     <desc>Media Watch is Australia's leading forum for media analysis and comment.Conflicts of interest, bank backflips, deceit, misrepresentation, manipulation, plagiarism, abuse of power, technical lies and straight out fraud: Media Watch has built an unrivalled record of exposing media shenanigans since it first went to air in 1989.The media provides the information we need to make decisions about our lives, but how reliable are the media reports that shape our views of the world?Media Watch turns the spotlight onto those who literally 'make the news': the reporters, editors, sub-editors, producers, camera operators, sound recordists and photographers who claim to deliver the world to our doorsteps, radios, computers and living rooms. We also keep an eye on those who try to manipulate the media: the PR consultants, spin-doctors, lobbyists and "news makers" who set the agenda.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260928213500 -0400" stop="20260928220500 -0400" channel="ABC.AU">
+  <programme start="20260928213700 -0400" stop="20260928220700 -0400" channel="ABC.AU">
     <title>Planet America</title>
     <desc>Chas Licciardello and John Barron set out to discover the real America - its politics and its people - with analysis from US and Australian experts.</desc>
     <category>TV Show</category>
