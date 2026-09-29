@@ -477,6 +477,11 @@
     <desc>Doc centers on the hard-charging, brilliant Dr. Amy Larsen, Chief of Internal and Family Medicine at Westside Hospital in Minneapolis. After a brain injury erases the last eight years of her life, Amy must navigate an unfamiliar world where she has no recollection of patients she's treated, colleagues she's crossed, the soulmate she divorced, the man she now loves and the tragedy that caused her to push everyone away. She can rely only on her estranged 17-year-old daughter, whom she remembers as a 9-year-old, and a handful of devoted friends, as she struggles to continue practicing medicine, despite having lost nearly a decade of knowledge and experience.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260929210000 -0400" stop="20260929220000 -0400" channel="Discovery.US">
+    <title>Secret Life of a Vegas Casino</title>
+    <desc>What happens in Vegas usually stays in Vegas, but behind the flashing lights and million-dollar jackpots is a world visitors have never seen before. For the first time, Discovery pulls back the curtain on the legendary Golden Nugget, one of Las Vegas' most iconic casinos, to follow the larger-than-life personalities responsible for managing demanding high rollers, millions of dollars, and nonstop drama every day. Just off the chaos of busy Fremont Street, cameras capture the real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day. Whether it's breaking up a late-night club brawl, responding to an embarrassing medical emergency or racing to move sharks from a 200,000-gallon shark tank, the staff must be ready for whatever Vegas throws their way.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260929210000 -0400" stop="20260929220000 -0400" channel="PBS.US">
     <title>Frontline</title>
     <desc>Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change..</desc>
@@ -485,11 +490,6 @@
   <programme start="20260929210000 -0400" stop="20260929213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20260929210100 -0400" stop="20260929220200 -0400" channel="Discovery.US">
-    <title>Secret Life of a Vegas Casino</title>
-    <desc>What happens in Vegas usually stays in Vegas, but behind the flashing lights and million-dollar jackpots is a world visitors have never seen before. For the first time, Discovery pulls back the curtain on the legendary Golden Nugget, one of Las Vegas' most iconic casinos, to follow the larger-than-life personalities responsible for managing demanding high rollers, millions of dollars, and nonstop drama every day. Just off the chaos of busy Fremont Street, cameras capture the real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day. Whether it's breaking up a late-night club brawl, responding to an embarrassing medical emergency or racing to move sharks from a 200,000-gallon shark tank, the staff must be ready for whatever Vegas throws their way.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260929220000 -0400" stop="20260929230000 -0400" channel="ABC.US">
@@ -842,6 +842,11 @@
     <desc>The Real Housewives of Salt Lake City takes viewers into an undiscovered world that is about so much more than religion, although the Mormon church is undeniably engrained in the culture. In the majestic mountains of Utah is a hidden social circle made up of successful women who have created their own paradise filled with luxury homes, shopping sprees and multi-million-dollar businesses and brands. With Hollywood's exclusive Sundance Film Festival in their backyards, these Type-A power-brokers are accustomed to rubbing elbows with A-listers and what party list you are on means everything. They have mastered running wildly successful enterprises by day and enjoy après ski at the finest resorts by night, all the while raising extraordinary and unconventional families. Here perfection is not an aspiration, it's a mandate. They hold themselves and each other to an extremely high standard and never hold back when things go sideways, but lord knows they are always there for each other when they need it most.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20260930200000 -0400" stop="20260930210000 -0400" channel="CNN.US">
+    <title>Debate Night in America</title>
+    <desc>Debate Night in America is an exclusive Political talk show where CNN Anchors and commentators discuss the hottest political issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20260930203100 -0400" stop="20260930210200 -0400" channel="ABC.US">
     <title>Scrubs</title>
     <desc>Old friends JD and Turk scrub in together for the first time in a long time, learning that medicine has changed; interns have changed; but their bromance has stood the test of time.</desc>
@@ -875,6 +880,11 @@
   <programme start="20260930210000 -0400" stop="20260930213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20260930210000 -0400" stop="20260930230000 -0400" channel="CNN.US">
+    <title>Debate Night in America</title>
+    <desc>Debate Night in America is an exclusive Political talk show where CNN Anchors and commentators discuss the hottest political issues of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20260930210200 -0400" stop="20260930220000 -0400" channel="FOX.US">
@@ -1262,14 +1272,14 @@
     <desc>The all-time classic trivia game Trivial Pursuit is reimagined in a question-packed entertainment format. Gameplay takes place on a giant version of the iconic Trivial Pursuit game board, as contestants battle it out over a range of play-along question categories to win wedges and beat each other to the center. The victor then takes on a dramatic finale against the clock to claim the big money jackpot.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261001210000 -0400" stop="20261001220000 -0400" channel="FOX.US">
-    <title>Special Forces: World's Toughest Test</title>
-    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261001210000 -0400" stop="20261001213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261001210200 -0400" stop="20261001220000 -0400" channel="FOX.US">
+    <title>Special Forces: World's Toughest Test</title>
+    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261001213000 -0400" stop="20261001230000 -0400" channel="CBS.US">
@@ -1980,6 +1990,11 @@
   <programme start="20261004200000 -0400" stop="20261004203000 -0400" channel="FOX.US">
     <title>The Simpsons</title>
     <desc>The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261004200000 -0400" stop="20261004210000 -0400" channel="CNN.US">
+    <title>The Whole Story with Anderson Cooper</title>
+    <desc>The Whole Story with Anderson Cooper is a collection of unique and immersive single-subject, one-hour episodes from CNN's Emmy®  and Peabody Award-winning long-form storytelling team.  The recurring weekly series will be hosted by Cooper and showcase character-driven stories, special interviews, profiles, and investigative deep dives featuring reporting from CNN's anchors and correspondents.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261004200000 -0400" stop="20261004210000 -0400" channel="History.US">
