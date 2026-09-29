@@ -347,11 +347,6 @@
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20260929160000 -0400" stop="20260929170000 -0400" channel="ESPN.US">
-    <title>NFL Live</title>
-    <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20260929160000 -0400" stop="20260929180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1155,6 +1150,11 @@
   <programme start="20261001150000 -0400" stop="20261001160000 -0400" channel="CNBC.US">
     <title>Closing Bell</title>
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261001160000 -0400" stop="20261001170000 -0400" channel="ESPN.US">
+    <title>NFL Live</title>
+    <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261001160000 -0400" stop="20261001180000 -0400" channel="MS NOW.US">
@@ -2980,6 +2980,11 @@
   <programme start="20261001220000 -0400" stop="20261001230000 -0400" channel="Citytv.CA">
     <title>Law &amp; Order Toronto: Criminal Intent</title>
     <desc>In Toronto's war on crime, the worst offenders are pursued by the detectives of the specialized criminal investigations unit. These are their stories.As a psychological thriller wrapped in a criminal investigation, Law &amp;amp; Order Toronto: Criminal Intent follows an elite squad of detectives who investigate high-profile crime and corruption in metro Toronto.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261005090000 -0400" stop="20261005091100 -0400" channel="CBC.CA">
+    <title>Dino Ranch: Island Explorers</title>
+    <desc>The Cassidy Family saddle up for their biggest adventure yet - summer on Dino Island—a lost world filled with new dinosaurs, mysteries, and lessons in teamwork and bravery.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261005200000 -0400" stop="20261005210000 -0400" channel="Citytv.CA">
