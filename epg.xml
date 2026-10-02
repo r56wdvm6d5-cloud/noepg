@@ -28,6 +28,10 @@
     <display-name>Newsmax</display-name>
     <country>US</country>
   </channel>
+  <channel id="NewsNation.US">
+    <display-name>NewsNation</display-name>
+    <country>US</country>
+  </channel>
   <channel id="CBS.US">
     <display-name>CBS</display-name>
     <country>US</country>
@@ -206,6 +210,11 @@
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261002060000 -0400" stop="20261002090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261002070000 -0400" stop="20261002090000 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
@@ -256,6 +265,11 @@
     <desc>National Report with Shaun Kraisman and Emma Rechenberg for live breaking news from NY and Washington, on politics, health, finance, and lifestyle that impact you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261002090000 -0400" stop="20261002120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261002100000 -0400" stop="20261002120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -304,6 +318,11 @@
   <programme start="20261002120000 -0400" stop="20261002140000 -0400" channel="Newsmax.US">
     <title>Bianca Across the Nation</title>
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261002120000 -0400" stop="20261002150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261002123000 -0400" stop="20261002133000 -0400" channel="CBS.US">
@@ -366,6 +385,11 @@
     <desc>Anything can happen between the bells of the trading day. But what happens during the last hour could be what matters most. Hosted by CNBC's Scott Wapner, "Closing Bell" guides you through the most important hour of the trading day. The show takes a close-up look at how the markets are moving, what's driving them and how investors are reacting.Live coverage includes reports from the Chicago Board of Trade, New York Mercantile Exchange, NASDAQ and the NYSE. Analysts, money managers and CEOs explain their strategies, share opinions, and provide an inside perspective on breaking news stories.In addition, "Closing Bell" provides instant analysis of corporate profit reports, as soon as they break, during the quarterly earning seasons. Features include interviews with entrepreneurs, plus an inside-look at how executives and high-net-worth individuals spend their time and money.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261002150000 -0400" stop="20261002180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261002160000 -0400" stop="20261002180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -426,6 +450,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261002180000 -0400" stop="20261002190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261002183000 -0400" stop="20261002190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
@@ -454,6 +483,11 @@
   <programme start="20261002190000 -0400" stop="20261002200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261002190000 -0400" stop="20261002200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261002200000 -0400" stop="20261002210000 -0400" channel="ABC.US">
@@ -504,6 +538,11 @@
   <programme start="20261002200000 -0400" stop="20261002210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261002200000 -0400" stop="20261002210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261002203000 -0400" stop="20261002210000 -0400" channel="PBS.US">
@@ -891,16 +930,6 @@
     <desc>FNC's signature weekend newscast, FOX Report with Jon Scott, anchored by Jon Scott, highlights the latest developments and breaking news in the U.S. and around the globe.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261004160000 -0400" stop="20261004180000 -0400" channel="MS NOW.US">
-    <title>Deadline: White House</title>
-    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261004160000 -0400" stop="20261004180000 -0400" channel="MS NOW.US">
-    <title>Deadline: White House</title>
-    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261004162500 -0400" stop="20261004192500 -0400" channel="CBS.US">
     <title>NFL on CBS</title>
     <desc>Coverage of NFL on CBS.</desc>
@@ -951,6 +980,11 @@
     <desc>In small towns, and along America's back roads, treasures are waiting to be uncovered–valuable relics from history that are hidden in junk piles, buried in barns and stacked in garages. It takes special experts to find these lost artifacts and hopefully turn rust to riches. Mike and Frank look back at their best picks.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261004200000 -0400" stop="20261004210000 -0400" channel="MS NOW.US">
+    <title>Nicolle Wallace Presents: 92NY on MS NOW</title>
+    <desc>MS NOW is launching a collaboration with The 92nd Street Y, New York to bring the cultural and community center's signature conversations to the network's weekend lineup in a new monthly series, Nicolle Wallace Presents: 92NY on MS NOW.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261004202000 -0400" stop="20261004235000 -0400" channel="NBC.US">
     <title>NBC Sunday Night Football</title>
     <desc>NBC Sunday Night Football is a weekly television broadcast of National Football League (NFL) games on NBC in the United States. It began airing on August 6, 2006 with the Pro Football Hall of Fame Game, which opened that year's preseason. NBC took over the rights to the Sunday prime time game telecasts from ESPN, which carried the broadcasts from 1987 to 2005 (concurrently with NBC assuming the rights to Sunday evening regular-season games).</desc>
@@ -989,6 +1023,11 @@
   <programme start="20261004210000 -0400" stop="20261004213000 -0400" channel="FOX.US">
     <title>Universal Basic Guys</title>
     <desc>In Universal Basic Guys brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them, the town started a radical Universal Basic Income pilot program, giving all residents of Glantontown $3,000 per month with no strings attached. Now, Mark, Hank and the rest of their local buddies are once again kids in the summertime, overflowing with the perilous combo of free time and stupid ideas. This is a show about men trying to find purpose in a world where they're no longer needed.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261004210000 -0400" stop="20261004220000 -0400" channel="MS NOW.US">
+    <title>Nicolle Wallace Presents: 92NY on MS NOW</title>
+    <desc>MS NOW is launching a collaboration with The 92nd Street Y, New York to bring the cultural and community center's signature conversations to the network's weekend lineup in a new monthly series, Nicolle Wallace Presents: 92NY on MS NOW.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261004213000 -0400" stop="20261004223000 -0400" channel="CBS.US">
@@ -1041,6 +1080,11 @@
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261005060000 -0400" stop="20261005090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261005070000 -0400" stop="20261005090000 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
@@ -1086,6 +1130,11 @@
     <desc>National Report with Shaun Kraisman and Emma Rechenberg for live breaking news from NY and Washington, on politics, health, finance, and lifestyle that impact you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261005090000 -0400" stop="20261005120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261005100000 -0400" stop="20261005120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1114,6 +1163,11 @@
   <programme start="20261005120000 -0400" stop="20261005140000 -0400" channel="Newsmax.US">
     <title>Bianca Across the Nation</title>
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261005120000 -0400" stop="20261005150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261005123000 -0400" stop="20261005133000 -0400" channel="CBS.US">
@@ -1161,6 +1215,11 @@
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261005150000 -0400" stop="20261005180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261005160000 -0400" stop="20261005180000 -0400" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1191,6 +1250,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261005180000 -0400" stop="20261005190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261005190000 -0400" stop="20261005200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1199,6 +1263,11 @@
   <programme start="20261005190000 -0400" stop="20261005200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261005190000 -0400" stop="20261005200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261005200000 -0400" stop="20261005220000 -0400" channel="NBC.US">
@@ -1244,6 +1313,11 @@
   <programme start="20261005200000 -0400" stop="20261005210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261005200000 -0400" stop="20261005210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261005201500 -0400" stop="20261005234500 -0400" channel="ESPN.US">
@@ -1376,6 +1450,11 @@
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261006060000 -0400" stop="20261006090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261006070000 -0400" stop="20261006090000 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
@@ -1421,6 +1500,11 @@
     <desc>National Report with Shaun Kraisman and Emma Rechenberg for live breaking news from NY and Washington, on politics, health, finance, and lifestyle that impact you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261006090000 -0400" stop="20261006120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261006100000 -0400" stop="20261006120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1449,6 +1533,11 @@
   <programme start="20261006120000 -0400" stop="20261006140000 -0400" channel="Newsmax.US">
     <title>Bianca Across the Nation</title>
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261006120000 -0400" stop="20261006150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261006123000 -0400" stop="20261006133000 -0400" channel="CBS.US">
@@ -1491,6 +1580,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261006150000 -0400" stop="20261006180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261006160000 -0400" stop="20261006170000 -0400" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -1521,6 +1615,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261006180000 -0400" stop="20261006190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261006190000 -0400" stop="20261006200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1529,6 +1628,11 @@
   <programme start="20261006190000 -0400" stop="20261006200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261006190000 -0400" stop="20261006200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261006200000 -0400" stop="20261006220000 -0400" channel="NBC.US">
@@ -1574,6 +1678,11 @@
   <programme start="20261006200000 -0400" stop="20261006210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261006200000 -0400" stop="20261006210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261006210000 -0400" stop="20261006220000 -0400" channel="CBS.US">
@@ -1716,6 +1825,11 @@
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007060000 -0400" stop="20261007090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007070000 -0400" stop="20261007090000 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
@@ -1766,6 +1880,11 @@
     <desc>National Report with Shaun Kraisman and Emma Rechenberg for live breaking news from NY and Washington, on politics, health, finance, and lifestyle that impact you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007090000 -0400" stop="20261007120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007100000 -0400" stop="20261007120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1794,6 +1913,11 @@
   <programme start="20261007120000 -0400" stop="20261007140000 -0400" channel="Newsmax.US">
     <title>Bianca Across the Nation</title>
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261007120000 -0400" stop="20261007150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261007123000 -0400" stop="20261007133000 -0400" channel="CBS.US">
@@ -1836,6 +1960,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007150000 -0400" stop="20261007180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007160000 -0400" stop="20261007170000 -0400" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -1866,6 +1995,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007180000 -0400" stop="20261007190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007190000 -0400" stop="20261007193000 -0400" channel="ESPN.US">
     <title>WNBA Countdown</title>
     <desc>WNBA Countdown serves as the primer for game telecasts on both ESPN2 and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
@@ -1879,6 +2013,11 @@
   <programme start="20261007190000 -0400" stop="20261007200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261007190000 -0400" stop="20261007200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261007200000 -0400" stop="20261007210000 -0400" channel="NBC.US">
@@ -1919,6 +2058,11 @@
   <programme start="20261007200000 -0400" stop="20261007210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261007200000 -0400" stop="20261007210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261007203100 -0400" stop="20261007210100 -0400" channel="ABC.US">
@@ -2056,6 +2200,11 @@
     <desc>Wake up to reliable reporting that delivers the essential facts you need to start your day informed, along with expert commentary and thoughtful analysis. Get an early look at the top stories shaping national and global conversations. Whether it's politics, business, culture, or breaking news, you'll be prepared for whatever the day brings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008060000 -0400" stop="20261008090000 -0400" channel="NewsNation.US">
+    <title>Morning in America</title>
+    <desc>Morning in America is NewsNation's live national morning newscast hosted by Markie Martin.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008070000 -0400" stop="20261008090000 -0400" channel="ABC.US">
     <title>Good Morning America</title>
     <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
@@ -2101,6 +2250,11 @@
     <desc>National Report with Shaun Kraisman and Emma Rechenberg for live breaking news from NY and Washington, on politics, health, finance, and lifestyle that impact you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008090000 -0400" stop="20261008120000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Marni Hughes</title>
+    <desc>NewsNation Live with Marni Hughes brings you a fast-paced look at the latest from the border to Main Street to the White House and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008100000 -0400" stop="20261008120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -2124,6 +2278,11 @@
   <programme start="20261008120000 -0400" stop="20261008140000 -0400" channel="Newsmax.US">
     <title>Bianca Across the Nation</title>
     <desc>Bianca de la Garza tackles the big news from D.C., N.Y., across America, and around the world!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008120000 -0400" stop="20261008150000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live with Nichole Berlie</title>
+    <desc>The day's top news headlines with reports from correspondents around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008123000 -0400" stop="20261008133000 -0400" channel="CBS.US">
@@ -2166,6 +2325,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008150000 -0400" stop="20261008180000 -0400" channel="NewsNation.US">
+    <title>NewsNation Live With Connell McShane</title>
+    <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008160000 -0400" stop="20261008170000 -0400" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -2201,6 +2365,11 @@
     <desc>Carl Higbie Frontline focuses on providing commonsense news analysis, exposing big government overreach and the media's shortfalls — all while always fighting for American values. Produced from Newsmax's Manhattan studios covering breaking news and exploring key issues such as personal liberty, security, and government transparency.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008180000 -0400" stop="20261008190000 -0400" channel="NewsNation.US">
+    <title>The Hill</title>
+    <desc>The Hill on NewsNation combines the power of two trusted news sources into one must-watch hour. The Hill, the nation's #1 political website, and NewsNation, America's fastest-growing cable news network, team up to define today's most-pressing issues, and question Washington's power brokers on what matters most to the people they serve and what matters most to Americans.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008190000 -0400" stop="20261008193000 -0400" channel="ESPN.US">
     <title>College Football Countdown</title>
     <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
@@ -2214,6 +2383,11 @@
   <programme start="20261008190000 -0400" stop="20261008200000 -0400" channel="Newsmax.US">
     <title>Rob Schmitt Tonight</title>
     <desc>Rob Schmitt Tonight locks in all the late-breaking stories that matter to you, and delivers the up-to-the-minute news you need to hear before turning in.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008190000 -0400" stop="20261008200000 -0400" channel="NewsNation.US">
+    <title>Elizabeth Vargas Reports</title>
+    <desc>In-depth coverage of the biggest news stories of the day; NewsNation's home for exclusive and enterprise reporting; hosted live by Elizabeth Vargas.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008200000 -0400" stop="20261008210000 -0400" channel="NBC.US">
@@ -2249,6 +2423,11 @@
   <programme start="20261008200000 -0400" stop="20261008210000 -0400" channel="Newsmax.US">
     <title>Finnerty</title>
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008200000 -0400" stop="20261008210000 -0400" channel="NewsNation.US">
+    <title>Cuomo</title>
+    <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008203000 -0400" stop="20261008210200 -0400" channel="CBS.US">
@@ -2889,6 +3068,11 @@
   <programme start="20261008141000 -0400" stop="20261008150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008160000 -0400" stop="20261008170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008170000 -0400" stop="20261008180000 -0400" channel="5.GB">
