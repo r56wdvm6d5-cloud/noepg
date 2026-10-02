@@ -586,6 +586,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261002220000 -0400" stop="20261002230000 -0400" channel="Newsmax.US">
+    <title>Chris Plante: The Right Squad</title>
+    <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261002230000 -0400" stop="20261003000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -1306,6 +1311,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261005220000 -0400" stop="20261005230000 -0400" channel="Newsmax.US">
+    <title>Chris Plante: The Right Squad</title>
+    <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261005221500 -0400" stop="20261005224500 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
@@ -1606,6 +1616,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261006210000 -0400" stop="20261006213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261006210100 -0400" stop="20261006220200 -0400" channel="Discovery.US">
     <title>Secret Life of a Vegas Casino</title>
     <desc>What happens in Vegas usually stays in Vegas, but behind the flashing lights and million-dollar jackpots is a world visitors have never seen before. For the first time, Discovery pulls back the curtain on the legendary Golden Nugget, one of Las Vegas' most iconic casinos, to follow the larger-than-life personalities responsible for managing demanding high rollers, millions of dollars, and nonstop drama every day. Just off the chaos of busy Fremont Street, cameras capture the real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day. Whether it's breaking up a late-night club brawl, responding to an embarrassing medical emergency or racing to move sharks from a 200,000-gallon shark tank, the staff must be ready for whatever Vegas throws their way.</desc>
@@ -1634,6 +1649,11 @@
   <programme start="20261006220000 -0400" stop="20261006230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261006220000 -0400" stop="20261006230000 -0400" channel="Newsmax.US">
+    <title>Chris Plante: The Right Squad</title>
+    <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261006220100 -0400" stop="20261006223200 -0400" channel="A&amp;E.US">
@@ -1936,6 +1956,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007210000 -0400" stop="20261007213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007210200 -0400" stop="20261007220000 -0400" channel="ABC.US">
     <title>Who Wants to Be a Millionaire</title>
     <desc>In Who Wants to Be a Millionaire, 15 questions need to be answered by the contestants to win the 1 million dollar prize.</desc>
@@ -1979,6 +2004,11 @@
   <programme start="20261007220000 -0400" stop="20261007230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261007220000 -0400" stop="20261007230000 -0400" channel="Newsmax.US">
+    <title>Chris Plante: The Right Squad</title>
+    <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261007230000 -0400" stop="20261007233500 -0400" channel="Comedy Central.US">
@@ -2256,6 +2286,11 @@
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008210000 -0400" stop="20261008213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008210200 -0400" stop="20261008220100 -0400" channel="CBS.US">
     <title>Elsbeth</title>
     <desc>Elsbeth follows Elsbeth Tascioni, an astute but unconventional attorney who utilizes her singular point of view to make unique observations and corner brilliant criminals alongside the NYPD. After leaving her successful legal career in Chicago to tackle a new investigative role in New York City, Elsbeth finds herself jockeying with the toast of the NYPD, Captain C.W. Wagner, a charismatic and revered leader. Working alongside Elsbeth is Officer Kaya Blanke, a stoic and ethical officer who quickly develops an appreciation for Elsbeth's insightful and offbeat ways.</desc>
@@ -2274,6 +2309,11 @@
   <programme start="20261008220000 -0400" stop="20261008230000 -0400" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008220000 -0400" stop="20261008230000 -0400" channel="Newsmax.US">
+    <title>Chris Plante: The Right Squad</title>
+    <desc>Chris Plante and his "THE RIGHT SQUAD" are the most interesting, informative and funny group of talking heads in the world! It's a big claim. But it's true!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008220100 -0400" stop="20261008230000 -0400" channel="CBS.US">
