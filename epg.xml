@@ -291,6 +291,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261003183000 -0400" stop="20261003190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261003190000 -0400" stop="20261003193000 -0400" channel="NBC.US">
     <title>B1G College Countdown</title>
     <desc>B1G College Countdown will capture college football's unique gameday atmosphere by providing pre-game and halftime commentary from the site of that week's primetime game – 11 Big Ten and two Notre Dame games. The show will also provide pre-game and halftime content for most of NBC Sports' college football afternoon games throughout the season on NBC and Peacock.</desc>
@@ -439,6 +444,11 @@
   <programme start="20261004170000 -0400" stop="20261004180000 -0400" channel="MS NOW.US">
     <title>PoliticsNation</title>
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261004183000 -0400" stop="20261004190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261004190000 -0400" stop="20261004201500 -0400" channel="NBC.US">
@@ -759,6 +769,11 @@
   <programme start="20261005183000 -0400" stop="20261005190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261005183000 -0400" stop="20261005190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261005190000 -0400" stop="20261005200000 -0400" channel="MS NOW.US">
@@ -2011,9 +2026,19 @@
     <desc>Chris Cuomo hosts CUOMO, a no-nonsense show featuring the day's most important news from all perspectives. CUOMO airs weeknights at 8 p.m./7C on NewsNation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008200000 -0400" stop="20261008203000 -0400" channel="PBS.US">
+    <title>This Old House</title>
+    <desc>The mission of This Old House is to demystify the home improvement process and to celebrate the fusion of old world craftsmanship and modern technology. Each season features two renovation projects. Project One traditionally consists of eighteen or so episodes and is filmed in Massachusetts. Project Two is generally taped in a different region of the country to highlight the variety of American architectural styles and renovation issues.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008203000 -0400" stop="20261008210200 -0400" channel="CBS.US">
     <title>Eternally Yours</title>
     <desc>Eternally Yours is a family comedy centered around Charles and Liz - a vampire couple whose once-passionate romance has devolved into a pulseless marriage after 500 years together. Living in present-day Seattle with their oddball coven, they've settled into an eternal rut - until their daughter's earnest human boyfriend unexpectedly enters their lives and forces them to confront whether their love can survive forever... or if forever is a life sentence.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008203000 -0400" stop="20261008210000 -0400" channel="PBS.US">
+    <title>Ask This Old House</title>
+    <desc>The crew at This Old House take on some pretty big projects, which means they can only work on one or two houses a year. But homeowners have a virtual truckload of questions on smaller projects, and the TOH crew is ready to answer. Ask This Old House solves the steady stream of home improvement problems faced by viewers - and the crew even makes house calls!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008210000 -0400" stop="20261008220000 -0400" channel="NBC.US">
