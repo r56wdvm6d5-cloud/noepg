@@ -271,14 +271,14 @@
     <desc>FNC's signature weekend newscast, FOX Report with Jon Scott, anchored by Jon Scott, highlights the latest developments and breaking news in the U.S. and around the globe.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261003153000 -0400" stop="20261003190000 -0400" channel="ABC.US">
-    <title>SEC on ABC</title>
-    <desc>SEC on ABC on November 21, 2020, ABC aired its first SEC regular season game since 1995, Florida–Vanderbilt, which was moved from ESPN due to the postponement of an ACC game (Clemson–Florida State) that was originally expected to air on the network due to COVID-19 pandemic complications.On December 10, 2020, ESPN announced that it had acquired the top-tier rights to the SEC under a 10-year, $3 billion contract to begin in the 2024 season; ABC will hold rights to the top SEC game of the week (replacing CBS). As before, they will primarily air in the 3:30 window, but there will also be the possibility for games to be carried on Saturday Night Football. ABC will also hold rights to the SEC Championship Game. During the Disney upfronts, ESPN unveiled an SEC on ABC branding for these games.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261003153000 -0400" stop="20261003160000 -0400" channel="PBS.US">
     <title>Cook's Country from America's Test Kitchen</title>
     <desc>"Cook's Country from America's Test Kitchen" is a half-hour cooking show distributed to public television stations (reruns airing on Create) in the United States, which are also available in most Canadian markets. The show's hosts are Julia Collin Davison &amp;amp; Bridget Lancaster; the show and the magazine are affiliated, and the magazine's test kitchen facility in Brookline, Massachusetts, is used as a set for the show. Cook's Illustrated's parent company, Boston Common Press, while retaining its corporate name, has marketed its publishing and media activities under the America's Test Kitchen brand beginning in 2004.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261003154000 -0400" stop="20261003191000 -0400" channel="ABC.US">
+    <title>SEC on ABC</title>
+    <desc>SEC on ABC on November 21, 2020, ABC aired its first SEC regular season game since 1995, Florida–Vanderbilt, which was moved from ESPN due to the postponement of an ACC game (Clemson–Florida State) that was originally expected to air on the network due to COVID-19 pandemic complications.On December 10, 2020, ESPN announced that it had acquired the top-tier rights to the SEC under a 10-year, $3 billion contract to begin in the 2024 season; ABC will hold rights to the top SEC game of the week (replacing CBS). As before, they will primarily air in the 3:30 window, but there will also be the possibility for games to be carried on Saturday Night Football. ABC will also hold rights to the SEC Championship Game. During the Disney upfronts, ESPN unveiled an SEC on ABC branding for these games.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261003170000 -0400" stop="20261003200000 -0400" channel="Fox News Channel.US">
@@ -951,6 +951,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261005233500 -0400" stop="20261006003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261005000000 -0400" stop="20261005020000 -0400" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -1361,6 +1366,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261006233500 -0400" stop="20261007003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261006003500 -0400" stop="20261006013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1761,6 +1771,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007233500 -0400" stop="20261008003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007003500 -0400" stop="20261007013500 -0400" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -2139,6 +2154,11 @@
   <programme start="20261008230000 -0400" stop="20261009000000 -0400" channel="NewsNation.US">
     <title>Jesse Weber Live</title>
     <desc>A fresh, fast-paced, and often unexpected take on the day's headlines, diving into the biggest stories through the lens of an expert in legal affairs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008233500 -0400" stop="20261009003500 -0400" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008020000 -0400" stop="20261008030000 -0400" channel="ABC.US">
