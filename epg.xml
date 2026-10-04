@@ -76,6 +76,10 @@
     <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
+  <channel id="National Geographic.US">
+    <display-name>National Geographic</display-name>
+    <country>US</country>
+  </channel>
   <channel id="Syndication.US">
     <display-name>Syndication</display-name>
     <country>US</country>
@@ -976,6 +980,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261006183000 -0400" stop="20261006190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261006190000 -0400" stop="20261006200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1386,6 +1395,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007183000 -0400" stop="20261007190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007190000 -0400" stop="20261007193000 -0400" channel="ESPN.US">
     <title>WNBA Countdown</title>
     <desc>WNBA Countdown serves as the primer for game telecasts on both ESPN2 and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league.</desc>
@@ -1496,6 +1510,11 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007210000 -0400" stop="20261007220000 -0400" channel="National Geographic.US">
+    <title>To Catch A Smuggler: Contraband Capture</title>
+    <desc>CBP and HSI respond to a surge in cocaine trafficking across U.S. land borders and at sea, which leads to boat chases, arrests and record-setting seizures...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007210200 -0400" stop="20261007220000 -0400" channel="ABC.US">
     <title>Who Wants to Be a Millionaire</title>
     <desc>In Who Wants to Be a Millionaire, 15 questions need to be answered by the contestants to win the 1 million dollar prize.</desc>
@@ -1549,6 +1568,11 @@
   <programme start="20261007220000 -0400" stop="20261007230000 -0400" channel="NewsNation.US">
     <title>Katie Pavlich Tonight</title>
     <desc>Katie Pavlich Tonight offers a conservative take on the day's events while welcoming all viewpoints. The goal: cutting through left-right bias in pursuit of plain facts and honest analysis.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261007220000 -0400" stop="20261007230000 -0400" channel="National Geographic.US">
+    <title>To Catch A Smuggler: Contraband Capture</title>
+    <desc>CBP and HSI respond to a surge in cocaine trafficking across U.S. land borders and at sea, which leads to boat chases, arrests and record-setting seizures...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261007230000 -0400" stop="20261007233500 -0400" channel="Comedy Central.US">
@@ -1786,6 +1810,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008183000 -0400" stop="20261008190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008190000 -0400" stop="20261008193000 -0400" channel="ESPN.US">
     <title>College Football Countdown</title>
     <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
@@ -1809,11 +1838,6 @@
   <programme start="20261008190000 -0400" stop="20261008210000 -0400" channel="Syndication.US">
     <title>Ring of Honor Wrestling</title>
     <desc>Hard-hitting pro-wrestling action from the stars of ROH.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261008200000 -0400" stop="20261008210000 -0400" channel="NBC.US">
-    <title>The Traitors: New Blood</title>
-    <desc>Season 5 of The Traitors https://www.tvmaze.com/shows/58177/the-traitorsThe Traitors: New Blood is NBC's civilian version of Peacock's Emmy Award-winning competition reality series, The Traitors, known for strategic gameplay and skillful saboteurs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008200000 -0400" stop="20261008203000 -0400" channel="CBS.US">
@@ -1969,6 +1993,11 @@
   <programme start="20261008233500 -0400" stop="20261009003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261008233500 -0400" stop="20261009003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008020000 -0400" stop="20261008030000 -0400" channel="ABC.US">
@@ -2159,6 +2188,11 @@
   <programme start="20261009183000 -0400" stop="20261009190000 -0400" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261009183000 -0400" stop="20261009190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261009190000 -0400" stop="20261009200000 -0400" channel="MS NOW.US">
@@ -2916,6 +2950,11 @@
     <desc>All the backstage gossip from Strictly Come Dancing, with the secrets, slips and stories from the practice rooms.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261009183000 -0400" stop="20261009190000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261009185500 -0400" stop="20261009190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
@@ -2979,6 +3018,11 @@
   <programme start="20261010082500 -0400" stop="20261010092500 -0400" channel="ITV1.GB">
     <title>Prue Leith's Cotswold Kitchen</title>
     <desc>Prue Leith opens the doors to her Cotswold Kitchen, sharing cherished recipes, tips, and handy culinary hacks. Joined by her husband John and a cast of special friends, including Sandi Toksvig, Alison Hammond and chef Tommy Banks, each episode is a unique culinary adventure. Beyond the kitchen, Prue celebrates her personal food heroes both locally and beyond.  And husband John gets to grips with a varied mix of country activities on offer in the Cotswolds. The series is a celebration of food, friendship and fun – with easy-to-cook recipes for every occasion.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261010180000 -0400" stop="20261010193000 -0400" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261010181500 -0400" stop="20261010203500 -0400" channel="BBC One.GB">
