@@ -215,9 +215,24 @@
     <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261004110000 -0400" stop="20261004120000 -0400" channel="FOX.US">
+    <title>FOX NFL Kickoff</title>
+    <desc>FOX NFL Kickoff provides a preview of the day's NFL action, including interviews with NFL newsmakers, reports from NFL game venues, breaking news and updates.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261004120000 -0400" stop="20261004140000 -0400" channel="Fox News Channel.US">
     <title>Fox News Live</title>
     <desc>The latest political and socio-economic news and updates from around the world, live.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261004120000 -0400" stop="20261004130000 -0400" channel="FOX.US">
+    <title>FOX NFL Sunday</title>
+    <desc>Fox NFL Sunday is an American sports-talk television program on Fox that debuted on September 4, 1994, and serves as the pre-game show for the network's National Football League game telecasts under the NFL on Fox brand. An audio simulcast of the program airs on sister radio network Fox Sports Radio, which is distributed by Premiere Radio Networks. As of 2014, the program has won four Emmy Awards. Fox NFL Sunday debuted on September 4, 1994, when Fox inaugurated its NFL game broadcasts through the network's recently acquired broadcast rights to the National Football Conference; it was originally hosted by James Brown, Terry Bradshaw, Howie Long and Jimmy Johnson (both Brown and Bradshaw had joined the network from CBS to help helm Fox's NFL coverage). The program was notable in being the first hour-long NFL pregame show on a broadcast television network; network pregame programs that existed beforehand, such as CBS' The NFL Today or NBC's NFL Live!, aired as 30-minute broadcasts. Fox's show also adopted a looser, more irreverent approach than its predecessors in order to also appeal to the network's younger-skewing audiences. During Johnson's initial season on Fox NFL Sunday, he would often join the show from his home in Florida. There was much speculation that Jimmy Johnson would return to coaching during the first year of the program's run. Prior to the end of the year, Johnson made an "announcement," saying he was happy with his new career in broadcasting. But in 1996, he left the program to become head coach of the Miami Dolphins; Ronnie Lott was brought in to succeed him, and stayed with the program for two seasons.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261004120000 -0400" stop="20261004130000 -0400" channel="CBS.US">
+    <title>The NFL Today</title>
+    <desc>The NFL Today is an American sports-talk television program on CBS that serves as the pre-game show for the network's National Football League (NFL) game telecasts under the NFL on CBS brand. The program features commentary on the latest news around the NFL from its hosts and studio analysts, as well as predictions for the day's games and interviews with players and coaches. Originally debuting as Pro Football Kickoff on September 17, 1961, the program airs before all NFL games broadcast by CBS (usually on Sundays at 12:00 p.m. Eastern Time), and generally runs for one hour (except for Thursday prime time games during the first half of the season, during which a 45-minute edition airs, as well as on Thanksgiving and during the postseason).</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261004130000 -0400" stop="20261004160000 -0400" channel="CBS.US">
