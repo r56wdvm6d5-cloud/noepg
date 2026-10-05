@@ -500,11 +500,6 @@
     <desc>Over five intense days, 120 Hours Behind Bars delivers an unfiltered look inside America's toughest jails, where officers are outnumbered, cellblocks are overcrowded, and violence erupts without warning.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261005210000 -0400" stop="20261005220000 -0400" channel="Bravo.US">
-    <title>Still Flipping Out</title>
-    <desc>The new series follows former "Flipping Out" star Jeff Lewis as he navigates the demands of his hit SiriusXM show on Radio Andy, an eponymous design empire, and everything in-between.   The king of controlled chaos with a charged personality, Jeff is as outspoken as ever, but this time the mic is always on. As he works to balance his professional and personal lives, his trademark spontaneity collides with the people who work with him, for him and still somehow survive him.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261005210000 -0400" stop="20261005220000 -0400" channel="MS NOW.US">
     <title>The Rachel Maddow Show</title>
     <desc>With honesty and rigor, Rachel Maddow uniquely connects dots to advance stories on her show The Rachel Maddow Show. By exposing the layers of complex issues, she reveals their significance to viewers. In her irreverent style, Maddow transcends the narrative and provides unique perspective.</desc>
@@ -533,6 +528,11 @@
   <programme start="20261005210100 -0400" stop="20261005220000 -0400" channel="FOX.US">
     <title>Celebrity Weakest Link</title>
     <desc>A rapid-fire quiz show in which eight celebrities compete to win up to one million dollars for the charity of their choosing, these celebs will answer general knowledge questions and bank money as a group across multiple rounds. At the end of each round, the contestants vote out who they perceive to be the weakest link, and the host sends them off with the phrase, "You are the Weakest Link. Goodbye." The two who make it to the final round will battle it out to determine who wins the banked money for their charity.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261005211500 -0400" stop="20261005221500 -0400" channel="Bravo.US">
+    <title>Still Flipping Out</title>
+    <desc>The new series follows former "Flipping Out" star Jeff Lewis as he navigates the demands of his hit SiriusXM show on Radio Andy, an eponymous design empire, and everything in-between.   The king of controlled chaos with a charged personality, Jeff is as outspoken as ever, but this time the mic is always on. As he works to balance his professional and personal lives, his trademark spontaneity collides with the people who work with him, for him and still somehow survive him.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261005220000 -0400" stop="20261005230000 -0400" channel="NBC.US">
@@ -2450,6 +2450,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261009220200 -0400" stop="20261009230200 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261009230000 -0400" stop="20261010000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -2510,6 +2515,11 @@
     <desc>Big Noon Kickoff is an American college football studio show broadcast by Fox, and simulcast on sister network Fox Sports 1 (FS1). Premiering on August 31, 2019, it serves as the pre-game show for Fox College Football, and in particular, Big Noon Saturday—the network's weekly 12:00 p.m ET/9:00 a.m PT kickoff window.It is hosted by Rob Stone, and features former national champion and 2004 Heisman Trophy winning USC Trojans quarterback Matt Leinart, former national champion and 2009 Heisman Trophy winning Alabama running back Mark Ingram II, former Notre Dame Fighting Irish quarterback Brady Quinn, and former Bowling Green, Utah, Florida, and Ohio State coach Urban Meyer as panelists, with Bruce Feldman acting as Fox's CFB insider, as well as Tom Verducci, who usually does baseball for Fox, and Tom Rinaldi, both working on feature reports. Radio host Clay Travis serves as a contributor, and 1997 Heisman Trophy winner and former Michigan Wolverines cornerback Charles Woodson will also join the show on select weeks, most notably if Michigan is featured.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261010100000 -0400" stop="20261010130000 -0400" channel="MS NOW.US">
+    <title>Connect with Jacob Soboroff</title>
+    <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261010110000 -0400" stop="20261010113000 -0400" channel="PBS.US">
     <title>Milk Street Television</title>
     <desc>The world of home cooking is undergoing a revolution with new tastes, flavors, techniques and influences. Christopher Kimball's Milk Street Television wants to change how Americans cook by bringing home a fresher, bolder, simpler way of preparing food. Chris and his test cooks search the world over looking for the best recipes, and finding home cooks who can teach better ways to prepare a meal at home. Chris also shares tips and techniques designed to make home cooking easier, like how to make foolproof egg whites and how to season a carbon steel pan. Back in the kitchen, Chris transforms what the Milk Street Television crew has learned into practical, simple recipes for home cooks everywhere.</desc>
@@ -2523,6 +2533,11 @@
   <programme start="20261010123000 -0400" stop="20261010133000 -0400" channel="A&amp;E.US">
     <title>Betting on Beloit</title>
     <desc>America's richest self-made woman Diane Hendricks is betting big on the town integral to her family's success. Betting on Beloit chronicles the billionaire entrepreneur and her driven, accomplished daughter Konya Hendricks Schuh's mission to revitalize Beloit, Wisconsin. The show follows Konya and her dynamic team—which includes her husband Matt (a plumbing contractor and former home builder), good friend and project manager Pete, and her realtor nephew Connor, as well as local artisans and designer friends Kristin and Mitch—as they purchase, restore and reimagine historic homes throughout Beloit's storied neighborhoods.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261010130000 -0400" stop="20261010160000 -0400" channel="MS NOW.US">
+    <title>The Assignment with Antonia Hylton</title>
+    <desc>The Assignment with Antonia Hylton will bring Hylton's thoughtful, deeply reported journalism to MS NOW's audience every weekend. Based in New York, The Assignment with Antonia Hylton will serve as destination viewing for the latest political and cultural headlines, informative discussions and fresh insights from top lawmakers and changemakers. Centered around Hylton's award-winning field reporting and rooted in her signature curiosity and accountability, the program will aim to help audiences better understand not only the latest headlines, but also the broader context behind them, while inviting them into a community that engages more deeply.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261010143000 -0400" stop="20261010150000 -0400" channel="PBS.US">
@@ -2543,6 +2558,11 @@
   <programme start="20261010153000 -0400" stop="20261010190000 -0400" channel="NBC.US">
     <title>Notre Dame Football on NBC</title>
     <desc>In American sports television's longest-running exclusive single-school media partnership, NBC Sports captures the pride, tradition, and home-field drama of the independent Fighting Irish live from iconic Notre Dame Stadium.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261010170000 -0400" stop="20261010180000 -0400" channel="MS NOW.US">
+    <title>PoliticsNation</title>
+    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261010190000 -0400" stop="20261010193000 -0400" channel="NBC.US">
@@ -2610,6 +2630,11 @@
     <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261011100000 -0400" stop="20261011130000 -0400" channel="MS NOW.US">
+    <title>Connect with Jacob Soboroff</title>
+    <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261011103000 -0400" stop="20261011113000 -0400" channel="CBS.US">
     <title>Face the Nation</title>
     <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
@@ -2635,9 +2660,19 @@
     <desc>Coverage of NFL on CBS.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261011130000 -0400" stop="20261011160000 -0400" channel="MS NOW.US">
+    <title>The Assignment with Antonia Hylton</title>
+    <desc>The Assignment with Antonia Hylton will bring Hylton's thoughtful, deeply reported journalism to MS NOW's audience every weekend. Based in New York, The Assignment with Antonia Hylton will serve as destination viewing for the latest political and cultural headlines, informative discussions and fresh insights from top lawmakers and changemakers. Centered around Hylton's award-winning field reporting and rooted in her signature curiosity and accountability, the program will aim to help audiences better understand not only the latest headlines, but also the broader context behind them, while inviting them into a community that engages more deeply.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261011133000 -0400" stop="20261011143000 -0400" channel="ESPN.US">
     <title>NFL Primetime</title>
     <desc>This longtime ESPN staple doesn't air in prime time anymore, and the original tag team of Chris Berman and Tom Jackson are no longer involved. But it lives on, albeit in a slightly different form, with host Trey Wingo presenting a shorter-form highlights package of Sunday's NFL action coupled with more in-depth analysis from former players Merril Hoge and Tim Hasselbeck.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261011170000 -0400" stop="20261011180000 -0400" channel="MS NOW.US">
+    <title>PoliticsNation</title>
+    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261011190000 -0400" stop="20261011201500 -0400" channel="NBC.US">
@@ -3260,9 +3295,19 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261011093000 -0400" stop="20261011113000 -0400" channel="ITV1.GB">
+    <title>Love Your Weekend with Alan Titchmarsh</title>
+    <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261011173000 -0400" stop="20261011194500 -0400" channel="Channel 4.GB">
     <title>Formula 1</title>
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261011190000 -0400" stop="20261011195400 -0400" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261011191000 -0400" stop="20261011200000 -0400" channel="BBC One.GB">
