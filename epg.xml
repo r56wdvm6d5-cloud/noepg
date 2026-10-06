@@ -2226,6 +2226,11 @@
     <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261010220000 -0400" stop="20261010230000 -0400" channel="CNN.US">
+    <title>The Detour with David Chang</title>
+    <desc>The Detour with David Chang follows the acclaimed chef, restaurateur and author in his pursuit of no-frills but unforgettable eats on the open road. In the age of influencers, algorithms and listicles, Chang cuts through the noise on a classic American road trip following local leads and friends' recommendations to his next meal. Each episode represents a different leg of Chang's journey, pairing him with a new travel companion and a new culinary adventure.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261010232900 -0400" stop="20261011010200 -0400" channel="NBC.US">
     <title>Saturday Night Live</title>
     <desc>Saturday Night Live is an Emmy Award-winning late-night comedy showcase.Since its inception in 1975, "SNL" has launched the careers of many of the brightest comedy performers of their generation. As The New York Times noted on the occasion of the show's Emmy-winning 25th Anniversary special in 1999, "in defiance of both time and show business convention, 'SNL' is still the most pervasive influence on the art of comedy in contemporary culture." At the close of the century, "Saturday Night Live" placed seventh on Entertainment Weekly's list of the Top 100 Entertainers of the past fifty years.</desc>
