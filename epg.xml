@@ -585,11 +585,6 @@
     <desc>From athletes and actors to tattoo artists, social workers and musicians - a diverse mix of teams will need to utilize their street smarts and savvy know-how to compete in the race of their lifetime.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261007220000 -0400" stop="20261007230000 -0400" channel="PBS.US">
-    <title>Secrets of the Dead</title>
-    <desc>Secrets of the Dead is part detective story, part true-life drama that unearths evidence from around the world, challenging prevailing ideas and throwing fresh light on unexplained events.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261007220000 -0400" stop="20261007230000 -0400" channel="NBC.US">
     <title>Chicago P.D.</title>
     <desc>District 21 of the Chicago Police Department is made up of two distinctly different groups. There are the uniformed cops who patrol the beat and go head to head with the city's street crimes. And there's the Intelligence Unit, the team that combats the city's major offenses - organized crime, drug trafficking, high profile murders and beyond. These are their stories.</desc>
@@ -3088,6 +3083,11 @@
   <programme start="20261010223000 -0400" stop="20261010235000 -0400" channel="BBC One.GB">
     <title>Match of the Day</title>
     <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261011070000 -0400" stop="20261011072200 -0400" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261011093000 -0400" stop="20261011113000 -0400" channel="ITV1.GB">
