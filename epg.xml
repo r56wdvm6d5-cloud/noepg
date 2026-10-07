@@ -140,6 +140,10 @@
     <display-name>E4</display-name>
     <country>GB</country>
   </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="Global.CA">
     <display-name>Global</display-name>
     <country>CA</country>
@@ -150,10 +154,6 @@
   </channel>
   <channel id="Citytv.CA">
     <display-name>Citytv</display-name>
-    <country>CA</country>
-  </channel>
-  <channel id="CTV.CA">
-    <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
   <channel id="ABC.AU">
@@ -990,6 +990,11 @@
     <desc>In Hell's Kitchen, aspiring chefs are put through an intense culinary academy to prove they possess the right combination of ingredients to win a life-changing grand prize.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261008200000 -0400" stop="20261008210000 -0400" channel="NBC.US">
+    <title>The Traitors</title>
+    <desc>Set in a remote castle in the Scottish Highlands and based on the wildly popular Dutch series of the same name, 5-time Emmy-nominated Alan Cumming plays host to twenty larger-than-life personalities (including reality A-listers and America's best game players) who come together to complete a series of challenges with the objective of earning a cash prize of up to $250,000. The catch? Three of the contestants coined "the traitors" will devise a plan to steal the prize from the other contestants coined "the faithful".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261008200000 -0400" stop="20261008210000 -0400" channel="MS NOW.US">
     <title>All In with Chris Hayes</title>
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
@@ -1043,11 +1048,6 @@
   <programme start="20261008210000 -0400" stop="20261008220000 -0400" channel="HBO.US">
     <title>War</title>
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261008210000 -0400" stop="20261008220000 -0400" channel="NBC.US">
-    <title>The Traitors</title>
-    <desc>Set in a remote castle in the Scottish Highlands and based on the wildly popular Dutch series of the same name, 5-time Emmy-nominated Alan Cumming plays host to twenty larger-than-life personalities (including reality A-listers and America's best game players) who come together to complete a series of challenges with the objective of earning a cash prize of up to $250,000. The catch? Three of the contestants coined "the traitors" will devise a plan to steal the prize from the other contestants coined "the faithful".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261008210000 -0400" stop="20261008220000 -0400" channel="MS NOW.US">
@@ -1860,6 +1860,11 @@
     <desc>The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.What begins as an investigation into a 1985 murder turns into a haunting exploration of a community's dark history of violence and bloodshed. Set in the rural bayou outside New Orleans, Louisiana, a harsh landscape steeped in supernatural lore and traditions, the story starts with the disappearance of Dorothy Lou Thompson - the owner of a pet cemetery that had been built on land long rumored to be cursed. Dorothy's body eventually turns up wrapped in chains in the Mississippi River, raising questions about her past and the people around her. With no concrete evidence, the case goes cold until 2009 when Det. John Doran reopens the investigation, following up on old leads and digging into the case files. Unexpectedly, a witness comes forward with a terrifying tale of Dorothy's ghost which compels him to come forward with information. Three years later, a second witness claims to be haunted by the murdered woman seeking vengeance. The vexing accounts launch a police investigation into Dorothy's tragic past, revealing a trail of dead husbands, a domineering mother Grace, who founded the cemetery after outrunning her own criminal acts, and the long shadow of a community steeped in evil deeds that were buried but not forgotten.With insight from Dorothy's neighbors, law enforcement, local journalists, and scholars, the series unearths a labyrinthine tale involving multiple dead bodies, disturbing family secrets, and centuries-old massacres exposing the deep-seated horror and guilt that still haunt the community.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261011210000 -0400" stop="20261011213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261011220000 -0400" stop="20261011223000 -0400" channel="HBO.US">
     <title>Youth</title>
     <desc>Youth follows a 50-year-old divorcee's search for sex and love whilst juggling caring for her ailing parents and parenting her should-be grown up son.</desc>
@@ -2248,6 +2253,11 @@
   <programme start="20261012220000 -0400" stop="20261012230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261012220000 -0400" stop="20261012230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261012230000 -0400" stop="20261013000000 -0400" channel="MS NOW.US">
@@ -3330,6 +3340,11 @@
     <desc>Together with a celebrity guest in the studio, Jon and Judi will chew over the drama, celebrate the standout moments and revisit all the action from inside the Bake Off tent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261007210000 -0400" stop="20261007220000 -0400" channel="CTV.CA">
+    <title>MasterChef Canada</title>
+    <desc>One year after its smash-hit debut on CTV, MasterChef Canada is back to dish out a second helping of food-driven drama and excitement. The ultimate culinary competition offers home cooks a once-in-a-lifetime opportunity to demonstrate their skill and passion, as they compete for $100,000 and the title of Canada's next MasterChef.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261007213000 -0400" stop="20261007223000 -0400" channel="Global.CA">
     <title>Private Eyes West Coast</title>
     <desc>Private investigators Matt Shade and Angie Everett have left behind their P.I. firm and settled into a new life on the west coast — but their new quiet life is shaken when a night out lands them at the scene of a murder. A woman stands over her dead boyfriend with a bloody steak knife in hand. Believing in her innocence, Shade and Angie dive headfirst back into the high stakes world of investigation. The private eyes juggle the challenges of opening a P.I. firm in a new city, and without their friendly Toronto network of sources, Shade and Angie work to build a new community. From tracking down a missing student in the wilderness of British Columbia to extracting a murder confession from a surfer in Tofino, Shade and Angie prove life on the west coast is packed with heart-pounding thrills.</desc>
@@ -3346,6 +3361,11 @@
     <category>TV Show</category>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012091100 -0400" channel="CBC.CA">
+    <title>Dino Ranch: Island Explorers</title>
+    <desc>The Cassidy Family saddle up for their biggest adventure yet - summer on Dino Island—a lost world filled with new dinosaurs, mysteries, and lessons in teamwork and bravery.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261012091100 -0400" stop="20261012092200 -0400" channel="CBC.CA">
     <title>Dino Ranch: Island Explorers</title>
     <desc>The Cassidy Family saddle up for their biggest adventure yet - summer on Dino Island—a lost world filled with new dinosaurs, mysteries, and lessons in teamwork and bravery.</desc>
     <category>TV Show</category>
@@ -3478,6 +3498,11 @@
   <programme start="20261012203000 -0400" stop="20261012211500 -0400" channel="ABC.AU">
     <title>Four Corners</title>
     <desc>Four Corners is Australia's premier television current affairs program. It has been part of the national story since August 1961, exposing scandals, triggering inquiries, firing debate, confronting taboos and interpreting fads, trends and sub-cultures. Its consistently high standards of journalism and film-making have earned international recognition and an array of Walkleys, Logies and other national awards.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261012212000 -0400" stop="20261012213500 -0400" channel="ABC.AU">
+    <title>Media Watch</title>
+    <desc>Media Watch is Australia's leading forum for media analysis and comment.Conflicts of interest, bank backflips, deceit, misrepresentation, manipulation, plagiarism, abuse of power, technical lies and straight out fraud: Media Watch has built an unrivalled record of exposing media shenanigans since it first went to air in 1989.The media provides the information we need to make decisions about our lives, but how reliable are the media reports that shape our views of the world?Media Watch turns the spotlight onto those who literally 'make the news': the reporters, editors, sub-editors, producers, camera operators, sound recordists and photographers who claim to deliver the world to our doorsteps, radios, computers and living rooms. We also keep an eye on those who try to manipulate the media: the PR consultants, spin-doctors, lobbyists and "news makers" who set the agenda.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261012213500 -0400" stop="20261012220500 -0400" channel="ABC.AU">
