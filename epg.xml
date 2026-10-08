@@ -385,11 +385,6 @@
     <desc>The Five is an American news and talk show on Fox News Channel featuring a rotating panel who discuss current stories, political issues, and pop culture. The show premiered in July 2011, replacing the Glenn Beck program, and airs on weekdays at 5:00 p.m. ET with replays at 4:00 a.m. ET. On October 3, 2011, after successful ratings and high popularity, Fox News announced that The Five would become the permanent 5 p.m. series, as the program had previously been announced to last only during the summer. The Five is currently the second-most-watched program in all of cable news in the United States, placing only behind The O'Reilly Factor, also on the Fox News Channel. The program has occasionally been the number one rated cable news series in the key 25 to 54 viewing demographic.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261008180000 -0400" stop="20261008190000 -0400" channel="ESPN.US">
-    <title>Saban</title>
-    <desc>Saban tells the story of Nick Saban's extraordinary career, highlighted by his 17 seasons at Alabama, where he led the team to six national titles and reestablished the Crimson Tide as the preeminent program in college football.The series will peel back the curtain on the long closely guarded world of Saban, with hundreds of hours of never-before-seen footage from the locker room and practice fields, as well as many other behind-the-scenes moments in his career at Alabama, and prior to that LSU, the Miami Dolphins, and Michigan State among other stops. There's also a wealth of present-day interviews with Saban and his wife, the legendary Ms. Terry Saban, whose own influence and impact played a massive role in Nick's success as a coach and leader.Saban is a portrait of the relentless drive that powered seven national titles (six at Alabama, and one at LSU), produced four Heisman trophy winners, generations of NFL stars, and set a standard of greatness in college football that may never be met again. It also explores "The Process," Saban's famed approach to coaching that transformed his teams and defined his leadership style.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261008180000 -0400" stop="20261008190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -530,7 +525,7 @@
     <desc>The all-time classic trivia game Trivial Pursuit is reimagined in a question-packed entertainment format. Gameplay takes place on a giant version of the iconic Trivial Pursuit game board, as contestants battle it out over a range of play-along question categories to win wedges and beat each other to the center. The victor then takes on a dramatic finale against the clock to claim the big money jackpot.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261008210000 -0400" stop="20261008220000 -0400" channel="HBO.US">
+  <programme start="20261008210000 -0400" stop="20261008215600 -0400" channel="HBO.US">
     <title>War</title>
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
     <category>TV Show</category>
@@ -3173,6 +3168,21 @@
   <programme start="20261013200000 -0400" stop="20261013210000 -0400" channel="BBC Two.GB">
     <title>Saving Lives at Sea</title>
     <desc>Documentary following the men and women of the Royal National Lifeboat Institution (RNLI).</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261013200000 -0400" stop="20261013210000 -0400" channel="BBC One.GB">
+    <title>DIY SOS</title>
+    <desc>Nick Knowles and the team issue a call to arms and recruit friends, family and local trades to help transform the homes of families across Britain.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261013220000 -0400" channel="5.GB">
+    <title>Ben Fogle: New Lives in the Wild</title>
+    <desc>Adventurer Ben Fogle gets a taste of extreme escapism in this brand new series meeting those who have turned their backs on the daily grind. Each week, Ben spends time in one of the world's most remote locations, meeting the people who now inhabit these inhospitable corners of the planet after leaving their ordinary lives behind. Our intrepid guide also wonders whether these extraordinary individuals and their incredible experiences might tempt him to move his own family out of London and away from the comforts of the city. Is it daring or downright crazy? Ben wants to discover the truth about life in tough, harsh conditions, where doing battle with Mother Nature is a daily reality.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261013230000 -0400" channel="Sky Arts.GB">
+    <title>The Sky Arts Awards</title>
+    <desc>Sky Arts presents the inaugural Sky Arts Awards, taking place in September at The Roundhouse in London. Building on the fantastic legacy of the South Bank Sky Arts Awards, the Sky Arts Awards is the only event in the world that recognises the full spectrum of artistic genres, including classical music, comedy, dance, film, literature, poetry, opera, popular music, television, theatre and visual art. The event will also introduce the first of its kind ‘Arts Hero' category, honouring the unsung heroes whose efforts behind-the-scenes are integral to the success of the arts industry.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261013211500 -0400" stop="20261013222000 -0400" channel="Channel 4.GB">
