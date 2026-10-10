@@ -450,6 +450,11 @@
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261011230000 -0400" stop="20261011233000 -0400" channel="HBO.US">
+    <title>Last Week Tonight with John Oliver</title>
+    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261012050000 -0400" stop="20261012060000 -0400" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -1233,6 +1238,11 @@
   <programme start="20261013210000 -0400" stop="20261013213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261013210000 -0400" stop="20261013220000 -0400" channel="National Geographic.US">
+    <title>Surviving Alaska: Women of the Wild</title>
+    <desc>Across the vast wilderness of Alaska, four unique women share one goal: to thrive in the harsh and unpredictable conditions of the frozen winter landscape. Ryne Olson trains reindeer for backcountry travel. Jody Potts-Joseph carries on the traditions of her Indigenous ancestors. Sarah Poynter subsists on a remote off-grid homestead. Kaycee Powell relies on dog power to stake her claim in the wild.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261013210100 -0400" stop="20261013220100 -0400" channel="Discovery.US">
@@ -3095,9 +3105,19 @@
     <desc>Irita Marriott, one of the few women in the country to helm an auction house, and her team use their expertise to launch Britain's newest saleroom.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261014210000 -0400" stop="20261014220000 -0400" channel="Channel 4.GB">
+    <title>Grand Designs</title>
+    <desc>Kevin McCloud follows intrepid individuals trying to design and build their dream home.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261014220000 -0400" stop="20261014230000 -0400" channel="TRUE CRIME.GB">
     <title>Deadly Destinations</title>
     <desc>Deadly Destinations chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261014224000 -0400" stop="20261015000000 -0400" channel="BBC One.GB">
+    <title>UEFA Champions League Highlights</title>
+    <desc>The biggest names. The biggest games. All the goals and unmissable moments from Europe's greatest football club competition.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261015070000 -0400" stop="20261015072200 -0400" channel="ITV1.GB">
@@ -3138,6 +3158,11 @@
   <programme start="20261015185500 -0400" stop="20261015190000 -0400" channel="5.GB">
     <title>5 News at 18.55</title>
     <desc>National and international news.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261015193000 -0400" stop="20261015200000 -0400" channel="ITV1.GB">
+    <title>Tonight</title>
+    <desc>A news-magazine programme presented by Julie Etchingham.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261015195500 -0400" stop="20261015200000 -0400" channel="5.GB">
