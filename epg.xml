@@ -290,7 +290,7 @@
     <desc>Tracker features lone-wolf survivalist Colter Shaw, who roams the country as a "reward seeker," using his expert tracking skills to help private citizens and law enforcement to solve all manner of mysteries while contending with his own fractured family.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261011210000 -0400" stop="20261011214600 -0400" channel="HBO.US">
+  <programme start="20261011210000 -0400" stop="20261011220000 -0400" channel="HBO.US">
     <title>The Pet Cemetery Murders: A Ghost Story</title>
     <desc>The re-opening of a mysterious 1985 cold case murder in Louisiana unearths a haunting history of bloodshed and long-buried trauma.What begins as an investigation into a 1985 murder turns into a haunting exploration of a community's dark history of violence and bloodshed. Set in the rural bayou outside New Orleans, Louisiana, a harsh landscape steeped in supernatural lore and traditions, the story starts with the disappearance of Dorothy Lou Thompson - the owner of a pet cemetery that had been built on land long rumored to be cursed. Dorothy's body eventually turns up wrapped in chains in the Mississippi River, raising questions about her past and the people around her. With no concrete evidence, the case goes cold until 2009 when Det. John Doran reopens the investigation, following up on old leads and digging into the case files. Unexpectedly, a witness comes forward with a terrifying tale of Dorothy's ghost which compels him to come forward with information. Three years later, a second witness claims to be haunted by the murdered woman seeking vengeance. The vexing accounts launch a police investigation into Dorothy's tragic past, revealing a trail of dead husbands, a domineering mother Grace, who founded the cemetery after outrunning her own criminal acts, and the long shadow of a community steeped in evil deeds that were buried but not forgotten.With insight from Dorothy's neighbors, law enforcement, local journalists, and scholars, the series unearths a labyrinthine tale involving multiple dead bodies, disturbing family secrets, and centuries-old massacres exposing the deep-seated horror and guilt that still haunt the community.</desc>
     <category>TV Show</category>
@@ -628,6 +628,11 @@
   <programme start="20261012200000 -0400" stop="20261012210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261012200000 -0400" stop="20261012210000 -0400" channel="Discovery.US">
+    <title>Contraband: Seized at the Border</title>
+    <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261012201500 -0400" stop="20261012234500 -0400" channel="ESPN.US">
@@ -2665,14 +2670,14 @@
     <desc>We live in a divided country. A country where many cannot talk to those with whom they disagree. Where people can't speak across the political divide – or even sometimes across the kitchen table.Things That Matter aims to change that.Sponsored by Bank of America, Things That Matter is a series of town halls and debates that will feature the people in politics and culture who are shaping American life. The events will be held across the country, in front of audiences who have a stake in the topics under discussion.The events take Americans into the most important issues that directly affect their lives – immigration, capitalism, public health, criminal justice, foreign policy, artificial intelligence and the state of politics. The debates echo the country's 250th anniversary, showing how the power of America's earliest principles – civil, substantive discussion, free of rancor – have immense value today.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261017210000 -0400" stop="20261017220000 -0400" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261017210000 -0400" stop="20261017220000 -0400" channel="CNN.US">
     <title>Have I Got News for You</title>
     <desc>Have I Got News for You is the comedy panel show which delivers comic observations from the satirical to the surreal through the lens of a news quiz show. An institution in Britain, this an award-winning comedy series is now invading America! Always relevant and topical, the series serves up a smart, silly, opinionated, and edgy take on the news of the week featuring a rotating collection of comedians, pundits, politicos, and entertainers. It features host Roy Wood Jr. along with two illustrious team captains Amber Ruffin and Michael Ian Black to guide the guests through an array of games and quick-witted panel conversations that test their knowledge of current events.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261017220000 -0400" stop="20261017230000 -0400" channel="CBS.US">
-    <title>48 Hours</title>
-    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261017220000 -0400" stop="20261017230000 -0400" channel="CNN.US">
