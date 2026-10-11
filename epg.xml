@@ -68,6 +68,10 @@
     <display-name>NFL Network</display-name>
     <country>US</country>
   </channel>
+  <channel id="Syndication.US">
+    <display-name>Syndication</display-name>
+    <country>US</country>
+  </channel>
   <channel id="The CW.US">
     <display-name>The CW</display-name>
     <country>US</country>
@@ -78,10 +82,6 @@
   </channel>
   <channel id="Comedy Central.US">
     <display-name>Comedy Central</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Syndication.US">
-    <display-name>Syndication</display-name>
     <country>US</country>
   </channel>
   <channel id="STARZ.US">
@@ -410,6 +410,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261012090000 -0400" stop="20261012100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261012100000 -0400" stop="20261012120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -433,6 +438,11 @@
   <programme start="20261012110000 -0400" stop="20261012120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261012110000 -0400" stop="20261012120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261012120000 -0400" stop="20261012140000 -0400" channel="MS NOW.US">
@@ -518,6 +528,11 @@
   <programme start="20261012160000 -0400" stop="20261012170000 -0400" channel="Fox News Channel.US">
     <title>The Will Cain Show</title>
     <desc>Featuring conversations with newsmakers from across politics, business, culture and sports, The Will Cain Show will offer a comprehensive look at the news of the day in a signature podcast style.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261012160000 -0400" stop="20261012170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261012170000 -0400" stop="20261012180000 -0400" channel="Newsmax.US">
@@ -850,6 +865,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261013090000 -0400" stop="20261013100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261013100000 -0400" stop="20261013120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -873,6 +893,11 @@
   <programme start="20261013110000 -0400" stop="20261013120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261013110000 -0400" stop="20261013120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261013120000 -0400" stop="20261013140000 -0400" channel="MS NOW.US">
@@ -958,6 +983,11 @@
   <programme start="20261013160000 -0400" stop="20261013170000 -0400" channel="Fox News Channel.US">
     <title>The Will Cain Show</title>
     <desc>Featuring conversations with newsmakers from across politics, business, culture and sports, The Will Cain Show will offer a comprehensive look at the news of the day in a signature podcast style.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261013160000 -0400" stop="20261013170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261013170000 -0400" stop="20261013180000 -0400" channel="Newsmax.US">
@@ -1320,6 +1350,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261014090000 -0400" stop="20261014100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261014100000 -0400" stop="20261014120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1343,6 +1378,11 @@
   <programme start="20261014110000 -0400" stop="20261014120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261014110000 -0400" stop="20261014120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261014120000 -0400" stop="20261014140000 -0400" channel="MS NOW.US">
@@ -1428,6 +1468,11 @@
   <programme start="20261014160000 -0400" stop="20261014170000 -0400" channel="Fox News Channel.US">
     <title>The Will Cain Show</title>
     <desc>Featuring conversations with newsmakers from across politics, business, culture and sports, The Will Cain Show will offer a comprehensive look at the news of the day in a signature podcast style.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261014160000 -0400" stop="20261014170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261014170000 -0400" stop="20261014180000 -0400" channel="Newsmax.US">
@@ -1825,6 +1870,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261015090000 -0400" stop="20261015100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261015100000 -0400" stop="20261015120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1848,6 +1898,11 @@
   <programme start="20261015110000 -0400" stop="20261015120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261015110000 -0400" stop="20261015120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261015120000 -0400" stop="20261015140000 -0400" channel="MS NOW.US">
@@ -1933,6 +1988,11 @@
   <programme start="20261015160000 -0400" stop="20261015170000 -0400" channel="Fox News Channel.US">
     <title>The Will Cain Show</title>
     <desc>Featuring conversations with newsmakers from across politics, business, culture and sports, The Will Cain Show will offer a comprehensive look at the news of the day in a signature podcast style.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261015160000 -0400" stop="20261015170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261015170000 -0400" stop="20261015180000 -0400" channel="Newsmax.US">
@@ -2265,6 +2325,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261016090000 -0400" stop="20261016100000 -0400" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261016100000 -0400" stop="20261016120000 -0400" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -2288,6 +2353,11 @@
   <programme start="20261016110000 -0400" stop="20261016120000 -0400" channel="ABC.US">
     <title>The View</title>
     <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261016110000 -0400" stop="20261016120000 -0400" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261016120000 -0400" stop="20261016140000 -0400" channel="MS NOW.US">
@@ -2373,6 +2443,11 @@
   <programme start="20261016160000 -0400" stop="20261016170000 -0400" channel="Fox News Channel.US">
     <title>The Will Cain Show</title>
     <desc>Featuring conversations with newsmakers from across politics, business, culture and sports, The Will Cain Show will offer a comprehensive look at the news of the day in a signature podcast style.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261016160000 -0400" stop="20261016170000 -0400" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261016170000 -0400" stop="20261016180000 -0400" channel="Newsmax.US">
@@ -2640,9 +2715,19 @@
     <desc>The world of home cooking is undergoing a revolution with new tastes, flavors, techniques and influences. Christopher Kimball's Milk Street Television wants to change how Americans cook by bringing home a fresher, bolder, simpler way of preparing food. Chris and his test cooks search the world over looking for the best recipes, and finding home cooks who can teach better ways to prepare a meal at home. Chris also shares tips and techniques designed to make home cooking easier, like how to make foolproof egg whites and how to season a carbon steel pan. Back in the kitchen, Chris transforms what the Milk Street Television crew has learned into practical, simple recipes for home cooks everywhere.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261017120000 -0400" stop="20261017130000 -0400" channel="CNN.US">
+    <title>The Arena: Saturday</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the week's news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261017130000 -0400" stop="20261017160000 -0400" channel="MS NOW.US">
     <title>The Assignment with Antonia Hylton</title>
     <desc>The Assignment with Antonia Hylton will bring Hylton's thoughtful, deeply reported journalism to MS NOW's audience every weekend. Based in New York, The Assignment with Antonia Hylton will serve as destination viewing for the latest political and cultural headlines, informative discussions and fresh insights from top lawmakers and changemakers. Centered around Hylton's award-winning field reporting and rooted in her signature curiosity and accountability, the program will aim to help audiences better understand not only the latest headlines, but also the broader context behind them, while inviting them into a community that engages more deeply.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261017130000 -0400" stop="20261017133000 -0400" channel="PBS.US">
+    <title>Woodsmith Shop</title>
+    <desc>The pages of Woodsmith magazine come to life in this unique concept for public television. Each of the thirteen, half-hour episodes is built around a theme and teaches the skills and safe tool techniques necessary to build a variety of woodworking projects in a home shop. On each program, host Don Peschke, founding editor of Woodsmith, leads a cast of editors and project designers as they explore a wide range of tips, tools, jigs and fixtures, and techniques. Segments on most programs include "The Basics," "Techniques," "Three Things to Consider," "Tool Tune-Up," "Shop Tips," "Oops! When Things Go Wrong," and "Woodworkers' Round-table." Produced by Iowa Public Television in high-definition and shot on a special set built just for this program, most episodes include detailed animations that show exactly how machines work and wood joints are assembled. Whether viewers are just starting out or have been woodworking for years, they'll find something new in every episode to apply to their next project. In addition, a companion website (www.WoodsmithShop.com) offers a handy place to find additional resources and download free technique articles and plans for projects shown in the series.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261017143000 -0400" stop="20261017150000 -0400" channel="PBS.US">
@@ -2785,6 +2870,11 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261012160000 -0400" stop="20261012170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261012163000 -0400" stop="20261012171500 -0400" channel="BBC One.GB">
     <title>Bridge of Lies</title>
     <desc>Ross Kemp has turned his hand to quiz show hosting for the very first time, and will preside over teams of contestants as they compete for cash by crossing the Bridge – a collection of stepping stones featuring various truths and lies based on general knowledge categories.Each player must try to safely step on the truths and avoid the lies, or risk falling off and out of the game. Once they've conquered the Bridge on their own, successful contestants will join forces to face the dramatic final crossing for a chance to take home some cash.</desc>
@@ -2900,6 +2990,11 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261013160000 -0400" stop="20261013170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261013163000 -0400" stop="20261013171500 -0400" channel="BBC One.GB">
     <title>Bridge of Lies</title>
     <desc>Ross Kemp has turned his hand to quiz show hosting for the very first time, and will preside over teams of contestants as they compete for cash by crossing the Bridge – a collection of stepping stones featuring various truths and lies based on general knowledge categories.Each player must try to safely step on the truths and avoid the lies, or risk falling off and out of the game. Once they've conquered the Bridge on their own, successful contestants will join forces to face the dramatic final crossing for a chance to take home some cash.</desc>
@@ -3003,6 +3098,11 @@
   <programme start="20261014141000 -0400" stop="20261014150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261014160000 -0400" stop="20261014170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261014163000 -0400" stop="20261014171500 -0400" channel="BBC One.GB">
@@ -3110,6 +3210,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261015160000 -0400" stop="20261015170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261015163000 -0400" stop="20261015171500 -0400" channel="BBC One.GB">
     <title>Bridge of Lies</title>
     <desc>Ross Kemp has turned his hand to quiz show hosting for the very first time, and will preside over teams of contestants as they compete for cash by crossing the Bridge – a collection of stepping stones featuring various truths and lies based on general knowledge categories.Each player must try to safely step on the truths and avoid the lies, or risk falling off and out of the game. Once they've conquered the Bridge on their own, successful contestants will join forces to face the dramatic final crossing for a chance to take home some cash.</desc>
@@ -3210,6 +3315,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261016160000 -0400" stop="20261016170000 -0400" channel="Channel 4.GB">
+    <title>Help! We Bought a Village</title>
+    <desc>British people rebuilding abandoned historic settlements in Europe.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261016170000 -0400" stop="20261016180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -3260,6 +3370,11 @@
     <desc>Inspired by the iconic Play for Today format, each production will champion new voices and focus on bringing low-income talent into the spotlight behind the scenes in writing, directing and production roles.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261016210000 -0400" stop="20261016220000 -0400" channel="Channel 4.GB">
+    <title>Gogglebox</title>
+    <desc>Gogglebox is a British observational documentary television show which has aired on Channel 4 since 2013. The show focuses on families, friends and couples from around the country in their living rooms watching the last week's of British television.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261016210500 -0400" stop="20261016213000 -0400" channel="BBC One.GB">
     <title>The Celebrity Traitors: Uncloaked</title>
     <desc>Ed Gamble is joined by the latest murdered and banished players to unpack all the drama from The Celebrity Traitors.</desc>
@@ -3273,6 +3388,11 @@
   <programme start="20261016220000 -0400" stop="20261016230000 -0400" channel="TRUE CRIME.GB">
     <title>This Much is True Crime</title>
     <desc>Join Britain's leading criminologist, Professor David Wilson, and journalist and TV producer Martin Frizell as they examine the cases everyone is talking about.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261016220500 -0400" stop="20261016231000 -0400" channel="Channel 4.GB">
+    <title>The Last Leg</title>
+    <desc>Adam Hills and co-hosts Josh Widdicombe and Alex Brooker provide some offbeat commentary on the significant moments of the past seven days.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261016224000 -0400" stop="20261016233000 -0400" channel="BBC One.GB">
