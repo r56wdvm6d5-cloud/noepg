@@ -260,6 +260,11 @@
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261011190000 -0400" stop="20261011200000 -0400" channel="CBS.US">
+    <title>60 Minutes</title>
+    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261011200000 -0400" stop="20261011210000 -0400" channel="History.US">
     <title>American Pickers: Best Of</title>
     <desc>In small towns, and along America's back roads, treasures are waiting to be uncovered–valuable relics from history that are hidden in junk piles, buried in barns and stacked in garages. It takes special experts to find these lost artifacts and hopefully turn rust to riches. Mike and Frank look back at their best picks.</desc>
@@ -2850,6 +2855,11 @@
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261012104500 -0400" stop="20261012113000 -0400" channel="BBC One.GB">
+    <title>Crimewatch Live</title>
+    <desc>Presented by former Metropolitan Police detective Rav Wilding, the show appeals directly to the public for help with unsolved cases from all over the UK. He's joined by Michelle Ackerley, who will be hitting the road, finding out how police forces up and down the country are tackling the everyday sorts of crime that affects us all.Live every weekday morning, the series features reconstructions, CCTV and Wanted Faces alongside fascinating insights into the latest crime fighting technology and advice on how viewers can avoid becoming a victim themselves.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261012123000 -0400" stop="20261012133000 -0400" channel="ITV1.GB">
     <title>Loose Women</title>
     <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
@@ -2868,6 +2878,11 @@
   <programme start="20261012150000 -0400" stop="20261012154500 -0400" channel="BBC One.GB">
     <title>Escape to the Country</title>
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261012154500 -0400" stop="20261012163000 -0400" channel="BBC One.GB">
+    <title>Garden Rescue</title>
+    <desc>Charlie Dimmock and award-winning garden designers the Rich brothers compete to design gardens for homeowners around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261012160000 -0400" stop="20261012170000 -0400" channel="Channel 4.GB">
@@ -2968,6 +2983,11 @@
   <programme start="20261013070000 -0400" stop="20261013072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261013104500 -0400" stop="20261013113000 -0400" channel="BBC One.GB">
+    <title>Crimewatch Live</title>
+    <desc>Presented by former Metropolitan Police detective Rav Wilding, the show appeals directly to the public for help with unsolved cases from all over the UK. He's joined by Michelle Ackerley, who will be hitting the road, finding out how police forces up and down the country are tackling the everyday sorts of crime that affects us all.Live every weekday morning, the series features reconstructions, CCTV and Wanted Faces alongside fascinating insights into the latest crime fighting technology and advice on how viewers can avoid becoming a victim themselves.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261013123000 -0400" stop="20261013133000 -0400" channel="ITV1.GB">
@@ -3085,6 +3105,11 @@
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261014104500 -0400" stop="20261014113000 -0400" channel="BBC One.GB">
+    <title>Crimewatch Live</title>
+    <desc>Presented by former Metropolitan Police detective Rav Wilding, the show appeals directly to the public for help with unsolved cases from all over the UK. He's joined by Michelle Ackerley, who will be hitting the road, finding out how police forces up and down the country are tackling the everyday sorts of crime that affects us all.Live every weekday morning, the series features reconstructions, CCTV and Wanted Faces alongside fascinating insights into the latest crime fighting technology and advice on how viewers can avoid becoming a victim themselves.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261014123000 -0400" stop="20261014133000 -0400" channel="ITV1.GB">
     <title>Loose Women</title>
     <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
@@ -3098,6 +3123,11 @@
   <programme start="20261014141000 -0400" stop="20261014150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261014154500 -0400" stop="20261014163000 -0400" channel="BBC One.GB">
+    <title>Garden Rescue</title>
+    <desc>Charlie Dimmock and award-winning garden designers the Rich brothers compete to design gardens for homeowners around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261014160000 -0400" stop="20261014170000 -0400" channel="Channel 4.GB">
@@ -3193,6 +3223,11 @@
   <programme start="20261015070000 -0400" stop="20261015072200 -0400" channel="ITV1.GB">
     <title>Emmerdale</title>
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261015104500 -0400" stop="20261015113000 -0400" channel="BBC One.GB">
+    <title>Crimewatch Live</title>
+    <desc>Presented by former Metropolitan Police detective Rav Wilding, the show appeals directly to the public for help with unsolved cases from all over the UK. He's joined by Michelle Ackerley, who will be hitting the road, finding out how police forces up and down the country are tackling the everyday sorts of crime that affects us all.Live every weekday morning, the series features reconstructions, CCTV and Wanted Faces alongside fascinating insights into the latest crime fighting technology and advice on how viewers can avoid becoming a victim themselves.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261015123000 -0400" stop="20261015133000 -0400" channel="ITV1.GB">
@@ -3300,6 +3335,11 @@
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261016104500 -0400" stop="20261016113000 -0400" channel="BBC One.GB">
+    <title>Crimewatch Live</title>
+    <desc>Presented by former Metropolitan Police detective Rav Wilding, the show appeals directly to the public for help with unsolved cases from all over the UK. He's joined by Michelle Ackerley, who will be hitting the road, finding out how police forces up and down the country are tackling the everyday sorts of crime that affects us all.Live every weekday morning, the series features reconstructions, CCTV and Wanted Faces alongside fascinating insights into the latest crime fighting technology and advice on how viewers can avoid becoming a victim themselves.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261016123000 -0400" stop="20261016133000 -0400" channel="ITV1.GB">
     <title>Loose Women</title>
     <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
@@ -3313,6 +3353,11 @@
   <programme start="20261016141000 -0400" stop="20261016150000 -0400" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261016154500 -0400" stop="20261016163000 -0400" channel="BBC One.GB">
+    <title>Garden Rescue</title>
+    <desc>Charlie Dimmock and award-winning garden designers the Rich brothers compete to design gardens for homeowners around the country.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261016160000 -0400" stop="20261016170000 -0400" channel="Channel 4.GB">
@@ -3400,6 +3445,11 @@
     <desc>Chat show featuring celebrities, music and fabulous weirdness from the British public.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261017173000 -0400" stop="20261017181500 -0400" channel="BBC One.GB">
+    <title>The Celebrity Inner Circle</title>
+    <desc>Amanda Holden hosts the gripping, high-stakes quiz where celebs and contestants must outsmart each other to win big. It's not just what you know - it's who can you trust?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261017181500 -0400" stop="20261017203500 -0400" channel="BBC One.GB">
     <title>Strictly Come Dancing</title>
     <desc>Celebrities take to the dance floor to perform a dazzling display of ballroom routines.</desc>
@@ -3418,6 +3468,26 @@
   <programme start="20261017200000 -0400" stop="20261017203000 -0400" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261017203500 -0400" stop="20261017212000 -0400" channel="BBC One.GB">
+    <title>Wisdom of the Crowd</title>
+    <desc>John Bishop hosts as players take on the audience to win up to £30,000. The science says the audience should win. But will anyone manage to steal it by beating the wisdom of the crowd?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261017203500 -0400" stop="20261017230500 -0400" channel="BBC Two.GB">
+    <title>At the BBC</title>
+    <desc>Series of one-off documentaries that uses 70 years of the BBC archive to bring together clips under one theme, sometimes the shows have a presenter but often they don't.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261017203500 -0400" stop="20261017215000 -0400" channel="ITV1.GB">
+    <title>The Voice UK</title>
+    <desc>Join will.i.am and our other superstar coaches on their mission to find the next big thing for the music business. Alongside Will we have award-winning Jennifer Hudson, Lord of rock Gavin Rossdale and the legend that is Sir Tom Jones - all on the look out for the next big superstar. Will is promising magic, drama and lots of talent - and we can guarantee that this series of The Voice UK will not disappoint! The prize is a life-changing record deal with Polydor Records, one of the industry's most successful labels.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261017223000 -0400" stop="20261017234000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261012090000 -0400" stop="20261012091100 -0400" channel="CBC.CA">
