@@ -2725,6 +2725,11 @@
     <desc>This longtime ESPN staple doesn't air in prime time anymore, and the original tag team of Chris Berman and Tom Jackson are no longer involved. But it lives on, albeit in a slightly different form, with host Trey Wingo presenting a shorter-form highlights package of Sunday's NFL action coupled with more in-depth analysis from former players Merril Hoge and Tim Hasselbeck.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261018160000 -0400" stop="20261018170000 -0400" channel="ESPN.US">
+    <title>E:60</title>
+    <desc>E:60 is ESPN's first multi-subject prime-time newsmagazine program offering a combination of investigative features, profiles of intriguing sports personalities, and cutting edge stories on innovation in the sports world, including emerging sports and new technology. The series will tell life stories that relate or have a basis in sports, melding its stories with a glimpse of the reporters' experiences discussing the story ideas. The show will be produced and aired in high definition, a first for the newsmagazine genre.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261018162500 -0400" stop="20261018192500 -0400" channel="CBS.US">
     <title>NFL on CBS</title>
     <desc>Coverage of NFL on CBS.</desc>
