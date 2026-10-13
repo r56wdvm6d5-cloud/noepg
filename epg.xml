@@ -2422,6 +2422,26 @@
     <desc>Start your day and weekend with real news and analysis from Rob Finnerty, Michael Grimm &amp;amp; Sarah Williamson and team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261019070000 -0400" stop="20261019090000 -0400" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019070000 -0400" stop="20261019090000 -0400" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019070000 -0400" stop="20261019090000 -0400" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019080000 -0400" stop="20261019100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261019090000 -0400" stop="20261019110000 -0400" channel="Fox News Channel.US">
     <title>America's Newsroom</title>
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
@@ -2445,6 +2465,21 @@
   <programme start="20261019090000 -0400" stop="20261019100000 -0400" channel="Syndication.US">
     <title>The 700 Club</title>
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019090000 -0400" stop="20261019100000 -0400" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019100000 -0400" stop="20261019120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019100000 -0400" stop="20261019110000 -0400" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261019110000 -0400" stop="20261019120000 -0400" channel="MS NOW.US">
@@ -2485,6 +2520,11 @@
   <programme start="20261019130000 -0400" stop="20261019150000 -0400" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019130000 -0400" stop="20261019140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261019140000 -0400" stop="20261019160000 -0400" channel="Newsmax.US">
@@ -2862,7 +2902,7 @@
     <desc>Sky Arts presents the inaugural Sky Arts Awards, taking place in September at The Roundhouse in London. Building on the fantastic legacy of the South Bank Sky Arts Awards, the Sky Arts Awards is the only event in the world that recognises the full spectrum of artistic genres, including classical music, comedy, dance, film, literature, poetry, opera, popular music, television, theatre and visual art. The event will also introduce the first of its kind ‘Arts Hero' category, honouring the unsung heroes whose efforts behind-the-scenes are integral to the success of the arts industry.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261013211500 -0400" stop="20261013222000 -0400" channel="Channel 4.GB">
+  <programme start="20261013211500 -0400" stop="20261013221500 -0400" channel="Channel 4.GB">
     <title>Tempting Fortune</title>
     <desc>Rob Beckett presents the epic competition with a twist. Twelve strangers trek across hostile jungles and wildernesses, but who'll spend some of the shared £300k prize pot on individual luxuries?</desc>
     <category>TV Show</category>
@@ -3082,11 +3122,6 @@
     <desc>Classic Movies: The Story of... goes in search of the cinematically sublime. Those films that have transcended their era to enter the pantheon of greats.With each episode devoted to a single film, their story will be told with detail, affection, looking for the truth behind the myth, all the trials and triumphs that went into forging a classic. But this isn't simply history, the standard making of, it's about identifying those ingredients immortal scenes, performances, themes, luxuriant cinematography, art direction, special effects, music, even the power of a single line – that elevate a film to a new level.Hosted by Ian Nathan, guide us through the story from inception to legacy, supplemented with regular input along with special guest, with unique insight, historians who have devoted entire books, and visit to special location, where they shot or that served as  a key inspiration, bringing each of these films to life with a dynamic presentation. We are on a journey to find out not what makes a film good, but what makes it classic.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261015210000 -0400" stop="20261015220000 -0400" channel="Channel 4.GB">
-    <title>Taskmaster</title>
-    <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261015210000 -0400" stop="20261015220000 -0400" channel="5.GB">
     <title>All Creatures Great and Small</title>
     <desc>All Creatures Great and Small chronicles the adventures of a young country veterinarian.</desc>
@@ -3095,6 +3130,11 @@
   <programme start="20261015210500 -0400" stop="20261015213000 -0400" channel="BBC One.GB">
     <title>The Celebrity Traitors: Uncloaked</title>
     <desc>Ed Gamble is joined by the latest murdered and banished players to unpack all the drama from The Celebrity Traitors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261015210500 -0400" stop="20261015220500 -0400" channel="Channel 4.GB">
+    <title>Taskmaster</title>
+    <desc>Greg Davies is the Taskmaster who, with the help of his right-hand man, Alex, sets out to test the wiles, wit and wisdom of five hyper competitive comedians through a series of ingenious challenges. With the chance to be crowned show champion, rivalry amongst the comedians is encouraged, dodgy tactics rewarded and bribes accepted.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261015220000 -0400" stop="20261015230000 -0400" channel="TRUE CRIME.GB">
@@ -3370,6 +3410,11 @@
   <programme start="20261019193000 -0400" stop="20261019200000 -0400" channel="BBC Two.GB">
     <title>Mastermind</title>
     <desc>Mastermind is a British quiz show, well known for its challenging questions, intimidating setting and air of seriousness. It first aired on 11 September 1972 &amp;amp; is still running today. Four contestants brave the black chair as they answer questions on their specialist subjects and test their general knowledge to win the coveted trophy.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019193000 -0400" stop="20261019200000 -0400" channel="ITV1.GB">
+    <title>Cooking with the Stars</title>
+    <desc>Emma Willis and Tom Allen present the celebrity cookery series where famous faces will be cooking up a storm week by week in a bid to outdo their rivals. Each of the celebrity contestants are paired with a professional chef who will mentor and teach them to prepare restaurant quality dishes</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261019195500 -0400" stop="20261019200000 -0400" channel="5.GB">
