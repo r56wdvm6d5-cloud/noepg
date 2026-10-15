@@ -528,11 +528,6 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261015210000 -0400" stop="20261015220000 -0400" channel="FOX.US">
-    <title>Special Forces: World's Toughest Test</title>
-    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261015210000 -0400" stop="20261015220000 -0400" channel="Newsmax.US">
     <title>Greg Kelly Reports</title>
     <desc>The hardest-hitting stories from coast to coast: We take you from the Beltway to the Rust Belt and beyond — never forgetting we're here to enlighten, expose, inform, and spotlight the stories that matter to you.</desc>
@@ -543,7 +538,7 @@
     <desc>The day's hottest subjects.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261015210000 -0400" stop="20261015220000 -0400" channel="HBO.US">
+  <programme start="20261015210000 -0400" stop="20261015215100 -0400" channel="HBO.US">
     <title>War</title>
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
     <category>TV Show</category>
@@ -561,6 +556,11 @@
   <programme start="20261015210000 -0400" stop="20261015220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261015210200 -0400" stop="20261015220000 -0400" channel="FOX.US">
+    <title>Special Forces: World's Toughest Test</title>
+    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261015220000 -0400" stop="20261015230000 -0400" channel="ABC.US">
@@ -1668,7 +1668,7 @@
     <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261019200000 -0400" stop="20261019210000 -0400" channel="Bravo.US">
+  <programme start="20261019200000 -0400" stop="20261019211500 -0400" channel="Bravo.US">
     <title>Below Deck</title>
     <desc>The upstairs and downstairs worlds collide when this young and single crew of "yachties" live, love and work together on board a luxurious mega yacht while tending to the ever-changing needs of their wealthy, demanding charter guests on Below Deck.</desc>
     <category>TV Show</category>
@@ -2638,14 +2638,14 @@
     <desc>CBP and HSI respond to a surge in cocaine trafficking across U.S. land borders and at sea, which leads to boat chases, arrests and record-setting seizures...</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261021210000 -0400" stop="20261021220000 -0400" channel="FOX.US">
-    <title>Special Forces: World's Toughest Test</title>
-    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261021210200 -0400" stop="20261021220000 -0400" channel="FOX.US">
     <title>99 to Beat</title>
     <desc>In 99 to Beat, 100 contestants go head-to-head in a range of visually distinctive and hilarious games in an arced competition game show like we've never seen before. 99 to Beat is the game show that anyone can win, and there's only one thing players must do for a chance of walking away with the cash prize – Don't. Come. In. Last. As contestants battle it out against each other, each round will see the number of players whittled down until one person is left standing and they take home the top prize of $100,000.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261021210200 -0400" stop="20261021220000 -0400" channel="FOX.US">
+    <title>Special Forces: World's Toughest Test</title>
+    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261021213000 -0400" stop="20261021230000 -0400" channel="CBS.US">
