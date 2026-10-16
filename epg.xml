@@ -124,6 +124,14 @@
     <display-name>Quest</display-name>
     <country>GB</country>
   </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="Comedy Central.GB">
+    <display-name>Comedy Central</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Sky Arts.GB">
     <display-name>Sky Arts</display-name>
     <country>GB</country>
@@ -833,6 +841,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261018183000 -0400" stop="20261018190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261018190000 -0400" stop="20261018201500 -0400" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -1131,6 +1144,11 @@
   <programme start="20261019180000 -0400" stop="20261019190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019183000 -0400" stop="20261019190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261019190000 -0400" stop="20261019200000 -0400" channel="MS NOW.US">
@@ -1566,6 +1584,11 @@
   <programme start="20261020180000 -0400" stop="20261020190000 -0400" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020180000 -0400" stop="20261020183000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020183000 -0400" stop="20261020190000 -0400" channel="NBC.US">
@@ -2038,6 +2061,11 @@
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261021183000 -0400" stop="20261021190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261021190000 -0400" stop="20261021200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -2493,6 +2521,11 @@
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261022183000 -0400" stop="20261022190000 -0400" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261022190000 -0400" stop="20261022200000 -0400" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -2686,6 +2719,11 @@
   <programme start="20261022230000 -0400" stop="20261023000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261022233500 -0400" stop="20261023003500 -0400" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261022235900 -0400" stop="20261023005900 -0400" channel="ESPN.US">
@@ -2889,7 +2927,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20261018200000 -0400" stop="20261018210000 -0400" channel="Channel 4.GB">
-    <title>Kevin Mccloud's Classic Car Road Trips</title>
+    <title>Kevin McCloud's Classic Car Road Trips</title>
     <desc>Kevin McCloud gears up for an exhilarating adventure, as he drives classic cars around the countries where they were made, exploring classic craftmanship, culture and cuisine.</desc>
     <category>TV Show</category>
   </programme>
@@ -3023,6 +3061,16 @@
     <desc>Seconds is all it takes for the most brutal of crimes to be committed and lives to be shattered forever. When the worst happens, one team steps forward, and the brave men and women of the West Midland's Major Crime Unit take control - specialist detectives highly trained to piece together the smallest of clues and pick up the faintest of trails. Every lead matters and every second counts.With unprecedented access to this elite crime-fighting unit, the series follows investigators as they race against time to track suspects, uncover the truth, and deliver justice for victims and their families. No stone unturned, no suspect safe - this is law enforcement at its most relentless.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261019210000 -0400" stop="20261019220000 -0400" channel="E4.GB">
+    <title>Made in Chelsea</title>
+    <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261019210000 -0400" stop="20261019220000 -0400" channel="Comedy Central.GB">
+    <title>Iain Stirling's Roast the Internet</title>
+    <desc>Iain Stirling's Roast The Internet is all about the very worst things on the internet (that he's legally able to talk about on broadcast television). Every episode, Iain roasts social clips, posts and trends, with three famous faces - comedians, online celebrities and TV personalities - joining him each week to tackle their own online bugbears. And alongside all the roasting, Iain and his guests also offer up some ingenious and hilarious solutions to the dumpster fire that is the online world.With outrageous clips, funny chat and top comedy performances, Iain and his guests take the internet down a peg or two, while all also secretly hoping their best bits will go viral.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261020104500 -0400" stop="20261020113000 -0400" channel="BBC One.GB">
     <title>Crimewatch Live</title>
     <desc>Presented by former Metropolitan Police detective Rav Wilding, the show appeals directly to the public for help with unsolved cases from all over the UK. He's joined by Michelle Ackerley, who will be hitting the road, finding out how police forces up and down the country are tackling the everyday sorts of crime that affects us all.Live every weekday morning, the series features reconstructions, CCTV and Wanted Faces alongside fascinating insights into the latest crime fighting technology and advice on how viewers can avoid becoming a victim themselves.</desc>
@@ -3106,6 +3154,11 @@
   <programme start="20261020211500 -0400" stop="20261020221500 -0400" channel="Channel 4.GB">
     <title>Tempting Fortune</title>
     <desc>Rob Beckett presents the epic competition with a twist. Twelve strangers trek across hostile jungles and wildernesses, but who'll spend some of the shared £300k prize pot on individual luxuries?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020213000 -0400" stop="20261020223000 -0400" channel="BBC Two.GB">
+    <title>Saving Lives at Sea</title>
+    <desc>Documentary following the men and women of the Royal National Lifeboat Institution (RNLI).</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020221500 -0400" stop="20261020230500 -0400" channel="Channel 4.GB">
