@@ -236,7 +236,7 @@
     <desc>America's Test Kitchen is filmed in a real, working test kitchen located just outside of Boston. It is the home of Cook's Illustrated magazine and the Monday-to-Friday destination for more than three dozen test cooks, editors, food scientists, tasters, and cookware specialists.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261017143000 -0400" stop="20261017150000 -0400" channel="CBS.US">
+  <programme start="20261017143500 -0400" stop="20261017150500 -0400" channel="CBS.US">
     <title>College Football Today</title>
     <desc>College Football Today is hosted by Adam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.</desc>
     <category>TV Show</category>
@@ -251,9 +251,9 @@
     <desc>SEC on ABC on November 21, 2020, ABC aired its first SEC regular season game since 1995, Florida–Vanderbilt, which was moved from ESPN due to the postponement of an ACC game (Clemson–Florida State) that was originally expected to air on the network due to COVID-19 pandemic complications.On December 10, 2020, ESPN announced that it had acquired the top-tier rights to the SEC under a 10-year, $3 billion contract to begin in the 2024 season; ABC will hold rights to the top SEC game of the week (replacing CBS). As before, they will primarily air in the 3:30 window, but there will also be the possibility for games to be carried on Saturday Night Football. ABC will also hold rights to the SEC Championship Game. During the Disney upfronts, ESPN unveiled an SEC on ABC branding for these games.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261017170000 -0400" stop="20261017180000 -0400" channel="MS NOW.US">
-    <title>PoliticsNation</title>
-    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+  <programme start="20261017180000 -0400" stop="20261017200000 -0400" channel="MS NOW.US">
+    <title>MS NOW Special Coverage</title>
+    <desc>Special coverage of news events on MS NOW.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261017183000 -0400" stop="20261017190000 -0400" channel="NBC.US">
@@ -1321,6 +1321,16 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261020210000 -0400" stop="20261020220000 -0400" channel="Bravo.US">
+    <title>Vanderpump Rules</title>
+    <desc>Vanderpump Rules follows the passionate, volatile and hot-and-bothered-staff at Lisa Vanderpump's West Hollywood mainstay SUR. Lisa balances her motherly instincts and shrewd business sense to keep control over this wild group of employees as they pursue their dreams and each other while working at her "Sexy, Unique Restaurant". Often seen on Real Housewives of Beverly Hills, SUR has been the backdrop for many memorable moments, including the unexpected encounter between Brandi Glanville and Scheana Marie, a female server who famously had an affair with Brandi's ex-husband.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020210000 -0400" stop="20261020220000 -0400" channel="Bravo.US">
+    <title>Vanderpump Rules</title>
+    <desc>Vanderpump Rules follows the passionate, volatile and hot-and-bothered-staff at Lisa Vanderpump's West Hollywood mainstay SUR. Lisa balances her motherly instincts and shrewd business sense to keep control over this wild group of employees as they pursue their dreams and each other while working at her "Sexy, Unique Restaurant". Often seen on Real Housewives of Beverly Hills, SUR has been the backdrop for many memorable moments, including the unexpected encounter between Brandi Glanville and Scheana Marie, a female server who famously had an affair with Brandi's ex-husband.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261020213000 -0400" stop="20261021000000 -0400" channel="NBC.US">
     <title>Coast 2 Coast Tuesday</title>
     <desc>Coast 2 Coast Tuesday is an NBA on NBC prime-time doubleheader format featuring an eastern/central regional game at 8:00 p.m. ET followed by a late-night western matchup starting at 11:00 p.m. ET (or 8:00 p.m. PT), bridging coast-to-coast basketball action across NBC and Peacock.</desc>
@@ -1829,6 +1839,11 @@
   <programme start="20261021210000 -0400" stop="20261021220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261021210000 -0400" stop="20261021220000 -0400" channel="Bravo.US">
+    <title>Vanderpump Rules</title>
+    <desc>Vanderpump Rules follows the passionate, volatile and hot-and-bothered-staff at Lisa Vanderpump's West Hollywood mainstay SUR. Lisa balances her motherly instincts and shrewd business sense to keep control over this wild group of employees as they pursue their dreams and each other while working at her "Sexy, Unique Restaurant". Often seen on Real Housewives of Beverly Hills, SUR has been the backdrop for many memorable moments, including the unexpected encounter between Brandi Glanville and Scheana Marie, a female server who famously had an affair with Brandi's ex-husband.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261021210200 -0400" stop="20261021220000 -0400" channel="FOX.US">
