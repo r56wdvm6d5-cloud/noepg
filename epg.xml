@@ -401,6 +401,11 @@
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261018193000 -0400" stop="20261018203000 -0400" channel="CBS.US">
+    <title>60 Minutes</title>
+    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261018200000 -0400" stop="20261018210000 -0400" channel="History.US">
     <title>American Pickers: Best Of</title>
     <desc>In small towns, and along America's back roads, treasures are waiting to be uncovered–valuable relics from history that are hidden in junk piles, buried in barns and stacked in garages. It takes special experts to find these lost artifacts and hopefully turn rust to riches. Mike and Frank look back at their best picks.</desc>
@@ -1371,6 +1376,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261020220000 -0400" stop="20261020230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261020220100 -0400" stop="20261020223200 -0400" channel="A&amp;E.US">
     <title>Customer Wars</title>
     <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
@@ -1414,6 +1424,16 @@
   <programme start="20261020235900 -0400" stop="20261021005900 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020000000 -0400" stop="20261020020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020005900 -0400" stop="20261020015900 -0400" channel="NBC.US">
@@ -1856,6 +1876,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261021220000 -0400" stop="20261021230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261021223000 -0400" stop="20261021224500 -0400" channel="Comedy Central.US">
     <title>Mike Judge's Beavis and Butt-Head</title>
     <desc>In this new iteration, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write, produce and provide voice over for both iconic characters.</desc>
@@ -1899,6 +1924,16 @@
   <programme start="20261021235900 -0400" stop="20261022005900 -0400" channel="ESPN.US">
     <title>Inside the NBA</title>
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261021000000 -0400" stop="20261021020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261021003500 -0400" stop="20261021013500 -0400" channel="NBC.US">
@@ -2336,6 +2371,11 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261022220000 -0400" stop="20261022230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261022230000 -0400" stop="20261022233500 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
@@ -2369,6 +2409,16 @@
   <programme start="20261022235900 -0400" stop="20261023005900 -0400" channel="ESPN.US">
     <title>Inside the NBA</title>
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261022000000 -0400" stop="20261022020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261022003500 -0400" stop="20261022013500 -0400" channel="NBC.US">
@@ -2781,6 +2831,11 @@
     <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261023220000 -0400" stop="20261023230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261023220300 -0400" stop="20261023230500 -0400" channel="History.US">
     <title>Mysteries From Above</title>
     <desc>Investigate significant historic and contemporary sites from the revealing vantage points of drone, satellite, and aerial photography. Each episode contains four distinct stories, and each story begins with a view from above, allowing for a unique perspective from which to understand the site below, dramatically changing the way we see ourselves and the world around us.</desc>
@@ -2804,6 +2859,11 @@
   <programme start="20261023230000 -0400" stop="20261024000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261023000000 -0400" stop="20261023020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261017173000 -0400" stop="20261017181500 -0400" channel="BBC One.GB">
@@ -3214,6 +3274,11 @@
   <programme start="20261021200000 -0400" stop="20261021210000 -0400" channel="Sky Arts.GB">
     <title>Portrait Artist of the Year</title>
     <desc>Portrait Artist of the Year is hosted by UK TV personalities Joan Bakewell and Frank Skinner; an esteemed group of judges travel across the Europe in search of a new star in the art world. Each episode features a regional competition where artists are shortlisted and challenged to produce a portrait of one of three famous sitters. At the end of each round, the judges select an artist to go to the semifinal. The finalists will have their work displayed at the world-famous National Portrait Gallery in London and the winner will receive a £10,000 commission to paint a portrait which will become part of the permanent collection at the British Library.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261021200000 -0400" stop="20261021210000 -0400" channel="BBC One.GB">
+    <title>The Repair Shop: Beyond the Barn</title>
+    <desc>The Repair Shop experts visit some of the people who have been reunited with cherished mementos.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261021210000 -0400" stop="20261021220000 -0400" channel="Quest.GB">
