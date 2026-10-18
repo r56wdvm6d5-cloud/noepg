@@ -485,6 +485,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261019133000 -0400" stop="20261019140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261019140000 -0400" stop="20261019160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
@@ -933,6 +938,11 @@
   <programme start="20261020130000 -0400" stop="20261020140000 -0400" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020133000 -0400" stop="20261020140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020140000 -0400" stop="20261020160000 -0400" channel="Newsmax.US">
@@ -1460,6 +1470,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261021133000 -0400" stop="20261021140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261021140000 -0400" stop="20261021160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
@@ -1960,6 +1975,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261022133000 -0400" stop="20261022140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261022140000 -0400" stop="20261022160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
@@ -2445,6 +2465,11 @@
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261023133000 -0400" stop="20261023140000 -0400" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261023140000 -0400" stop="20261023160000 -0400" channel="Newsmax.US">
     <title>American Agenda</title>
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
@@ -2873,6 +2898,11 @@
   <programme start="20261018131500 -0400" stop="20261018140000 -0400" channel="BBC One.GB">
     <title>Songs of Praise</title>
     <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261018190000 -0400" stop="20261018195400 -0400" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261018191000 -0400" stop="20261018200000 -0400" channel="BBC One.GB">
