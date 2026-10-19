@@ -140,12 +140,12 @@
     <display-name>Discovery</display-name>
     <country>GB</country>
   </channel>
-  <channel id="CTV.CA">
-    <display-name>CTV</display-name>
-    <country>CA</country>
-  </channel>
   <channel id="Citytv.CA">
     <display-name>Citytv</display-name>
+    <country>CA</country>
+  </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
   <channel id="CBC.CA">
@@ -565,7 +565,7 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261019220000 -0400" stop="20261019223000 -0400" channel="Bravo.US">
+  <programme start="20261019221500 -0400" stop="20261019224500 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
@@ -1080,11 +1080,6 @@
     <desc>Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change..</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261020220000 -0400" stop="20261020223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261020220000 -0400" stop="20261020230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
@@ -1128,6 +1123,11 @@
   <programme start="20261020230000 -0400" stop="20261021000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020230000 -0400" stop="20261020233000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020235900 -0400" stop="20261021005900 -0400" channel="NBC.US">
@@ -2045,6 +2045,11 @@
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261022210000 -0400" stop="20261022213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261022210000 -0400" stop="20261022220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
@@ -2093,11 +2098,6 @@
   <programme start="20261022220000 -0400" stop="20261022230000 -0400" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261022220000 -0400" stop="20261022223000 -0400" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261022220000 -0400" stop="20261022230000 -0400" channel="CNN.US">
@@ -3465,6 +3465,11 @@
     <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261025093000 -0400" stop="20261025113000 -0400" channel="ITV1.GB">
+    <title>Love Your Weekend with Alan Titchmarsh</title>
+    <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261025190000 -0400" stop="20261025195400 -0400" channel="BBC One.GB">
     <title>Countryfile</title>
     <desc>The people, places and stories making news in the British countryside.</desc>
@@ -3505,6 +3510,11 @@
     <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261019200000 -0400" stop="20261019210000 -0400" channel="Citytv.CA">
+    <title>The Price is Right Tonight</title>
+    <desc>Hosted by legendary comedian and television personality Howie Mandel, The Price Is Right Tonight is a new Canadian series that brings the iconic game show's joyful wins and classic format to a primetime audience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261019210000 -0400" stop="20261019220000 -0400" channel="CTV.CA">
     <title>The Traitors Canada</title>
     <desc>Follow a group of contestants – including some familiar faces – who live together as they complete a series of challenges with the goal of earning a cash prize. The catch? Some of the contestants are traitors who will attempt to deceive and manipulate their way to the prize instead of sharing it amongst the group. In this psychological adventure will the traitors be unmasked in time?</desc>
@@ -3525,6 +3535,11 @@
     <desc>Based on the award-winning, best-selling memoir from Mark Critch. This new original comedy is the hilarious and very real story of 11-year-old Mark coming of age in St. John's, Newfoundland in the 80s. It's a heartfelt window into the life of a child – much older inside than his 11 years – using comedy and self-deprecation to win friends and connect with the small collection of people in his limited world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261021210000 -0400" stop="20261021220000 -0400" channel="CTV.CA">
+    <title>MasterChef Canada</title>
+    <desc>One year after its smash-hit debut on CTV, MasterChef Canada is back to dish out a second helping of food-driven drama and excitement. The ultimate culinary competition offers home cooks a once-in-a-lifetime opportunity to demonstrate their skill and passion, as they compete for $100,000 and the title of Canada's next MasterChef.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261021213000 -0400" stop="20261021223000 -0400" channel="Global.CA">
     <title>Private Eyes West Coast</title>
     <desc>Private investigators Matt Shade and Angie Everett have left behind their P.I. firm and settled into a new life on the west coast — but their new quiet life is shaken when a night out lands them at the scene of a murder. A woman stands over her dead boyfriend with a bloody steak knife in hand. Believing in her innocence, Shade and Angie dive headfirst back into the high stakes world of investigation. The private eyes juggle the challenges of opening a P.I. firm in a new city, and without their friendly Toronto network of sources, Shade and Angie work to build a new community. From tracking down a missing student in the wilderness of British Columbia to extracting a murder confession from a surfer in Tofino, Shade and Angie prove life on the west coast is packed with heart-pounding thrills.</desc>
@@ -3538,6 +3553,11 @@
   <programme start="20261022220000 -0400" stop="20261022230000 -0400" channel="Citytv.CA">
     <title>Law &amp; Order Toronto: Criminal Intent</title>
     <desc>In Toronto's war on crime, the worst offenders are pursued by the detectives of the specialized criminal investigations unit. These are their stories.As a psychological thriller wrapped in a criminal investigation, Law &amp;amp; Order Toronto: Criminal Intent follows an elite squad of detectives who investigate high-profile crime and corruption in metro Toronto.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261023210000 -0400" stop="20261023220000 -0400" channel="CBC.CA">
+    <title>The Fifth Estate</title>
+    <desc>For four decades the fifth estate has been Canada's premier investigative documentary program. Hosts Bob McKeown, Gillian Findlay and Mark Kelley continue the tradition of provocative and fearless journalism which began with Adrienne Clarkson, Warner Troyer and Peter Reilly in 1975.Each week the fifth estate brings in-depth investigations that matter to Canadians – delivering a dazzling parade of political leaders, controversial characters and ordinary people whose lives were touched by triumph or tragedy.In 2014, the fifth estate won an International Emmy® Award for its investigation into the Rana Plaza collapse in Bangladesh, titled Made in Bangladesh. For the third year in a row, the fifth estate was named Canada's Best News Information Series at the Canadian Screen Awards.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261019060000 -0400" stop="20261019090000 -0400" channel="ABC.AU">
