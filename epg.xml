@@ -345,11 +345,6 @@
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261020140000 -0400" stop="20261020150000 -0400" channel="ESPN.US">
-    <title>Big Day with Peter Schrager</title>
-    <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261020140000 -0400" stop="20261020150000 -0400" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
@@ -358,11 +353,6 @@
   <programme start="20261020150000 -0400" stop="20261020173000 -0400" channel="NBC.US">
     <title>Coast 2 Coast Tuesday</title>
     <desc>Coast 2 Coast Tuesday is an NBA on NBC prime-time doubleheader format featuring an eastern/central regional game at 8:00 p.m. ET followed by a late-night western matchup starting at 11:00 p.m. ET (or 8:00 p.m. PT), bridging coast-to-coast basketball action across NBC and Peacock.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261020150000 -0400" stop="20261020153000 -0400" channel="NBC.US">
-    <title>NBA Showtime</title>
-    <desc>NBA Showtime on NBC is a flagship basketball studio broadcast that provides in-depth analysis, expert commentary, and comprehensive coverage of the latest storylines, trades, and highlights from across the league. The program features a rotating panel of hosts and analysts breaking down player performances and team dynamics.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020150000 -0400" stop="20261020180000 -0400" channel="NewsNation.US">
@@ -378,6 +368,11 @@
   <programme start="20261020150000 -0400" stop="20261020160000 -0400" channel="CBS.US">
     <title>Let's Make a Deal</title>
     <desc>Let's Make a Deal is an updated version of the classic television game show, hosted by Emmy Award-winner Wayne Brady, where audience members try to win cash and prizes by making wacky deals.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020150000 -0400" stop="20261020160000 -0400" channel="ESPN.US">
+    <title>Big Day with Peter Schrager</title>
+    <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020160000 -0400" stop="20261020170000 -0400" channel="ESPN.US">
@@ -438,11 +433,6 @@
   <programme start="20261020180000 -0400" stop="20261020183000 -0400" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261020183000 -0400" stop="20261020190000 -0400" channel="NBC.US">
-    <title>NBA Showtime</title>
-    <desc>NBA Showtime on NBC is a flagship basketball studio broadcast that provides in-depth analysis, expert commentary, and comprehensive coverage of the latest storylines, trades, and highlights from across the league. The program features a rotating panel of hosts and analysts breaking down player performances and team dynamics.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020183000 -0400" stop="20261020190000 -0400" channel="CBS.US">
@@ -603,11 +593,6 @@
   <programme start="20261020213000 -0400" stop="20261020220100 -0400" channel="A&amp;E.US">
     <title>Road Wars</title>
     <desc>Roadways can be a wild place. With violent road rage incidents increasing 500% over the last decade, "road raging" is a human behavior that has become widely known. Road Wars takes a deep dive into American roadways, examining extreme human behavior, wild weather, insane accidents and a few welcome instances of acts of kindness.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261020213000 -0400" stop="20261020220000 -0400" channel="NBC.US">
-    <title>NBA Showtime</title>
-    <desc>NBA Showtime on NBC is a flagship basketball studio broadcast that provides in-depth analysis, expert commentary, and comprehensive coverage of the latest storylines, trades, and highlights from across the league. The program features a rotating panel of hosts and analysts breaking down player performances and team dynamics.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020220000 -0400" stop="20261020230000 -0400" channel="CBS.US">
@@ -1593,6 +1578,11 @@
   <programme start="20261022200000 -0400" stop="20261022210000 -0400" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261022200000 -0400" stop="20261022203000 -0400" channel="PBS.US">
+    <title>This Old House</title>
+    <desc>The mission of This Old House is to demystify the home improvement process and to celebrate the fusion of old world craftsmanship and modern technology. Each season features two renovation projects. Project One traditionally consists of eighteen or so episodes and is filmed in Massachusetts. Project Two is generally taped in a different region of the country to highlight the variety of American architectural styles and renovation issues.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261022203000 -0400" stop="20261022210000 -0400" channel="PBS.US">
@@ -3500,6 +3490,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026150000 -0400" stop="20261026160000 -0400" channel="ITV1.GB">
+    <title>Lingo</title>
+    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026170000 -0400" stop="20261026180000 -0400" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -3540,6 +3535,11 @@
     <desc>Short on time and want something fast? Jamie Oliver shows us how to make gorgeous meals in just 20 minutes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026200000 -0400" stop="20261026210000 -0400" channel="5.GB">
+    <title>Traffic Cops: Elite Squad One</title>
+    <desc>When it comes to chasing criminals, two wheels are better than four. In this brand new high-octane series, nowhere is off limits for the country's highly trained police bikers. They are the UK's fastest responders, at the ready to race at top speed to save lives and catch suspects on the run.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026203000 -0400" stop="20261026210000 -0400" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -3553,6 +3553,16 @@
   <programme start="20261026210000 -0400" stop="20261026223000 -0400" channel="5.GB">
     <title>Major Crimes Unit</title>
     <desc>Seconds is all it takes for the most brutal of crimes to be committed and lives to be shattered forever. When the worst happens, one team steps forward, and the brave men and women of the West Midland's Major Crime Unit take control - specialist detectives highly trained to piece together the smallest of clues and pick up the faintest of trails. Every lead matters and every second counts.With unprecedented access to this elite crime-fighting unit, the series follows investigators as they race against time to track suspects, uncover the truth, and deliver justice for victims and their families. No stone unturned, no suspect safe - this is law enforcement at its most relentless.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026220000 -0400" channel="Quest.GB">
+    <title>Sam Lovegrove: Race Mechanic</title>
+    <desc>Sam Lovegrove prepares cars and bikes for Britain's iconic motorsport events.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261026210000 -0400" stop="20261026220500 -0400" channel="E4.GB">
+    <title>Made in Chelsea</title>
+    <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020200000 -0400" stop="20261020203000 -0400" channel="CBC.CA">
