@@ -132,6 +132,10 @@
     <display-name>Discovery</display-name>
     <country>GB</country>
   </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Comedy Central.GB">
     <display-name>Comedy Central</display-name>
     <country>GB</country>
@@ -344,6 +348,11 @@
   <programme start="20261020140000 -0400" stop="20261020150000 -0400" channel="ESPN.US">
     <title>Big Day with Peter Schrager</title>
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261020140000 -0400" stop="20261020150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261020150000 -0400" stop="20261020173000 -0400" channel="NBC.US">
@@ -896,6 +905,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261021140000 -0400" stop="20261021150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261021150000 -0400" stop="20261021180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -1416,6 +1430,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261022140000 -0400" stop="20261022150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261022150000 -0400" stop="20261022180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -1921,6 +1940,11 @@
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261023140000 -0400" stop="20261023150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261023150000 -0400" stop="20261023180000 -0400" channel="NewsNation.US">
     <title>NewsNation Live With Connell McShane</title>
     <desc>Connell McShane presents reports and analysis of the day's national and international newsworthy events.</desc>
@@ -2291,6 +2315,11 @@
     <desc>"Cook's Country from America's Test Kitchen" is a half-hour cooking show distributed to public television stations (reruns airing on Create) in the United States, which are also available in most Canadian markets. The show's hosts are Julia Collin Davison &amp;amp; Bridget Lancaster; the show and the magazine are affiliated, and the magazine's test kitchen facility in Brookline, Massachusetts, is used as a set for the show. Cook's Illustrated's parent company, Boston Common Press, while retaining its corporate name, has marketed its publishing and media activities under the America's Test Kitchen brand beginning in 2004.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261024153000 -0400" stop="20261024190000 -0400" channel="ABC.US">
+    <title>SEC on ABC</title>
+    <desc>SEC on ABC on November 21, 2020, ABC aired its first SEC regular season game since 1995, Florida–Vanderbilt, which was moved from ESPN due to the postponement of an ACC game (Clemson–Florida State) that was originally expected to air on the network due to COVID-19 pandemic complications.On December 10, 2020, ESPN announced that it had acquired the top-tier rights to the SEC under a 10-year, $3 billion contract to begin in the 2024 season; ABC will hold rights to the top SEC game of the week (replacing CBS). As before, they will primarily air in the 3:30 window, but there will also be the possibility for games to be carried on Saturday Night Football. ABC will also hold rights to the SEC Championship Game. During the Disney upfronts, ESPN unveiled an SEC on ABC branding for these games.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261024170000 -0400" stop="20261024180000 -0400" channel="MS NOW.US">
     <title>PoliticsNation</title>
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
@@ -2566,6 +2595,11 @@
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026100000 -0400" stop="20261026120000 -0400" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026110000 -0400" stop="20261026120000 -0400" channel="MS NOW.US">
     <title>State of Play with Peter Alexander</title>
     <desc>State of Play focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,</desc>
@@ -2611,6 +2645,11 @@
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026130000 -0400" stop="20261026140000 -0400" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026133000 -0400" stop="20261026140000 -0400" channel="CBS.US">
     <title>The Bold and the Beautiful</title>
     <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
@@ -2629,6 +2668,16 @@
   <programme start="20261026140000 -0400" stop="20261026150000 -0400" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026150000 -0400" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261026140000 -0400" stop="20261026150000 -0400" channel="ESPN.US">
+    <title>Big Day with Peter Schrager</title>
+    <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261026150000 -0400" stop="20261026170000 -0400" channel="ESPN.US">
@@ -3311,6 +3360,16 @@
     <desc>Chat show featuring celebrities, music and fabulous weirdness from the British public.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261024120000 -0400" stop="20261024123000 -0400" channel="ITV1.GB">
+    <title>Clodagh: Cooking at Home</title>
+    <desc>Irish chef and author Clodagh McKenna demonstrates the recipes that she loves to cook.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261024174500 -0400" stop="20261024183000 -0400" channel="BBC One.GB">
+    <title>The Celebrity Inner Circle</title>
+    <desc>Amanda Holden hosts the gripping, high-stakes quiz where celebs and contestants must outsmart each other to win big. It's not just what you know - it's who can you trust?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261024183000 -0400" stop="20261024203500 -0400" channel="BBC One.GB">
     <title>Strictly Come Dancing</title>
     <desc>Celebrities take to the dance floor to perform a dazzling display of ballroom routines.</desc>
@@ -3334,6 +3393,21 @@
   <programme start="20261024203500 -0400" stop="20261024212000 -0400" channel="BBC One.GB">
     <title>Wisdom of the Crowd</title>
     <desc>John Bishop hosts as players take on the audience to win up to £30,000. The science says the audience should win. But will anyone manage to steal it by beating the wisdom of the crowd?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261024203500 -0400" stop="20261024223500 -0400" channel="ITV1.GB">
+    <title>The Voice UK</title>
+    <desc>Join will.i.am and our other superstar coaches on their mission to find the next big thing for the music business. Alongside Will we have award-winning Jennifer Hudson, Lord of rock Gavin Rossdale and the legend that is Sir Tom Jones - all on the look out for the next big superstar. Will is promising magic, drama and lots of talent - and we can guarantee that this series of The Voice UK will not disappoint! The prize is a life-changing record deal with Polydor Records, one of the industry's most successful labels.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261024203500 -0400" stop="20261024213500 -0400" channel="BBC Two.GB">
+    <title>At the BBC</title>
+    <desc>Series of one-off documentaries that uses 70 years of the BBC archive to bring together clips under one theme, sometimes the shows have a presenter but often they don't.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261024223000 -0400" stop="20261024234000 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261024010500 -0400" stop="20261024025500 -0400" channel="Channel 4.GB">
@@ -3376,6 +3450,11 @@
     <desc>Antiques Roadshow experts examine and value antiques and collectables.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261025200000 -0400" stop="20261025210000 -0400" channel="Channel 4.GB">
+    <title>Kevin McCloud's Classic Car Road Trips</title>
+    <desc>Kevin McCloud gears up for an exhilarating adventure, as he drives classic cars around the countries where they were made, exploring classic craftmanship, culture and cuisine.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261025210000 -0400" stop="20261025221500 -0400" channel="Channel 4.GB">
     <title>Apocalypse</title>
     <desc>If the world as we know it came to an end, what would you do? Our modern world exists on a knife edge, but if the worst happened, the fight for survival won't be in jungles, forests or desert islands. It'll be in the towns and cities we call home. In this bold and ambitious social experiment, Channel 4 is sending a group of ordinary people to a jaw dropping, real world location - an abandoned town that bears all the hallmarks of being ravaged by an apocalyptic event.  They'll have to survive for 28 days without running water, heating, or electricity. They'll need to scavenge for food and supplies, reusing and repurposing anything they find but only if they can muster skills and wherewithal to do it. Nothing here comes easy, and in the face of scarce resources will this unlikely group of strangers band together or fall apart?</desc>
@@ -3386,9 +3465,19 @@
     <desc>From vampires and werewolves to demons and Frankenstein, Monsters: The Truth Behind the Myths unpacks the origin story of our most legendary monsters —and tracks their staying power across the centuries. It's a historical journey to the mindsets that made them and how folklore and superstition has intersected with science and popular culture right up until today.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261025210000 -0400" stop="20261025220000 -0400" channel="E4.GB">
+    <title>One Born Every Minute</title>
+    <desc>A ground-breaking look at the drama and emotion of a maternity unit, from the perspective of the parents-to-be and the maternity ward staff.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261025220000 -0400" stop="20261025224500 -0400" channel="BBC Two.GB">
     <title>Later... with Jools Holland</title>
     <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261025223000 -0400" stop="20261025234500 -0400" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261025001500 -0400" stop="20261025013500 -0400" channel="Channel 4.GB">
@@ -3526,7 +3615,7 @@
     <desc>Ros Childs presents the latest from ABC News, following today's top stories and coverage of events as they unfold. Plus comprehensive analysis and original reporting from ABC reporters around Australia and the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261020193000 -0400" stop="20261020200000 -0400" channel="ABC.AU">
+  <programme start="20261020193000 -0400" stop="20261020201000 -0400" channel="ABC.AU">
     <title>7.30</title>
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
