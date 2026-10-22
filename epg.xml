@@ -1076,6 +1076,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261023210000 -0400" stop="20261023230000 -0400" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261023210800 -0400" stop="20261023220900 -0400" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
@@ -1276,6 +1281,11 @@
     <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261024220000 -0400" stop="20261024230000 -0400" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261024230000 -0400" stop="20261025000000 -0400" channel="PBS.US">
     <title>Austin City Limits</title>
     <desc>Austin City Limits is an American television music program and a staple of the Public Broadcasting Service. Austin City Limits was initially created with an eye and ear toward original Texas music, featuring artists that created innovative new sounds in everything from western swing and Texas blues to Tejano music, progressive country and rock n' roll. The series went on to feature a wide range of American roots artists, covering a variety of styles and expanding beyond the borders of the Lone Star State. As the programs audience has grown, the music has encompassed regional, national and even international performers, and producer Terry Lickona continues to seek a balance of music genres in every new season. Austin City Limits today focuses on the unique contributions of diverse artists, music and songwriting from around the world.</desc>
@@ -1309,6 +1319,11 @@
   <programme start="20261025090000 -0400" stop="20261025100000 -0400" channel="CNN.US">
     <title>State of the Union with Jake Tapper and Dana Bash</title>
     <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261025090000 -0400" stop="20261025103000 -0400" channel="CBS.US">
+    <title>CBS News Sunday Morning</title>
+    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261025100000 -0400" stop="20261025130000 -0400" channel="ESPN.US">
@@ -3311,9 +3326,34 @@
     <desc>In Celebrity Race Across the World four celebrities and their racing partners will race to a finish line that's thousands of miles away – without the use of air travel or any trappings of modern-day life. Stripped of all mod-cons and all luxuries they will have to rely on their skills, cunning, ingenuity, and hard work in order to succeed. Without the use of credit cards, smartphones or access to the internet and with just the cash equivalent of completing the route to their final destination by air, they will have to earn extra money along the way as well as call upon the kindness of strangers to help them progress. This incredible journey will give a unique insight into the celebrities and their relationships with their travelling companions.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261028200000 -0400" stop="20261028210000 -0400" channel="Channel 4.GB">
+    <title>Location, Location, Location</title>
+    <desc>No floorboard is left unturned as dynamic property experts Kirstie Allsopp and Phil Spencer help house hunters find the perfect home in the perfect location.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028200000 -0400" stop="20261028210000 -0400" channel="5.GB">
+    <title>The Incident Room</title>
+    <desc>The incident room is the hub of any police investigation. This innovative series immerses viewers in the high-stakes world of murder investigations, placing the viewer at the centre of the incident room where every second counts in the race to apprehend a killer.    Viewers will be led through each step of the investigation by the original detectives who worked the case – including interviews with friends and family members, psychologists, forensic investigators etc. Offering a unique look into the inner workings of the nerve centre of murder investigations, this two-part series reveals step-by-step the thrilling processes detectives use to discover clues, identify dangerous suspects, piece together the puzzle of each case, and bring cold-blooded killers to justice.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028200000 -0400" stop="20261028210000 -0400" channel="Sky Arts.GB">
+    <title>Portrait Artist of the Year</title>
+    <desc>Portrait Artist of the Year is hosted by UK TV personalities Joan Bakewell and Frank Skinner; an esteemed group of judges travel across the Europe in search of a new star in the art world. Each episode features a regional competition where artists are shortlisted and challenged to produce a portrait of one of three famous sitters. At the end of each round, the judges select an artist to go to the semifinal. The finalists will have their work displayed at the world-famous National Portrait Gallery in London and the winner will receive a £10,000 commission to paint a portrait which will become part of the permanent collection at the British Library.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028210000 -0400" stop="20261028220000 -0400" channel="5.GB">
+    <title>Cause of Death</title>
+    <desc>Series following the work of senior coroner for Lancashire and Darwen Dr James Adeley, who runs a team that works from the moment a body arrives in the mortuary through to the inquest, when the cause of death is determined.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261028220000 -0400" stop="20261028230000 -0400" channel="TRUE CRIME.GB">
     <title>Deadly Destinations</title>
     <desc>Deadly Destinations chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028220000 -0400" stop="20261028230500 -0400" channel="Channel 4.GB">
+    <title>First Dates</title>
+    <desc>The First Dates restaurant throws open its doors to single people looking for love.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261022200000 -0400" stop="20261022210000 -0400" channel="CBC.CA">
