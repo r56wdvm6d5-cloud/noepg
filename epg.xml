@@ -44,6 +44,10 @@
     <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
+  <channel id="FOX.US">
+    <display-name>FOX</display-name>
+    <country>US</country>
+  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
     <country>US</country>
@@ -54,10 +58,6 @@
   </channel>
   <channel id="Discovery.US">
     <display-name>Discovery</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="FOX.US">
-    <display-name>FOX</display-name>
     <country>US</country>
   </channel>
   <channel id="History.US">
@@ -446,6 +446,11 @@
     <desc>The Ingraham Angle cuts through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261023190000 -0400" stop="20261023200000 -0400" channel="FOX.US">
+    <title>World Series</title>
+    <desc>The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. Prior to 1969, the team with the best regular season win-loss record in each league automatically advanced to the World Series; since then each league has conducted a championship series (ALCS and NLCS) preceding the World Series to determine which teams will advance. As of 2015, the World Series has been contested 111 times, with the AL winning 64 and the NL winning 47. The winner of the World Series championship is determined through a best-of-seven playoff, and the winning team is awarded the Commissioner's Trophy. As the series is played in October (and occasionally November), during the autumn season in North America, it is often referred to as the Fall Classic.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261023200000 -0400" stop="20261023203000 -0400" channel="NBC.US">
     <title>Happy's Place</title>
     <desc>Happy's Place follows Bobbie who inherits her father's restaurant and is less than thrilled to discover that she has a new business partner in the half-sister she never knew she had.</desc>
@@ -741,6 +746,11 @@
     <desc>B1G College Countdown will capture college football's unique gameday atmosphere by providing pre-game and halftime commentary from the site of that week's primetime game – 11 Big Ten and two Notre Dame games. The show will also provide pre-game and halftime content for most of NBC Sports' college football afternoon games throughout the season on NBC and Peacock.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261024190000 -0400" stop="20261024200000 -0400" channel="FOX.US">
+    <title>World Series</title>
+    <desc>The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. Prior to 1969, the team with the best regular season win-loss record in each league automatically advanced to the World Series; since then each league has conducted a championship series (ALCS and NLCS) preceding the World Series to determine which teams will advance. As of 2015, the World Series has been contested 111 times, with the AL winning 64 and the NL winning 47. The winner of the World Series championship is determined through a best-of-seven playoff, and the winning team is awarded the Commissioner's Trophy. As the series is played in October (and occasionally November), during the autumn season in North America, it is often referred to as the Fall Classic.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261024193000 -0400" stop="20261024230000 -0400" channel="NBC.US">
     <title>Big Ten Saturday Night</title>
     <desc />
@@ -926,6 +936,11 @@
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261025210000 -0400" stop="20261025213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261025213000 -0400" stop="20261025220000 -0400" channel="FOX.US">
     <title>Grimsburg</title>
     <desc>Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there's one mystery he still can't crack - his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he's got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.</desc>
@@ -996,6 +1011,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026080000 -0400" stop="20261026100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026090000 -0400" stop="20261026110000 -0400" channel="Fox News Channel.US">
     <title>America's Newsroom</title>
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
@@ -1049,6 +1069,11 @@
   <programme start="20261026110000 -0400" stop="20261026120000 -0400" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261026110000 -0400" stop="20261026120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261026120000 -0400" stop="20261026140000 -0400" channel="MS NOW.US">
@@ -1211,6 +1236,11 @@
     <desc>The Ingraham Angle cuts through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026190000 -0400" stop="20261026200000 -0400" channel="FOX.US">
+    <title>World Series</title>
+    <desc>The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. Prior to 1969, the team with the best regular season win-loss record in each league automatically advanced to the World Series; since then each league has conducted a championship series (ALCS and NLCS) preceding the World Series to determine which teams will advance. As of 2015, the World Series has been contested 111 times, with the AL winning 64 and the NL winning 47. The winner of the World Series championship is determined through a best-of-seven playoff, and the winning team is awarded the Commissioner's Trophy. As the series is played in October (and occasionally November), during the autumn season in North America, it is often referred to as the Fall Classic.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026200000 -0400" stop="20261026220000 -0400" channel="NBC.US">
     <title>The Voice</title>
     <desc>The Voice is a singing competition where famous musicians serve as coaches to mentor aspiring artists through a series of blind auditions, battles, and live performances, with the ultimate goal of finding and crowning America's best new vocal talent.</desc>
@@ -1346,6 +1376,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026220000 -0400" stop="20261026223000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026230000 -0400" stop="20261027000000 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
@@ -1446,6 +1481,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261027080000 -0400" stop="20261027100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261027090000 -0400" stop="20261027110000 -0400" channel="Fox News Channel.US">
     <title>America's Newsroom</title>
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
@@ -1499,6 +1539,11 @@
   <programme start="20261027110000 -0400" stop="20261027120000 -0400" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261027110000 -0400" stop="20261027120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261027120000 -0400" stop="20261027140000 -0400" channel="MS NOW.US">
@@ -1656,6 +1701,11 @@
     <desc>The Ingraham Angle cuts through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261027190000 -0400" stop="20261027200000 -0400" channel="FOX.US">
+    <title>World Series</title>
+    <desc>The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. Prior to 1969, the team with the best regular season win-loss record in each league automatically advanced to the World Series; since then each league has conducted a championship series (ALCS and NLCS) preceding the World Series to determine which teams will advance. As of 2015, the World Series has been contested 111 times, with the AL winning 64 and the NL winning 47. The winner of the World Series championship is determined through a best-of-seven playoff, and the winning team is awarded the Commissioner's Trophy. As the series is played in October (and occasionally November), during the autumn season in North America, it is often referred to as the Fall Classic.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261027200000 -0400" stop="20261027220000 -0400" channel="ABC.US">
     <title>Dancing with the Stars</title>
     <desc>The hit series in which celebrities perform choreographed dance routines that are judged by a panel of renowned ballroom experts</desc>
@@ -1754,6 +1804,11 @@
   <programme start="20261027210100 -0400" stop="20261027220200 -0400" channel="Discovery.US">
     <title>Secret Life of a Vegas Casino</title>
     <desc>What happens in Vegas usually stays in Vegas, but behind the flashing lights and million-dollar jackpots is a world visitors have never seen before. For the first time, Discovery pulls back the curtain on the legendary Golden Nugget, one of Las Vegas' most iconic casinos, to follow the larger-than-life personalities responsible for managing demanding high rollers, millions of dollars, and nonstop drama every day. Just off the chaos of busy Fremont Street, cameras capture the real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day. Whether it's breaking up a late-night club brawl, responding to an embarrassing medical emergency or racing to move sharks from a 200,000-gallon shark tank, the staff must be ready for whatever Vegas throws their way.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261027211500 -0400" stop="20261027214500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261027213000 -0400" stop="20261027220100 -0400" channel="A&amp;E.US">
@@ -1901,6 +1956,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261028080000 -0400" stop="20261028100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261028090000 -0400" stop="20261028110000 -0400" channel="Fox News Channel.US">
     <title>America's Newsroom</title>
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
@@ -1954,6 +2014,11 @@
   <programme start="20261028110000 -0400" stop="20261028120000 -0400" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028110000 -0400" stop="20261028120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261028120000 -0400" stop="20261028140000 -0400" channel="MS NOW.US">
@@ -2211,6 +2276,11 @@
     <desc>CBP and HSI respond to a surge in cocaine trafficking across U.S. land borders and at sea, which leads to boat chases, arrests and record-setting seizures...</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261028210000 -0400" stop="20261028213000 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261028210200 -0400" stop="20261028220000 -0400" channel="ABC.US">
     <title>Who Wants to Be a Millionaire</title>
     <desc>In Who Wants to Be a Millionaire, 15 questions need to be answered by the contestants to win the 1 million dollar prize.</desc>
@@ -2361,6 +2431,11 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261029080000 -0400" stop="20261029100000 -0400" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261029090000 -0400" stop="20261029110000 -0400" channel="Fox News Channel.US">
     <title>America's Newsroom</title>
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
@@ -2414,6 +2489,11 @@
   <programme start="20261029110000 -0400" stop="20261029120000 -0400" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261029110000 -0400" stop="20261029120000 -0400" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029120000 -0400" stop="20261029140000 -0400" channel="MS NOW.US">
@@ -2694,6 +2774,11 @@
   <programme start="20261029210000 -0400" stop="20261029220000 -0400" channel="FOX.US">
     <title>Special Forces: World's Toughest Test</title>
     <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261029211500 -0400" stop="20261029214500 -0400" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029220000 -0400" stop="20261029230000 -0400" channel="A&amp;E.US">
