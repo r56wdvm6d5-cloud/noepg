@@ -426,6 +426,11 @@
     <desc>Just up the river from our nation's capital lies a hidden gem—Potomac, Maryland. Its rolling hills, gated mansions, sophisticated prep schools, and exclusive country clubs all serve to keep the area invitation-only. Sprinkled throughout this community are a handful of old-line, wealthy African-American families who have historically broken racial barriers to provide a life of privilege for their children. The Real Housewives of Potomac follows the upscale lives of six intriguing, well-to-do women: Gizelle Bryant, Katie Rost, Karen Huger, Charrisse Jackson-Jordan, Robyn Dixon, and Ashley Darby, all of whom have fought for their places in this society by way of legacy or marriage. In a town where entry is granted only through class, pedigree, and lineage, how far will these ladies go to secure their spot at the top of this prestigious circle?</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261025200000 -0400" stop="20261025220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261025202000 -0400" stop="20261025235000 -0400" channel="NBC.US">
     <title>NBC Sunday Night Football</title>
     <desc>NBC Sunday Night Football is a weekly television broadcast of National Football League (NFL) games on NBC in the United States. It began airing on August 6, 2006 with the Pro Football Hall of Fame Game, which opened that year's preseason. NBC took over the rights to the Sunday prime time game telecasts from ESPN, which carried the broadcasts from 1987 to 2005 (concurrently with NBC assuming the rights to Sunday evening regular-season games).</desc>
@@ -941,6 +946,11 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261026230000 -0400" stop="20261027000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261026233500 -0400" stop="20261027003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -1311,6 +1321,11 @@
     <desc>Coast 2 Coast Tuesday is an NBA on NBC prime-time doubleheader format featuring an eastern/central regional game at 8:00 p.m. ET followed by a late-night western matchup starting at 11:00 p.m. ET (or 8:00 p.m. PT), bridging coast-to-coast basketball action across NBC and Peacock.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261027200000 -0400" stop="20261027210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261027210000 -0400" stop="20261027213000 -0400" channel="A&amp;E.US">
     <title>Road Wars</title>
     <desc>Roadways can be a wild place. With violent road rage incidents increasing 500% over the last decade, "road raging" is a human behavior that has become widely known. Road Wars takes a deep dive into American roadways, examining extreme human behavior, wild weather, insane accidents and a few welcome instances of acts of kindness.</desc>
@@ -1349,6 +1364,11 @@
   <programme start="20261027210000 -0400" stop="20261027220000 -0400" channel="CBS.US">
     <title>NCIS: New York</title>
     <desc>Legendary NCIS Agent Sam Hanna returns to his hometown of New York City to their field office, partnering with a roguish agent and helping lead a new team as they are tasked with high-stakes missions to defend one of the most vital cities and ports in the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261027210000 -0400" stop="20261027220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261027210100 -0400" stop="20261027220200 -0400" channel="Discovery.US">
@@ -1396,6 +1416,11 @@
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261027220000 -0400" stop="20261027230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261027220100 -0400" stop="20261027223200 -0400" channel="A&amp;E.US">
     <title>Customer Wars</title>
     <desc>With supply chain shortages, prices skyrocketing and more shoplifting than ever before, positive customer relations are nearly impossible. Customer Wars spotlights the conflicts that arise when disgruntled and irrational customers come face-to-face with the employees doing their best to take care of their needs. From fiery exchanges at the fast-food drive thru to loss-prevention brawls, this series proves once and for all that "The customer is always right" is the exception rather than the rule.</desc>
@@ -1441,6 +1466,11 @@
     <desc>Coast 2 Coast Tuesday is an NBA on NBC prime-time doubleheader format featuring an eastern/central regional game at 8:00 p.m. ET followed by a late-night western matchup starting at 11:00 p.m. ET (or 8:00 p.m. PT), bridging coast-to-coast basketball action across NBC and Peacock.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261027230000 -0400" stop="20261028000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261027233500 -0400" stop="20261028003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -1449,6 +1479,16 @@
   <programme start="20261027233500 -0400" stop="20261028003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261027000000 -0400" stop="20261027020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261027003500 -0400" stop="20261027013500 -0400" channel="NBC.US">
@@ -1791,6 +1831,11 @@
     <desc>Long before banks, ATMS and check-cashing services, there were pawn shops. Pawning was the leading form of consumer credit in the United States until the 1950s, and pawn shops are still helping everyday people make ends meet. Pawn Stars takes you inside the colorful world of the pawn business. At the Gold &amp;amp; Silver Pawn Shop on the outskirts of Las Vegas, three generations of the Harrison family - grandfather Richard, son Rick and grandson Corey - jointly run the family business, and there's clashing and camaraderie every step of the way. The three men use their sharp eyes and skills to assess the value of items from the commonplace to the truly historic, including a 16th-century samurai sword, a Super Bowl ring, a Picasso painting and a 17th-century stay of execution. It's up to them to determine what's real and what's fake, as they reveal the often surprising answer to the questions on everyone's mind, "What's the story behind it?" and "What's it worth?"</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261028200000 -0400" stop="20261028210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261028203000 -0400" stop="20261028210100 -0400" channel="ABC.US">
     <title>Abbott Elementary</title>
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
@@ -1839,6 +1884,11 @@
   <programme start="20261028210000 -0400" stop="20261028213000 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028210000 -0400" stop="20261028220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261028210200 -0400" stop="20261028220000 -0400" channel="ABC.US">
@@ -1891,6 +1941,11 @@
     <desc>Are you ready for the lockdown?Ghost Adventures crew -- Zak Bagans, Aaron Goodwin, Billy Tolley, and Jay Wasley -- is back to investigate the scariest, most notorious, haunted places in the world.The trio will interview eyewitnesses and historians at each location, arming themselves with the stories of the ghosts they will later provoke and confront during their dusk-to-dawn lockdowns. (Note: They don't always come out unscathed!) Then they'll review and analyze their findings with some the most respected experts and specialists in the paranormal field.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261028220000 -0400" stop="20261028230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261028223000 -0400" stop="20261028224500 -0400" channel="Comedy Central.US">
     <title>Mike Judge's Beavis and Butt-Head</title>
     <desc>In this new iteration, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write, produce and provide voice over for both iconic characters.</desc>
@@ -1926,6 +1981,11 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261028230000 -0400" stop="20261029000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261028233500 -0400" stop="20261029003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -1934,6 +1994,16 @@
   <programme start="20261028233500 -0400" stop="20261029003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028000000 -0400" stop="20261028020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028000000 -0400" stop="20261028020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261028003500 -0400" stop="20261028013500 -0400" channel="NBC.US">
@@ -2281,6 +2351,11 @@
     <desc>The mission of This Old House is to demystify the home improvement process and to celebrate the fusion of old world craftsmanship and modern technology. Each season features two renovation projects. Project One traditionally consists of eighteen or so episodes and is filmed in Massachusetts. Project Two is generally taped in a different region of the country to highlight the variety of American architectural styles and renovation issues.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261029200000 -0400" stop="20261029210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261029203000 -0400" stop="20261029210000 -0400" channel="PBS.US">
     <title>Ask This Old House</title>
     <desc>The crew at This Old House take on some pretty big projects, which means they can only work on one or two houses a year. But homeowners have a virtual truckload of questions on smaller projects, and the TOH crew is ready to answer. Ask This Old House solves the steady stream of home improvement problems faced by viewers - and the crew even makes house calls!</desc>
@@ -2346,6 +2421,11 @@
     <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261029210000 -0400" stop="20261029220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261029211500 -0400" stop="20261029214500 -0400" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
@@ -2391,6 +2471,11 @@
     <desc>A scrappy lawyer takes on a powerful tech giant in a high-stakes legal battle, navigating the cutthroat world of Silicon Valley while fighting for justice and the little guy's rights.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261029220000 -0400" stop="20261029230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261029230000 -0400" stop="20261029233500 -0400" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
@@ -2416,6 +2501,11 @@
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261029230000 -0400" stop="20261030000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261029233500 -0400" stop="20261030003500 -0400" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -2424,6 +2514,16 @@
   <programme start="20261029233500 -0400" stop="20261030003500 -0400" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261029000000 -0400" stop="20261029020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261029000000 -0400" stop="20261029020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029003500 -0400" stop="20261029013500 -0400" channel="NBC.US">
@@ -2761,6 +2861,11 @@
     <desc>Gold Rush follows six men who, in the face of an economic meltdown, risk everything - their families, their dignity, and in some cases, their lives - to strike it rich mining for gold in the wilds of Alaska. Inspired by his father Jack, Todd Hoffman of Sandy, Oregon, leads a group of greenhorn miners to forge a new frontier and save their families from dire straits. While leasing a gold claim in Alaska, Todd and his company of newbies face the grandeur of Alaska as well as its hardships, including an impending winter that will halt operations and the opportunity to strike gold. In an effort to keep the operation running, the team takes fate into their own hands with a make or break venture that will change their lives forever.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261030200000 -0400" stop="20261030210000 -0400" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261030203000 -0400" stop="20261030210000 -0400" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -2796,7 +2901,12 @@
     <desc>Sean Hannity interviews political figures and newsmakers and offers his own perspective.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261030210000 -0400" stop="20261030220100 -0400" channel="Discovery.US">
+  <programme start="20261030210000 -0400" stop="20261030220000 -0400" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261030210800 -0400" stop="20261030220900 -0400" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
     <category>TV Show</category>
@@ -2826,6 +2936,11 @@
     <desc>In Boston Blue, NYPD Detective Danny Reagan takes a position with Boston PD. Once in Boston, he is paired with Detective Lena Silver, the eldest daughter of a prominent law enforcement family.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261030220000 -0400" stop="20261030230000 -0400" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261030230000 -0400" stop="20261031000000 -0400" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
@@ -2844,6 +2959,16 @@
   <programme start="20261030230000 -0400" stop="20261031000000 -0400" channel="Fox News Channel.US">
     <title>Fox News @ Night</title>
     <desc>Fox News @ Night is a live hour of hard news and analysis of the most compelling stories from Washington and across the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261030230000 -0400" stop="20261031000000 -0400" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261030000000 -0400" stop="20261030020000 -0400" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261024120000 -0400" stop="20261024123000 -0400" channel="ITV1.GB">
