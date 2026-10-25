@@ -261,6 +261,11 @@
     <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261025190000 -0400" stop="20261025200000 -0400" channel="ABC.US">
+    <title>America's Funniest Home Videos</title>
+    <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261025200000 -0400" stop="20261025210000 -0400" channel="CBS.US">
     <title>Marshals</title>
     <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
@@ -676,7 +681,7 @@
     <desc>The upstairs and downstairs worlds collide when this young and single crew of "yachties" live, love and work together on board a luxurious mega yacht while tending to the ever-changing needs of their wealthy, demanding charter guests on Below Deck.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261026200000 -0400" stop="20261026232200 -0400" channel="FOX.US">
+  <programme start="20261026200000 -0400" stop="20261026210000 -0400" channel="FOX.US">
     <title>World Series</title>
     <desc>The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. Prior to 1969, the team with the best regular season win-loss record in each league automatically advanced to the World Series; since then each league has conducted a championship series (ALCS and NLCS) preceding the World Series to determine which teams will advance. As of 2015, the World Series has been contested 111 times, with the AL winning 64 and the NL winning 47. The winner of the World Series championship is determined through a best-of-seven playoff, and the winning team is awarded the Commissioner's Trophy. As the series is played in October (and occasionally November), during the autumn season in North America, it is often referred to as the Fall Classic.</desc>
     <category>TV Show</category>
