@@ -2216,6 +2216,11 @@
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261029200000 -0400" stop="20261029220000 -0400" channel="Syndication.US">
+    <title>Ring of Honor Wrestling</title>
+    <desc>Hard-hitting pro-wrestling action from the stars of ROH.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261029203000 -0400" stop="20261029210000 -0400" channel="PBS.US">
     <title>Ask This Old House</title>
     <desc>The crew at This Old House take on some pretty big projects, which means they can only work on one or two houses a year. But homeowners have a virtual truckload of questions on smaller projects, and the TOH crew is ready to answer. Ask This Old House solves the steady stream of home improvement problems faced by viewers - and the crew even makes house calls!</desc>
