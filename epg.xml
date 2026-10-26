@@ -2951,6 +2951,16 @@
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261101223000 -0500" stop="20261101233000 -0500" channel="ESPN.US">
+    <title>E:60</title>
+    <desc>E:60 is ESPN's first multi-subject prime-time newsmagazine program offering a combination of investigative features, profiles of intriguing sports personalities, and cutting edge stories on innovation in the sports world, including emerging sports and new technology. The series will tell life stories that relate or have a basis in sports, melding its stories with a glimpse of the reporters' experiences discussing the story ideas. The show will be produced and aired in high definition, a first for the newsmagazine genre.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261101230000 -0500" stop="20261101233000 -0500" channel="HBO.US">
+    <title>Last Week Tonight with John Oliver</title>
+    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261025001500 -0400" stop="20261025013500 -0400" channel="Channel 4.GB">
     <title>Formula 1</title>
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
