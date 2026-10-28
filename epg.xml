@@ -2419,6 +2419,11 @@
     <desc>These special compilation episodes of The UnXplained explore the world's most fascinating, strange and inexplicable mysteries.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103210100 -0500" stop="20261103220200 -0500" channel="Discovery.US">
+    <title>Secret Life of a Vegas Casino</title>
+    <desc>What happens in Vegas usually stays in Vegas, but behind the flashing lights and million-dollar jackpots is a world visitors have never seen before. For the first time, Discovery pulls back the curtain on the legendary Golden Nugget, one of Las Vegas' most iconic casinos, to follow the larger-than-life personalities responsible for managing demanding high rollers, millions of dollars, and nonstop drama every day. Just off the chaos of busy Fremont Street, cameras capture the real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day. Whether it's breaking up a late-night club brawl, responding to an embarrassing medical emergency or racing to move sharks from a 200,000-gallon shark tank, the staff must be ready for whatever Vegas throws their way.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103220000 -0500" stop="20261103230000 -0500" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
