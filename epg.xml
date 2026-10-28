@@ -44,6 +44,10 @@
     <display-name>ESPN</display-name>
     <country>US</country>
   </channel>
+  <channel id="FOX.US">
+    <display-name>FOX</display-name>
+    <country>US</country>
+  </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
     <country>US</country>
@@ -70,10 +74,6 @@
   </channel>
   <channel id="The CW.US">
     <display-name>The CW</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="FOX.US">
-    <display-name>FOX</display-name>
     <country>US</country>
   </channel>
   <channel id="A&amp;E.US">
@@ -404,11 +404,6 @@
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261028183000 -0400" stop="20261028190000 -0400" channel="ESPN.US">
-    <title>NBA Countdown</title>
-    <desc>NBA Countdown serves as the primer for game telecasts on both ABC and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league. Seats at the table are reserved for host Sage Steele and analysts Doug Collins and Jalen Rose. The latter two impart wisdom based on many years of combined playing and coaching experience. Doris Burke contributes analysis on the program's Wednesday editions.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261028183000 -0400" stop="20261028190000 -0400" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
@@ -442,6 +437,11 @@
   <programme start="20261028190000 -0400" stop="20261028200000 -0400" channel="Fox News Channel.US">
     <title>The Ingraham Angle</title>
     <desc>The Ingraham Angle cuts through the Washington chatter to speak directly with unexpected voices and the actual people who are impacted by the news of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028190000 -0400" stop="20261028200000 -0400" channel="FOX.US">
+    <title>World Series</title>
+    <desc>The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. Prior to 1969, the team with the best regular season win-loss record in each league automatically advanced to the World Series; since then each league has conducted a championship series (ALCS and NLCS) preceding the World Series to determine which teams will advance. As of 2015, the World Series has been contested 111 times, with the AL winning 64 and the NL winning 47. The winner of the World Series championship is determined through a best-of-seven playoff, and the winning team is awarded the Commissioner's Trophy. As the series is played in October (and occasionally November), during the autumn season in North America, it is often referred to as the Fall Classic.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261028200000 -0400" stop="20261028210000 -0400" channel="PBS.US">
@@ -499,7 +499,12 @@
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261028203000 -0400" stop="20261028210100 -0400" channel="ABC.US">
+  <programme start="20261028200000 -0400" stop="20261028232200 -0400" channel="FOX.US">
+    <title>World Series</title>
+    <desc>The World Series is the annual championship series of Major League Baseball (MLB) in North America, contested since 1903 between the American League (AL) champion team and the National League (NL) champion team. Prior to 1969, the team with the best regular season win-loss record in each league automatically advanced to the World Series; since then each league has conducted a championship series (ALCS and NLCS) preceding the World Series to determine which teams will advance. As of 2015, the World Series has been contested 111 times, with the AL winning 64 and the NL winning 47. The winner of the World Series championship is determined through a best-of-seven playoff, and the winning team is awarded the Commissioner's Trophy. As the series is played in October (and occasionally November), during the autumn season in North America, it is often referred to as the Fall Classic.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261028203000 -0400" stop="20261028210200 -0400" channel="ABC.US">
     <title>Abbott Elementary</title>
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
     <category>TV Show</category>
@@ -1527,11 +1532,6 @@
   <programme start="20261030200000 -0400" stop="20261030203000 -0400" channel="NBC.US">
     <title>Happy's Place</title>
     <desc>Happy's Place follows Bobbie who inherits her father's restaurant and is less than thrilled to discover that she has a new business partner in the half-sister she never knew she had.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261030200000 -0400" stop="20261030210000 -0400" channel="ABC.US">
-    <title>Celebrity Wheel of Fortune</title>
-    <desc>Celebrity Wheel of Fortune welcomes celebrity contestants to come spin the world's most famous wheel and solve word puzzles for a chance to win up to one million dollars. All of the money won by the celebrity contestants will go to a charity of their choice.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261030200000 -0400" stop="20261030210800 -0400" channel="Discovery.US">
@@ -2954,6 +2954,11 @@
     <desc>The ABC is bringing Australians together around the kitchen table with Recipe of the Year, a heart-warming cooking competition hosted by beloved cook Adam Liaw and acclaimed actor and food lover Pia Miranda.Set on a picturesque country farm, the seven-part series sees home cooks compete for the ultimate title: Australia's Recipe of the Year. From family recipes shaped by culture and passed down through generations to ingeniously simple weeknight winners that will put a smile on everyone's face, Recipe of the Year celebrates the stories and flavours that make up Australia today.At the heart of the competition is the Country Women's Association (CWA), bringing generations of cooking wisdom. The home cooks face the formidable CWA judges each week, tackling classic CWA recipes from scones to jam rolls in the hope of winning a coveted CWA ribbon.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102193000 -0500" stop="20261102200000 -0500" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102200000 -0500" stop="20261102203000 -0500" channel="ABC.AU">
     <title>Australian Story</title>
     <desc>These are the stories of who we are. Australian Story presents unique tales that provide an insight into Australian life with all its complexities and challenges.</desc>
@@ -2972,6 +2977,11 @@
   <programme start="20261102213500 -0500" stop="20261102220500 -0500" channel="ABC.AU">
     <title>Planet America</title>
     <desc>Chas Licciardello and John Barron set out to discover the real America - its politics and its people - with analysis from US and Australian experts.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103193000 -0500" stop="20261103200000 -0500" channel="ABC.AU">
+    <title>7.30</title>
+    <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
 </tv>
