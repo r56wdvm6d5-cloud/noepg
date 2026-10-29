@@ -460,7 +460,7 @@
     <desc>Finnerty will look to cut through the noise to bring unfiltered truth, sharp debates, and a focus on the most pressing issues facing America today while standing up for American values.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261029200000 -0400" stop="20261029203000 -0400" channel="CBS.US">
+  <programme start="20261029200000 -0400" stop="20261029203100 -0400" channel="CBS.US">
     <title>Georgie &amp; Mandy's First Marriage</title>
     <desc>Georgie &amp;amp; Mandy's First Marriage follows Georgie and Mandy as they raise their young family in Texas while navigating the challenges of adulthood, parenting and marriage.</desc>
     <category>TV Show</category>
@@ -565,19 +565,19 @@
     <desc>The all-time classic trivia game Trivial Pursuit is reimagined in a question-packed entertainment format. Gameplay takes place on a giant version of the iconic Trivial Pursuit game board, as contestants battle it out over a range of play-along question categories to win wedges and beat each other to the center. The victor then takes on a dramatic finale against the clock to claim the big money jackpot.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261029210000 -0400" stop="20261029220000 -0400" channel="HBO.US">
+  <programme start="20261029210000 -0400" stop="20261029215000 -0400" channel="HBO.US">
     <title>War</title>
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261029210000 -0400" stop="20261029220000 -0400" channel="FOX.US">
-    <title>Special Forces: World's Toughest Test</title>
-    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029210000 -0400" stop="20261029220000 -0400" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261029210200 -0400" stop="20261029220000 -0400" channel="FOX.US">
+    <title>Special Forces: World's Toughest Test</title>
+    <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029211500 -0400" stop="20261029214500 -0400" channel="Bravo.US">
@@ -1830,6 +1830,11 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102233500 -0500" stop="20261103003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102000000 -0500" stop="20261102020000 -0500" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -1978,11 +1983,6 @@
   <programme start="20261103210000 -0500" stop="20261103220300 -0500" channel="History.US">
     <title>The UnXplained Special Presentation</title>
     <desc>These special compilation episodes of The UnXplained explore the world's most fascinating, strange and inexplicable mysteries.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261103210100 -0500" stop="20261103220200 -0500" channel="Discovery.US">
-    <title>Secret Life of a Vegas Casino</title>
-    <desc>What happens in Vegas usually stays in Vegas, but behind the flashing lights and million-dollar jackpots is a world visitors have never seen before. For the first time, Discovery pulls back the curtain on the legendary Golden Nugget, one of Las Vegas' most iconic casinos, to follow the larger-than-life personalities responsible for managing demanding high rollers, millions of dollars, and nonstop drama every day. Just off the chaos of busy Fremont Street, cameras capture the real-life and often shocking moments that unfold around the clock: unruly guests, high-pressure special events and the relentless efforts required to keep thousands of people safe and entertained each day. Whether it's breaking up a late-night club brawl, responding to an embarrassing medical emergency or racing to move sharks from a 200,000-gallon shark tank, the staff must be ready for whatever Vegas throws their way.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103220000 -0500" stop="20261103230000 -0500" channel="Fox News Channel.US">
@@ -2150,7 +2150,7 @@
     <desc>NOVA brings you stories from the frontlines of science and engineering, answering the big questions of today and tomorrow, from how our ancestors lived, to whether parallel universes exist, to how technology will transform our lives.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261104210000 -0500" stop="20261104220300 -0500" channel="History.US">
+  <programme start="20261104210000 -0500" stop="20261104223000 -0500" channel="History.US">
     <title>Mountain Men</title>
     <desc>Have you ever wondered what it would be like to live your life off the grid? Have you wished you could shed the complications of modern society and live in the wilderness, using only the things nature has provided? Meet Eustace Conway, Tom Oar and Marty Meierotto of the new History series Mountain Men, three men who have devoted their lives to survival in its simplest form. But how simple is it really for the Mountain Men?From the rugged Blue Ridge Mountains of North Carolina to the seven-month-long winters on the Yaak River in Montana to the frigid northern range of Alaska, the country is full of some very unforgiving terrain. Watch as these men face off against mudslides, falling trees, ravaging weather and even hungry animals, to make sure they obtain the food and supplies they will need to make it through the brutal winter months ahead.</desc>
     <category>TV Show</category>
@@ -2238,6 +2238,11 @@
   <programme start="20261104233000 -0500" stop="20261105003000 -0500" channel="ESPN.US">
     <title>Inside the NBA</title>
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104233500 -0500" stop="20261105003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029070000 -0400" stop="20261029072200 -0400" channel="ITV1.GB">
