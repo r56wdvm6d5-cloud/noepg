@@ -136,6 +136,10 @@
     <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
+  <channel id="Global.CA">
+    <display-name>Global</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="ABC.AU">
     <display-name>ABC</display-name>
     <country>AU</country>
@@ -383,6 +387,11 @@
   <programme start="20261029170000 -0400" stop="20261029180000 -0400" channel="Fox News Channel.US">
     <title>The Five</title>
     <desc>The Five is an American news and talk show on Fox News Channel featuring a rotating panel who discuss current stories, political issues, and pop culture. The show premiered in July 2011, replacing the Glenn Beck program, and airs on weekdays at 5:00 p.m. ET with replays at 4:00 a.m. ET. On October 3, 2011, after successful ratings and high popularity, Fox News announced that The Five would become the permanent 5 p.m. series, as the program had previously been announced to last only during the summer. The Five is currently the second-most-watched program in all of cable news in the United States, placing only behind The O'Reilly Factor, also on the Fox News Channel. The program has occasionally been the number one rated cable news series in the key 25 to 54 viewing demographic.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261029173000 -0400" stop="20261029180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029180000 -0400" stop="20261029190000 -0400" channel="MS NOW.US">
@@ -910,6 +919,11 @@
     <desc>The Five is an American news and talk show on Fox News Channel featuring a rotating panel who discuss current stories, political issues, and pop culture. The show premiered in July 2011, replacing the Glenn Beck program, and airs on weekdays at 5:00 p.m. ET with replays at 4:00 a.m. ET. On October 3, 2011, after successful ratings and high popularity, Fox News announced that The Five would become the permanent 5 p.m. series, as the program had previously been announced to last only during the summer. The Five is currently the second-most-watched program in all of cable news in the United States, placing only behind The O'Reilly Factor, also on the Fox News Channel. The program has occasionally been the number one rated cable news series in the key 25 to 54 viewing demographic.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261030173000 -0400" stop="20261030180000 -0400" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261030180000 -0400" stop="20261030190000 -0400" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -1093,6 +1107,11 @@
   <programme start="20261030220000 -0400" stop="20261030230000 -0400" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261030220000 -0400" stop="20261030230000 -0400" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261030230000 -0400" stop="20261031000000 -0400" channel="MS NOW.US">
@@ -1610,6 +1629,11 @@
     <desc>The Five is an American news and talk show on Fox News Channel featuring a rotating panel who discuss current stories, political issues, and pop culture. The show premiered in July 2011, replacing the Glenn Beck program, and airs on weekdays at 5:00 p.m. ET with replays at 4:00 a.m. ET. On October 3, 2011, after successful ratings and high popularity, Fox News announced that The Five would become the permanent 5 p.m. series, as the program had previously been announced to last only during the summer. The Five is currently the second-most-watched program in all of cable news in the United States, placing only behind The O'Reilly Factor, also on the Fox News Channel. The program has occasionally been the number one rated cable news series in the key 25 to 54 viewing demographic.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102173000 -0500" stop="20261102180000 -0500" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102180000 -0500" stop="20261102201500 -0500" channel="ESPN.US">
     <title>Monday Night Countdown</title>
     <desc>Monday Night Countdown, which debuted in 1993 on ESPN, is a television program featuring analysis and news on that night's NFL match to be broadcast on ESPN. The show was originally titled NFL Prime Monday from 1993-97 before it was renamed Monday Night Countdown in 1998. The official name of the show is Monday Night Countdown served by Applebee's. The show's previous sponsor was UPS. When it debuted, it was one of the first cross-pollinations between ESPN and ABC Sports, which each largely operated under separate management at the time.</desc>
@@ -1760,7 +1784,7 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261102210100 -0500" stop="20261102220000 -0500" channel="CBS.US">
+  <programme start="20261102210100 -0500" stop="20261102220100 -0500" channel="CBS.US">
     <title>CIA</title>
     <desc>CIA centers on two unlikely partners — a fast-talking, rule-breaking loose cannon CIA case officer, and a by-the-book, seasoned and smart FBI agent who believes in the rule of law. When this odd couple are assigned to work out of CIA's New York Station, they must learn to work together to investigate cases and criminals posing threats on U.S. soil, finding that their differences may actually be their strength.</desc>
     <category>TV Show</category>
@@ -1935,6 +1959,11 @@
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103173000 -0500" stop="20261103180000 -0500" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103180000 -0500" stop="20261103200000 -0500" channel="MS NOW.US">
     <title>MS NOW Special Coverage</title>
     <desc>Special coverage of news events on MS NOW.</desc>
@@ -2088,6 +2117,11 @@
   <programme start="20261104160000 -0500" stop="20261104180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104173000 -0500" stop="20261104180000 -0500" channel="ESPN.US">
+    <title>Pardon the Interruption</title>
+    <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261104180000 -0500" stop="20261104190000 -0500" channel="MS NOW.US">
@@ -2628,6 +2662,11 @@
   <programme start="20261103203000 -0500" stop="20261103210000 -0500" channel="CBC.CA">
     <title>Son of a Critch</title>
     <desc>Based on the award-winning, best-selling memoir from Mark Critch. This new original comedy is the hilarious and very real story of 11-year-old Mark coming of age in St. John's, Newfoundland in the 80s. It's a heartfelt window into the life of a child – much older inside than his 11 years – using comedy and self-deprecation to win friends and connect with the small collection of people in his limited world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104213000 -0500" stop="20261104223000 -0500" channel="Global.CA">
+    <title>Private Eyes West Coast</title>
+    <desc>Private investigators Matt Shade and Angie Everett have left behind their P.I. firm and settled into a new life on the west coast — but their new quiet life is shaken when a night out lands them at the scene of a murder. A woman stands over her dead boyfriend with a bloody steak knife in hand. Believing in her innocence, Shade and Angie dive headfirst back into the high stakes world of investigation. The private eyes juggle the challenges of opening a P.I. firm in a new city, and without their friendly Toronto network of sources, Shade and Angie work to build a new community. From tracking down a missing student in the wilderness of British Columbia to extracting a murder confession from a surfer in Tofino, Shade and Angie prove life on the west coast is packed with heart-pounding thrills.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261029060000 -0400" stop="20261029090000 -0400" channel="ABC.AU">
