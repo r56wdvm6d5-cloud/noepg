@@ -544,6 +544,11 @@
     <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261030210000 -0400" stop="20261030220000 -0400" channel="PBS.US">
+    <title>Great Performances</title>
+    <desc>Great Performances is a television series devoted to the performing arts, has been telecast on PBS since 1972. The show is produced by WNET in New York City. It is one of the longest running performing arts anthologies on television, second only to Hallmark Hall of Fame. Great Performances presents concerts, ballet, opera, an occasional documentary, and plays. The series has also won many television awards, including an Emmy Award, a Peabody Award, and an Image Award, with nods from the Directors Guild of America and the Cinema Audio Society.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261030210800 -0400" stop="20261030220900 -0400" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
@@ -832,6 +837,11 @@
   <programme start="20261101170000 -0500" stop="20261101180000 -0500" channel="MS NOW.US">
     <title>PoliticsNation</title>
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261101183000 -0500" stop="20261101190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261101190000 -0500" stop="20261101201500 -0500" channel="NBC.US">
@@ -1147,6 +1157,11 @@
   <programme start="20261102180000 -0500" stop="20261102190000 -0500" channel="Fox News Channel.US">
     <title>Special Report</title>
     <desc>Special Report with Bret Baier (formerly Special Report with Brit Hume) is an American television news and political commentary program appearing on Fox News Channel, currently hosted by Bret Baier. It airs live each Monday through Friday at 6:00 PM ET. The show focuses on both reporting and analysis of the day's events, with a primary focus on national political news. The show has been a part of the Fox News program lineup since 1998 and is the number one cable news broadcast in its time slot.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102183000 -0500" stop="20261102190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261102190000 -0500" stop="20261102200000 -0500" channel="MS NOW.US">
@@ -1629,6 +1644,11 @@
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104183000 -0500" stop="20261104190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104200000 -0500" stop="20261104203000 -0500" channel="ABC.US">
     <title>Scrubs</title>
     <desc>Old friends JD and Turk scrub in together for the first time in a long time, learning that medicine has changed; interns have changed; but their bromance has stood the test of time.</desc>
@@ -1887,6 +1907,11 @@
   <programme start="20261105180000 -0500" stop="20261105190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105183000 -0500" stop="20261105190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105190000 -0500" stop="20261105200000 -0500" channel="ESPN.US">
