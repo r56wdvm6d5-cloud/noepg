@@ -40,16 +40,16 @@
     <display-name>The CW</display-name>
     <country>US</country>
   </channel>
+  <channel id="HBO.US">
+    <display-name>HBO</display-name>
+    <country>US</country>
+  </channel>
   <channel id="Bravo.US">
     <display-name>Bravo</display-name>
     <country>US</country>
   </channel>
   <channel id="History.US">
     <display-name>History</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="HBO.US">
-    <display-name>HBO</display-name>
     <country>US</country>
   </channel>
   <channel id="A&amp;E.US">
@@ -258,9 +258,24 @@
     <desc>This is a list of WWE NXT pay-per-view and livestreaming supercards, detailing all professional wrestling cards promoted by the American promotion WWE on pay-per-view (PPV) and available via livestreaming on services such as the WWE Network. Due to the American version of the WWE Network merging under Peacock, and with the WWE Network still available in most international markets, as well as less focus being given to traditional PPV channels, in 2022, the company began using the term "Premium Live Event" to refer to their events airing on PPV and the livestreaming services. The terminology "TakeOver" was dropped in December of 2021 as the NXT brand transformed.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261031190000 -0400" stop="20261031193000 -0400" channel="NBC.US">
+    <title>B1G College Countdown</title>
+    <desc>B1G College Countdown will capture college football's unique gameday atmosphere by providing pre-game and halftime commentary from the site of that week's primetime game – 11 Big Ten and two Notre Dame games. The show will also provide pre-game and halftime content for most of NBC Sports' college football afternoon games throughout the season on NBC and Peacock.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261031193000 -0400" stop="20261031230000 -0400" channel="NBC.US">
+    <title>Big Ten Saturday Night</title>
+    <desc />
+    <category>TV Show</category>
+  </programme>
   <programme start="20261031210000 -0400" stop="20261031220000 -0400" channel="CNN.US">
     <title>Have I Got News for You</title>
     <desc>Have I Got News for You is the comedy panel show which delivers comic observations from the satirical to the surreal through the lens of a news quiz show. An institution in Britain, this an award-winning comedy series is now invading America! Always relevant and topical, the series serves up a smart, silly, opinionated, and edgy take on the news of the week featuring a rotating collection of comedians, pundits, politicos, and entertainers. It features host Roy Wood Jr. along with two illustrious team captains Amber Ruffin and Michael Ian Black to guide the guests through an array of games and quick-witted panel conversations that test their knowledge of current events.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261031210000 -0400" stop="20261031213000 -0400" channel="HBO.US">
+    <title>IT: Welcome to Derry</title>
+    <desc>Taking place in the ‘60s, the show explores the origins of the curse that would haunt the small Maine town for the next 27 years — as well as the origin story of Pennywise the Clown.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261031220000 -0400" stop="20261031230000 -0400" channel="CBS.US">
@@ -1048,6 +1063,11 @@
     <desc>On the ABC News Specials, the stories that need to be covered in great detailed are featured.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103200000 -0500" stop="20261103210100 -0500" channel="Discovery.US">
+    <title>Rocky Mountain Wreckers</title>
+    <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103200000 -0500" stop="20261103210000 -0500" channel="Bravo.US">
     <title>The Real Housewives of New York City</title>
     <desc>The Real Housewives of New York City will feature an elite and powerful set of New York socialites as they juggle their careers and home lives with busy calendars packed with charity fund-raising galas, the social whirl of the Hamptons, and interviews for elite private schools. These driven and ambitious women show everyone what it takes to make it in the upper echelon of society, where money and status are an essential way of life.</desc>
@@ -1823,11 +1843,6 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261106210800 -0500" stop="20261106220900 -0500" channel="Discovery.US">
-    <title>Rocky Mountain Wreckers</title>
-    <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261106213000 -0500" stop="20261106220000 -0500" channel="The CW.US">
     <title>Totally Funny Animals</title>
     <desc>Totally Funny Animals features caught-on-camera videos that highlight the outrageous and wacky world of animals. Hosted by comedian Andy Woodhull, this clip show features everything from sneezing cats and calamitous canines to dumpster-diving bears and rascally racoons.</desc>
@@ -1963,6 +1978,16 @@
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102070000 -0500" stop="20261102072200 -0500" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102123000 -0500" stop="20261102133000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102141000 -0500" stop="20261102150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
@@ -1996,6 +2021,16 @@
   <programme start="20261102203000 -0500" stop="20261102210000 -0500" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103070000 -0500" stop="20261103072200 -0500" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103123000 -0500" stop="20261103133000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103141000 -0500" stop="20261103150000 -0500" channel="Channel 4.GB">
@@ -2043,6 +2078,16 @@
     <desc>Together with a celebrity guest in the studio, Jon and Judi will chew over the drama, celebrate the standout moments and revisit all the action from inside the Bake Off tent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104070000 -0500" stop="20261104072200 -0500" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104123000 -0500" stop="20261104133000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104141000 -0500" stop="20261104150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
@@ -2071,6 +2116,16 @@
   <programme start="20261104220000 -0500" stop="20261104230000 -0500" channel="TRUE CRIME.GB">
     <title>Deadly Destinations</title>
     <desc>Deadly Destinations chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105070000 -0500" stop="20261105072200 -0500" channel="ITV1.GB">
+    <title>Emmerdale</title>
+    <desc>Emmerdale is a British soap focusing on the lives of several families and locals living around an estate, a farm and the nearby village in the Yorkshire Dales. It is the second longest British soap in television history since airing its first episode on ITV in 1972, as 'Emmerdale Farm', the show was renamed in 1989.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105123000 -0500" stop="20261105133000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105141000 -0500" stop="20261105150000 -0500" channel="Channel 4.GB">
@@ -2116,6 +2171,11 @@
   <programme start="20261105220000 -0500" stop="20261105230000 -0500" channel="5.GB">
     <title>A Night in with Sally Lindsay</title>
     <desc>A weekly show hosted by actor Sally Lindsay, inviting viewers to switch off the outside world and enjoy a cosy night in for a fun and revealing conversation. The nation's best-loved TV stars are invited to unwind and open up about what made them who they are today, with never-heard-before behind-the-scenes stories and moments that shaped them.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106123000 -0500" stop="20261106133000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106141000 -0500" stop="20261106150000 -0500" channel="Channel 4.GB">
