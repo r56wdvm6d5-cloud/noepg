@@ -438,6 +438,11 @@
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261101210000 -0500" stop="20261101213000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261101213000 -0500" stop="20261101223000 -0500" channel="CBS.US">
     <title>Tracker</title>
     <desc>Tracker features lone-wolf survivalist Colter Shaw, who roams the country as a "reward seeker," using his expert tracking skills to help private citizens and law enforcement to solve all manner of mysteries while contending with his own fractured family.</desc>
@@ -456,11 +461,6 @@
   <programme start="20261101220000 -0500" stop="20261101230000 -0500" channel="A&amp;E.US">
     <title>Late Night Law</title>
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261101220000 -0500" stop="20261101223000 -0500" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261101223000 -0500" stop="20261101233000 -0500" channel="ESPN.US">
@@ -1018,6 +1018,11 @@
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103170000 -0500" stop="20261103210000 -0500" channel="CNN.US">
+    <title>Election Night in America</title>
+    <desc>CNN will provide viewers with comprehensive coverage and up-to-the-minute election results from the presidential race and key state races across the country. CNN is deploying resources to keep viewers apprised of updates on vote counts and reports, which may extend beyond election day. The network's team of anchors, correspondents, analysts, reporters and commentators will report from across the country; ramping up to CNN's special Election Night in America coverage.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103173000 -0500" stop="20261103180000 -0500" channel="ESPN.US">
     <title>Pardon the Interruption</title>
     <desc>Pardon the Interruption is a sports television show that airs weekdays on various ESPN TV channels, TSN, ESPN America, XM, and Sirius satellite radio services, and as a downloadable podcast.</desc>
@@ -1053,6 +1058,11 @@
     <desc>In Best Medicine a brilliant surgeon leaves Boston to become a small-town doctor where he spent childhood summers. Despite his medical skills, his rude manner alienates locals as he battles hidden phobias and struggles with personal connections.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103200000 -0500" stop="20261104000000 -0500" channel="CNN.US">
+    <title>Election Night in America</title>
+    <desc>CNN will provide viewers with comprehensive coverage and up-to-the-minute election results from the presidential race and key state races across the country. CNN is deploying resources to keep viewers apprised of updates on vote counts and reports, which may extend beyond election day. The network's team of anchors, correspondents, analysts, reporters and commentators will report from across the country; ramping up to CNN's special Election Night in America coverage.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103210000 -0500" stop="20261103220000 -0500" channel="FOX.US">
     <title>Doc</title>
     <desc>Doc centers on the hard-charging, brilliant Dr. Amy Larsen, Chief of Internal and Family Medicine at Westside Hospital in Minneapolis. After a brain injury erases the last eight years of her life, Amy must navigate an unfamiliar world where she has no recollection of patients she's treated, colleagues she's crossed, the soulmate she divorced, the man she now loves and the tragedy that caused her to push everyone away. She can rely only on her estranged 17-year-old daughter, whom she remembers as a 9-year-old, and a handful of devoted friends, as she struggles to continue practicing medicine, despite having lost nearly a decade of knowledge and experience.</desc>
@@ -1073,14 +1083,14 @@
     <desc>These special compilation episodes of The UnXplained explore the world's most fascinating, strange and inexplicable mysteries.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103210000 -0500" stop="20261103213000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103220000 -0500" stop="20261103230000 -0500" channel="Fox News Channel.US">
     <title>Gutfeld!</title>
     <desc>Late night show with author, comedian and television host and producer Greg Gutfeld, offering up satirical political and social commentary with a weekly panel of guests.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261103220000 -0500" stop="20261103223000 -0500" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103220300 -0500" stop="20261103230500 -0500" channel="History.US">
@@ -1091,6 +1101,11 @@
   <programme start="20261103230000 -0500" stop="20261103233500 -0500" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103230000 -0500" stop="20261104030000 -0500" channel="CNN.US">
+    <title>Election Night in America</title>
+    <desc>CNN will provide viewers with comprehensive coverage and up-to-the-minute election results from the presidential race and key state races across the country. CNN is deploying resources to keep viewers apprised of updates on vote counts and reports, which may extend beyond election day. The network's team of anchors, correspondents, analysts, reporters and commentators will report from across the country; ramping up to CNN's special Election Night in America coverage.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261104050000 -0500" stop="20261104060000 -0500" channel="MS NOW.US">
@@ -1288,6 +1303,11 @@
     <desc>In 99 to Beat, 100 contestants go head-to-head in a range of visually distinctive and hilarious games in an arced competition game show like we've never seen before. 99 to Beat is the game show that anyone can win, and there's only one thing players must do for a chance of walking away with the cash prize – Don't. Come. In. Last. As contestants battle it out against each other, each round will see the number of players whittled down until one person is left standing and they take home the top prize of $100,000.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104211500 -0500" stop="20261104214500 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104213000 -0500" stop="20261104230000 -0500" channel="CBS.US">
     <title>The Amazing Race</title>
     <desc>From athletes and actors to tattoo artists, social workers and musicians - a diverse mix of teams will need to utilize their street smarts and savvy know-how to compete in the race of their lifetime.</desc>
@@ -1328,11 +1348,6 @@
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261104220000 -0500" stop="20261104223000 -0500" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261104223000 -0500" stop="20261104224500 -0500" channel="Comedy Central.US">
     <title>Mike Judge's Beavis and Butt-Head</title>
     <desc>In this new iteration, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write, produce and provide voice over for both iconic characters.</desc>
@@ -1366,6 +1381,11 @@
   <programme start="20261104003500 -0500" stop="20261104013500 -0500" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104020000 -0500" stop="20261104060000 -0500" channel="CNN.US">
+    <title>Election Night in America</title>
+    <desc>CNN will provide viewers with comprehensive coverage and up-to-the-minute election results from the presidential race and key state races across the country. CNN is deploying resources to keep viewers apprised of updates on vote counts and reports, which may extend beyond election day. The network's team of anchors, correspondents, analysts, reporters and commentators will report from across the country; ramping up to CNN's special Election Night in America coverage.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105050000 -0500" stop="20261105060000 -0500" channel="MS NOW.US">
@@ -1578,6 +1598,11 @@
     <desc>Southern Charm goes behind the walls of Charleston, South Carolina's most aristocratic families to reveal a world of exclusivity, money and scandal that goes back generations. The fast-paced, drama-filled docu-series follows six Charleston singles — Craig Conover, Cameran Eubanks, Jenna King, Thomas Ravenel, Shepard "Shep" Rose, and Whitney Sudler Smith — struggling with the constraints of this tight-knit, posh society. The cast, some descendants of Vice Presidents and four-term Senators, and others from "new money," is comprised of Southern bachelors who suffer from "Peter Pan Syndrome" by refusing to settle down; and the women in their lives who challenge them to grow up. Viewers will see them launch political careers, build businesses, break hearts, and chase true love -- all while struggling to preserve their family names. Because in Charleston, you're only as good as your last garden party and one social screw-up can taint generations to come.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105214500 -0500" stop="20261105221500 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105220000 -0500" stop="20261105230000 -0500" channel="A&amp;E.US">
     <title>Killer Investigations</title>
     <desc>Detectives chase down leads, prosecutors go head-to-head with defense attorneys, and juries wrestle with life-or-death decisions.</desc>
@@ -1601,11 +1626,6 @@
   <programme start="20261105220000 -0500" stop="20261105230000 -0500" channel="MS NOW.US">
     <title>The Last Word with Lawrence O'Donnell</title>
     <desc>Drawing upon his experience as a former chief of staff on the Senate Finance Committee and as an Emmy-winning executive producer and writer of The West Wing, O'Donnell gives the last word and rewrites the most compelling stories of the day on The Last Word with Lawrence O'Donnell.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261105220000 -0500" stop="20261105223000 -0500" channel="Bravo.US">
-    <title>Watch What Happens Live</title>
-    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105230000 -0500" stop="20261105233500 -0500" channel="Comedy Central.US">
@@ -1798,14 +1818,14 @@
     <desc>Did you know that a brown bear became a war hero for the Allies during WWII? Or that a flying lawnmower once killed a spectator at a football game? What about the story of the 19th century doctor who ate vomit to understand how yellow fever is transmitted?If you haven't, then brace yourself for The UnBelievable with Dan Aykroyd.Each hour-long episode will open up our cabinet of curiosities to reveal the strangest-but-true stories in human history, brought to life through dynamic recreation, compelling graphics, and arresting archival. These seemingly tall tales all actually happened, and our cast of experts dives into the historical record to tell you how and why.It's a bizarro barrage of people, places and events that prove just how weird our world can be.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261106210000 -0500" stop="20261106220100 -0500" channel="Discovery.US">
-    <title>Rocky Mountain Wreckers</title>
-    <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261106210000 -0500" stop="20261106220000 -0500" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106210800 -0500" stop="20261106220900 -0500" channel="Discovery.US">
+    <title>Rocky Mountain Wreckers</title>
+    <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106213000 -0500" stop="20261106220000 -0500" channel="The CW.US">
@@ -1836,6 +1856,11 @@
   <programme start="20261106230000 -0500" stop="20261107000000 -0500" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106233500 -0500" stop="20261107003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261031120000 -0400" stop="20261031123000 -0400" channel="ITV1.GB">
@@ -1898,6 +1923,11 @@
     <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261101174500 -0500" stop="20261101183900 -0500" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261101191000 -0500" stop="20261101200000 -0500" channel="BBC One.GB">
     <title>Strictly Come Dancing</title>
     <desc>Celebrities take to the dance floor to perform a dazzling display of ballroom routines.</desc>
@@ -1938,6 +1968,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102180000 -0500" stop="20261102183000 -0500" channel="BBC Two.GB">
+    <title>House of Games</title>
+    <desc>Four famous faces go toe-to-toe in testing their general knowledge skills. Who'll end the week triumphant and grab the exclusive, money-can't-buy prizes?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102183000 -0500" stop="20261102190000 -0500" channel="BBC Two.GB">
     <title>Strictly Come Dancing - It Takes Two</title>
     <desc>All the backstage gossip from Strictly Come Dancing, with the secrets, slips and stories from the practice rooms.</desc>
@@ -1966,6 +2001,11 @@
   <programme start="20261103141000 -0500" stop="20261103150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103180000 -0500" stop="20261103183000 -0500" channel="BBC Two.GB">
+    <title>House of Games</title>
+    <desc>Four famous faces go toe-to-toe in testing their general knowledge skills. Who'll end the week triumphant and grab the exclusive, money-can't-buy prizes?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103183000 -0500" stop="20261103190000 -0500" channel="BBC Two.GB">
@@ -2008,6 +2048,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104180000 -0500" stop="20261104183000 -0500" channel="BBC Two.GB">
+    <title>House of Games</title>
+    <desc>Four famous faces go toe-to-toe in testing their general knowledge skills. Who'll end the week triumphant and grab the exclusive, money-can't-buy prizes?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104183000 -0500" stop="20261104190000 -0500" channel="BBC Two.GB">
     <title>Strictly Come Dancing - It Takes Two</title>
     <desc>All the backstage gossip from Strictly Come Dancing, with the secrets, slips and stories from the practice rooms.</desc>
@@ -2031,6 +2076,11 @@
   <programme start="20261105141000 -0500" stop="20261105150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105180000 -0500" stop="20261105183000 -0500" channel="BBC Two.GB">
+    <title>House of Games</title>
+    <desc>Four famous faces go toe-to-toe in testing their general knowledge skills. Who'll end the week triumphant and grab the exclusive, money-can't-buy prizes?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105183000 -0500" stop="20261105190000 -0500" channel="BBC Two.GB">
@@ -2071,6 +2121,11 @@
   <programme start="20261106141000 -0500" stop="20261106150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106180000 -0500" stop="20261106183000 -0500" channel="BBC Two.GB">
+    <title>House of Games</title>
+    <desc>Four famous faces go toe-to-toe in testing their general knowledge skills. Who'll end the week triumphant and grab the exclusive, money-can't-buy prizes?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106183000 -0500" stop="20261106190000 -0500" channel="BBC Two.GB">
