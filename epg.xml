@@ -64,6 +64,10 @@
     <display-name>NFL Network</display-name>
     <country>US</country>
   </channel>
+  <channel id="Syndication.US">
+    <display-name>Syndication</display-name>
+    <country>US</country>
+  </channel>
   <channel id="Discovery.US">
     <display-name>Discovery</display-name>
     <country>US</country>
@@ -78,10 +82,6 @@
   </channel>
   <channel id="The CW.US">
     <display-name>The CW</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Syndication.US">
-    <display-name>Syndication</display-name>
     <country>US</country>
   </channel>
   <channel id="STARZ.US">
@@ -247,6 +247,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261101183000 -0500" stop="20261101190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261101190000 -0500" stop="20261101201500 -0500" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -257,7 +262,7 @@
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261101190000 -0500" stop="20261101200000 -0500" channel="CBS.US">
+  <programme start="20261101193000 -0500" stop="20261101203000 -0500" channel="CBS.US">
     <title>60 Minutes</title>
     <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
     <category>TV Show</category>
@@ -427,6 +432,11 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102090000 -0500" stop="20261102100000 -0500" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102100000 -0500" stop="20261102120000 -0500" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -477,6 +487,11 @@
     <desc>Featuring an ensemble of four female panelists and one rotating male, Outnumbered examines the top news stories as well as the leading pop culture and relationship issues dominating the headlines. FNC's Harris Faulkner, Kayleigh McEnany and Emily Compagno lead the program's coverage, while alternating co-panelists weigh in with analysis.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102123000 -0500" stop="20261102133000 -0500" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102130000 -0500" stop="20261102150000 -0500" channel="Fox News Channel.US">
     <title>America Reports</title>
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
@@ -485,6 +500,11 @@
   <programme start="20261102130000 -0500" stop="20261102140000 -0500" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102133000 -0500" stop="20261102140000 -0500" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261102140000 -0500" stop="20261102160000 -0500" channel="MS NOW.US">
@@ -500,6 +520,16 @@
   <programme start="20261102140000 -0500" stop="20261102150000 -0500" channel="ESPN.US">
     <title>Big Day with Peter Schrager</title>
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102140000 -0500" stop="20261102160000 -0500" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102140000 -0500" stop="20261102150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261102150000 -0500" stop="20261102170000 -0500" channel="ESPN.US">
@@ -530,6 +560,11 @@
   <programme start="20261102160000 -0500" stop="20261102170000 -0500" channel="Fox News Channel.US">
     <title>The Will Cain Show</title>
     <desc>Featuring conversations with newsmakers from across politics, business, culture and sports, The Will Cain Show will offer a comprehensive look at the news of the day in a signature podcast style.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102160000 -0500" stop="20261102170000 -0500" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261102170000 -0500" stop="20261102180000 -0500" channel="Newsmax.US">
@@ -580,6 +615,11 @@
   <programme start="20261102183000 -0500" stop="20261102190000 -0500" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102183000 -0500" stop="20261102190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261102190000 -0500" stop="20261102200000 -0500" channel="MS NOW.US">
@@ -782,6 +822,11 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102230000 -0500" stop="20261103000000 -0500" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102233500 -0500" stop="20261103003500 -0500" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -852,6 +897,16 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103090000 -0500" stop="20261103110000 -0500" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103090000 -0500" stop="20261103100000 -0500" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103100000 -0500" stop="20261103120000 -0500" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -882,9 +937,24 @@
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103123000 -0500" stop="20261103133000 -0500" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103130000 -0500" stop="20261103140000 -0500" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103130000 -0500" stop="20261103150000 -0500" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103133000 -0500" stop="20261103140000 -0500" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103140000 -0500" stop="20261103160000 -0500" channel="MS NOW.US">
@@ -902,9 +972,24 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103140000 -0500" stop="20261103160000 -0500" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103140000 -0500" stop="20261103150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103160000 -0500" stop="20261103170000 -0500" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103160000 -0500" stop="20261103170000 -0500" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103170000 -0500" stop="20261103210000 -0500" channel="CNN.US">
@@ -935,6 +1020,11 @@
   <programme start="20261103183000 -0500" stop="20261103190000 -0500" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103183000 -0500" stop="20261103190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103190000 -0500" stop="20261104033000 -0500" channel="ABC.US">
@@ -1002,6 +1092,11 @@
     <desc>CNN will provide viewers with comprehensive coverage and up-to-the-minute election results from the presidential race and key state races across the country. CNN is deploying resources to keep viewers apprised of updates on vote counts and reports, which may extend beyond election day. The network's team of anchors, correspondents, analysts, reporters and commentators will report from across the country; ramping up to CNN's special Election Night in America coverage.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261103230000 -0500" stop="20261104000000 -0500" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261103233500 -0500" stop="20261104003500 -0500" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
@@ -1052,6 +1147,16 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104090000 -0500" stop="20261104110000 -0500" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104090000 -0500" stop="20261104100000 -0500" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104100000 -0500" stop="20261104120000 -0500" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1082,9 +1187,24 @@
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104123000 -0500" stop="20261104133000 -0500" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104130000 -0500" stop="20261104140000 -0500" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104130000 -0500" stop="20261104150000 -0500" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104133000 -0500" stop="20261104140000 -0500" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261104140000 -0500" stop="20261104160000 -0500" channel="MS NOW.US">
@@ -1102,6 +1222,16 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104140000 -0500" stop="20261104160000 -0500" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104140000 -0500" stop="20261104150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104160000 -0500" stop="20261104170000 -0500" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -1110,6 +1240,11 @@
   <programme start="20261104160000 -0500" stop="20261104180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104160000 -0500" stop="20261104170000 -0500" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261104173000 -0500" stop="20261104180000 -0500" channel="ESPN.US">
@@ -1130,6 +1265,11 @@
   <programme start="20261104183000 -0500" stop="20261104190000 -0500" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104183000 -0500" stop="20261104190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261104200000 -0500" stop="20261104203000 -0500" channel="ABC.US">
@@ -1277,6 +1417,11 @@
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104230000 -0500" stop="20261105000000 -0500" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104233000 -0500" stop="20261105003000 -0500" channel="ESPN.US">
     <title>Inside the NBA</title>
     <desc>Inside the NBA is the postgame show for NBA on TNT broadcasts. The program features host Ernie Johnson with analysts Charles Barkley, Kenny Smith and Shaquille O'Neal. Occasionally, Johnson, Smith, Barkley, and O'Neal are joined by analysts Chris Webber and Grant Hill. The show has won nine Emmy Awards, Ernie has won three as a studio host and Charles Barkley has won two as a studio analyst.</desc>
@@ -1347,6 +1492,16 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105090000 -0500" stop="20261105110000 -0500" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105090000 -0500" stop="20261105100000 -0500" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105100000 -0500" stop="20261105120000 -0500" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1377,9 +1532,24 @@
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105123000 -0500" stop="20261105133000 -0500" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105130000 -0500" stop="20261105140000 -0500" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105130000 -0500" stop="20261105150000 -0500" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105133000 -0500" stop="20261105140000 -0500" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105140000 -0500" stop="20261105160000 -0500" channel="MS NOW.US">
@@ -1397,6 +1567,16 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105140000 -0500" stop="20261105160000 -0500" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105140000 -0500" stop="20261105150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105160000 -0500" stop="20261105170000 -0500" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -1405,6 +1585,11 @@
   <programme start="20261105160000 -0500" stop="20261105180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105160000 -0500" stop="20261105170000 -0500" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105173000 -0500" stop="20261105180000 -0500" channel="ESPN.US">
@@ -1425,6 +1610,11 @@
   <programme start="20261105183000 -0500" stop="20261105190000 -0500" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105183000 -0500" stop="20261105190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105190000 -0500" stop="20261105200000 -0500" channel="ESPN.US">
@@ -1562,6 +1752,11 @@
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105230000 -0500" stop="20261106000000 -0500" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105233500 -0500" stop="20261106003500 -0500" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -1622,6 +1817,16 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106090000 -0500" stop="20261106110000 -0500" channel="Fox News Channel.US">
+    <title>America's Newsroom</title>
+    <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106090000 -0500" stop="20261106100000 -0500" channel="Syndication.US">
+    <title>The 700 Club</title>
+    <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106100000 -0500" stop="20261106120000 -0500" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
@@ -1652,9 +1857,24 @@
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106123000 -0500" stop="20261106133000 -0500" channel="CBS.US">
+    <title>The Young and the Restless</title>
+    <desc>The Young and the Restless revolves around the rivalries, romances, hopes and fears of the residents of the fictional Midwestern metropolis, Genoa City. The lives and loves of a wide variety of characters mingle through the generations, dominated by the Newman, Abbott, Chancellor, Baldwin and Winters families. ­ When The Young and the Restless premiered in 1973, it revolutionized the daytime drama. It continues to set the standard with strong characters, socially conscious storylines, romance and sensuality.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106130000 -0500" stop="20261106140000 -0500" channel="ABC.US">
     <title>GMA3</title>
     <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106130000 -0500" stop="20261106150000 -0500" channel="Fox News Channel.US">
+    <title>America Reports</title>
+    <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106133000 -0500" stop="20261106140000 -0500" channel="CBS.US">
+    <title>The Bold and the Beautiful</title>
+    <desc>They created a dynasty where passion rules, they are the Forresters, the first name in Fashion. The Bold and the Beautiful, a world of fashion, glamor and romance. A place where power, money and success are there for the taking in a city where dreams really do come true. Follow the lives and loves of the Forresters on The Bold and the Beautiful...</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106140000 -0500" stop="20261106160000 -0500" channel="MS NOW.US">
@@ -1667,6 +1887,16 @@
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106140000 -0500" stop="20261106160000 -0500" channel="Newsmax.US">
+    <title>American Agenda</title>
+    <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106140000 -0500" stop="20261106150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106160000 -0500" stop="20261106170000 -0500" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -1675,6 +1905,11 @@
   <programme start="20261106160000 -0500" stop="20261106180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106160000 -0500" stop="20261106170000 -0500" channel="CNN.US">
+    <title>The Arena with Kasie Hunt</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106173000 -0500" stop="20261106180000 -0500" channel="ESPN.US">
@@ -1695,6 +1930,11 @@
   <programme start="20261106183000 -0500" stop="20261106190000 -0500" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106183000 -0500" stop="20261106190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106200000 -0500" stop="20261106203000 -0500" channel="PBS.US">
@@ -1790,6 +2030,11 @@
   <programme start="20261106230000 -0500" stop="20261107000000 -0500" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106230000 -0500" stop="20261107000000 -0500" channel="PBS.US">
+    <title>Amanpour &amp; Co.</title>
+    <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106233500 -0500" stop="20261107003500 -0500" channel="NBC.US">
@@ -2012,6 +2257,11 @@
     <desc>Short on time and want something fast? Jamie Oliver shows us how to make gorgeous meals in just 20 minutes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102200000 -0500" stop="20261102203000 -0500" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102203000 -0500" stop="20261102210000 -0500" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -2075,6 +2325,11 @@
   <programme start="20261103200000 -0500" stop="20261103210000 -0500" channel="5.GB">
     <title>The Motorway Cops: Catching Britain's Speeders</title>
     <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103200000 -0500" stop="20261103203000 -0500" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103210000 -0500" stop="20261103214500 -0500" channel="BBC Two.GB">
@@ -2152,6 +2407,11 @@
     <desc>In Celebrity Race Across the World four celebrities and their racing partners will race to a finish line that's thousands of miles away – without the use of air travel or any trappings of modern-day life. Stripped of all mod-cons and all luxuries they will have to rely on their skills, cunning, ingenuity, and hard work in order to succeed. Without the use of credit cards, smartphones or access to the internet and with just the cash equivalent of completing the route to their final destination by air, they will have to earn extra money along the way as well as call upon the kindness of strangers to help them progress. This incredible journey will give a unique insight into the celebrities and their relationships with their travelling companions.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104200000 -0500" stop="20261104203000 -0500" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104220000 -0500" stop="20261104230000 -0500" channel="TRUE CRIME.GB">
     <title>Deadly Destinations</title>
     <desc>Deadly Destinations chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</desc>
@@ -2210,6 +2470,11 @@
   <programme start="20261105200000 -0500" stop="20261105210000 -0500" channel="5.GB">
     <title>The Yorkshire Vet</title>
     <desc>The Yorkshire Vet is a documentary series about Yorkshire vet Julian Norton, his business partner Peter Wright and their team as they administer modern-day medical and surgical aid to creatures great and small. From bulldogs to bullocks, there are no creatures too large or too small for these vets.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261105200000 -0500" stop="20261105203000 -0500" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261105210000 -0500" stop="20261105220000 -0500" channel="Channel 4.GB">
@@ -2282,6 +2547,11 @@
     <desc>Gardening show packed with good ideas, tips, advice from experts and timely reminders to get the most out of your garden, whatever its size or type.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106200000 -0500" stop="20261106203000 -0500" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106212500 -0500" stop="20261106215500 -0500" channel="BBC One.GB">
     <title>Have I Got News for You</title>
     <desc>Based on the week's news, Have I Got News for You is fronted by guest hosts and features two regular team captains, Paul Merton and Ian Hislop. Each week the show invites two guests to cast a jaundiced eye over the week's news, resulting in a fast flow of anarchic, spontaneous and hugely entertaining wit and humour. Guests typically represent the world of politics, comedy, show-business and journalism, and are often themselves particularly newsworthy participants. The final touches of Have I Got News for You are put together only hours before recording, allowing guests to comment on the late-breaking news stories of the day.</desc>
@@ -2305,6 +2575,11 @@
   <programme start="20261107200000 -0500" stop="20261107210000 -0500" channel="Channel 4.GB">
     <title>Griff Across the Alps</title>
     <desc>Griff Rhys Jones takes on one of the world's most celebrated mountain ranges by train as he explores from Slovenia to France, uncovering how the Alps have shaped Europe's history, wars, trade, and communities.From Hannibal's famous elephant crossing in 218 BC, to Napoleon's Alpine campaigns, pilgrim trails, medieval traders, and WWII Escape Routes, The Alps have played a pivotal role in some of humanities greatest historical moments and influenced the spread and survival of culture for centuries.Starting with the Alp's eastern end at the stunning Lake Bled and ending on the Mediterranean beaches of Nice in France, Griff will burrow deep into hidden war tunnels, gorge at world-famous cheese caves, scale death-defying ferrata climbs, and mingle with the people and stories of forgotten villages tucked away off the beaten path.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261107200000 -0500" stop="20261107203000 -0500" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261107230500 -0500" stop="20261108000500 -0500" channel="Channel 4.GB">
