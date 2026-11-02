@@ -44,10 +44,6 @@
     <display-name>CNN</display-name>
     <country>US</country>
   </channel>
-  <channel id="Discovery.US">
-    <display-name>Discovery</display-name>
-    <country>US</country>
-  </channel>
   <channel id="FOX.US">
     <display-name>FOX</display-name>
     <country>US</country>
@@ -80,6 +76,10 @@
     <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
+  <channel id="Discovery.US">
+    <display-name>Discovery</display-name>
+    <country>US</country>
+  </channel>
   <channel id="HBO.US">
     <display-name>HBO</display-name>
     <country>US</country>
@@ -108,6 +108,10 @@
     <display-name>BBC Alba</display-name>
     <country>GB</country>
   </channel>
+  <channel id="BBC One.GB">
+    <display-name>BBC One</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Comedy Central.GB">
     <display-name>Comedy Central</display-name>
     <country>GB</country>
@@ -118,10 +122,6 @@
   </channel>
   <channel id="Sky Arts.GB">
     <display-name>Sky Arts</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="BBC One.GB">
-    <display-name>BBC One</display-name>
     <country>GB</country>
   </channel>
   <channel id="National Geographic.GB">
@@ -477,11 +477,6 @@
     <desc>FBI is a fast-paced drama about the inner workings of the New York Field Office of the Federal Bureau of Investigation. These first-class agents, including Special Agent Maggie Bell and her partner, Special Agent Omar Adom 'OA' Zidan, bring all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="Discovery.US">
-    <title>Contraband: Seized at the Border</title>
-    <desc>The border between the USA and Mexico is the busiest in the world. This series follows the work of America's Customs and Border Protection agency, whose job is to defend the border and stop terrorists, drugs and illegal weapons from entering the country.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261102200000 -0500" stop="20261102210100 -0500" channel="FOX.US">
     <title>Name That Tune</title>
     <desc>Created by Harry Salter, the one-hour game show tests contestants' music knowledge, as they battle it out in an assortment of challenging musical games for cash and prizes.</desc>
@@ -547,7 +542,7 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261102210100 -0500" stop="20261102220100 -0500" channel="CBS.US">
+  <programme start="20261102210100 -0500" stop="20261102220000 -0500" channel="CBS.US">
     <title>CIA</title>
     <desc>CIA centers on two unlikely partners — a fast-talking, rule-breaking loose cannon CIA case officer, and a by-the-book, seasoned and smart FBI agent who believes in the rule of law. When this odd couple are assigned to work out of CIA's New York Station, they must learn to work together to investigate cases and criminals posing threats on U.S. soil, finding that their differences may actually be their strength.</desc>
     <category>TV Show</category>
@@ -1462,6 +1457,11 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105203000 -0500" stop="20261105210000 -0500" channel="PBS.US">
+    <title>Ask This Old House</title>
+    <desc>The crew at This Old House take on some pretty big projects, which means they can only work on one or two houses a year. But homeowners have a virtual truckload of questions on smaller projects, and the TOH crew is ready to answer. Ask This Old House solves the steady stream of home improvement problems faced by viewers - and the crew even makes house calls!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105203100 -0500" stop="20261105210100 -0500" channel="CBS.US">
     <title>Eternally Yours</title>
     <desc>Eternally Yours is a family comedy centered around Charles and Liz - a vampire couple whose once-passionate romance has devolved into a pulseless marriage after 500 years together. Living in present-day Seattle with their oddball coven, they've settled into an eternal rut - until their daughter's earnest human boyfriend unexpectedly enters their lives and forces them to confront whether their love can survive forever... or if forever is a life sentence.</desc>
@@ -2137,6 +2137,21 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="BBC One.GB">
+    <title>MasterChef: The Professionals</title>
+    <desc>The hunt for the the next superstar chef. Professional cooks are put through their paces. Who will cope and who will crack?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="BBC One.GB">
+    <title>MasterChef: The Professionals</title>
+    <desc>The hunt for the the next superstar chef. Professional cooks are put through their paces. Who will cope and who will crack?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261102200000 -0500" stop="20261102210000 -0500" channel="BBC One.GB">
+    <title>MasterChef: The Professionals</title>
+    <desc>The hunt for the the next superstar chef. Professional cooks are put through their paces. Who will cope and who will crack?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261102203000 -0500" stop="20261102210000 -0500" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -2505,6 +2520,11 @@
   <programme start="20261108220000 -0500" stop="20261108233000 -0500" channel="Channel 4.GB">
     <title>Formula 1</title>
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261108220000 -0500" stop="20261108224500 -0500" channel="BBC Two.GB">
+    <title>Later... with Jools Holland</title>
+    <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261102210000 -0500" stop="20261102220000 -0500" channel="CTV.CA">
