@@ -305,14 +305,14 @@
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261103160000 -0500" stop="20261103200000 -0500" channel="CNN.US">
-    <title>Election Night in America</title>
-    <desc>CNN will provide viewers with comprehensive coverage and up-to-the-minute election results from the presidential race and key state races across the country. CNN is deploying resources to keep viewers apprised of updates on vote counts and reports, which may extend beyond election day. The network's team of anchors, correspondents, analysts, reporters and commentators will report from across the country; ramping up to CNN's special Election Night in America coverage.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261103160000 -0500" stop="20261103170000 -0500" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103170000 -0500" stop="20261103210000 -0500" channel="CNN.US">
+    <title>Election Night in America</title>
+    <desc>CNN will provide viewers with comprehensive coverage and up-to-the-minute election results from the presidential race and key state races across the country. CNN is deploying resources to keep viewers apprised of updates on vote counts and reports, which may extend beyond election day. The network's team of anchors, correspondents, analysts, reporters and commentators will report from across the country; ramping up to CNN's special Election Night in America coverage.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103173000 -0500" stop="20261103180000 -0500" channel="ESPN.US">
@@ -348,6 +348,11 @@
   <programme start="20261103190000 -0500" stop="20261104033000 -0500" channel="ABC.US">
     <title>ABC News Special Report</title>
     <desc>On the ABC News Specials, the stories that need to be covered in great detailed are featured.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261103190000 -0500" stop="20261103200000 -0500" channel="ESPN.US">
+    <title>College Football Playoff: Top 25</title>
+    <desc>The College Football Playoff: Top 25 is a weekly sports talk show that began in October 2014 because the BCS (Bowl Championship Selection committee) no longer existed. A new committee was then formed to decide the best Top 25 NCAA football teams in the Nation. Based on a very complicated system of points the Top 4 teams at the end of the regular college football season would be required to play each other in a playoff to determine the best team in the Nation which would be the last team standing. This show beginning every October will announce the Top 25 teams each week and then the College Football analysts and experts will discuss that week's poll results.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261103200000 -0500" stop="20261103210000 -0500" channel="Bravo.US">
@@ -1325,6 +1330,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106210000 -0500" stop="20261106230000 -0500" channel="ABC.US">
+    <title>20/20</title>
+    <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106210800 -0500" stop="20261106220900 -0500" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
@@ -1650,6 +1660,16 @@
     <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261109100000 -0500" stop="20261109120000 -0500" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261109100000 -0500" stop="20261109110000 -0500" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261109110000 -0500" stop="20261109120000 -0500" channel="MS NOW.US">
     <title>State of Play with Peter Alexander</title>
     <desc>State of Play focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,</desc>
@@ -1670,6 +1690,11 @@
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261109130000 -0500" stop="20261109140000 -0500" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261109140000 -0500" stop="20261109160000 -0500" channel="MS NOW.US">
     <title>The Moment with Katy Tur</title>
     <desc>The Moment with Katy Tur is designed to move beyond the immediate headlines to provide deeper context and understanding of the political and national stories shaping the day.</desc>
@@ -1688,6 +1713,16 @@
   <programme start="20261109140000 -0500" stop="20261109150000 -0500" channel="ABC.US">
     <title>General Hospital</title>
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261109140000 -0500" stop="20261109150000 -0500" channel="ESPN.US">
+    <title>Big Day with Peter Schrager</title>
+    <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261109150000 -0500" stop="20261109170000 -0500" channel="ESPN.US">
+    <title>NFL Live</title>
+    <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261109160000 -0500" stop="20261109180000 -0500" channel="MS NOW.US">
