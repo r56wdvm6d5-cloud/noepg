@@ -331,6 +331,11 @@
     <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261104190000 -0500" stop="20261104200000 -0500" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261104200000 -0500" stop="20261104203000 -0500" channel="ABC.US">
     <title>Scrubs</title>
     <desc>Old friends JD and Turk scrub in together for the first time in a long time, learning that medicine has changed; interns have changed; but their bromance has stood the test of time.</desc>
@@ -676,6 +681,11 @@
     <desc>College Football Countdown is a pregame, halftime and postgame show airs each Saturday during the college football season, with former Florida State quarterback Danny Kanell and Texas head coach Mack Brown sitting in the analysts chairs.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105190000 -0500" stop="20261105200000 -0500" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105200000 -0500" stop="20261105210000 -0500" channel="NBC.US">
     <title>The Traitors</title>
     <desc>Set in a remote castle in the Scottish Highlands and based on the wildly popular Dutch series of the same name, 5-time Emmy-nominated Alan Cumming plays host to twenty larger-than-life personalities (including reality A-listers and America's best game players) who come together to complete a series of challenges with the objective of earning a cash prize of up to $250,000. The catch? Three of the contestants coined "the traitors" will devise a plan to steal the prize from the other contestants coined "the faithful".</desc>
@@ -994,6 +1004,11 @@
   <programme start="20261106183000 -0500" stop="20261106190000 -0500" channel="ABC.US">
     <title>ABC World News Tonight with David Muir</title>
     <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106190000 -0500" stop="20261106200000 -0500" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106200000 -0500" stop="20261106203000 -0500" channel="PBS.US">
@@ -1331,9 +1346,24 @@
     <desc>The American Gilded Age was a period of immense economic change, of huge fortunes made and lost, and the rise of disparity between old money and new.Against this backdrop of change, the story begins in 1882 — introducing young Marian Brook, the orphaned daughter of a Union general, who moves into the New York City home of her thoroughly old money aunts Agnes van Rhijn and Ada Brook. Accompanied by Peggy Scott, an accomplished African-American woman, Marian inadvertently becomes enmeshed in a social war between one of her aunts, a scion of the old money set, and her stupendously rich neighbors, a ruthless railroad tycoon and his ambitious wife, George and Bertha Russell.In this exciting new world that is on the brink of the modern age, will Marian follow the established rules of society, or forge her own path?</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261108210000 -0500" stop="20261108220000 -0500" channel="A&amp;E.US">
+    <title>Late Night Law</title>
+    <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261108213000 -0500" stop="20261108220000 -0500" channel="FOX.US">
     <title>Grimsburg</title>
     <desc>Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there's one mystery he still can't crack - his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he's got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261108220000 -0500" stop="20261108230000 -0500" channel="A&amp;E.US">
+    <title>Late Night Law</title>
+    <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261108230000 -0500" stop="20261108233000 -0500" channel="HBO.US">
+    <title>Last Week Tonight with John Oliver</title>
+    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261108235900 -0500" stop="20261109005900 -0500" channel="NBC.US">
@@ -1474,6 +1504,11 @@
   <programme start="20261109180000 -0500" stop="20261109190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261109190000 -0500" stop="20261109200000 -0500" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261109200000 -0500" stop="20261109210100 -0500" channel="CBS.US">
@@ -1719,6 +1754,11 @@
   <programme start="20261110190000 -0500" stop="20261110200000 -0500" channel="ESPN.US">
     <title>College Football Playoff: Top 25</title>
     <desc>The College Football Playoff: Top 25 is a weekly sports talk show that began in October 2014 because the BCS (Bowl Championship Selection committee) no longer existed. A new committee was then formed to decide the best Top 25 NCAA football teams in the Nation. Based on a very complicated system of points the Top 4 teams at the end of the regular college football season would be required to play each other in a playoff to determine the best team in the Nation which would be the last team standing. This show beginning every October will announce the Top 25 teams each week and then the College Football analysts and experts will discuss that week's poll results.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261110190000 -0500" stop="20261110200000 -0500" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261110200000 -0500" stop="20261110220000 -0500" channel="ABC.US">
@@ -2113,7 +2153,7 @@
   </programme>
   <programme start="20261106193000 -0500" stop="20261106200000 -0500" channel="BBC Two.GB">
     <title>Naturewatch</title>
-    <desc>Chris Packham is joined by Kyle Thomas and Megan McCubbin for a lively, curiosity-fuelled exploration of Britain's wildlife, tackling the fascinating, the unexpected and the downright bizarre.</desc>
+    <desc>Naturewatch is a weekly celebration of British wildlife.Bringing together the stories that make us curious, the behaviours that make us wonder and the unexpected discoveries about the wildlife we think we know. It's a lively, entertaining deep dive into the natural world on our doorstep.Broadcasting weekly from a studio pod nestled in the British countryside near Bristol, Chris Packham will be joined by Kyle Thomas and Megan McCubbin – three curious minds, a wealth of expertise and one shared obsession with the natural world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106193000 -0500" stop="20261106200000 -0500" channel="Channel 4.GB">
