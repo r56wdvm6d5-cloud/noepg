@@ -136,6 +136,10 @@
     <display-name>Comedy Central</display-name>
     <country>GB</country>
   </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="Global.CA">
     <display-name>Global</display-name>
     <country>CA</country>
@@ -146,10 +150,6 @@
   </channel>
   <channel id="Citytv.CA">
     <display-name>Citytv</display-name>
-    <country>CA</country>
-  </channel>
-  <channel id="CTV.CA">
-    <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
   <channel id="ABC.AU">
@@ -376,7 +376,7 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261104203000 -0500" stop="20261104210000 -0500" channel="ABC.US">
+  <programme start="20261104203000 -0500" stop="20261104210200 -0500" channel="ABC.US">
     <title>Abbott Elementary</title>
     <desc>In this workplace comedy, a group of dedicated, passionate teachers — and a slightly tone-deaf principal — are brought together in a Philadelphia public school where, despite the odds stacked against them, they are determined to help their students succeed in life. Though these incredible public servants may be outnumbered and underfunded, they love what they do — even if they don't love the school district's less-than-stellar attitude toward educating children.</desc>
     <category>TV Show</category>
@@ -386,7 +386,7 @@
     <desc>NOVA brings you stories from the frontlines of science and engineering, answering the big questions of today and tomorrow, from how our ancestors lived, to whether parallel universes exist, to how technology will transform our lives.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261104210000 -0500" stop="20261104223000 -0500" channel="History.US">
+  <programme start="20261104210000 -0500" stop="20261104220300 -0500" channel="History.US">
     <title>Mountain Men</title>
     <desc>Have you ever wondered what it would be like to live your life off the grid? Have you wished you could shed the complications of modern society and live in the wilderness, using only the things nature has provided? Meet Eustace Conway, Tom Oar and Marty Meierotto of the new History series Mountain Men, three men who have devoted their lives to survival in its simplest form. But how simple is it really for the Mountain Men?From the rugged Blue Ridge Mountains of North Carolina to the seven-month-long winters on the Yaak River in Montana to the frigid northern range of Alaska, the country is full of some very unforgiving terrain. Watch as these men face off against mudslides, falling trees, ravaging weather and even hungry animals, to make sure they obtain the food and supplies they will need to make it through the brutal winter months ahead.</desc>
     <category>TV Show</category>
@@ -2111,6 +2111,16 @@
     <desc>Celebrating the lives of Yorkshire people across England's biggest and most beautiful county. With a blend of heart-warming characters from all corners of `God's Own Country' along its unspoilt coastline, its countryside, villages, towns and cities.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106193000 -0500" stop="20261106200000 -0500" channel="BBC Two.GB">
+    <title>Naturewatch</title>
+    <desc>Chris Packham is joined by Kyle Thomas and Megan McCubbin for a lively, curiosity-fuelled exploration of Britain's wildlife, tackling the fascinating, the unexpected and the downright bizarre.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106193000 -0500" stop="20261106200000 -0500" channel="Channel 4.GB">
+    <title>Unreported World</title>
+    <desc>Unreported World is a foreign affairs programme produced by Quicksilver Media Productions and broadcast by Channel 4 in the United Kingdom. Over the course of its twenty-six series, reporters have travelled to dangerous locations all over the world in an attempt to uncover stories usually ignored by the world media.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106195500 -0500" stop="20261106200000 -0500" channel="5.GB">
     <title>5 News at 19:55</title>
     <desc>National and international news</desc>
@@ -2126,9 +2136,19 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106210000 -0500" stop="20261106220000 -0500" channel="Channel 4.GB">
+    <title>Gogglebox</title>
+    <desc>Gogglebox is a British observational documentary television show which has aired on Channel 4 since 2013. The show focuses on families, friends and couples from around the country in their living rooms watching the last week's of British television.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106212500 -0500" stop="20261106215500 -0500" channel="BBC One.GB">
     <title>Have I Got News for You</title>
     <desc>Based on the week's news, Have I Got News for You is fronted by guest hosts and features two regular team captains, Paul Merton and Ian Hislop. Each week the show invites two guests to cast a jaundiced eye over the week's news, resulting in a fast flow of anarchic, spontaneous and hugely entertaining wit and humour. Guests typically represent the world of politics, comedy, show-business and journalism, and are often themselves particularly newsworthy participants. The final touches of Have I Got News for You are put together only hours before recording, allowing guests to comment on the late-breaking news stories of the day.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106220000 -0500" stop="20261106230500 -0500" channel="Channel 4.GB">
+    <title>The Last Leg</title>
+    <desc>Adam Hills and co-hosts Josh Widdicombe and Alex Brooker provide some offbeat commentary on the significant moments of the past seven days.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106224000 -0500" stop="20261106233000 -0500" channel="BBC One.GB">
@@ -2404,6 +2424,11 @@
   <programme start="20261110221500 -0500" stop="20261110230500 -0500" channel="Channel 4.GB">
     <title>The Great British Bake Off: Second Helpings</title>
     <desc>Together with a celebrity guest in the studio, Jon and Judi will chew over the drama, celebrate the standout moments and revisit all the action from inside the Bake Off tent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261104210000 -0500" stop="20261104220000 -0500" channel="CTV.CA">
+    <title>MasterChef Canada</title>
+    <desc>One year after its smash-hit debut on CTV, MasterChef Canada is back to dish out a second helping of food-driven drama and excitement. The ultimate culinary competition offers home cooks a once-in-a-lifetime opportunity to demonstrate their skill and passion, as they compete for $100,000 and the title of Canada's next MasterChef.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261104213000 -0500" stop="20261104223000 -0500" channel="Global.CA">
