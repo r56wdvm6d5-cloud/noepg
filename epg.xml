@@ -431,7 +431,7 @@
     <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261105211500 -0500" stop="20261105221500 -0500" channel="Bravo.US">
+  <programme start="20261105211500 -0500" stop="20261105214500 -0500" channel="Bravo.US">
     <title>Southern Charm</title>
     <desc>Southern Charm goes behind the walls of Charleston, South Carolina's most aristocratic families to reveal a world of exclusivity, money and scandal that goes back generations. The fast-paced, drama-filled docu-series follows six Charleston singles — Craig Conover, Cameran Eubanks, Jenna King, Thomas Ravenel, Shepard "Shep" Rose, and Whitney Sudler Smith — struggling with the constraints of this tight-knit, posh society. The cast, some descendants of Vice Presidents and four-term Senators, and others from "new money," is comprised of Southern bachelors who suffer from "Peter Pan Syndrome" by refusing to settle down; and the women in their lives who challenge them to grow up. Viewers will see them launch political careers, build businesses, break hearts, and chase true love -- all while struggling to preserve their family names. Because in Charleston, you're only as good as your last garden party and one social screw-up can taint generations to come.</desc>
     <category>TV Show</category>
@@ -736,6 +736,11 @@
     <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261106210000 -0500" stop="20261106230000 -0500" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261106210800 -0500" stop="20261106220900 -0500" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
@@ -904,6 +909,11 @@
   <programme start="20261108090000 -0500" stop="20261108100000 -0500" channel="CNN.US">
     <title>State of the Union with Jake Tapper and Dana Bash</title>
     <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261108090000 -0500" stop="20261108103000 -0500" channel="CBS.US">
+    <title>CBS News Sunday Morning</title>
+    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261108100000 -0500" stop="20261108130000 -0500" channel="ESPN.US">
@@ -1524,6 +1534,11 @@
   <programme start="20261110220000 -0500" stop="20261110230000 -0500" channel="PBS.US">
     <title>Frontline</title>
     <desc>Since it began in 1983, Frontline has been airing public-affairs documentaries that explore a wide scope of the complex human experience. Frontline's goal is to extend the impact of the documentary beyond its initial broadcast by serving as a catalyst for change..</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261110220000 -0500" stop="20261110230000 -0500" channel="ABC.US">
+    <title>Michael Strahan's Iconic</title>
+    <desc>Michael Strahan has lived an extraordinary life: Hall of Fame football player, beloved TV host and journalist, prolific entrepreneur, and cultural icon. Now, in a new three-part series, co-produced by Strahan and Constance Schwartz-Morini's SMAC Productions, he embarks on a personal journey across the worlds of fashion, television and music to turn the lens on the icons who have inspired him and transformed American culture. Speaking with acclaimed actors, musicians, moguls and more, he takes us into the worlds of legendary trailblazers who broke new ground and became iconic.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261110220100 -0500" stop="20261110223200 -0500" channel="A&amp;E.US">
