@@ -401,7 +401,7 @@
     <desc>After the First 48 revisits some of the most powerful cases originally featured on the First 48 and features exclusive interviews with detectives, prosecutors, defense attorneys, and families of victims. After the First 48 takes viewers through the dramatic and emotional inside story; from the investigation, to the murder trial itself, the verdict and beyond.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261105210000 -0500" stop="20261105220000 -0500" channel="HBO.US">
+  <programme start="20261105210000 -0500" stop="20261105215500 -0500" channel="HBO.US">
     <title>War</title>
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
     <category>TV Show</category>
@@ -1346,6 +1346,11 @@
     <desc>State of Play focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261110110000 -0500" stop="20261110120000 -0500" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261110120000 -0500" stop="20261110140000 -0500" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1636,6 +1641,11 @@
     <desc>State of Play focuses on authoritative and original reporting, thoughtful conversations, and in-depth analysis of the biggest political and national stories shaping the day,</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261111110000 -0500" stop="20261111120000 -0500" channel="CBS.US">
+    <title>The Price is Right</title>
+    <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261111120000 -0500" stop="20261111140000 -0500" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1871,6 +1881,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261105160000 -0500" stop="20261105170000 -0500" channel="ITV1.GB">
+    <title>Deal or No Deal</title>
+    <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261105170000 -0500" stop="20261105180000 -0500" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -1959,6 +1974,11 @@
   <programme start="20261106141000 -0500" stop="20261106150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261106160000 -0500" stop="20261106170000 -0500" channel="ITV1.GB">
+    <title>Deal or No Deal</title>
+    <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261106170000 -0500" stop="20261106180000 -0500" channel="5.GB">
@@ -2176,6 +2196,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261109160000 -0500" stop="20261109170000 -0500" channel="ITV1.GB">
+    <title>Deal or No Deal</title>
+    <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261109170000 -0500" stop="20261109180000 -0500" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2291,6 +2316,11 @@
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261110160000 -0500" stop="20261110170000 -0500" channel="ITV1.GB">
+    <title>Deal or No Deal</title>
+    <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261110170000 -0500" stop="20261110180000 -0500" channel="5.GB">
     <title>5 News at 5</title>
     <desc>National and international news.</desc>
@@ -2336,6 +2366,11 @@
     <desc>National, international and local news from the BBC Alba team.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261110200000 -0500" stop="20261110210000 -0500" channel="5.GB">
+    <title>The Motorway Cops: Catching Britain's Speeders</title>
+    <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261110210000 -0500" stop="20261110214500 -0500" channel="BBC Two.GB">
     <title>QI XL</title>
     <desc>Sandi Toksvig, Alan Davies and comedy stars swap even more funny facts on every subject under the sun. It doesn't matter if they're right, as long as they're quite interesting.</desc>
@@ -2346,9 +2381,24 @@
     <desc>Hilarious out-takes from the worlds of TV, cinema and commercials. The blooper-snooper team uncover calamities and catastrophes from cutting room floors around the world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261110210000 -0500" stop="20261110214500 -0500" channel="5.GB">
+    <title>Forensics: Murder Scene</title>
+    <desc>Forensics: Murder Scene is a groundbreaking observational documentary series which takes the viewer behind the blue police tapes at the crime scene. It tells the inside story of how the expert Forensic teams work alongside West Yorkshire Police to solve and prosecute murders, on the scene as soon as the crime is reported. With unprecedented access to both teams, cameras follow the crime from the 999 call, tracking the work of scientists, forensic experts and Major Crime Team detectives to piece all the evidence together for prosecution.We go inside the murder scene itself, see the evidence as it's discovered in the critical hours after the events take place. More compelling than a drama, more real than any other factual series, new high-end technology combined with expertise and knowledge, provides a definitive look into the world of CSI, where no stone is unturned, and every death literally leaves a deadly trace.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261110211500 -0500" stop="20261110221500 -0500" channel="Channel 4.GB">
     <title>Tempting Fortune</title>
     <desc>Rob Beckett presents the epic competition with a twist. Twelve strangers trek across hostile jungles and wildernesses, but who'll spend some of the shared £300k prize pot on individual luxuries?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261110214500 -0500" stop="20261110223000 -0500" channel="5.GB">
+    <title>Forensics: Murder Scene</title>
+    <desc>Forensics: Murder Scene is a groundbreaking observational documentary series which takes the viewer behind the blue police tapes at the crime scene. It tells the inside story of how the expert Forensic teams work alongside West Yorkshire Police to solve and prosecute murders, on the scene as soon as the crime is reported. With unprecedented access to both teams, cameras follow the crime from the 999 call, tracking the work of scientists, forensic experts and Major Crime Team detectives to piece all the evidence together for prosecution.We go inside the murder scene itself, see the evidence as it's discovered in the critical hours after the events take place. More compelling than a drama, more real than any other factual series, new high-end technology combined with expertise and knowledge, provides a definitive look into the world of CSI, where no stone is unturned, and every death literally leaves a deadly trace.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261110220000 -0500" stop="20261110230000 -0500" channel="TRUE CRIME.GB">
+    <title>UK Forensic Breakthroughs</title>
+    <desc>UK Forensic Breakthroughs analyses ten of the UK's toughest murder cases, where forensic science was crucial in bringing the killer to justice.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261110221500 -0500" stop="20261110230500 -0500" channel="Channel 4.GB">
@@ -2374,6 +2424,11 @@
   <programme start="20261111141000 -0500" stop="20261111150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261111160000 -0500" stop="20261111170000 -0500" channel="ITV1.GB">
+    <title>Deal or No Deal</title>
+    <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261111170000 -0500" stop="20261111180000 -0500" channel="5.GB">
@@ -2419,6 +2474,16 @@
   <programme start="20261111200000 -0500" stop="20261111210000 -0500" channel="Channel 4.GB">
     <title>Location, Location, Location</title>
     <desc>No floorboard is left unturned as dynamic property experts Kirstie Allsopp and Phil Spencer help house hunters find the perfect home in the perfect location.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261111200000 -0500" stop="20261111210000 -0500" channel="5.GB">
+    <title>At War with Next Door</title>
+    <desc>A look at disputes between neighbours in the UK, with exclusive access to the battles raging behind Britain's front doors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261111200000 -0500" stop="20261111210000 -0500" channel="Sky Arts.GB">
+    <title>Portrait Artist of the Year</title>
+    <desc>Portrait Artist of the Year is hosted by UK TV personalities Joan Bakewell and Frank Skinner; an esteemed group of judges travel across the Europe in search of a new star in the art world. Each episode features a regional competition where artists are shortlisted and challenged to produce a portrait of one of three famous sitters. At the end of each round, the judges select an artist to go to the semifinal. The finalists will have their work displayed at the world-famous National Portrait Gallery in London and the winner will receive a £10,000 commission to paint a portrait which will become part of the permanent collection at the British Library.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261111210000 -0500" stop="20261111223000 -0500" channel="5.GB">
