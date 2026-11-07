@@ -1302,6 +1302,16 @@
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261111210000 -0500" stop="20261111220000 -0500" channel="ABC.US">
+    <title>Celebrity Wheel of Fortune</title>
+    <desc>Celebrity Wheel of Fortune welcomes celebrity contestants to come spin the world's most famous wheel and solve word puzzles for a chance to win up to one million dollars. All of the money won by the celebrity contestants will go to a charity of their choice.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261111210000 -0500" stop="20261111220000 -0500" channel="A&amp;E.US">
+    <title>Ozark Law</title>
+    <desc>For nine months of the year, the peaceful towns around central Missouri's Lake of the Ozarks are home to just a few thousand residents. However, when summer arrives, millions of tourists flock to the area, seeking fun on the water and vibrant nightlife in the bars. This surge transforms the serene environment into a bustling hub, putting extra pressure on local law enforcement. In this new 10-episode series, viewers join the Lake Ozark Police Department and Osage Beach Police Department on their daily patrols, witnessing firsthand the challenges they face in maintaining order and ensuring safety in this lively midwestern destination.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261111210200 -0500" stop="20261111220000 -0500" channel="FOX.US">
     <title>99 to Beat</title>
     <desc>In 99 to Beat, 100 contestants go head-to-head in a range of visually distinctive and hilarious games in an arced competition game show like we've never seen before. 99 to Beat is the game show that anyone can win, and there's only one thing players must do for a chance of walking away with the cash prize – Don't. Come. In. Last. As contestants battle it out against each other, each round will see the number of players whittled down until one person is left standing and they take home the top prize of $100,000.</desc>
