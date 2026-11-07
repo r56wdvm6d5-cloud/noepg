@@ -20,6 +20,10 @@
     <display-name>CBS</display-name>
     <country>US</country>
   </channel>
+  <channel id="MS NOW.US">
+    <display-name>MS NOW</display-name>
+    <country>US</country>
+  </channel>
   <channel id="ESPN.US">
     <display-name>ESPN</display-name>
     <country>US</country>
@@ -30,10 +34,6 @@
   </channel>
   <channel id="PBS.US">
     <display-name>PBS</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="MS NOW.US">
-    <display-name>MS NOW</display-name>
     <country>US</country>
   </channel>
   <channel id="History.US">
@@ -187,6 +187,11 @@
     <desc>Interviews, stories and reviews intended to inform, entertain, inspire and set the day's agenda.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261107070000 -0500" stop="20261107100000 -0500" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261107090000 -0500" stop="20261107120000 -0500" channel="ESPN.US">
     <title>College GameDay</title>
     <desc>College GameDay is an ESPN entertainment show previewing college football games. It first aired in 1987 with Tim Brando as host and Lee Corso and Beano Cook as commentators, giving an overview of college football games, but the show underwent a radical transformation beginning in 1993, and began incorporating live broadcasts. The official name of the show is College GameDay built by The Home Depot. There is a separate radio broadcast, ESPN Radio College GameDay, on ESPN Radio. Today, the only original cast member remaining is Lee Corso. Rece Davis serves as host and Kirk Herbstreit is Corso's counterpart. Starting in 2008, Desmond Howardhas been added to the cast in the show's introduction. Craig James served as an analyst from 1990 to 1995. Erin Andrews joined the GameDay crew as a co-host and contributor in 2010, replaced in 2012 by Samantha Ponder. On September 5, 2015, Rece Davis (also host of the college basketball version of GameDay), replaced Chris Fowler as host of the college football version, which itself started its 29th season on that day.The show is known for its prediction segment that appears on each broadcast. Typically there are three predictors: Corso, Herbstreit, and an invited guest, usually a celebrity, prominent athlete, or radio personality associated with the host university or school for that week. The end of the show always concludes with a catch phrase and prediction from Corso, who subsequently dons the mascot's headgear of the school he predicts to win the game, usually to the ire or excitement of local fans. Beginning with the 2013 season, GameDay airs for three hours on ESPN. Previously, beginning in 2010, the first hour of the show was broadcast on ESPNU at 9am ET, with the 2 remaining hours of the show on ESPN from 10am-noon ET.</desc>
@@ -202,6 +207,11 @@
     <desc>Big Noon Kickoff is an American college football studio show broadcast by Fox, and simulcast on sister network Fox Sports 1 (FS1). Premiering on August 31, 2019, it serves as the pre-game show for Fox College Football, and in particular, Big Noon Saturday—the network's weekly 12:00 p.m ET/9:00 a.m PT kickoff window.It is hosted by Rob Stone, and features former national champion and 2004 Heisman Trophy winning USC Trojans quarterback Matt Leinart, former national champion and 2009 Heisman Trophy winning Alabama running back Mark Ingram II, former Notre Dame Fighting Irish quarterback Brady Quinn, and former Bowling Green, Utah, Florida, and Ohio State coach Urban Meyer as panelists, with Bruce Feldman acting as Fox's CFB insider, as well as Tom Verducci, who usually does baseball for Fox, and Tom Rinaldi, both working on feature reports. Radio host Clay Travis serves as a contributor, and 1997 Heisman Trophy winner and former Michigan Wolverines cornerback Charles Woodson will also join the show on select weeks, most notably if Michigan is featured.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261107100000 -0500" stop="20261107130000 -0500" channel="MS NOW.US">
+    <title>Connect with Jacob Soboroff</title>
+    <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261107110000 -0500" stop="20261107113000 -0500" channel="PBS.US">
     <title>Milk Street Television</title>
     <desc>The world of home cooking is undergoing a revolution with new tastes, flavors, techniques and influences. Christopher Kimball's Milk Street Television wants to change how Americans cook by bringing home a fresher, bolder, simpler way of preparing food. Chris and his test cooks search the world over looking for the best recipes, and finding home cooks who can teach better ways to prepare a meal at home. Chris also shares tips and techniques designed to make home cooking easier, like how to make foolproof egg whites and how to season a carbon steel pan. Back in the kitchen, Chris transforms what the Milk Street Television crew has learned into practical, simple recipes for home cooks everywhere.</desc>
@@ -215,6 +225,11 @@
   <programme start="20261107143000 -0500" stop="20261107150000 -0500" channel="PBS.US">
     <title>America's Test Kitchen</title>
     <desc>America's Test Kitchen is filmed in a real, working test kitchen located just outside of Boston. It is the home of Cook's Illustrated magazine and the Monday-to-Friday destination for more than three dozen test cooks, editors, food scientists, tasters, and cookware specialists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261107150000 -0500" stop="20261107153000 -0500" channel="CBS.US">
+    <title>College Football Today</title>
+    <desc>College Football Today is hosted by Adam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261107153000 -0500" stop="20261107160000 -0500" channel="PBS.US">
@@ -267,6 +282,11 @@
     <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261108070000 -0500" stop="20261108100000 -0500" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261108080000 -0500" stop="20261108090000 -0500" channel="NBC.US">
     <title>Sunday TODAY with Willie Geist</title>
     <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
@@ -295,6 +315,11 @@
   <programme start="20261108100000 -0500" stop="20261108110000 -0500" channel="ABC.US">
     <title>This Week</title>
     <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261108100000 -0500" stop="20261108130000 -0500" channel="MS NOW.US">
+    <title>Connect with Jacob Soboroff</title>
+    <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261108103000 -0500" stop="20261108113000 -0500" channel="CBS.US">
@@ -560,6 +585,11 @@
   <programme start="20261109183000 -0500" stop="20261109190000 -0500" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261109183000 -0500" stop="20261109190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261109190000 -0500" stop="20261109200000 -0500" channel="MS NOW.US">
@@ -865,6 +895,11 @@
   <programme start="20261110183000 -0500" stop="20261110190000 -0500" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261110183000 -0500" stop="20261110190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261110190000 -0500" stop="20261110200000 -0500" channel="ESPN.US">
@@ -1212,6 +1247,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261111183000 -0500" stop="20261111190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261111190000 -0500" stop="20261111200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1300,11 +1340,6 @@
   <programme start="20261111210000 -0500" stop="20261111213000 -0500" channel="Bravo.US">
     <title>Watch What Happens Live</title>
     <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261111210000 -0500" stop="20261111220000 -0500" channel="ABC.US">
-    <title>Celebrity Wheel of Fortune</title>
-    <desc>Celebrity Wheel of Fortune welcomes celebrity contestants to come spin the world's most famous wheel and solve word puzzles for a chance to win up to one million dollars. All of the money won by the celebrity contestants will go to a charity of their choice.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261111210000 -0500" stop="20261111220000 -0500" channel="A&amp;E.US">
@@ -1565,6 +1600,11 @@
   <programme start="20261112183000 -0500" stop="20261112190000 -0500" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261112183000 -0500" stop="20261112190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261112190000 -0500" stop="20261112200000 -0500" channel="MS NOW.US">
@@ -1897,6 +1937,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261113183000 -0500" stop="20261113190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261113190000 -0500" stop="20261113200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -2012,12 +2057,12 @@
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261107174500 -0500" stop="20261107183000 -0500" channel="BBC One.GB">
+  <programme start="20261107175500 -0500" stop="20261107184000 -0500" channel="BBC One.GB">
     <title>The Famous Finish Line</title>
     <desc>Five celebrities race in moving podiums across a star-spangled-themed studio to try to win £10,000 for their chosen charity.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261107183000 -0500" stop="20261107201500 -0500" channel="BBC One.GB">
+  <programme start="20261107184000 -0500" stop="20261107201500 -0500" channel="BBC One.GB">
     <title>Strictly Come Dancing</title>
     <desc>Celebrities take to the dance floor to perform a dazzling display of ballroom routines.</desc>
     <category>TV Show</category>
@@ -2662,6 +2707,11 @@
     <desc>In Toronto's war on crime, the worst offenders are pursued by the detectives of the specialized criminal investigations unit. These are their stories.As a psychological thriller wrapped in a criminal investigation, Law &amp;amp; Order Toronto: Criminal Intent follows an elite squad of detectives who investigate high-profile crime and corruption in metro Toronto.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261113210000 -0500" stop="20261113220000 -0500" channel="CBC.CA">
+    <title>The Fifth Estate</title>
+    <desc>For four decades the fifth estate has been Canada's premier investigative documentary program. Hosts Bob McKeown, Gillian Findlay and Mark Kelley continue the tradition of provocative and fearless journalism which began with Adrienne Clarkson, Warner Troyer and Peter Reilly in 1975.Each week the fifth estate brings in-depth investigations that matter to Canadians – delivering a dazzling parade of political leaders, controversial characters and ordinary people whose lives were touched by triumph or tragedy.In 2014, the fifth estate won an International Emmy® Award for its investigation into the Rana Plaza collapse in Bangladesh, titled Made in Bangladesh. For the third year in a row, the fifth estate was named Canada's Best News Information Series at the Canadian Screen Awards.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261108090000 -0500" stop="20261108100000 -0500" channel="ABC.AU">
     <title>Insiders</title>
     <desc>Australia's must-watch political program continues to be a platform for the country's best political analysts and commentators, taking you to the heart of the action every Sunday morning.Insiders entered a very crowded Sunday morning political market in 2001. But our approach was to provide coverage with so many more elements, and to do it in a way that is informative but irreverent. And of course have a few laughs along the way. If you took politics too seriously you'd go mad," said founding host Barrie Cassidy.Insiders is the most watched morning show on Australian TV any day of the week. So start your week with the program the politicians rely on to find out what's going on.Insiders is broadcast on Sundays from 9am to 10am (AEST) on ABC TV and the ABC News channel.</desc>
@@ -2752,7 +2802,7 @@
     <desc>Host Tom Gleeson sets out to find Australia's hardest quiz champion, pitting four contestants against each other in a battle of attrition.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261111203000 -0500" stop="20261111210000 -0500" channel="ABC.AU">
+  <programme start="20261111203200 -0500" stop="20261111205900 -0500" channel="ABC.AU">
     <title>Separated at Birth</title>
     <desc>Paramedic besties Sameer and Donna excel at work but fail at adulting. With baby and house disasters, it'll take a child to raise this village.</desc>
     <category>TV Show</category>
