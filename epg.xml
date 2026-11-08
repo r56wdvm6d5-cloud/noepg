@@ -120,12 +120,12 @@
     <display-name>Quest</display-name>
     <country>GB</country>
   </channel>
-  <channel id="TRUE CRIME.GB">
-    <display-name>TRUE CRIME</display-name>
-    <country>GB</country>
-  </channel>
   <channel id="Sky Arts.GB">
     <display-name>Sky Arts</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="TRUE CRIME.GB">
+    <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
   <channel id="Discovery.GB">
@@ -1557,11 +1557,6 @@
     <desc>Eternally Yours is a family comedy centered around Charles and Liz - a vampire couple whose once-passionate romance has devolved into a pulseless marriage after 500 years together. Living in present-day Seattle with their oddball coven, they've settled into an eternal rut - until their daughter's earnest human boyfriend unexpectedly enters their lives and forces them to confront whether their love can survive forever... or if forever is a life sentence.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261112210000 -0500" stop="20261112220000 -0500" channel="Bravo.US">
-    <title>Southern Charm</title>
-    <desc>Southern Charm goes behind the walls of Charleston, South Carolina's most aristocratic families to reveal a world of exclusivity, money and scandal that goes back generations. The fast-paced, drama-filled docu-series follows six Charleston singles — Craig Conover, Cameran Eubanks, Jenna King, Thomas Ravenel, Shepard "Shep" Rose, and Whitney Sudler Smith — struggling with the constraints of this tight-knit, posh society. The cast, some descendants of Vice Presidents and four-term Senators, and others from "new money," is comprised of Southern bachelors who suffer from "Peter Pan Syndrome" by refusing to settle down; and the women in their lives who challenge them to grow up. Viewers will see them launch political careers, build businesses, break hearts, and chase true love -- all while struggling to preserve their family names. Because in Charleston, you're only as good as your last garden party and one social screw-up can taint generations to come.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261112210000 -0500" stop="20261112220000 -0500" channel="HBO.US">
     <title>War</title>
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
@@ -1605,6 +1600,11 @@
   <programme start="20261112210200 -0500" stop="20261112220000 -0500" channel="FOX.US">
     <title>Special Forces: World's Toughest Test</title>
     <desc>Household names endure some of the harshest, most grueling challenges from the playbook of the actual Special Forces selection process. There are no votes, and no eliminations – just survival. These celebrities, who are so used to being in the spotlight, quickly learn the meaning of "no guts, no glory" – and no glam.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261112211500 -0500" stop="20261112221500 -0500" channel="Bravo.US">
+    <title>Southern Charm</title>
+    <desc>Southern Charm goes behind the walls of Charleston, South Carolina's most aristocratic families to reveal a world of exclusivity, money and scandal that goes back generations. The fast-paced, drama-filled docu-series follows six Charleston singles — Craig Conover, Cameran Eubanks, Jenna King, Thomas Ravenel, Shepard "Shep" Rose, and Whitney Sudler Smith — struggling with the constraints of this tight-knit, posh society. The cast, some descendants of Vice Presidents and four-term Senators, and others from "new money," is comprised of Southern bachelors who suffer from "Peter Pan Syndrome" by refusing to settle down; and the women in their lives who challenge them to grow up. Viewers will see them launch political careers, build businesses, break hearts, and chase true love -- all while struggling to preserve their family names. Because in Charleston, you're only as good as your last garden party and one social screw-up can taint generations to come.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261112220000 -0500" stop="20261112230000 -0500" channel="A&amp;E.US">
@@ -2325,6 +2325,11 @@
   <programme start="20261110200000 -0500" stop="20261110210000 -0500" channel="5.GB">
     <title>The Motorway Cops: Catching Britain's Speeders</title>
     <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261110200000 -0500" stop="20261110210000 -0500" channel="Sky Arts.GB">
+    <title>Inside the Music</title>
+    <desc>In a brand new series, Inside the Music dives into five of the world's most beloved symphonies and their creation. With their specific tone and cadence to create moving art, each symphony will be performed by the orchestra and decoded by principal conductor Edward Gardner, creative director Paavo Järvi and guest conductor Karina Canellakis. Featuring interviews from members of the string, brass, percussion and woodwind section, the group dissect what makes these pieces so special and showstopping, instrument by instrument, as well as looking into the lives of the maestros that made them.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261110210000 -0500" stop="20261110214500 -0500" channel="BBC Two.GB">
