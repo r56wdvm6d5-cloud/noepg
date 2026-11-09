@@ -128,12 +128,12 @@
     <display-name>Discovery</display-name>
     <country>GB</country>
   </channel>
-  <channel id="CTV.CA">
-    <display-name>CTV</display-name>
-    <country>CA</country>
-  </channel>
   <channel id="Citytv.CA">
     <display-name>Citytv</display-name>
+    <country>CA</country>
+  </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
   <channel id="CBC.CA">
@@ -308,7 +308,7 @@
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261109200000 -0500" stop="20261109210000 -0500" channel="CBS.US">
+  <programme start="20261109200000 -0500" stop="20261109210100 -0500" channel="CBS.US">
     <title>FBI</title>
     <desc>FBI is a fast-paced drama about the inner workings of the New York Field Office of the Federal Bureau of Investigation. These first-class agents, including Special Agent Maggie Bell and her partner, Special Agent Omar Adom 'OA' Zidan, bring all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.</desc>
     <category>TV Show</category>
@@ -483,7 +483,7 @@
     <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261110070000 -0500" stop="20261110072700 -0500" channel="PBS.US">
+  <programme start="20261110070000 -0500" stop="20261110073000 -0500" channel="PBS.US">
     <title>Maryland Farm &amp; Harvest</title>
     <desc>A series exploring the history of farming and agriculture in Maryland.</desc>
     <category>TV Show</category>
@@ -1763,6 +1763,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261113220000 -0500" stop="20261113230000 -0500" channel="HBO.US">
+    <title>Real Time with Bill Maher</title>
+    <desc>Real Time with Bill Maher includes an opening monologue, roundtable discussions with panelists, and interviews with in-studio and satellite guests. Politico hailed Maher as "a pugnacious debater and a healthy corrective to the claptrap of cable news", while Variety noted, "There may not be a more eclectic guest list on all of television".</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261113220300 -0500" stop="20261113230500 -0500" channel="History.US">
     <title>Mysteries From Above</title>
     <desc>Investigate significant historic and contemporary sites from the revealing vantage points of drone, satellite, and aerial photography. Each episode contains four distinct stories, and each story begins with a view from above, allowing for a unique perspective from which to understand the site below, dramatically changing the way we see ourselves and the world around us.</desc>
@@ -2658,6 +2663,11 @@
     <desc>A ground-breaking look at the drama and emotion of a maternity unit, from the perspective of the parents-to-be and the maternity ward staff.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261109200000 -0500" stop="20261109210000 -0500" channel="Citytv.CA">
+    <title>The Price is Right Tonight</title>
+    <desc>Hosted by legendary comedian and television personality Howie Mandel, The Price Is Right Tonight is a new Canadian series that brings the iconic game show's joyful wins and classic format to a primetime audience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261109210000 -0500" stop="20261109220000 -0500" channel="CTV.CA">
     <title>The Traitors Canada</title>
     <desc>Follow a group of contestants – including some familiar faces – who live together as they complete a series of challenges with the goal of earning a cash prize. The catch? Some of the contestants are traitors who will attempt to deceive and manipulate their way to the prize instead of sharing it amongst the group. In this psychological adventure will the traitors be unmasked in time?</desc>
@@ -2816,6 +2826,11 @@
   <programme start="20261113230000 -0500" stop="20261113233000 -0500" channel="ABC.AU">
     <title>ABC Late News</title>
     <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261115123000 -0500" stop="20261115133000 -0500" channel="ABC.AU">
+    <title>Landline</title>
+    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261115193000 -0500" stop="20261115202000 -0500" channel="ABC.AU">
