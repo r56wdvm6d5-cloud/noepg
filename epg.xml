@@ -1063,7 +1063,7 @@
     <desc>9-1-1 is a fast-paced exploration into the lives and careers of first responders – cops, paramedics, firefighters – the people who put their lives on the line to save others.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261112200000 -0500" stop="20261112210000 -0500" channel="FOX.US">
+  <programme start="20261112200000 -0500" stop="20261112210200 -0500" channel="FOX.US">
     <title>Hell's Kitchen</title>
     <desc>In Hell's Kitchen, aspiring chefs are put through an intense culinary academy to prove they possess the right combination of ingredients to win a life-changing grand prize.</desc>
     <category>TV Show</category>
@@ -1588,6 +1588,11 @@
     <desc>"Cook's Country from America's Test Kitchen" is a half-hour cooking show distributed to public television stations (reruns airing on Create) in the United States, which are also available in most Canadian markets. The show's hosts are Julia Collin Davison &amp;amp; Bridget Lancaster; the show and the magazine are affiliated, and the magazine's test kitchen facility in Brookline, Massachusetts, is used as a set for the show. Cook's Illustrated's parent company, Boston Common Press, while retaining its corporate name, has marketed its publishing and media activities under the America's Test Kitchen brand beginning in 2004.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261114153000 -0500" stop="20261114190000 -0500" channel="ABC.US">
+    <title>SEC on ABC</title>
+    <desc>SEC on ABC on November 21, 2020, ABC aired its first SEC regular season game since 1995, Florida–Vanderbilt, which was moved from ESPN due to the postponement of an ACC game (Clemson–Florida State) that was originally expected to air on the network due to COVID-19 pandemic complications.On December 10, 2020, ESPN announced that it had acquired the top-tier rights to the SEC under a 10-year, $3 billion contract to begin in the 2024 season; ABC will hold rights to the top SEC game of the week (replacing CBS). As before, they will primarily air in the 3:30 window, but there will also be the possibility for games to be carried on Saturday Night Football. ABC will also hold rights to the SEC Championship Game. During the Disney upfronts, ESPN unveiled an SEC on ABC branding for these games.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261114160000 -0500" stop="20261114180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1873,6 +1878,11 @@
     <desc>A look at the latest news and headlines with Sandra Smith and John Roberts</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261116130000 -0500" stop="20261116140000 -0500" channel="ABC.US">
+    <title>GMA3</title>
+    <desc>GMA3 is a news, health, lifestyle and shopping program.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261116140000 -0500" stop="20261116160000 -0500" channel="MS NOW.US">
     <title>The Moment with Katy Tur</title>
     <desc>The Moment with Katy Tur is designed to move beyond the immediate headlines to provide deeper context and understanding of the political and national stories shaping the day.</desc>
@@ -1941,6 +1951,11 @@
   <programme start="20261116200000 -0500" stop="20261116210000 -0500" channel="CNN.US">
     <title>Anderson Cooper 360°</title>
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261116200000 -0500" stop="20261116210000 -0500" channel="Bravo.US">
+    <title>Below Deck</title>
+    <desc>The upstairs and downstairs worlds collide when this young and single crew of "yachties" live, love and work together on board a luxurious mega yacht while tending to the ever-changing needs of their wealthy, demanding charter guests on Below Deck.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116201500 -0500" stop="20261116234500 -0500" channel="ESPN.US">
