@@ -128,6 +128,10 @@
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
   </channel>
+  <channel id="CTV.CA">
+    <display-name>CTV</display-name>
+    <country>CA</country>
+  </channel>
   <channel id="Global.CA">
     <display-name>Global</display-name>
     <country>CA</country>
@@ -138,10 +142,6 @@
   </channel>
   <channel id="Citytv.CA">
     <display-name>Citytv</display-name>
-    <country>CA</country>
-  </channel>
-  <channel id="CTV.CA">
-    <display-name>CTV</display-name>
     <country>CA</country>
   </channel>
   <channel id="ABC.AU">
@@ -2491,6 +2491,11 @@
   <programme start="20261117222000 -0500" stop="20261117230500 -0500" channel="Channel 4.GB">
     <title>The Great British Bake Off: Second Helpings</title>
     <desc>Together with a celebrity guest in the studio, Jon and Judi will chew over the drama, celebrate the standout moments and revisit all the action from inside the Bake Off tent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261111210000 -0500" stop="20261111220000 -0500" channel="CTV.CA">
+    <title>MasterChef Canada</title>
+    <desc>One year after its smash-hit debut on CTV, MasterChef Canada is back to dish out a second helping of food-driven drama and excitement. The ultimate culinary competition offers home cooks a once-in-a-lifetime opportunity to demonstrate their skill and passion, as they compete for $100,000 and the title of Canada's next MasterChef.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261111213000 -0500" stop="20261111223000 -0500" channel="Global.CA">
