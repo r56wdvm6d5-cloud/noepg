@@ -739,6 +739,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261113210000 -0500" stop="20261113230000 -0500" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261113210800 -0500" stop="20261113220900 -0500" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
@@ -899,9 +904,24 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261114190000 -0500" stop="20261114193000 -0500" channel="NBC.US">
+    <title>B1G College Countdown</title>
+    <desc>B1G College Countdown will capture college football's unique gameday atmosphere by providing pre-game and halftime commentary from the site of that week's primetime game – 11 Big Ten and two Notre Dame games. The show will also provide pre-game and halftime content for most of NBC Sports' college football afternoon games throughout the season on NBC and Peacock.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261114193000 -0500" stop="20261114230000 -0500" channel="NBC.US">
+    <title>Big Ten Saturday Night</title>
+    <desc />
+    <category>TV Show</category>
+  </programme>
   <programme start="20261114210000 -0500" stop="20261114220000 -0500" channel="CNN.US">
     <title>Have I Got News for You</title>
     <desc>Have I Got News for You is the comedy panel show which delivers comic observations from the satirical to the surreal through the lens of a news quiz show. An institution in Britain, this an award-winning comedy series is now invading America! Always relevant and topical, the series serves up a smart, silly, opinionated, and edgy take on the news of the week featuring a rotating collection of comedians, pundits, politicos, and entertainers. It features host Roy Wood Jr. along with two illustrious team captains Amber Ruffin and Michael Ian Black to guide the guests through an array of games and quick-witted panel conversations that test their knowledge of current events.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261114220000 -0500" stop="20261114230000 -0500" channel="CBS.US">
+    <title>48 Hours</title>
+    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261114230000 -0500" stop="20261115000000 -0500" channel="PBS.US">
@@ -2302,11 +2322,6 @@
   <programme start="20261117200000 -0500" stop="20261117210000 -0500" channel="5.GB">
     <title>The Motorway Cops: Catching Britain's Speeders</title>
     <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261117200000 -0500" stop="20261117210000 -0500" channel="Sky Arts.GB">
-    <title>Inside the Music</title>
-    <desc>In a brand new series, Inside the Music dives into five of the world's most beloved symphonies and their creation. With their specific tone and cadence to create moving art, each symphony will be performed by the orchestra and decoded by principal conductor Edward Gardner, creative director Paavo Järvi and guest conductor Karina Canellakis. Featuring interviews from members of the string, brass, percussion and woodwind section, the group dissect what makes these pieces so special and showstopping, instrument by instrument, as well as looking into the lives of the maestros that made them.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117210000 -0500" stop="20261117223000 -0500" channel="ITV1.GB">
