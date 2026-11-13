@@ -415,7 +415,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20261113220300 -0500" stop="20261113230500 -0500" channel="History.US">
-    <title>Mysteries From Above</title>
+    <title>Mysteries from Above</title>
     <desc>Investigate significant historic and contemporary sites from the revealing vantage points of drone, satellite, and aerial photography. Each episode contains four distinct stories, and each story begins with a view from above, allowing for a unique perspective from which to understand the site below, dramatically changing the way we see ourselves and the world around us.</desc>
     <category>TV Show</category>
   </programme>
@@ -669,6 +669,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261115183000 -0500" stop="20261115190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261115190000 -0500" stop="20261115201500 -0500" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -894,6 +899,11 @@
     <desc>Monday Night Countdown, which debuted in 1993 on ESPN, is a television program featuring analysis and news on that night's NFL match to be broadcast on ESPN. The show was originally titled NFL Prime Monday from 1993-97 before it was renamed Monday Night Countdown in 1998. The official name of the show is Monday Night Countdown served by Applebee's. The show's previous sponsor was UPS. When it debuted, it was one of the first cross-pollinations between ESPN and ABC Sports, which each largely operated under separate management at the time.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261116183000 -0500" stop="20261116190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261116190000 -0500" stop="20261116200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1007,6 +1017,11 @@
   <programme start="20261116233500 -0500" stop="20261117003500 -0500" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261116233500 -0500" stop="20261117003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116000000 -0500" stop="20261116020000 -0500" channel="CNN.US">
@@ -1152,6 +1167,11 @@
   <programme start="20261117180000 -0500" stop="20261117190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117183000 -0500" stop="20261117190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117190000 -0500" stop="20261117200000 -0500" channel="MS NOW.US">
@@ -1314,6 +1334,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261117233500 -0500" stop="20261118003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261117000000 -0500" stop="20261117020000 -0500" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -1467,6 +1492,11 @@
   <programme start="20261118183000 -0500" stop="20261118190000 -0500" channel="ESPN.US">
     <title>NBA Countdown</title>
     <desc>NBA Countdown serves as the primer for game telecasts on both ABC and ESPN. It features a less-scripted format, highlighted by a lively round-table discussion and debate of the top story lines around the league. Seats at the table are reserved for host Sage Steele and analysts Doug Collins and Jalen Rose. The latter two impart wisdom based on many years of combined playing and coaching experience. Doris Burke contributes analysis on the program's Wednesday editions.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118183000 -0500" stop="20261118190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118190000 -0500" stop="20261118200000 -0500" channel="MS NOW.US">
@@ -1634,6 +1664,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261118233500 -0500" stop="20261119003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261118000000 -0500" stop="20261118020000 -0500" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -1782,6 +1817,11 @@
   <programme start="20261119180000 -0500" stop="20261119190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261119183000 -0500" stop="20261119190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261119190000 -0500" stop="20261119200000 -0500" channel="MS NOW.US">
@@ -1939,6 +1979,11 @@
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261119233500 -0500" stop="20261120003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119000000 -0500" stop="20261119020000 -0500" channel="CNN.US">
     <title>The Story Is with Elex Michaelson</title>
     <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
@@ -1957,6 +2002,11 @@
   <programme start="20261113141000 -0500" stop="20261113150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261113150000 -0500" stop="20261113160000 -0500" channel="ITV1.GB">
+    <title>Lingo</title>
+    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261113160000 -0500" stop="20261113170000 -0500" channel="ITV1.GB">
@@ -2144,6 +2194,11 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261116150000 -0500" stop="20261116160000 -0500" channel="ITV1.GB">
+    <title>Lingo</title>
+    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261116160000 -0500" stop="20261116170000 -0500" channel="ITV1.GB">
     <title>Deal or No Deal</title>
     <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
@@ -2234,6 +2289,11 @@
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261117150000 -0500" stop="20261117160000 -0500" channel="ITV1.GB">
+    <title>Lingo</title>
+    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261117160000 -0500" stop="20261117170000 -0500" channel="ITV1.GB">
     <title>Deal or No Deal</title>
     <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
@@ -2312,6 +2372,11 @@
   <programme start="20261118141000 -0500" stop="20261118150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118150000 -0500" stop="20261118160000 -0500" channel="ITV1.GB">
+    <title>Lingo</title>
+    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118160000 -0500" stop="20261118170000 -0500" channel="ITV1.GB">
@@ -2397,6 +2462,11 @@
   <programme start="20261119141000 -0500" stop="20261119150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261119150000 -0500" stop="20261119160000 -0500" channel="ITV1.GB">
+    <title>Lingo</title>
+    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261119160000 -0500" stop="20261119170000 -0500" channel="ITV1.GB">
