@@ -389,6 +389,11 @@
     <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261113210000 -0500" stop="20261113230000 -0500" channel="ABC.US">
+    <title>20/20</title>
+    <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261113210800 -0500" stop="20261113220900 -0500" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
@@ -834,6 +839,11 @@
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261116110000 -0500" stop="20261116120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261116120000 -0500" stop="20261116140000 -0500" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1112,6 +1122,11 @@
   <programme start="20261117110000 -0500" stop="20261117120000 -0500" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117110000 -0500" stop="20261117120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117120000 -0500" stop="20261117140000 -0500" channel="MS NOW.US">
@@ -1432,6 +1447,11 @@
   <programme start="20261118110000 -0500" stop="20261118120000 -0500" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118110000 -0500" stop="20261118120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118120000 -0500" stop="20261118140000 -0500" channel="MS NOW.US">
@@ -1759,6 +1779,11 @@
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261119110000 -0500" stop="20261119120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119120000 -0500" stop="20261119140000 -0500" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -2002,11 +2027,6 @@
   <programme start="20261113141000 -0500" stop="20261113150000 -0500" channel="Channel 4.GB">
     <title>Countdown</title>
     <desc>The show in which two contestants engage in a battle of wits, competing against the clock in games of lexical dexterity and numerical agility.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261113150000 -0500" stop="20261113160000 -0500" channel="ITV1.GB">
-    <title>Lingo</title>
-    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261113160000 -0500" stop="20261113170000 -0500" channel="ITV1.GB">
@@ -2287,6 +2307,11 @@
   <programme start="20261117150000 -0500" stop="20261117154500 -0500" channel="BBC One.GB">
     <title>Escape to the Country</title>
     <desc>A series which helps prospective buyers find their dream home in the country.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117150000 -0500" stop="20261117160000 -0500" channel="ITV1.GB">
+    <title>Lingo</title>
+    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117150000 -0500" stop="20261117160000 -0500" channel="ITV1.GB">
