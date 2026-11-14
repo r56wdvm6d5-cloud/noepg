@@ -12,16 +12,16 @@
     <display-name>Discovery</display-name>
     <country>US</country>
   </channel>
+  <channel id="MS NOW.US">
+    <display-name>MS NOW</display-name>
+    <country>US</country>
+  </channel>
   <channel id="CBS.US">
     <display-name>CBS</display-name>
     <country>US</country>
   </channel>
   <channel id="NBC.US">
     <display-name>NBC</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="MS NOW.US">
-    <display-name>MS NOW</display-name>
     <country>US</country>
   </channel>
   <channel id="ESPN.US">
@@ -167,6 +167,11 @@
     <desc>It takes a family to raise a farm! This new reality series provides a glimpse into the life and living of America's farm families. They work hard and play even harder.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261114060000 -0500" stop="20261114100000 -0500" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261114070000 -0500" stop="20261114080000 -0500" channel="ABC.US">
     <title>Good Morning America: Weekend Edition</title>
     <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
@@ -182,9 +187,9 @@
     <desc>Interviews, stories and reviews intended to inform, entertain, inspire and set the day's agenda.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261114070000 -0500" stop="20261114100000 -0500" channel="MS NOW.US">
-    <title>The Weekend</title>
-    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
+  <programme start="20261114083000 -0500" stop="20261114090000 -0500" channel="CBS.US">
+    <title>Lucky Dog: Down Under</title>
+    <desc>Host Brandon McMillan showcases the heartwarming stories of Australian shelter dogs as they transition from rescue and rehabilitation to cherished members of loving families. Whether it's a scrappy terrier, an energetic kelpie or a partially deaf cattle dog, audiences discover that second chances can transform lives on both ends of the leash. This original series is based on the hit international format "The Dog House Australia."</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261114090000 -0500" stop="20261114120000 -0500" channel="ESPN.US">
@@ -235,6 +240,11 @@
   <programme start="20261114143000 -0500" stop="20261114150000 -0500" channel="PBS.US">
     <title>America's Test Kitchen</title>
     <desc>America's Test Kitchen is filmed in a real, working test kitchen located just outside of Boston. It is the home of Cook's Illustrated magazine and the Monday-to-Friday destination for more than three dozen test cooks, editors, food scientists, tasters, and cookware specialists.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261114143000 -0500" stop="20261114153000 -0500" channel="CBS.US">
+    <title>College Football Today</title>
+    <desc>College Football Today is hosted by Adam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261114153000 -0500" stop="20261114190000 -0500" channel="NBC.US">
@@ -622,6 +632,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261116183000 -0500" stop="20261116190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261116190000 -0500" stop="20261116200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -895,6 +910,11 @@
   <programme start="20261117183000 -0500" stop="20261117190000 -0500" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117183000 -0500" stop="20261117190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117190000 -0500" stop="20261117200000 -0500" channel="MS NOW.US">
@@ -1227,6 +1247,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261118183000 -0500" stop="20261118190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261118190000 -0500" stop="20261118200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1557,6 +1582,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261119183000 -0500" stop="20261119190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119190000 -0500" stop="20261119200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1875,6 +1905,11 @@
   <programme start="20261120183000 -0500" stop="20261120190000 -0500" channel="NBC.US">
     <title>NBC Nightly News</title>
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261120183000 -0500" stop="20261120190000 -0500" channel="CBS.US">
+    <title>CBS Evening News</title>
+    <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261120190000 -0500" stop="20261120200000 -0500" channel="MS NOW.US">
