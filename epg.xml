@@ -120,6 +120,10 @@
     <display-name>Comedy Central</display-name>
     <country>GB</country>
   </channel>
+  <channel id="National Geographic.GB">
+    <display-name>National Geographic</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="TRUE CRIME.GB">
     <display-name>TRUE CRIME</display-name>
     <country>GB</country>
@@ -2213,11 +2217,6 @@
     <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261117150000 -0500" stop="20261117160000 -0500" channel="ITV1.GB">
-    <title>Lingo</title>
-    <desc>Three teams are pitted against each other in a battle to find words. With each round the stakes become higher and the prize money escalates. Tactics are paramount - if a team cannot find a word there are opportunities for their opponents to swoop in and claim the word and the money. Only one pair makes it to the End Game, where they can double their prize pot - however, if words fail them, they could lose everything and leave empty handed.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261117160000 -0500" stop="20261117170000 -0500" channel="ITV1.GB">
     <title>Deal or No Deal</title>
     <desc>The iconic TV series Deal or No Deal is back but in a brand-new setting with brand-new prize boxes and a new batch of contestants hoping to win a whopping cash prize but who will have what it takes to beat our brand new Banker?</desc>
@@ -2266,6 +2265,11 @@
   <programme start="20261117200000 -0500" stop="20261117210000 -0500" channel="5.GB">
     <title>The Motorway Cops: Catching Britain's Speeders</title>
     <desc>Nicky Campbell narrates a look at how the nation's roads are policed, joining Cheshire's elite team of motorway officers as they crack down on Britain's worst drivers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117200000 -0500" stop="20261117210000 -0500" channel="National Geographic.GB">
+    <title>World War II: Secrets from Above</title>
+    <desc>As we fly above the infamous battle sites of D-Day and Dunkirk, soar over hidden Nazi bunkers, and glide across lost battleships and sunken shipwrecks – this new series exposes secrets of World War Two - in a brand-new way.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117210000 -0500" stop="20261117223000 -0500" channel="ITV1.GB">
