@@ -207,6 +207,11 @@
     <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261115100000 -0500" stop="20261115110000 -0500" channel="CNN.US">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Fareed Zakaria GPS is a weekly public affairs show hosted by journalist and author Fareed Zakaria. As of November 2011, the show airs Sundays at 10 am Eastern Time and 1 pm Eastern Time on CNN. The show also airs Sundays at 1200 and 1900 GMT on CNN International. The "GPS" in the show's title stands for "Global Public Square," a reference to the show's focus on international issues and foreign affairs. On August 10, 2012, CNN suspended the program pending their investigation of suspected plagiarism. One week later, the New York Times reported, "Time and CNN said they had completed their reviews, found no evidence of plagiarism, and restored Mr. Zakaria to his demanding schedule." Each installment features Zakaria leading a panel discussion and conducting an extended one-on-one interview.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261115103000 -0500" stop="20261115113000 -0500" channel="CBS.US">
     <title>Face the Nation</title>
     <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
@@ -2377,6 +2382,11 @@
     <desc>The First Dates restaurant throws open its doors to single people looking for love.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261118220000 -0500" stop="20261118230000 -0500" channel="TRUE CRIME.GB">
+    <title>Deadly Destinations</title>
+    <desc>Deadly Destinations chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119124500 -0500" stop="20261119125000 -0500" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2440,6 +2450,11 @@
   <programme start="20261119200000 -0500" stop="20261119210000 -0500" channel="5.GB">
     <title>The Yorkshire Vet: At Home with the Greens</title>
     <desc>Celebrating the everyday lives of two of Britain's oldest farmers: Steve and Jean Green.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261119200000 -0500" stop="20261119210000 -0500" channel="Sky Arts.GB">
+    <title>Classic Movies: Iconic Scenes</title>
+    <desc>Ian Nathan examines some of the most memorable scenes in the history of cinema.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="BBC One.GB">
