@@ -88,6 +88,10 @@
     <display-name>ITV1</display-name>
     <country>GB</country>
   </channel>
+  <channel id="Channel 4.GB">
+    <display-name>Channel 4</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="BBC One.GB">
     <display-name>BBC One</display-name>
     <country>GB</country>
@@ -98,10 +102,6 @@
   </channel>
   <channel id="BBC Alba.GB">
     <display-name>BBC Alba</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="Channel 4.GB">
-    <display-name>Channel 4</display-name>
     <country>GB</country>
   </channel>
   <channel id="E4.GB">
@@ -222,7 +222,7 @@
     <desc>The NFL Today is an American sports-talk television program on CBS that serves as the pre-game show for the network's National Football League (NFL) game telecasts under the NFL on CBS brand. The program features commentary on the latest news around the NFL from its hosts and studio analysts, as well as predictions for the day's games and interviews with players and coaches. Originally debuting as Pro Football Kickoff on September 17, 1961, the program airs before all NFL games broadcast by CBS (usually on Sundays at 12:00 p.m. Eastern Time), and generally runs for one hour (except for Thursday prime time games during the first half of the season, during which a 45-minute edition airs, as well as on Thanksgiving and during the postseason).</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115123000 -0500" stop="20261115130000 -0500" channel="FOX.US">
+  <programme start="20261115124000 -0500" stop="20261115125200 -0500" channel="FOX.US">
     <title>FOX NFL Sunday</title>
     <desc>Fox NFL Sunday is an American sports-talk television program on Fox that debuted on September 4, 1994, and serves as the pre-game show for the network's National Football League game telecasts under the NFL on Fox brand. An audio simulcast of the program airs on sister radio network Fox Sports Radio, which is distributed by Premiere Radio Networks. As of 2014, the program has won four Emmy Awards. Fox NFL Sunday debuted on September 4, 1994, when Fox inaugurated its NFL game broadcasts through the network's recently acquired broadcast rights to the National Football Conference; it was originally hosted by James Brown, Terry Bradshaw, Howie Long and Jimmy Johnson (both Brown and Bradshaw had joined the network from CBS to help helm Fox's NFL coverage). The program was notable in being the first hour-long NFL pregame show on a broadcast television network; network pregame programs that existed beforehand, such as CBS' The NFL Today or NBC's NFL Live!, aired as 30-minute broadcasts. Fox's show also adopted a looser, more irreverent approach than its predecessors in order to also appeal to the network's younger-skewing audiences. During Johnson's initial season on Fox NFL Sunday, he would often join the show from his home in Florida. There was much speculation that Jimmy Johnson would return to coaching during the first year of the program's run. Prior to the end of the year, Johnson made an "announcement," saying he was happy with his new career in broadcasting. But in 1996, he left the program to become head coach of the Miami Dolphins; Ronnie Lott was brought in to succeed him, and stayed with the program for two seasons.</desc>
     <category>TV Show</category>
@@ -465,6 +465,11 @@
   <programme start="20261116140000 -0500" stop="20261116150000 -0500" channel="ESPN.US">
     <title>Big Day with Peter Schrager</title>
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261116140000 -0500" stop="20261116150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116150000 -0500" stop="20261116170000 -0500" channel="ESPN.US">
@@ -755,6 +760,11 @@
   <programme start="20261117140000 -0500" stop="20261117150000 -0500" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117140000 -0500" stop="20261117150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117160000 -0500" stop="20261117180000 -0500" channel="MS NOW.US">
@@ -1085,6 +1095,11 @@
   <programme start="20261118140000 -0500" stop="20261118150000 -0500" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118140000 -0500" stop="20261118150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118160000 -0500" stop="20261118180000 -0500" channel="MS NOW.US">
@@ -1427,6 +1442,11 @@
     <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261119140000 -0500" stop="20261119150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119160000 -0500" stop="20261119180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1747,6 +1767,11 @@
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261120140000 -0500" stop="20261120150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261120160000 -0500" stop="20261120180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -2027,6 +2052,11 @@
     <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261115100000 -0500" stop="20261115130000 -0500" channel="Channel 4.GB">
+    <title>Sunday Brunch</title>
+    <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261115131500 -0500" stop="20261115135000 -0500" channel="BBC One.GB">
     <title>Songs of Praise</title>
     <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
@@ -2080,6 +2110,11 @@
   <programme start="20261115220000 -0500" stop="20261115224500 -0500" channel="BBC Two.GB">
     <title>Later... with Jools Holland</title>
     <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261116123000 -0500" stop="20261116130000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116124500 -0500" stop="20261116125000 -0500" channel="5.GB">
@@ -2180,6 +2215,11 @@
   <programme start="20261116210000 -0500" stop="20261116220000 -0500" channel="E4.GB">
     <title>Made in Chelsea</title>
     <desc>A look at the lifestyles of a group of 20-something residents of the exclusive postcode in London, Chelsea, SW3.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117123000 -0500" stop="20261117130000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117124500 -0500" stop="20261117125000 -0500" channel="5.GB">
@@ -2287,6 +2327,11 @@
     <desc>Together with a celebrity guest in the studio, Jon and Judi will chew over the drama, celebrate the standout moments and revisit all the action from inside the Bake Off tent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261118123000 -0500" stop="20261118130000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261118124500 -0500" stop="20261118125000 -0500" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2387,6 +2432,11 @@
     <desc>Deadly Destinations chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261119123000 -0500" stop="20261119130000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119124500 -0500" stop="20261119125000 -0500" channel="5.GB">
     <title>5 News at Lunchtime</title>
     <desc>The latest national and international news, sport and weather.</desc>
@@ -2480,6 +2530,11 @@
   <programme start="20261119220000 -0500" stop="20261119230000 -0500" channel="TRUE CRIME.GB">
     <title>Britain's Countryside Killers</title>
     <desc>This British series examines notorious murders that have had a lasting impact on rural communities in the UK. Each episode revisits a case that shocked once-peaceful towns and villages, highlighting how these seemingly idyllic settings were forever changed by violent crime. The series includes contributions from retired police detectives, forensic psychologists, and local journalists who provide detailed analysis of the investigative process behind each case.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261120123000 -0500" stop="20261120130000 -0500" channel="ITV1.GB">
+    <title>Loose Women</title>
+    <desc>A weekday panel show presented by women for women. Watch our panellists discuss topical issues &amp;amp; showbiz while interviewing celebrity guests in front of a live studio audience.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261120124500 -0500" stop="20261120125000 -0500" channel="5.GB">
