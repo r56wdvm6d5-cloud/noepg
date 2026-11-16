@@ -1012,7 +1012,7 @@
     <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261118210000 -0500" stop="20261118230000 -0500" channel="Bravo.US">
+  <programme start="20261118210000 -0500" stop="20261118220000 -0500" channel="Bravo.US">
     <title>Small Town Trouble: Texas</title>
     <desc>In the heart of Texas Hill Country is the picture‑perfect town of Boerne where wealth, beauty, faith and family reign supreme. Centered on a tight-knit circle of glamorous women, this series follows their lives as they raise families, run ranches and farms and manage sparkling social calendars in a town rooted in rodeos and tradition. Behind the polished smiles and Sunday sermons, however, there are intimate relationships and forbidden romances that test loyalties and marriages, jeopardizing the town's pristine image and proving that perfection is far more complicated than anyone could imagine.</desc>
     <category>TV Show</category>
@@ -1085,6 +1085,11 @@
   <programme start="20261118220000 -0500" stop="20261118230000 -0500" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118220000 -0500" stop="20261118230000 -0500" channel="Bravo.US">
+    <title>Small Town Trouble: Texas</title>
+    <desc>In the heart of Texas Hill Country is the picture‑perfect town of Boerne where wealth, beauty, faith and family reign supreme. Centered on a tight-knit circle of glamorous women, this series follows their lives as they raise families, run ranches and farms and manage sparkling social calendars in a town rooted in rodeos and tradition. Behind the polished smiles and Sunday sermons, however, there are intimate relationships and forbidden romances that test loyalties and marriages, jeopardizing the town's pristine image and proving that perfection is far more complicated than anyone could imagine.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118220300 -0500" stop="20261118230500 -0500" channel="History.US">
@@ -2150,11 +2155,6 @@
   <programme start="20261116200000 -0500" stop="20261116210000 -0500" channel="5.GB">
     <title>Traffic Cops: Elite Squad One</title>
     <desc>When it comes to chasing criminals, two wheels are better than four. In this brand new high-octane series, nowhere is off limits for the country's highly trained police bikers. They are the UK's fastest responders, at the ready to race at top speed to save lives and catch suspects on the run.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261116200000 -0500" stop="20261116203000 -0500" channel="BBC Two.GB">
-    <title>Only Connect</title>
-    <desc>Quiz show in which connections must be made between apparently unconnected things, where patience and lateral thinking are as vital as knowledge.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116200000 -0500" stop="20261116210000 -0500" channel="Channel 4.GB">
