@@ -1,55 +1,19 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv generator-info-name="TVMaze EPG Generator" generator-info-url="https://www.tvmaze.com/api">
-  <channel id="NBC.US">
-    <display-name>NBC</display-name>
+  <channel id="MS NOW.US">
+    <display-name>MS NOW</display-name>
     <country>US</country>
   </channel>
   <channel id="ABC.US">
     <display-name>ABC</display-name>
     <country>US</country>
   </channel>
-  <channel id="MS NOW.US">
-    <display-name>MS NOW</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Discovery.US">
-    <display-name>Discovery</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="CNN.US">
-    <display-name>CNN</display-name>
+  <channel id="NBC.US">
+    <display-name>NBC</display-name>
     <country>US</country>
   </channel>
   <channel id="CBS.US">
     <display-name>CBS</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="ESPN.US">
-    <display-name>ESPN</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="FOX.US">
-    <display-name>FOX</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="Bravo.US">
-    <display-name>Bravo</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="History.US">
-    <display-name>History</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="PBS.US">
-    <display-name>PBS</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="HBO.US">
-    <display-name>HBO</display-name>
-    <country>US</country>
-  </channel>
-  <channel id="A&amp;E.US">
-    <display-name>A&amp;E</display-name>
     <country>US</country>
   </channel>
   <channel id="NFL Network.US">
@@ -64,20 +28,56 @@
     <display-name>Syndication</display-name>
     <country>US</country>
   </channel>
+  <channel id="ESPN.US">
+    <display-name>ESPN</display-name>
+    <country>US</country>
+  </channel>
   <channel id="Newsmax.US">
     <display-name>Newsmax</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="CNN.US">
+    <display-name>CNN</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="FOX.US">
+    <display-name>FOX</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="Bravo.US">
+    <display-name>Bravo</display-name>
     <country>US</country>
   </channel>
   <channel id="Comedy Central.US">
     <display-name>Comedy Central</display-name>
     <country>US</country>
   </channel>
+  <channel id="PBS.US">
+    <display-name>PBS</display-name>
+    <country>US</country>
+  </channel>
   <channel id="The CW.US">
     <display-name>The CW</display-name>
     <country>US</country>
   </channel>
+  <channel id="Discovery.US">
+    <display-name>Discovery</display-name>
+    <country>US</country>
+  </channel>
   <channel id="National Geographic.US">
     <display-name>National Geographic</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="A&amp;E.US">
+    <display-name>A&amp;E</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="History.US">
+    <display-name>History</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="HBO.US">
+    <display-name>HBO</display-name>
     <country>US</country>
   </channel>
   <channel id="STARZ.US">
@@ -88,6 +88,10 @@
     <display-name>ITV1</display-name>
     <country>GB</country>
   </channel>
+  <channel id="5.GB">
+    <display-name>5</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Channel 4.GB">
     <display-name>Channel 4</display-name>
     <country>GB</country>
@@ -96,20 +100,12 @@
     <display-name>BBC One</display-name>
     <country>GB</country>
   </channel>
-  <channel id="5.GB">
-    <display-name>5</display-name>
+  <channel id="BBC Two.GB">
+    <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC Alba.GB">
     <display-name>BBC Alba</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="E4.GB">
-    <display-name>E4</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="BBC Two.GB">
-    <display-name>BBC Two</display-name>
     <country>GB</country>
   </channel>
   <channel id="Quest.GB">
@@ -118,6 +114,10 @@
   </channel>
   <channel id="Comedy Central.GB">
     <display-name>Comedy Central</display-name>
+    <country>GB</country>
+  </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
     <country>GB</country>
   </channel>
   <channel id="National Geographic.GB">
@@ -152,201 +152,6 @@
     <display-name>ABC</display-name>
     <country>AU</country>
   </channel>
-  <programme start="20261114010200 -0500" stop="20261114013200 -0500" channel="NBC.US">
-    <title>Open House Outrageous</title>
-    <desc>Interior designer Megan Batoon and comedian Tim Chantarangsu taking exciting tours of unusual vacation homes and distinctive stays in destinations.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115070000 -0500" stop="20261115080000 -0500" channel="ABC.US">
-    <title>Good Morning America: Weekend Edition</title>
-    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115070000 -0500" stop="20261115100000 -0500" channel="MS NOW.US">
-    <title>The Weekend</title>
-    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115073000 -0500" stop="20261115080000 -0500" channel="Discovery.US">
-    <title>Adventure Cities</title>
-    <desc>Award-winning travel journalist Jonathan Thompson searches for adventures and reveals the wonderful cultures, allures and attractions of the world's most fascinating urban centers.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115080000 -0500" stop="20261115090000 -0500" channel="NBC.US">
-    <title>Sunday TODAY with Willie Geist</title>
-    <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115090000 -0500" stop="20261115100000 -0500" channel="NBC.US">
-    <title>Meet the Press</title>
-    <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115090000 -0500" stop="20261115100000 -0500" channel="CNN.US">
-    <title>State of the Union with Jake Tapper and Dana Bash</title>
-    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115090000 -0500" stop="20261115103000 -0500" channel="CBS.US">
-    <title>CBS News Sunday Morning</title>
-    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115100000 -0500" stop="20261115130000 -0500" channel="ESPN.US">
-    <title>Sunday NFL Countdown</title>
-    <desc>Sunday NFL Countdown is a sports talk show that airs Sunday mornings during Football season where a panel of NFL experts discuss and breakdown the upcoming weekend games. This show's former names include NFL GameDay from 1985 to 1995, NFL Countdown from 1996 to 1997, and since 1998, Sunday NFL Countdown. This Sunday pregame talk show debuted in 1985 and soon became a signature ESPN series behind host Chris Berman, who was at the helm for three decades. Taking over that role is Samantha Ponder, a one-time college football reporter and contributor. She introduces the features and directs the storylines associated with the day's games, joined by a roster of analysts highlighted by ex-NFL players. Chris Mortensen and Adam Schefter deliver breaking news and injury updates, while reporters at game sites set the scenes.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115100000 -0500" stop="20261115110000 -0500" channel="ABC.US">
-    <title>This Week</title>
-    <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115100000 -0500" stop="20261115130000 -0500" channel="MS NOW.US">
-    <title>Connect with Jacob Soboroff</title>
-    <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115100000 -0500" stop="20261115110000 -0500" channel="CNN.US">
-    <title>Fareed Zakaria GPS</title>
-    <desc>Fareed Zakaria GPS is a weekly public affairs show hosted by journalist and author Fareed Zakaria. As of November 2011, the show airs Sundays at 10 am Eastern Time and 1 pm Eastern Time on CNN. The show also airs Sundays at 1200 and 1900 GMT on CNN International. The "GPS" in the show's title stands for "Global Public Square," a reference to the show's focus on international issues and foreign affairs. On August 10, 2012, CNN suspended the program pending their investigation of suspected plagiarism. One week later, the New York Times reported, "Time and CNN said they had completed their reviews, found no evidence of plagiarism, and restored Mr. Zakaria to his demanding schedule." Each installment features Zakaria leading a panel discussion and conducting an extended one-on-one interview.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115103000 -0500" stop="20261115113000 -0500" channel="CBS.US">
-    <title>Face the Nation</title>
-    <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115120000 -0500" stop="20261115130000 -0500" channel="CBS.US">
-    <title>The NFL Today</title>
-    <desc>The NFL Today is an American sports-talk television program on CBS that serves as the pre-game show for the network's National Football League (NFL) game telecasts under the NFL on CBS brand. The program features commentary on the latest news around the NFL from its hosts and studio analysts, as well as predictions for the day's games and interviews with players and coaches. Originally debuting as Pro Football Kickoff on September 17, 1961, the program airs before all NFL games broadcast by CBS (usually on Sundays at 12:00 p.m. Eastern Time), and generally runs for one hour (except for Thursday prime time games during the first half of the season, during which a 45-minute edition airs, as well as on Thanksgiving and during the postseason).</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115124000 -0500" stop="20261115125200 -0500" channel="FOX.US">
-    <title>FOX NFL Sunday</title>
-    <desc>Fox NFL Sunday is an American sports-talk television program on Fox that debuted on September 4, 1994, and serves as the pre-game show for the network's National Football League game telecasts under the NFL on Fox brand. An audio simulcast of the program airs on sister radio network Fox Sports Radio, which is distributed by Premiere Radio Networks. As of 2014, the program has won four Emmy Awards. Fox NFL Sunday debuted on September 4, 1994, when Fox inaugurated its NFL game broadcasts through the network's recently acquired broadcast rights to the National Football Conference; it was originally hosted by James Brown, Terry Bradshaw, Howie Long and Jimmy Johnson (both Brown and Bradshaw had joined the network from CBS to help helm Fox's NFL coverage). The program was notable in being the first hour-long NFL pregame show on a broadcast television network; network pregame programs that existed beforehand, such as CBS' The NFL Today or NBC's NFL Live!, aired as 30-minute broadcasts. Fox's show also adopted a looser, more irreverent approach than its predecessors in order to also appeal to the network's younger-skewing audiences. During Johnson's initial season on Fox NFL Sunday, he would often join the show from his home in Florida. There was much speculation that Jimmy Johnson would return to coaching during the first year of the program's run. Prior to the end of the year, Johnson made an "announcement," saying he was happy with his new career in broadcasting. But in 1996, he left the program to become head coach of the Miami Dolphins; Ronnie Lott was brought in to succeed him, and stayed with the program for two seasons.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115130000 -0500" stop="20261115160000 -0500" channel="CBS.US">
-    <title>NFL on CBS</title>
-    <desc>Coverage of NFL on CBS.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115130000 -0500" stop="20261115160000 -0500" channel="MS NOW.US">
-    <title>The Assignment with Antonia Hylton</title>
-    <desc>The Assignment with Antonia Hylton will bring Hylton's thoughtful, deeply reported journalism to MS NOW's audience every weekend. Based in New York, The Assignment with Antonia Hylton will serve as destination viewing for the latest political and cultural headlines, informative discussions and fresh insights from top lawmakers and changemakers. Centered around Hylton's award-winning field reporting and rooted in her signature curiosity and accountability, the program will aim to help audiences better understand not only the latest headlines, but also the broader context behind them, while inviting them into a community that engages more deeply.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115133000 -0500" stop="20261115143000 -0500" channel="ESPN.US">
-    <title>NFL Primetime</title>
-    <desc>This longtime ESPN staple doesn't air in prime time anymore, and the original tag team of Chris Berman and Tom Jackson are no longer involved. But it lives on, albeit in a slightly different form, with host Trey Wingo presenting a shorter-form highlights package of Sunday's NFL action coupled with more in-depth analysis from former players Merril Hoge and Tim Hasselbeck.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115170000 -0500" stop="20261115180000 -0500" channel="MS NOW.US">
-    <title>PoliticsNation</title>
-    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115183000 -0500" stop="20261115190000 -0500" channel="NBC.US">
-    <title>NBC Nightly News</title>
-    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115190000 -0500" stop="20261115201500 -0500" channel="NBC.US">
-    <title>Football Night in America</title>
-    <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115190000 -0500" stop="20261115200000 -0500" channel="ABC.US">
-    <title>America's Funniest Home Videos</title>
-    <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115190000 -0500" stop="20261115200000 -0500" channel="CBS.US">
-    <title>60 Minutes</title>
-    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115193000 -0500" stop="20261115203000 -0500" channel="ESPN.US">
-    <title>WNBA Draft</title>
-    <desc>The WNBA Draft is a draft of College and other Females for the Women's National Basketball Association that is held annually live on one of the ESPN Networks.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115210000 -0500" channel="CBS.US">
-    <title>Marshals</title>
-    <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115210000 -0500" channel="Bravo.US">
-    <title>The Real Housewives of Potomac</title>
-    <desc>Just up the river from our nation's capital lies a hidden gem—Potomac, Maryland. Its rolling hills, gated mansions, sophisticated prep schools, and exclusive country clubs all serve to keep the area invitation-only. Sprinkled throughout this community are a handful of old-line, wealthy African-American families who have historically broken racial barriers to provide a life of privilege for their children. The Real Housewives of Potomac follows the upscale lives of six intriguing, well-to-do women: Gizelle Bryant, Katie Rost, Karen Huger, Charrisse Jackson-Jordan, Robyn Dixon, and Ashley Darby, all of whom have fought for their places in this society by way of legacy or marriage. In a town where entry is granted only through class, pedigree, and lineage, how far will these ladies go to secure their spot at the top of this prestigious circle?</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115203000 -0500" channel="FOX.US">
-    <title>Animal Control</title>
-    <desc>Animal Control is a workplace comedy following a group of Animal Control workers whose lives are complicated by the fact that animals are simple, but humans are not.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115200000 -0500" stop="20261115210000 -0500" channel="History.US">
-    <title>American Pickers: Best Of</title>
-    <desc>In small towns, and along America's back roads, treasures are waiting to be uncovered–valuable relics from history that are hidden in junk piles, buried in barns and stacked in garages. It takes special experts to find these lost artifacts and hopefully turn rust to riches. Mike and Frank look back at their best picks.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115202000 -0500" stop="20261115235000 -0500" channel="NBC.US">
-    <title>NBC Sunday Night Football</title>
-    <desc>NBC Sunday Night Football is a weekly television broadcast of National Football League (NFL) games on NBC in the United States. It began airing on August 6, 2006 with the Pro Football Hall of Fame Game, which opened that year's preseason. NBC took over the rights to the Sunday prime time game telecasts from ESPN, which carried the broadcasts from 1987 to 2005 (concurrently with NBC assuming the rights to Sunday evening regular-season games).</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115203000 -0500" stop="20261115210000 -0500" channel="FOX.US">
-    <title>The Simpsons</title>
-    <desc>The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115210000 -0500" stop="20261115220000 -0500" channel="PBS.US">
-    <title>Maigret</title>
-    <desc>In Maigret, Chief Inspector Maigret and his team of maverick but loyal detectives, Les Maigrets, solve a series of complex crimes in Paris. Maigret's unconventional methods and unique sense of justice put him at odds with his superiors and the judicial system he is supposed to represent. Maigret must outwit some of Paris's most cunning and violent criminals, while dealing with his own troubled past.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115210000 -0500" stop="20261115220000 -0500" channel="CBS.US">
-    <title>Tracker</title>
-    <desc>Tracker features lone-wolf survivalist Colter Shaw, who roams the country as a "reward seeker," using his expert tracking skills to help private citizens and law enforcement to solve all manner of mysteries while contending with his own fractured family.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115210000 -0500" stop="20261115213000 -0500" channel="FOX.US">
-    <title>Universal Basic Guys</title>
-    <desc>In Universal Basic Guys brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them, the town started a radical Universal Basic Income pilot program, giving all residents of Glantontown $3,000 per month with no strings attached. Now, Mark, Hank and the rest of their local buddies are once again kids in the summertime, overflowing with the perilous combo of free time and stupid ideas. This is a show about men trying to find purpose in a world where they're no longer needed.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115210000 -0500" stop="20261115220000 -0500" channel="HBO.US">
-    <title>The Gilded Age</title>
-    <desc>The American Gilded Age was a period of immense economic change, of huge fortunes made and lost, and the rise of disparity between old money and new.Against this backdrop of change, the story begins in 1882 — introducing young Marian Brook, the orphaned daughter of a Union general, who moves into the New York City home of her thoroughly old money aunts Agnes van Rhijn and Ada Brook. Accompanied by Peggy Scott, an accomplished African-American woman, Marian inadvertently becomes enmeshed in a social war between one of her aunts, a scion of the old money set, and her stupendously rich neighbors, a ruthless railroad tycoon and his ambitious wife, George and Bertha Russell.In this exciting new world that is on the brink of the modern age, will Marian follow the established rules of society, or forge her own path?</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115210000 -0500" stop="20261115220000 -0500" channel="A&amp;E.US">
-    <title>Late Night Law</title>
-    <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115213000 -0500" stop="20261115220000 -0500" channel="FOX.US">
-    <title>Grimsburg</title>
-    <desc>Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there's one mystery he still can't crack - his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he's got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115220000 -0500" stop="20261115230000 -0500" channel="A&amp;E.US">
-    <title>Late Night Law</title>
-    <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115230000 -0500" stop="20261115233000 -0500" channel="HBO.US">
-    <title>Last Week Tonight with John Oliver</title>
-    <desc>On Last Week Tonight with John Oliver, John Oliver presents a satirical look at the week in news, politics and current events.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115235900 -0500" stop="20261116005900 -0500" channel="NBC.US">
-    <title>The Tonight Show Starring Jimmy Fallon</title>
-    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261116050000 -0500" stop="20261116060000 -0500" channel="MS NOW.US">
     <title>Way Too Early</title>
     <desc>The fast-paced program brings viewers everything they need to know to start their days--from news and politics to sports and pop culture.</desc>
@@ -507,6 +312,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261116183000 -0500" stop="20261116190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261116190000 -0500" stop="20261116200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -595,6 +405,11 @@
   <programme start="20261116220000 -0500" stop="20261116230000 -0500" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261116220000 -0500" stop="20261116223000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116230000 -0500" stop="20261117000000 -0500" channel="Comedy Central.US">
@@ -792,6 +607,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261117183000 -0500" stop="20261117190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261117190000 -0500" stop="20261117200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -880,6 +700,11 @@
   <programme start="20261117210000 -0500" stop="20261117220000 -0500" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261117210000 -0500" stop="20261117213000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261117210100 -0500" stop="20261117220100 -0500" channel="Discovery.US">
@@ -1132,6 +957,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261118183000 -0500" stop="20261118190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261118190000 -0500" stop="20261118200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1290,6 +1120,11 @@
   <programme start="20261118230000 -0500" stop="20261119000000 -0500" channel="CNN.US">
     <title>Laura Coates Live</title>
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118230000 -0500" stop="20261118233000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118233500 -0500" stop="20261119003500 -0500" channel="NBC.US">
@@ -1472,6 +1307,11 @@
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261119183000 -0500" stop="20261119190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119190000 -0500" stop="20261119200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1570,6 +1410,11 @@
   <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261119210000 -0500" stop="20261119213000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261119210100 -0500" stop="20261119220000 -0500" channel="CBS.US">
@@ -1800,6 +1645,11 @@
   <programme start="20261120183000 -0500" stop="20261120190000 -0500" channel="CBS.US">
     <title>CBS Evening News</title>
     <desc>The CBS Evening News, a daily evening broadcast featuring news reports, feature stories and interviews by CBS News correspondents and reporters covering events across world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261120183000 -0500" stop="20261120190000 -0500" channel="ABC.US">
+    <title>ABC World News Tonight with David Muir</title>
+    <desc>With unparalleled resources, World News Tonight with David Muir provides the latest information and analysis of major events from around the country and the world.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261120190000 -0500" stop="20261120200000 -0500" channel="MS NOW.US">
@@ -2047,69 +1897,189 @@
     <desc>Austin City Limits is an American television music program and a staple of the Public Broadcasting Service. Austin City Limits was initially created with an eye and ear toward original Texas music, featuring artists that created innovative new sounds in everything from western swing and Texas blues to Tejano music, progressive country and rock n' roll. The series went on to feature a wide range of American roots artists, covering a variety of styles and expanding beyond the borders of the Lone Star State. As the programs audience has grown, the music has encompassed regional, national and even international performers, and producer Terry Lickona continues to seek a balance of music genres in every new season. Austin City Limits today focuses on the unique contributions of diverse artists, music and songwriting from around the world.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115093000 -0500" stop="20261115113000 -0500" channel="ITV1.GB">
-    <title>Love Your Weekend with Alan Titchmarsh</title>
-    <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
+  <programme start="20261121010200 -0500" stop="20261121013200 -0500" channel="NBC.US">
+    <title>Open House Outrageous</title>
+    <desc>Interior designer Megan Batoon and comedian Tim Chantarangsu taking exciting tours of unusual vacation homes and distinctive stays in destinations.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115100000 -0500" stop="20261115130000 -0500" channel="Channel 4.GB">
-    <title>Sunday Brunch</title>
-    <desc>Tim Lovejoy and Simon Rimmer host Sunday Brunch, packed with celebrity guests, tasty cookery and chat.</desc>
+  <programme start="20261122070000 -0500" stop="20261122100000 -0500" channel="MS NOW.US">
+    <title>The Weekend</title>
+    <desc>Fresh analysis of the week's biggest events and a rotating crew of major D.C. newsmakers.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115131500 -0500" stop="20261115135000 -0500" channel="BBC One.GB">
-    <title>Songs of Praise</title>
-    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+  <programme start="20261122070000 -0500" stop="20261122080000 -0500" channel="ABC.US">
+    <title>Good Morning America: Weekend Edition</title>
+    <desc>GMA Weekend expanded to seven days a week in September 2004, providing up-to-the-minute news, weather and topical features from the familiar set of the weekday program located at the crossroads of the world, Times Square. The show's increased focus on lifestyle, leisure and family-oriented topics are suited for the relaxed pace of the weekend, attracting engaged and loyal GMA viewers as they start their days.Co-anchors Dan Harris and Paula Faris bring great energy and vitality to the morning show. In his 11 years at ABC News, Dan has traveled the globe, reporting from Haiti, Pakistan, Afghanistan, Iraq, Ground Zero, South Korea, Israel and the West Bank. His interests range from international affairs and politics to technology and indie music. Former anchor of ABC's World News Now and America This Morning, Paula delivered unforgettable and colorful accounts from the World Cup. Her popular Real Money reports have shown American families how to save thousands of dollars. As the audience on the weekend continues to grow, GMA is now the #1 morning newscast on Saturdays and regularly beats NBC's Today on Sunday mornings.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115135000 -0500" stop="20261115145000 -0500" channel="BBC One.GB">
-    <title>BBC Children in Need</title>
-    <desc>Children in Need provide grants to projects in the UK which focus on children and young people who are disadvantaged. We are local to people in all corners of the UK and support small and large organisations which empower children and extend their life choices. The BBC Children in Need Appeal Night takes place every year in November. The Appeal show is a whole evening of entertainment on BBC One with celebrities singing, dancing, and doing all sorts of crazy things to help raise money.</desc>
+  <programme start="20261122080000 -0500" stop="20261122090000 -0500" channel="NBC.US">
+    <title>Sunday TODAY with Willie Geist</title>
+    <desc>Sunday TODAY with Willie Geist delivers morning news, videos, and photos about current events.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115155000 -0500" stop="20261115165000 -0500" channel="BBC One.GB">
-    <title>BBC Children in Need</title>
-    <desc>Children in Need provide grants to projects in the UK which focus on children and young people who are disadvantaged. We are local to people in all corners of the UK and support small and large organisations which empower children and extend their life choices. The BBC Children in Need Appeal Night takes place every year in November. The Appeal show is a whole evening of entertainment on BBC One with celebrities singing, dancing, and doing all sorts of crazy things to help raise money.</desc>
+  <programme start="20261122090000 -0500" stop="20261122100000 -0500" channel="NBC.US">
+    <title>Meet the Press</title>
+    <desc>For almost as long as there has been television, there's been Meet the Press. The hourlong Sunday morning public affairs program has featured interviews with countless U.S. and world leaders, and has reviewed, analyzed and discussed the news of the week -- all while looking toward the week ahead.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115171500 -0500" stop="20261115181500 -0500" channel="BBC One.GB">
-    <title>Countryfile</title>
-    <desc>The people, places and stories making news in the British countryside.</desc>
+  <programme start="20261122090000 -0500" stop="20261122103000 -0500" channel="CBS.US">
+    <title>CBS News Sunday Morning</title>
+    <desc>CBS News Sunday Morning is a early morning news and magazine program that airs on Sunday's on CBS.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115191500 -0500" stop="20261115200000 -0500" channel="BBC One.GB">
-    <title>Strictly Come Dancing</title>
-    <desc>Celebrities take to the dance floor to perform a dazzling display of ballroom routines.</desc>
+  <programme start="20261122090000 -0500" stop="20261122100000 -0500" channel="CNN.US">
+    <title>State of the Union with Jake Tapper and Dana Bash</title>
+    <desc>Jake Tapper and Dana Bash bring together major newsmakers, analysts and experts to tackle pressing domestic issues and diplomacy on the global stage.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115192500 -0500" stop="20261115193000 -0500" channel="5.GB">
-    <title>5 News Weekend</title>
-    <desc>The latest national and international news, sport and weather.</desc>
+  <programme start="20261122100000 -0500" stop="20261122130000 -0500" channel="ESPN.US">
+    <title>Sunday NFL Countdown</title>
+    <desc>Sunday NFL Countdown is a sports talk show that airs Sunday mornings during Football season where a panel of NFL experts discuss and breakdown the upcoming weekend games. This show's former names include NFL GameDay from 1985 to 1995, NFL Countdown from 1996 to 1997, and since 1998, Sunday NFL Countdown. This Sunday pregame talk show debuted in 1985 and soon became a signature ESPN series behind host Chris Berman, who was at the helm for three decades. Taking over that role is Samantha Ponder, a one-time college football reporter and contributor. She introduces the features and directs the storylines associated with the day's games, joined by a roster of analysts highlighted by ex-NFL players. Chris Mortensen and Adam Schefter deliver breaking news and injury updates, while reporters at game sites set the scenes.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115200000 -0500" stop="20261115203000 -0500" channel="BBC Alba.GB">
-    <title>An Là</title>
-    <desc>National, international and local news from the BBC Alba team.</desc>
+  <programme start="20261122100000 -0500" stop="20261122130000 -0500" channel="MS NOW.US">
+    <title>Connect with Jacob Soboroff</title>
+    <desc>Connect with Jacob Soboroff will be the network's first Los Angeles-based program. Built around the connection Soboroff has forged with the MS NOW audience for more than a decade, Connect will bring viewers closer to the stories shaping the country. Connect will also bring Soboroff's storied reporting from the ground in Los Angeles and beyond to help connect the dots between what's happening in local communities throughout the country and larger national conversations driving politics, culture, and daily life.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115200000 -0500" stop="20261115210000 -0500" channel="Channel 4.GB">
-    <title>Kevin McCloud's Classic Car Road Trips</title>
-    <desc>Kevin McCloud gears up for an exhilarating adventure, as he drives classic cars around the countries where they were made, exploring classic craftmanship, culture and cuisine.</desc>
+  <programme start="20261122100000 -0500" stop="20261122110000 -0500" channel="ABC.US">
+    <title>This Week</title>
+    <desc>This Week  is hosted by former Clinton White House staffer and current co-anchor of ABC's weekday morning news show "Good Morning America", George Stephanopoulos offers a look at current events with a focus on the politics of the day. Each week's show includes interviews with top newsmakers (including some of the nation's top political leaders) as well as a roundtable discussion, usually featuring journalists from ABC and other news organizations, of the week's happenings. Since 2008, the program has broadcast from a studio at the Newseum in Washington, D.C.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115210000 -0500" stop="20261115220000 -0500" channel="Channel 4.GB">
-    <title>Stacey Dooley's Australia: Off the Beaten Track</title>
-    <desc>Stacey Dooley, heads into the wilderness to explore Australia's most remote communities: from an isolated cattle station, to deep within the rainforest, to a very special island.</desc>
+  <programme start="20261122100000 -0500" stop="20261122110000 -0500" channel="CNN.US">
+    <title>Fareed Zakaria GPS</title>
+    <desc>Fareed Zakaria GPS is a weekly public affairs show hosted by journalist and author Fareed Zakaria. As of November 2011, the show airs Sundays at 10 am Eastern Time and 1 pm Eastern Time on CNN. The show also airs Sundays at 1200 and 1900 GMT on CNN International. The "GPS" in the show's title stands for "Global Public Square," a reference to the show's focus on international issues and foreign affairs. On August 10, 2012, CNN suspended the program pending their investigation of suspected plagiarism. One week later, the New York Times reported, "Time and CNN said they had completed their reviews, found no evidence of plagiarism, and restored Mr. Zakaria to his demanding schedule." Each installment features Zakaria leading a panel discussion and conducting an extended one-on-one interview.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115210000 -0500" stop="20261115220000 -0500" channel="E4.GB">
-    <title>One Born Every Minute</title>
-    <desc>A ground-breaking look at the drama and emotion of a maternity unit, from the perspective of the parents-to-be and the maternity ward staff.</desc>
+  <programme start="20261122103000 -0500" stop="20261122113000 -0500" channel="CBS.US">
+    <title>Face the Nation</title>
+    <desc>Face the Nation is a news interview program which airs every Sunday morning, live from the CBS studio in Washington D.C. It is dedicated to interviewing newsmakers on the latest issues. Guests include government leaders, politicians, and international figures in the news. CBS News… More correspondents engage the guests in a lively roundtable discussion focusing on current topics. The show started on November 7th, 1954, and was originally broadcast on both CBS Television and Radio Networks. After close to two decades, the program was taken off CBS radio.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261115220000 -0500" stop="20261115224500 -0500" channel="BBC Two.GB">
-    <title>Later... with Jools Holland</title>
-    <desc>Jools Holland presents BBC Two's flagship music show, with legendary musicians and brand new acts from around the world, all performing live.</desc>
+  <programme start="20261122110000 -0500" stop="20261122120000 -0500" channel="FOX.US">
+    <title>FOX NFL Kickoff</title>
+    <desc>FOX NFL Kickoff provides a preview of the day's NFL action, including interviews with NFL newsmakers, reports from NFL game venues, breaking news and updates.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122130000 -0500" channel="CBS.US">
+    <title>The NFL Today</title>
+    <desc>The NFL Today is an American sports-talk television program on CBS that serves as the pre-game show for the network's National Football League (NFL) game telecasts under the NFL on CBS brand. The program features commentary on the latest news around the NFL from its hosts and studio analysts, as well as predictions for the day's games and interviews with players and coaches. Originally debuting as Pro Football Kickoff on September 17, 1961, the program airs before all NFL games broadcast by CBS (usually on Sundays at 12:00 p.m. Eastern Time), and generally runs for one hour (except for Thursday prime time games during the first half of the season, during which a 45-minute edition airs, as well as on Thanksgiving and during the postseason).</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122120000 -0500" stop="20261122130000 -0500" channel="FOX.US">
+    <title>FOX NFL Sunday</title>
+    <desc>Fox NFL Sunday is an American sports-talk television program on Fox that debuted on September 4, 1994, and serves as the pre-game show for the network's National Football League game telecasts under the NFL on Fox brand. An audio simulcast of the program airs on sister radio network Fox Sports Radio, which is distributed by Premiere Radio Networks. As of 2014, the program has won four Emmy Awards. Fox NFL Sunday debuted on September 4, 1994, when Fox inaugurated its NFL game broadcasts through the network's recently acquired broadcast rights to the National Football Conference; it was originally hosted by James Brown, Terry Bradshaw, Howie Long and Jimmy Johnson (both Brown and Bradshaw had joined the network from CBS to help helm Fox's NFL coverage). The program was notable in being the first hour-long NFL pregame show on a broadcast television network; network pregame programs that existed beforehand, such as CBS' The NFL Today or NBC's NFL Live!, aired as 30-minute broadcasts. Fox's show also adopted a looser, more irreverent approach than its predecessors in order to also appeal to the network's younger-skewing audiences. During Johnson's initial season on Fox NFL Sunday, he would often join the show from his home in Florida. There was much speculation that Jimmy Johnson would return to coaching during the first year of the program's run. Prior to the end of the year, Johnson made an "announcement," saying he was happy with his new career in broadcasting. But in 1996, he left the program to become head coach of the Miami Dolphins; Ronnie Lott was brought in to succeed him, and stayed with the program for two seasons.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122130000 -0500" stop="20261122160000 -0500" channel="CBS.US">
+    <title>NFL on CBS</title>
+    <desc>Coverage of NFL on CBS.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122130000 -0500" stop="20261122160000 -0500" channel="MS NOW.US">
+    <title>The Assignment with Antonia Hylton</title>
+    <desc>The Assignment with Antonia Hylton will bring Hylton's thoughtful, deeply reported journalism to MS NOW's audience every weekend. Based in New York, The Assignment with Antonia Hylton will serve as destination viewing for the latest political and cultural headlines, informative discussions and fresh insights from top lawmakers and changemakers. Centered around Hylton's award-winning field reporting and rooted in her signature curiosity and accountability, the program will aim to help audiences better understand not only the latest headlines, but also the broader context behind them, while inviting them into a community that engages more deeply.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122133000 -0500" stop="20261122143000 -0500" channel="ESPN.US">
+    <title>NFL Primetime</title>
+    <desc>This longtime ESPN staple doesn't air in prime time anymore, and the original tag team of Chris Berman and Tom Jackson are no longer involved. But it lives on, albeit in a slightly different form, with host Trey Wingo presenting a shorter-form highlights package of Sunday's NFL action coupled with more in-depth analysis from former players Merril Hoge and Tim Hasselbeck.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122162500 -0500" stop="20261122192500 -0500" channel="CBS.US">
+    <title>NFL on CBS</title>
+    <desc>Coverage of NFL on CBS.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122170000 -0500" stop="20261122180000 -0500" channel="MS NOW.US">
+    <title>PoliticsNation</title>
+    <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122190000 -0500" stop="20261122201500 -0500" channel="NBC.US">
+    <title>Football Night in America</title>
+    <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122190000 -0500" stop="20261122200000 -0500" channel="ABC.US">
+    <title>America's Funniest Home Videos</title>
+    <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122200000 -0500" stop="20261122203000 -0500" channel="FOX.US">
+    <title>The Simpsons</title>
+    <desc>The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122200000 -0500" stop="20261122210000 -0500" channel="History.US">
+    <title>American Pickers: Best Of</title>
+    <desc>In small towns, and along America's back roads, treasures are waiting to be uncovered–valuable relics from history that are hidden in junk piles, buried in barns and stacked in garages. It takes special experts to find these lost artifacts and hopefully turn rust to riches. Mike and Frank look back at their best picks.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122200000 -0500" stop="20261122210000 -0500" channel="Bravo.US">
+    <title>The Real Housewives of Potomac</title>
+    <desc>Just up the river from our nation's capital lies a hidden gem—Potomac, Maryland. Its rolling hills, gated mansions, sophisticated prep schools, and exclusive country clubs all serve to keep the area invitation-only. Sprinkled throughout this community are a handful of old-line, wealthy African-American families who have historically broken racial barriers to provide a life of privilege for their children. The Real Housewives of Potomac follows the upscale lives of six intriguing, well-to-do women: Gizelle Bryant, Katie Rost, Karen Huger, Charrisse Jackson-Jordan, Robyn Dixon, and Ashley Darby, all of whom have fought for their places in this society by way of legacy or marriage. In a town where entry is granted only through class, pedigree, and lineage, how far will these ladies go to secure their spot at the top of this prestigious circle?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122202000 -0500" stop="20261122235000 -0500" channel="NBC.US">
+    <title>NBC Sunday Night Football</title>
+    <desc>NBC Sunday Night Football is a weekly television broadcast of National Football League (NFL) games on NBC in the United States. It began airing on August 6, 2006 with the Pro Football Hall of Fame Game, which opened that year's preseason. NBC took over the rights to the Sunday prime time game telecasts from ESPN, which carried the broadcasts from 1987 to 2005 (concurrently with NBC assuming the rights to Sunday evening regular-season games).</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122203000 -0500" stop="20261122213000 -0500" channel="CBS.US">
+    <title>Marshals</title>
+    <desc>Marshals stars Luke Grimes reprising his role as Kayce Dutton. With the Yellowstone Ranch behind him, Dutton joins an elite unit of U.S. Marshals, combining his skills as a cowboy and Navy SEAL to bring range justice to Montana. Kayce and his teammates - Pete Calvin, Belle Skinner, Andrea Cruz and Miles Kittle - must balance the high psychological cost of serving as the last line of defense in the region's war on violence with their duty to their families, which for Kayce includes his son Tate and his confidants Thomas Rainwater and Mo from the Broken Rock reservation.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122203000 -0500" stop="20261122223000 -0500" channel="ESPN.US">
+    <title>30 for 30</title>
+    <desc>Inspired by ESPN's anniversary, ESPN Films is launching 30 for 30, an unprecedented documentary series featuring 30 of today's finest storytellers telling thirty remarkable stories from the ESPN era. On their own, each of the films will be an intimate look at a specific story, relevant to larger themes from the modern era. Collectively, these films will be a diverse mosaic of what sports has meant to American and World culture in the last thirty years. Each storyteller will bring their passion and personal point of view to their film detailing the issues, trends, athletes, teams, rivalries, games and events that transformed the sports landscape from 1979 to 2009.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122203100 -0500" stop="20261122210200 -0500" channel="FOX.US">
+    <title>Animal Control</title>
+    <desc>Animal Control is a workplace comedy following a group of Animal Control workers whose lives are complicated by the fact that animals are simple, but humans are not.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261122220000 -0500" channel="PBS.US">
+    <title>Maigret</title>
+    <desc>In Maigret, Chief Inspector Maigret and his team of maverick but loyal detectives, Les Maigrets, solve a series of complex crimes in Paris. Maigret's unconventional methods and unique sense of justice put him at odds with his superiors and the judicial system he is supposed to represent. Maigret must outwit some of Paris's most cunning and violent criminals, while dealing with his own troubled past.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261122213000 -0500" channel="FOX.US">
+    <title>Universal Basic Guys</title>
+    <desc>In Universal Basic Guys brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them, the town started a radical Universal Basic Income pilot program, giving all residents of Glantontown $3,000 per month with no strings attached. Now, Mark, Hank and the rest of their local buddies are once again kids in the summertime, overflowing with the perilous combo of free time and stupid ideas. This is a show about men trying to find purpose in a world where they're no longer needed.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261122220000 -0500" channel="A&amp;E.US">
+    <title>Late Night Law</title>
+    <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261122220000 -0500" channel="HBO.US">
+    <title>The Gilded Age</title>
+    <desc>The American Gilded Age was a period of immense economic change, of huge fortunes made and lost, and the rise of disparity between old money and new.Against this backdrop of change, the story begins in 1882 — introducing young Marian Brook, the orphaned daughter of a Union general, who moves into the New York City home of her thoroughly old money aunts Agnes van Rhijn and Ada Brook. Accompanied by Peggy Scott, an accomplished African-American woman, Marian inadvertently becomes enmeshed in a social war between one of her aunts, a scion of the old money set, and her stupendously rich neighbors, a ruthless railroad tycoon and his ambitious wife, George and Bertha Russell.In this exciting new world that is on the brink of the modern age, will Marian follow the established rules of society, or forge her own path?</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122213000 -0500" stop="20261122223000 -0500" channel="CBS.US">
+    <title>Tracker</title>
+    <desc>Tracker features lone-wolf survivalist Colter Shaw, who roams the country as a "reward seeker," using his expert tracking skills to help private citizens and law enforcement to solve all manner of mysteries while contending with his own fractured family.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122213100 -0500" stop="20261122220100 -0500" channel="FOX.US">
+    <title>Grimsburg</title>
+    <desc>Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there's one mystery he still can't crack - his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he's got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122220000 -0500" stop="20261122230000 -0500" channel="A&amp;E.US">
+    <title>Late Night Law</title>
+    <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122230000 -0500" stop="20261123000000 -0500" channel="HBO.US">
+    <title>Oobah: Scams for a Better Tomorrow</title>
+    <desc>Known for his viral stunts, including creating London's #1-rated fake restaurant, Oobah Butler sets his sights on the world's biggest industries and most powerful institutions. To infiltrate the worlds of wine, wellness, royalty, and more, Oobah hatches elaborate and increasingly audacious schemes by gaming online reviews, assuming made-up personas, and launching fake companies with entirely bogus backstories. Subversive, funny, and irreverent, Oobah: Scams for a Better Tomorrow proves that hacking the system might be the best path toward a brighter future.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116123000 -0500" stop="20261116130000 -0500" channel="ITV1.GB">
@@ -2597,9 +2567,19 @@
     <desc>National and international news</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261120200000 -0500" stop="20261120210000 -0500" channel="5.GB">
+    <title>Bomb Squad: Zero Hour</title>
+    <desc>In this gripping documentary series, we're on the frontline with some of the most elite units of the British Army and Royal Navy; the bomb disposal squads who face over 2,500 bomb emergencies each year. These men and women put their lives on the line every day of the week to keep us safe.With emotional testimony from survivors of major wars and terror attacks, coupled with dramatic footage of war zones and inner-city massacres, we also meet the military personnel who served across the world risking everything to keep others safe.Packed with high-octane drama, explosions, and life-or-death moments that will leave viewers breathless, you'll be glad these real-life heroes are out there protecting us 24/7.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261120200000 -0500" stop="20261120203000 -0500" channel="BBC Alba.GB">
     <title>An Là</title>
     <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261120200000 -0500" stop="20261120210000 -0500" channel="BBC Two.GB">
+    <title>Gardeners' World Winter Specials</title>
+    <desc>Monty and the team celebrate the joy that the gardening year brings.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261120210000 -0500" stop="20261120220000 -0500" channel="Channel 4.GB">
@@ -2662,9 +2642,79 @@
     <desc>Hosted by the Bafta award-winning Michael McIntyre, each episode sees a mixture of great contestants, celebrity guests and laugh out loud moments as The Wheel brings a brand new spin to Saturday nights on BBC One.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261121201500 -0500" stop="20261121224500 -0500" channel="BBC Two.GB">
+    <title>At the BBC</title>
+    <desc>Series of one-off documentaries that uses 70 years of the BBC archive to bring together clips under one theme, sometimes the shows have a presenter but often they don't.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261121201500 -0500" stop="20261121211500 -0500" channel="5.GB">
+    <title>A Year at Kylemore Abbey</title>
+    <desc>A year inside Kylemore Abbey, a heritage site in Ireland run by Benedictine nuns.We follow the nuns and their lay staff as they work to grow Kylemore's success from summer through Christmas to the spring rebirth at Easter. There's an insight into all their activities from preserving ancient woodlands to making chocolate and we get a rare glimpse into monastic life.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261121211500 -0500" stop="20261121222000 -0500" channel="ITV1.GB">
     <title>I'm a Celebrity, Get Me Out of Here!</title>
     <desc>I'm a Celebrity, Get Me Out of Here! is the country's top survival reality TV show, where celebrities must live without any comforts and compete against each other in order to be crowned winner.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261121222000 -0500" stop="20261121234500 -0500" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122093000 -0500" stop="20261122113000 -0500" channel="ITV1.GB">
+    <title>Love Your Weekend with Alan Titchmarsh</title>
+    <desc>Set in the heart of Hampshire, Alan Titchmarsh celebrates all that is great about the British countryside, art, crafts, manufacturing and produce. Alan chats to celebrity guests as well as wildlife, craft and sustainability experts who will share their top tips on how to make the most of our outside spaces no matter how big or small.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122130000 -0500" stop="20261122153000 -0500" channel="Channel 4.GB">
+    <title>Formula 1</title>
+    <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122132500 -0500" stop="20261122140000 -0500" channel="BBC One.GB">
+    <title>Songs of Praise</title>
+    <desc>Songs of Praise is a BBC Television religious programme that presents Christian hymns which first aired in October 1961. The first edition was broadcast from the Tabernacle Baptist Church in Cardiff, and the series is one of the longest-running of its kind on television anywhere in the world.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122171000 -0500" stop="20261122181000 -0500" channel="BBC One.GB">
+    <title>Countryfile</title>
+    <desc>The people, places and stories making news in the British countryside.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122191000 -0500" stop="20261122200000 -0500" channel="BBC One.GB">
+    <title>Strictly Come Dancing</title>
+    <desc>Celebrities take to the dance floor to perform a dazzling display of ballroom routines.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122192500 -0500" stop="20261122193000 -0500" channel="5.GB">
+    <title>5 News Weekend</title>
+    <desc>The latest national and international news, sport and weather.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122200000 -0500" stop="20261122203000 -0500" channel="BBC Alba.GB">
+    <title>An Là</title>
+    <desc>National, international and local news from the BBC Alba team.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122200000 -0500" stop="20261122210000 -0500" channel="Channel 4.GB">
+    <title>Kevin McCloud's Classic Car Road Trips</title>
+    <desc>Kevin McCloud gears up for an exhilarating adventure, as he drives classic cars around the countries where they were made, exploring classic craftmanship, culture and cuisine.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261122220000 -0500" channel="Channel 4.GB">
+    <title>Stacey Dooley's Australia: Off the Beaten Track</title>
+    <desc>Stacey Dooley, heads into the wilderness to explore Australia's most remote communities: from an isolated cattle station, to deep within the rainforest, to a very special island.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122210000 -0500" stop="20261122223000 -0500" channel="ITV1.GB">
+    <title>I'm a Celebrity, Get Me Out of Here!</title>
+    <desc>I'm a Celebrity, Get Me Out of Here! is the country's top survival reality TV show, where celebrities must live without any comforts and compete against each other in order to be crowned winner.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122223000 -0500" stop="20261122232000 -0500" channel="BBC One.GB">
+    <title>Match of the Day</title>
+    <desc>Highlights and key analysis from all the day's games in the Barclays Premier League.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116200000 -0500" stop="20261116210000 -0500" channel="Citytv.CA">
@@ -2710,16 +2760,6 @@
   <programme start="20261120210000 -0500" stop="20261120220000 -0500" channel="CBC.CA">
     <title>The Fifth Estate</title>
     <desc>For four decades the fifth estate has been Canada's premier investigative documentary program. Hosts Bob McKeown, Gillian Findlay and Mark Kelley continue the tradition of provocative and fearless journalism which began with Adrienne Clarkson, Warner Troyer and Peter Reilly in 1975.Each week the fifth estate brings in-depth investigations that matter to Canadians – delivering a dazzling parade of political leaders, controversial characters and ordinary people whose lives were touched by triumph or tragedy.In 2014, the fifth estate won an International Emmy® Award for its investigation into the Rana Plaza collapse in Bangladesh, titled Made in Bangladesh. For the third year in a row, the fifth estate was named Canada's Best News Information Series at the Canadian Screen Awards.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115123000 -0500" stop="20261115133000 -0500" channel="ABC.AU">
-    <title>Landline</title>
-    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261115193000 -0500" stop="20261115202000 -0500" channel="ABC.AU">
-    <title>Recipe of the Year</title>
-    <desc>The ABC is bringing Australians together around the kitchen table with Recipe of the Year, a heart-warming cooking competition hosted by beloved cook Adam Liaw and acclaimed actor and food lover Pia Miranda.Set on a picturesque country farm, the seven-part series sees home cooks compete for the ultimate title: Australia's Recipe of the Year. From family recipes shaped by culture and passed down through generations to ingeniously simple weeknight winners that will put a smile on everyone's face, Recipe of the Year celebrates the stories and flavours that make up Australia today.At the heart of the competition is the Country Women's Association (CWA), bringing generations of cooking wisdom. The home cooks face the formidable CWA judges each week, tackling classic CWA recipes from scones to jam rolls in the hope of winning a coveted CWA ribbon.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261116060000 -0500" stop="20261116090000 -0500" channel="ABC.AU">
@@ -2840,6 +2880,16 @@
   <programme start="20261120230000 -0500" stop="20261120233000 -0500" channel="ABC.AU">
     <title>ABC Late News</title>
     <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122123000 -0500" stop="20261122133000 -0500" channel="ABC.AU">
+    <title>Landline</title>
+    <desc>Pip Courtney &amp;amp; a team of Landline reporters around the country bring you up to date with the issues affecting rural &amp;amp; regional Australia. From farming, agriculture, food, economics, innovation, climate, infrastructure &amp;amp; more.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122193000 -0500" stop="20261122202000 -0500" channel="ABC.AU">
+    <title>Recipe of the Year</title>
+    <desc>The ABC is bringing Australians together around the kitchen table with Recipe of the Year, a heart-warming cooking competition hosted by beloved cook Adam Liaw and acclaimed actor and food lover Pia Miranda.Set on a picturesque country farm, the seven-part series sees home cooks compete for the ultimate title: Australia's Recipe of the Year. From family recipes shaped by culture and passed down through generations to ingeniously simple weeknight winners that will put a smile on everyone's face, Recipe of the Year celebrates the stories and flavours that make up Australia today.At the heart of the competition is the Country Women's Association (CWA), bringing generations of cooking wisdom. The home cooks face the formidable CWA judges each week, tackling classic CWA recipes from scones to jam rolls in the hope of winning a coveted CWA ribbon.</desc>
     <category>TV Show</category>
   </programme>
 </tv>
