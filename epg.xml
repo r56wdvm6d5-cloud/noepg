@@ -56,10 +56,6 @@
     <display-name>Bravo</display-name>
     <country>US</country>
   </channel>
-  <channel id="The CW.US">
-    <display-name>The CW</display-name>
-    <country>US</country>
-  </channel>
   <channel id="National Geographic.US">
     <display-name>National Geographic</display-name>
     <country>US</country>
@@ -82,6 +78,10 @@
   </channel>
   <channel id="STARZ.US">
     <display-name>STARZ</display-name>
+    <country>US</country>
+  </channel>
+  <channel id="The CW.US">
+    <display-name>The CW</display-name>
     <country>US</country>
   </channel>
   <channel id="ITV1.GB">
@@ -387,19 +387,9 @@
     <desc>In the heart of Texas Hill Country is the picture‑perfect town of Boerne where wealth, beauty, faith and family reign supreme. Centered on a tight-knit circle of glamorous women, this series follows their lives as they raise families, run ranches and farms and manage sparkling social calendars in a town rooted in rodeos and tradition. Behind the polished smiles and Sunday sermons, however, there are intimate relationships and forbidden romances that test loyalties and marriages, jeopardizing the town's pristine image and proving that perfection is far more complicated than anyone could imagine.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261118210000 -0500" stop="20261118220000 -0500" channel="The CW.US">
-    <title>The Great American Road Rally: Celebrity Edition</title>
-    <desc>The series takes audiences on a high-energy journey across America's most iconic highway, combining adventure, competition, entertainment, community celebration, and philanthropy.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261118210000 -0500" stop="20261118220000 -0500" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261118210000 -0500" stop="20261118220300 -0500" channel="History.US">
-    <title>Mountain Men</title>
-    <desc>Have you ever wondered what it would be like to live your life off the grid? Have you wished you could shed the complications of modern society and live in the wilderness, using only the things nature has provided? Meet Eustace Conway, Tom Oar and Marty Meierotto of the new History series Mountain Men, three men who have devoted their lives to survival in its simplest form. But how simple is it really for the Mountain Men?From the rugged Blue Ridge Mountains of North Carolina to the seven-month-long winters on the Yaak River in Montana to the frigid northern range of Alaska, the country is full of some very unforgiving terrain. Watch as these men face off against mudslides, falling trees, ravaging weather and even hungry animals, to make sure they obtain the food and supplies they will need to make it through the brutal winter months ahead.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118210000 -0500" stop="20261118220000 -0500" channel="NBC.US">
@@ -415,6 +405,11 @@
   <programme start="20261118210000 -0500" stop="20261118220000 -0500" channel="A&amp;E.US">
     <title>Ozark Law</title>
     <desc>For nine months of the year, the peaceful towns around central Missouri's Lake of the Ozarks are home to just a few thousand residents. However, when summer arrives, millions of tourists flock to the area, seeking fun on the water and vibrant nightlife in the bars. This surge transforms the serene environment into a bustling hub, putting extra pressure on local law enforcement. In this new 10-episode series, viewers join the Lake Ozark Police Department and Osage Beach Police Department on their daily patrols, witnessing firsthand the challenges they face in maintaining order and ensuring safety in this lively midwestern destination.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118210000 -0500" stop="20261118220300 -0500" channel="History.US">
+    <title>Pawn Stars</title>
+    <desc>Long before banks, ATMS and check-cashing services, there were pawn shops. Pawning was the leading form of consumer credit in the United States until the 1950s, and pawn shops are still helping everyday people make ends meet. Pawn Stars takes you inside the colorful world of the pawn business. At the Gold &amp;amp; Silver Pawn Shop on the outskirts of Las Vegas, three generations of the Harrison family - grandfather Richard, son Rick and grandson Corey - jointly run the family business, and there's clashing and camaraderie every step of the way. The three men use their sharp eyes and skills to assess the value of items from the commonplace to the truly historic, including a 16th-century samurai sword, a Super Bowl ring, a Picasso painting and a 17th-century stay of execution. It's up to them to determine what's real and what's fake, as they reveal the often surprising answer to the questions on everyone's mind, "What's the story behind it?" and "What's it worth?"</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118210000 -0500" stop="20261118220000 -0500" channel="CNN.US">
@@ -460,6 +455,11 @@
   <programme start="20261118220000 -0500" stop="20261118230000 -0500" channel="Bravo.US">
     <title>Small Town Trouble: Texas</title>
     <desc>In the heart of Texas Hill Country is the picture‑perfect town of Boerne where wealth, beauty, faith and family reign supreme. Centered on a tight-knit circle of glamorous women, this series follows their lives as they raise families, run ranches and farms and manage sparkling social calendars in a town rooted in rodeos and tradition. Behind the polished smiles and Sunday sermons, however, there are intimate relationships and forbidden romances that test loyalties and marriages, jeopardizing the town's pristine image and proving that perfection is far more complicated than anyone could imagine.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261118220300 -0500" stop="20261118230500 -0500" channel="History.US">
+    <title>Mountain Men</title>
+    <desc>Have you ever wondered what it would be like to live your life off the grid? Have you wished you could shed the complications of modern society and live in the wilderness, using only the things nature has provided? Meet Eustace Conway, Tom Oar and Marty Meierotto of the new History series Mountain Men, three men who have devoted their lives to survival in its simplest form. But how simple is it really for the Mountain Men?From the rugged Blue Ridge Mountains of North Carolina to the seven-month-long winters on the Yaak River in Montana to the frigid northern range of Alaska, the country is full of some very unforgiving terrain. Watch as these men face off against mudslides, falling trees, ravaging weather and even hungry animals, to make sure they obtain the food and supplies they will need to make it through the brutal winter months ahead.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261118223000 -0500" stop="20261118224500 -0500" channel="Comedy Central.US">
@@ -1572,6 +1572,11 @@
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261123140000 -0500" stop="20261123150000 -0500" channel="ESPN.US">
+    <title>Big Day with Peter Schrager</title>
+    <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261123150000 -0500" stop="20261123170000 -0500" channel="ESPN.US">
     <title>NFL Live</title>
     <desc>NFL Live is a National Football League studio show, currently airing Monday through Friday at 7:00 p.m ET on ESPN2. Formerly known as NFL 2Night, the program is one of the only NFL-related studio programs to air during the week along with NFL Insiders. As such, NFL Live is not a highlight show, as Sunday and Monday game highlights are handled by the various other NFL studio shows, including NFL Primetime during the season. Unlike shows for other sports, NFL Live even runs throughout the entire off season.</desc>
@@ -1827,6 +1832,11 @@
     <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261124140000 -0500" stop="20261124150000 -0500" channel="ESPN.US">
+    <title>Big Day with Peter Schrager</title>
+    <desc>Big Day with Peter Schrager will originate from New York City and cover the biggest stories from across the sports world each day, blending reporting, interviews, unique perspectives and authentic conversations with the athletes, coaches, executives and personalities driving the day's biggest headlines. While fans can expect Schrager's trademark NFL insight and relationships, Big Day is built to celebrate the full sports landscape and the moments everyone will be talking about.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261124160000 -0500" stop="20261124180000 -0500" channel="MS NOW.US">
     <title>Deadline: White House</title>
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
@@ -1852,7 +1862,7 @@
     <desc>The College Football Playoff: Top 25 is a weekly sports talk show that began in October 2014 because the BCS (Bowl Championship Selection committee) no longer existed. A new committee was then formed to decide the best Top 25 NCAA football teams in the Nation. Based on a very complicated system of points the Top 4 teams at the end of the regular college football season would be required to play each other in a playoff to determine the best team in the Nation which would be the last team standing. This show beginning every October will announce the Top 25 teams each week and then the College Football analysts and experts will discuss that week's poll results.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261124200000 -0500" stop="20261124220000 -0500" channel="ABC.US">
+  <programme start="20261124200000 -0500" stop="20261124230000 -0500" channel="ABC.US">
     <title>Dancing with the Stars</title>
     <desc>The hit series in which celebrities perform choreographed dance routines that are judged by a panel of renowned ballroom experts</desc>
     <category>TV Show</category>
