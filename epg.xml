@@ -2142,11 +2142,6 @@
     <desc>Ian Nathan examines some of the most memorable scenes in the history of cinema.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="BBC One.GB">
-    <title>Shetland</title>
-    <desc>The dark side of one of the most beautiful places on earth. Uncovering secrets and lies from the past.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="5.GB">
     <title>The Madame Blanc Mysteries</title>
     <desc>Jean White is an antiques dealer who runs a successful business with her husband, Rory. But when he suddenly dies and leaves her nearly penniless, Jean relocates to their one remaining asset - a cottage in French antiques hub Saint Victoire - and begins investigating Rory's mysterious death.</desc>
@@ -2228,7 +2223,7 @@
     <category>TV Show</category>
   </programme>
   <programme start="20261120200000 -0500" stop="20261120210000 -0500" channel="5.GB">
-    <title>Bomb Squad: Zero Hour</title>
+    <title>Inside the Bomb Squad: Zero Hour</title>
     <desc>In this gripping documentary series, we're on the frontline with some of the most elite units of the British Army and Royal Navy; the bomb disposal squads who face over 2,500 bomb emergencies each year. These men and women put their lives on the line every day of the week to keep us safe.With emotional testimony from survivors of major wars and terror attacks, coupled with dramatic footage of war zones and inner-city massacres, we also meet the military personnel who served across the world risking everything to keep others safe.Packed with high-octane drama, explosions, and life-or-death moments that will leave viewers breathless, you'll be glad these real-life heroes are out there protecting us 24/7.</desc>
     <category>TV Show</category>
   </programme>
@@ -2472,6 +2467,11 @@
     <desc>Dispatches is the British TV current affairs documentary series on Channel 4, first transmitted in 1987. The programme covers issues about British society, politics, health,religion, international current affairs and the environment, and often features a mole inside organisations under journalistic investigation.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261123200000 -0500" stop="20261123210000 -0500" channel="5.GB">
+    <title>Traffic Cops: Elite Squad One</title>
+    <desc>When it comes to chasing criminals, two wheels are better than four. In this brand new high-octane series, nowhere is off limits for the country's highly trained police bikers. They are the UK's fastest responders, at the ready to race at top speed to save lives and catch suspects on the run.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261123203000 -0500" stop="20261123210000 -0500" channel="BBC Two.GB">
     <title>University Challenge</title>
     <desc>Academic quiz show where teams of students from UK universities answer questions on all manner of subjects.</desc>
@@ -2485,6 +2485,16 @@
   <programme start="20261123210000 -0500" stop="20261123220000 -0500" channel="Comedy Central.GB">
     <title>Jimmy Carr's Am I the A******?</title>
     <desc>Jimmy Carr is joined by GK Barry &amp;amp; Jamali Maddix to preside over a parade of potential A******s. From petty behaviour to jaw-dropping admissions, the panel decide whether they're a grade A a******.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261123220000 -0500" channel="5.GB">
+    <title>Police: Suspect No.1</title>
+    <desc>Series following the work of police officers and detectives as they attempt to identify those responsible for criminal acts, exploring the intricacies of producing irrefutable evidence, conducting interviews and finding ways to make the guilty confess.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261123210000 -0500" stop="20261123220000 -0500" channel="Quest.GB">
+    <title>Sam Lovegrove: Race Mechanic</title>
+    <desc>Sam Lovegrove prepares cars and bikes for Britain's iconic motorsport events.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261123220000 -0500" stop="20261123230500 -0500" channel="Channel 4.GB">
