@@ -392,7 +392,7 @@
     <desc>Set in a remote castle in the Scottish Highlands and based on the wildly popular Dutch series of the same name, 5-time Emmy-nominated Alan Cumming plays host to twenty larger-than-life personalities (including reality A-listers and America's best game players) who come together to complete a series of challenges with the objective of earning a cash prize of up to $250,000. The catch? Three of the contestants coined "the traitors" will devise a plan to steal the prize from the other contestants coined "the faithful".</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="HBO.US">
+  <programme start="20261119210000 -0500" stop="20261119215400 -0500" channel="HBO.US">
     <title>War</title>
     <desc>War follows two of London's most prestigious rival firms – Cathcarts and Taylor &amp;amp; Byrne – as they go head-to-head in the divorce case of the century. Each side is certain they'll win. But as the case spirals and loyalties fracture, reputations are on the line, and everyone's playing to win.</desc>
     <category>TV Show</category>
@@ -750,6 +750,16 @@
   <programme start="20261120210000 -0500" stop="20261120220000 -0500" channel="CNN.US">
     <title>The Source with Kaitlan Collins</title>
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261120230000 -0500" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261120210000 -0500" stop="20261120230000 -0500" channel="ABC.US">
+    <title>20/20</title>
+    <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261120210800 -0500" stop="20261120220800 -0500" channel="Discovery.US">
@@ -1612,6 +1622,16 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261124233500 -0500" stop="20261125003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261124003500 -0500" stop="20261124013500 -0500" channel="NBC.US">
+    <title>Late Night with Seth Meyers</title>
+    <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261124020000 -0500" stop="20261124030000 -0500" channel="ABC.US">
     <title>ABC World News Now</title>
     <desc>ABC World News Now gives viewers up-to-date information on current events and news from around the world, airing in the overnight hours. Its tone is somewhat lighter than a regular news broadcast, though reports are filed from the usual ABC News correspondents. Weather and pop culture stories round out the reports.</desc>
@@ -1927,6 +1947,11 @@
     <desc>Ian Nathan examines some of the most memorable scenes in the history of cinema.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="BBC One.GB">
+    <title>Shetland</title>
+    <desc>The dark side of one of the most beautiful places on earth. Uncovering secrets and lies from the past.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261119210000 -0500" stop="20261119220000 -0500" channel="5.GB">
     <title>The Madame Blanc Mysteries</title>
     <desc>Jean White is an antiques dealer who runs a successful business with her husband, Rory. But when he suddenly dies and leaves her nearly penniless, Jean relocates to their one remaining asset - a cottage in French antiques hub Saint Victoire - and begins investigating Rory's mysterious death.</desc>
@@ -2085,11 +2110,6 @@
   <programme start="20261121201500 -0500" stop="20261121224500 -0500" channel="BBC Two.GB">
     <title>At the BBC</title>
     <desc>Series of one-off documentaries that uses 70 years of the BBC archive to bring together clips under one theme, sometimes the shows have a presenter but often they don't.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261121201500 -0500" stop="20261121211500 -0500" channel="5.GB">
-    <title>A Year at Kylemore Abbey</title>
-    <desc>A year inside Kylemore Abbey, a heritage site in Ireland run by Benedictine nuns.We follow the nuns and their lay staff as they work to grow Kylemore's success from summer through Christmas to the spring rebirth at Easter. There's an insight into all their activities from preserving ancient woodlands to making chocolate and we get a rare glimpse into monastic life.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261121211500 -0500" stop="20261121222000 -0500" channel="ITV1.GB">
