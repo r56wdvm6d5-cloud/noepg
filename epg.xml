@@ -707,6 +707,11 @@
     <desc>ABC's longest-running primetime entertainment show, America's Funniest Home Videos, returns for season 36 this fall with the same mission -- giving families something genuinely funny to enjoy together on Sunday nights."AFV," the longest-running primetime entertainment show in ABC history, returns for season 36 with the same mission - to provide viewers with hysterical moments that fly by at a dizzying pace.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261122190000 -0500" stop="20261122200000 -0500" channel="CBS.US">
+    <title>60 Minutes</title>
+    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261122200000 -0500" stop="20261122203000 -0500" channel="FOX.US">
     <title>The Simpsons</title>
     <desc>The Simpsons is the longest running scripted show in US television history. It captures the adventures of Homer, Marge, Maggie, Bart and Lisa who are living in a fictional town called Springfield.</desc>
@@ -850,6 +855,11 @@
   <programme start="20261123110000 -0500" stop="20261123120000 -0500" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261123110000 -0500" stop="20261123120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261123120000 -0500" stop="20261123140000 -0500" channel="MS NOW.US">
@@ -1122,6 +1132,11 @@
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261124110000 -0500" stop="20261124120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261124120000 -0500" stop="20261124140000 -0500" channel="MS NOW.US">
     <title>On the Line with Alicia Menendez</title>
     <desc>On the Line with Alicia Menendez moves beyond the headlines to examine the stories shaping the nation, featuring one-on-one conversations with newsmakers and a focus on voices often left out of the political discourse</desc>
@@ -1390,6 +1405,11 @@
   <programme start="20261125110000 -0500" stop="20261125120000 -0500" channel="CBS.US">
     <title>The Price is Right</title>
     <desc>The Price is Right, originally hosted by Bob Barker until 2007 and Drew Carey thereafter -- features a wide variety of games and contests with the same basic challenge: Guess the prices of everyday (or not-quite-everyday) retail items. Four contestants, all of whom are seated in one of the wildest audiences in daytime game-show history, are called to the stage to play a preliminary pricing round. That winner joins the host on stage for one of more than 70 different pricing games. After three such games, the contestants spin a big wheel -- hoping to get as close to $1 as possible -- in the "Showcase Showdown". The two highest winners of that round advance to the final, where prizes could be cars or roomsful of furniture. A trio of models presents the prizes.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125110000 -0500" stop="20261125120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261125120000 -0500" stop="20261125140000 -0500" channel="MS NOW.US">
@@ -2237,9 +2257,24 @@
     <desc>I'm a Celebrity, Get Me Out of Here! is the country's top survival reality TV show, where celebrities must live without any comforts and compete against each other in order to be crowned winner.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261125210000 -0500" stop="20261125223000 -0500" channel="5.GB">
+    <title>Surgeons: A Matter of Life or Death</title>
+    <desc>Cameras follow life-saving operations at the University Hospitals Birmingham.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261125220000 -0500" stop="20261125230000 -0500" channel="TRUE CRIME.GB">
     <title>Deadly Destinations</title>
     <desc>Deadly Destinations chronicles the stories of unsuspecting travelers whose lives are tragically cut short, and gradually reveals how their final stop holds critical clues needed to catch their killer.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261125230500 -0500" channel="Channel 4.GB">
+    <title>First Dates</title>
+    <desc>The First Dates restaurant throws open its doors to single people looking for love.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125224000 -0500" stop="20261126000000 -0500" channel="BBC One.GB">
+    <title>UEFA Champions League Highlights</title>
+    <desc>The biggest names. The biggest games. All the goals and unmissable moments from Europe's greatest football club competition.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261126123000 -0500" stop="20261126130000 -0500" channel="ITV1.GB">
@@ -2300,6 +2335,11 @@
   <programme start="20261126200000 -0500" stop="20261126210000 -0500" channel="Sky Arts.GB">
     <title>Classic Movies: Iconic Scenes</title>
     <desc>Ian Nathan examines some of the most memorable scenes in the history of cinema.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261126200000 -0500" stop="20261126210000 -0500" channel="Channel 4.GB">
+    <title>Aldi's Next Big Thing</title>
+    <desc>Small-time food and drink makers pitch their new ideas to one of Britain's biggest supermarkets, bidding for the chance of a lifetime. But only one winner can make it onto the shelves at Aldi.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261126210000 -0500" stop="20261126220000 -0500" channel="BBC One.GB">
