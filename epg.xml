@@ -407,11 +407,6 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261120210000 -0500" stop="20261120230000 -0500" channel="NBC.US">
-    <title>Dateline NBC</title>
-    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261120210000 -0500" stop="20261120230000 -0500" channel="ABC.US">
     <title>20/20</title>
     <desc>20/20 continues to combine hard-hitting investigative reports, newsmaker interviews and compelling human interest and feature stories.</desc>
@@ -430,6 +425,11 @@
   <programme start="20261120220000 -0500" stop="20261120230000 -0500" channel="CNN.US">
     <title>CNN NewsNight with Abby Phillip</title>
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261120220000 -0500" stop="20261120230000 -0500" channel="NBC.US">
+    <title>Dateline NBC</title>
+    <desc>Dateline NBC presents in-depth coverage of news stories. Rather than just reading news reports, as most news shows do, the reporters for this show research their subjects and interview the people closely involved to create an informative work of investigative journalism.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261120220000 -0500" stop="20261120230000 -0500" channel="HBO.US">
@@ -692,6 +692,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261122183000 -0500" stop="20261122190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261122190000 -0500" stop="20261122201500 -0500" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -917,6 +922,11 @@
     <desc>Monday Night Countdown, which debuted in 1993 on ESPN, is a television program featuring analysis and news on that night's NFL match to be broadcast on ESPN. The show was originally titled NFL Prime Monday from 1993-97 before it was renamed Monday Night Countdown in 1998. The official name of the show is Monday Night Countdown served by Applebee's. The show's previous sponsor was UPS. When it debuted, it was one of the first cross-pollinations between ESPN and ABC Sports, which each largely operated under separate management at the time.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261123183000 -0500" stop="20261123190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261123190000 -0500" stop="20261123200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1015,6 +1025,11 @@
   <programme start="20261123230000 -0500" stop="20261124000000 -0500" channel="CNN.US">
     <title>Laura Coates Live</title>
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261123233500 -0500" stop="20261124003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261123000000 -0500" stop="20261123020000 -0500" channel="CNN.US">
@@ -1162,6 +1177,11 @@
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261124183000 -0500" stop="20261124190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261124190000 -0500" stop="20261124200000 -0500" channel="MS NOW.US">
     <title>The Weeknight</title>
     <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
@@ -1287,6 +1307,11 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261124233500 -0500" stop="20261125003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261124003500 -0500" stop="20261124013500 -0500" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1405,6 +1430,11 @@
   <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125183000 -0500" stop="20261125190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261125190000 -0500" stop="20261125200000 -0500" channel="MS NOW.US">
@@ -1542,6 +1572,16 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261125233500 -0500" stop="20261126003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125003500 -0500" stop="20261125013500 -0500" channel="NBC.US">
+    <title>Late Night with Seth Meyers</title>
+    <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261125020000 -0500" stop="20261125030000 -0500" channel="ABC.US">
     <title>ABC World News Now</title>
     <desc>ABC World News Now gives viewers up-to-date information on current events and news from around the world, airing in the overnight hours. Its tone is somewhat lighter than a regular news broadcast, though reports are filed from the usual ABC News correspondents. Weather and pop culture stories round out the reports.</desc>
@@ -1622,6 +1662,11 @@
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261126183000 -0500" stop="20261126190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261126190000 -0500" stop="20261126201500 -0500" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -1660,6 +1705,16 @@
   <programme start="20261126230000 -0500" stop="20261127000000 -0500" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261126233500 -0500" stop="20261127003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261126233500 -0500" stop="20261127003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261120123000 -0500" stop="20261120130000 -0500" channel="ITV1.GB">
@@ -2315,6 +2370,11 @@
   <programme start="20261120230000 -0500" stop="20261120233000 -0500" channel="ABC.AU">
     <title>ABC Late News</title>
     <desc>More news, more often. Wherever you are stay in touch with ABC News. We've got more reporters in more places, connecting communities and covering the stories and issues that matter to you. Presented by Jade Barker.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261122090000 -0500" stop="20261122100000 -0500" channel="ABC.AU">
+    <title>Insiders</title>
+    <desc>Australia's must-watch political program continues to be a platform for the country's best political analysts and commentators, taking you to the heart of the action every Sunday morning.Insiders entered a very crowded Sunday morning political market in 2001. But our approach was to provide coverage with so many more elements, and to do it in a way that is informative but irreverent. And of course have a few laughs along the way. If you took politics too seriously you'd go mad," said founding host Barrie Cassidy.Insiders is the most watched morning show on Australian TV any day of the week. So start your week with the program the politicians rely on to find out what's going on.Insiders is broadcast on Sundays from 9am to 10am (AEST) on ABC TV and the ABC News channel.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261122123000 -0500" stop="20261122133000 -0500" channel="ABC.AU">
