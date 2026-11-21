@@ -242,12 +242,17 @@
     <desc>America's Test Kitchen is filmed in a real, working test kitchen located just outside of Boston. It is the home of Cook's Illustrated magazine and the Monday-to-Friday destination for more than three dozen test cooks, editors, food scientists, tasters, and cookware specialists.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261121150800 -0500" stop="20261121153100 -0500" channel="CBS.US">
+    <title>College Football Today</title>
+    <desc>College Football Today is hosted by Adam Zucker, Brian Jones and Rick Neuheisel present all the day's news and highlights on CBS' pregame, halftime and postgame studio show.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261121153000 -0500" stop="20261121160000 -0500" channel="PBS.US">
     <title>Cook's Country from America's Test Kitchen</title>
     <desc>"Cook's Country from America's Test Kitchen" is a half-hour cooking show distributed to public television stations (reruns airing on Create) in the United States, which are also available in most Canadian markets. The show's hosts are Julia Collin Davison &amp;amp; Bridget Lancaster; the show and the magazine are affiliated, and the magazine's test kitchen facility in Brookline, Massachusetts, is used as a set for the show. Cook's Illustrated's parent company, Boston Common Press, while retaining its corporate name, has marketed its publishing and media activities under the America's Test Kitchen brand beginning in 2004.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261121153000 -0500" stop="20261121190000 -0500" channel="ABC.US">
+  <programme start="20261121154000 -0500" stop="20261121191000 -0500" channel="ABC.US">
     <title>SEC on ABC</title>
     <desc>SEC on ABC on November 21, 2020, ABC aired its first SEC regular season game since 1995, Florida–Vanderbilt, which was moved from ESPN due to the postponement of an ACC game (Clemson–Florida State) that was originally expected to air on the network due to COVID-19 pandemic complications.On December 10, 2020, ESPN announced that it had acquired the top-tier rights to the SEC under a 10-year, $3 billion contract to begin in the 2024 season; ABC will hold rights to the top SEC game of the week (replacing CBS). As before, they will primarily air in the 3:30 window, but there will also be the possibility for games to be carried on Saturday Night Football. ABC will also hold rights to the SEC Championship Game. During the Disney upfronts, ESPN unveiled an SEC on ABC branding for these games.</desc>
     <category>TV Show</category>
@@ -2372,9 +2377,9 @@
     <desc>The best analysis of local, national and international events from an Australian perspective. Hosted by Sarah Ferguson, with political commentary from 7.30 Political Editor Sabra Lane in Canberra.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261125203000 -0500" stop="20261125210000 -0500" channel="ABC.AU">
-    <title>Separated at Birth</title>
-    <desc>Paramedic besties Sameer and Donna excel at work but fail at adulting. With baby and house disasters, it'll take a child to raise this village.</desc>
+  <programme start="20261125200000 -0500" stop="20261125203000 -0500" channel="ABC.AU">
+    <title>Hard Quiz</title>
+    <desc>Host Tom Gleeson sets out to find Australia's hardest quiz champion, pitting four contestants against each other in a battle of attrition.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261125230000 -0500" stop="20261125233000 -0500" channel="ABC.AU">
