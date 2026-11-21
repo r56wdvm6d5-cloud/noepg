@@ -272,11 +272,6 @@
     <desc>Have I Got News for You is the comedy panel show which delivers comic observations from the satirical to the surreal through the lens of a news quiz show. An institution in Britain, this an award-winning comedy series is now invading America! Always relevant and topical, the series serves up a smart, silly, opinionated, and edgy take on the news of the week featuring a rotating collection of comedians, pundits, politicos, and entertainers. It features host Roy Wood Jr. along with two illustrious team captains Amber Ruffin and Michael Ian Black to guide the guests through an array of games and quick-witted panel conversations that test their knowledge of current events.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261121220000 -0500" stop="20261121230000 -0500" channel="CBS.US">
-    <title>48 Hours</title>
-    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261121230000 -0500" stop="20261122000000 -0500" channel="PBS.US">
     <title>Austin City Limits</title>
     <desc>Austin City Limits is an American television music program and a staple of the Public Broadcasting Service. Austin City Limits was initially created with an eye and ear toward original Texas music, featuring artists that created innovative new sounds in everything from western swing and Texas blues to Tejano music, progressive country and rock n' roll. The series went on to feature a wide range of American roots artists, covering a variety of styles and expanding beyond the borders of the Lone Star State. As the programs audience has grown, the music has encompassed regional, national and even international performers, and producer Terry Lickona continues to seek a balance of music genres in every new season. Austin City Limits today focuses on the unique contributions of diverse artists, music and songwriting from around the world.</desc>
@@ -927,14 +922,14 @@
     <desc>On All In with Chris Hayes, Chris Hayes delivers impactful stories that don't always make the front page. Drawing from his background as a reporter, Hayes goes on the road to uncover the truth by knocking on doors, digging deeper and speaking with people representing all points of view.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261124200000 -0500" stop="20261124210000 -0500" channel="Bravo.US">
-    <title>The Real Housewives of New York City</title>
-    <desc>The Real Housewives of New York City will feature an elite and powerful set of New York socialites as they juggle their careers and home lives with busy calendars packed with charity fund-raising galas, the social whirl of the Hamptons, and interviews for elite private schools. These driven and ambitious women show everyone what it takes to make it in the upper echelon of society, where money and status are an essential way of life.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261124200000 -0500" stop="20261124210100 -0500" channel="Discovery.US">
     <title>Moonshiners</title>
     <desc>The secret and illegal world of moonshining stretches all across Appalachia raking in a pretty penny for those who choose to shine. Moonshiners will go to unprecedented extremes in their efforts to hide their still sites and cloak their distribution networks, some can hide in plain sight. With new styles of shine being tested and sold there is a king's ransom waiting for those bold enough to grab it. But those who enforce the law are wise to shiner deceptions and more determined than ever to catch them red handed and in the act of making Moonshine. The day of reckoning may be around the corner, but don't sell the Moonshiners short. Each has a keen understanding of how to stay one step ahead of the law in their region, and in this ongoing cat and mouse game you never know who will end up in the trap.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261124200000 -0500" stop="20261124210000 -0500" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261124210000 -0500" stop="20261124223000 -0500" channel="PBS.US">
@@ -960,6 +955,11 @@
   <programme start="20261124210000 -0500" stop="20261124220000 -0500" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261124210000 -0500" stop="20261124220000 -0500" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261124210100 -0500" stop="20261124220200 -0500" channel="Discovery.US">
@@ -1017,6 +1017,11 @@
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261124230000 -0500" stop="20261125000000 -0500" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261124233500 -0500" stop="20261125003500 -0500" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
@@ -1025,6 +1030,16 @@
   <programme start="20261124233500 -0500" stop="20261125003500 -0500" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261124000000 -0500" stop="20261124020000 -0500" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261124000000 -0500" stop="20261124020000 -0500" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261124003500 -0500" stop="20261124013500 -0500" channel="NBC.US">
@@ -1207,6 +1222,11 @@
     <desc>Long before banks, ATMS and check-cashing services, there were pawn shops. Pawning was the leading form of consumer credit in the United States until the 1950s, and pawn shops are still helping everyday people make ends meet. Pawn Stars takes you inside the colorful world of the pawn business. At the Gold &amp;amp; Silver Pawn Shop on the outskirts of Las Vegas, three generations of the Harrison family - grandfather Richard, son Rick and grandson Corey - jointly run the family business, and there's clashing and camaraderie every step of the way. The three men use their sharp eyes and skills to assess the value of items from the commonplace to the truly historic, including a 16th-century samurai sword, a Super Bowl ring, a Picasso painting and a 17th-century stay of execution. It's up to them to determine what's real and what's fake, as they reveal the often surprising answer to the questions on everyone's mind, "What's the story behind it?" and "What's it worth?"</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261125200000 -0500" stop="20261125210000 -0500" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261125210000 -0500" stop="20261125220000 -0500" channel="MS NOW.US">
     <title>The Briefing with Jen Psaki</title>
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
@@ -1232,6 +1252,11 @@
     <desc>Long before banks, ATMS and check-cashing services, there were pawn shops. Pawning was the leading form of consumer credit in the United States until the 1950s, and pawn shops are still helping everyday people make ends meet. Pawn Stars takes you inside the colorful world of the pawn business. At the Gold &amp;amp; Silver Pawn Shop on the outskirts of Las Vegas, three generations of the Harrison family - grandfather Richard, son Rick and grandson Corey - jointly run the family business, and there's clashing and camaraderie every step of the way. The three men use their sharp eyes and skills to assess the value of items from the commonplace to the truly historic, including a 16th-century samurai sword, a Super Bowl ring, a Picasso painting and a 17th-century stay of execution. It's up to them to determine what's real and what's fake, as they reveal the often surprising answer to the questions on everyone's mind, "What's the story behind it?" and "What's it worth?"</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261125210000 -0500" stop="20261125220000 -0500" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261125213000 -0500" stop="20261125230000 -0500" channel="CBS.US">
     <title>The Amazing Race</title>
     <desc>From athletes and actors to tattoo artists, social workers and musicians - a diverse mix of teams will need to utilize their street smarts and savvy know-how to compete in the race of their lifetime.</desc>
@@ -1255,6 +1280,11 @@
   <programme start="20261125220000 -0500" stop="20261125230000 -0500" channel="Discovery.US">
     <title>Monsters Inside Me</title>
     <desc>These days, we're faced with the atrocious fear of viruses like Ebola because we've seen it cross our borders. But there's more than Ebola out there. Prepare to be shocked, disgusted and afraid... very, very afraid. An organism could be inside you, feeding on you or infecting you at this very moment! A parasitic, bacterial, viral or fungal attack is like a tumultuous roller coaster within the body that can take terrifying - sometimes deadly - twists and turns. Host/biologist Dan Riskin provides scientific perspective throughout this 10-part series that vividly recounts the stories of people tormented by sinister creatures that have invaded their bodies.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261125230000 -0500" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261125220300 -0500" stop="20261125230500 -0500" channel="History.US">
@@ -1287,6 +1317,11 @@
     <desc>In this new iteration, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write, produce and provide voice over for both iconic characters.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261125230000 -0500" stop="20261126000000 -0500" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261125231500 -0500" stop="20261125233000 -0500" channel="Comedy Central.US">
     <title>Mike Judge's Beavis and Butt-Head</title>
     <desc>In this new iteration, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write, produce and provide voice over for both iconic characters.</desc>
@@ -1300,6 +1335,16 @@
   <programme start="20261125233500 -0500" stop="20261126003500 -0500" channel="NBC.US">
     <title>The Tonight Show Starring Jimmy Fallon</title>
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125020000 -0500" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261125000000 -0500" stop="20261125020000 -0500" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261125003500 -0500" stop="20261125013500 -0500" channel="NBC.US">
@@ -1442,6 +1487,16 @@
     <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261126000000 -0500" stop="20261126020000 -0500" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261126000000 -0500" stop="20261126020000 -0500" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261126003500 -0500" stop="20261126013500 -0500" channel="NBC.US">
     <title>Late Night with Seth Meyers</title>
     <desc>Seth Meyers, who is Saturday Night Live's longest serving anchor on the show's wildly popular "Weekend Update," takes over as host of NBC's Late Night — home to A-list celebrity guests, memorable comedy and the best in musical talent.As the Emmy Award-winning head writer for "SNL," Meyers has established a reputation for sharp wit and perfectly timed comedy, and has gained fame for his spot-on jokes and satire. Meyers takes his departure from "SNL" to his new post at "Late Night," as Jimmy Fallon moves to The Tonight Show.</desc>
@@ -1552,6 +1607,11 @@
     <desc>Gold Rush follows six men who, in the face of an economic meltdown, risk everything - their families, their dignity, and in some cases, their lives - to strike it rich mining for gold in the wilds of Alaska. Inspired by his father Jack, Todd Hoffman of Sandy, Oregon, leads a group of greenhorn miners to forge a new frontier and save their families from dire straits. While leasing a gold claim in Alaska, Todd and his company of newbies face the grandeur of Alaska as well as its hardships, including an impending winter that will halt operations and the opportunity to strike gold. In an effort to keep the operation running, the team takes fate into their own hands with a make or break venture that will change their lives forever.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261127200000 -0500" stop="20261127210000 -0500" channel="CNN.US">
+    <title>Anderson Cooper 360°</title>
+    <desc>Anderson Cooper 360° (commonly shortened to either AC-360 or 360) is a television news show on CNN, hosted by the American journalist Anderson Cooper. The program covers a number of news stories of the day, usually through live or taped reports from the network's correspondents. The coverage can also include analysis from experts on the issues, commonly featured in or after the taped reports.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261127203000 -0500" stop="20261127210000 -0500" channel="PBS.US">
     <title>Firing Line with Margaret Hoover</title>
     <desc>Firing Line with Margaret Hoover maintains the character of the original, providing a platform that is diligent in its commitment to civility and the rigorous exchange of opinion. Interviews and debates will highlight leading lights from the left and right, complemented by archival footage from the original Firing Line to remind viewers of longstanding conservative and liberal arguments, where they've been disproved or reinforced over time.</desc>
@@ -1562,9 +1622,19 @@
     <desc>Did you know that a brown bear became a war hero for the Allies during WWII? Or that a flying lawnmower once killed a spectator at a football game? What about the story of the 19th century doctor who ate vomit to understand how yellow fever is transmitted?If you haven't, then brace yourself for The UnBelievable with Dan Aykroyd.Each hour-long episode will open up our cabinet of curiosities to reveal the strangest-but-true stories in human history, brought to life through dynamic recreation, compelling graphics, and arresting archival. These seemingly tall tales all actually happened, and our cast of experts dives into the historical record to tell you how and why.It's a bizarro barrage of people, places and events that prove just how weird our world can be.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261127210000 -0500" stop="20261127220000 -0500" channel="CNN.US">
+    <title>The Source with Kaitlan Collins</title>
+    <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261127210800 -0500" stop="20261127220900 -0500" channel="Discovery.US">
     <title>Rocky Mountain Wreckers</title>
     <desc>When winter slams into the highways of the American Rockies, heavy recovery specialists from four companies race into action, working to clear wrecks and open roads. Whether it's a raging fire or toxic spill, crews roll up ready to battle the wreckage. They've got the equipment and the skills. But with more than a million people depending on the route that crosses these three states every day, the one thing they don't have, is time.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261127220000 -0500" stop="20261127230000 -0500" channel="CNN.US">
+    <title>CNN NewsNight with Abby Phillip</title>
+    <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261127220300 -0500" stop="20261127230500 -0500" channel="History.US">
@@ -1575,6 +1645,16 @@
   <programme start="20261127230000 -0500" stop="20261128000000 -0500" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261127230000 -0500" stop="20261128000000 -0500" channel="CNN.US">
+    <title>Laura Coates Live</title>
+    <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261127000000 -0500" stop="20261127020000 -0500" channel="CNN.US">
+    <title>The Story Is with Elex Michaelson</title>
+    <desc>The Story Is will feature live nightly panels and debates on set featuring a range of voices including attorneys Gloria Allred and Areva Martin, conservative talk radio hosts Larry Elder and Jennifer Horn, progressive podcast host Brian Tyler Cohen, former California GOP chair Jessica Millan Patterson and journalists Peter Hamby from Puck and POLITICO's Melanie Mason.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261121112000 -0500" stop="20261121125000 -0500" channel="Channel 4.GB">
