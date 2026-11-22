@@ -1592,6 +1592,16 @@
     <desc>The world of home cooking is undergoing a revolution with new tastes, flavors, techniques and influences. Christopher Kimball's Milk Street Television wants to change how Americans cook by bringing home a fresher, bolder, simpler way of preparing food. Chris and his test cooks search the world over looking for the best recipes, and finding home cooks who can teach better ways to prepare a meal at home. Chris also shares tips and techniques designed to make home cooking easier, like how to make foolproof egg whites and how to season a carbon steel pan. Back in the kitchen, Chris transforms what the Milk Street Television crew has learned into practical, simple recipes for home cooks everywhere.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261128110000 -0500" stop="20261128120000 -0500" channel="CNN.US">
+    <title>The Amanpour Hour</title>
+    <desc>Christiane Amanpour, CNN's chief international anchor, brings valuable insight to the biggest global and domestic news stories of the week.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261128120000 -0500" stop="20261128130000 -0500" channel="CNN.US">
+    <title>The Arena: Saturday</title>
+    <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the week's news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261128130000 -0500" stop="20261128133000 -0500" channel="PBS.US">
     <title>Woodsmith Shop</title>
     <desc>The pages of Woodsmith magazine come to life in this unique concept for public television. Each of the thirteen, half-hour episodes is built around a theme and teaches the skills and safe tool techniques necessary to build a variety of woodworking projects in a home shop. On each program, host Don Peschke, founding editor of Woodsmith, leads a cast of editors and project designers as they explore a wide range of tips, tools, jigs and fixtures, and techniques. Segments on most programs include "The Basics," "Techniques," "Three Things to Consider," "Tool Tune-Up," "Shop Tips," "Oops! When Things Go Wrong," and "Woodworkers' Round-table." Produced by Iowa Public Television in high-definition and shot on a special set built just for this program, most episodes include detailed animations that show exactly how machines work and wood joints are assembled. Whether viewers are just starting out or have been woodworking for years, they'll find something new in every episode to apply to their next project. In addition, a companion website (www.WoodsmithShop.com) offers a handy place to find additional resources and download free technique articles and plans for projects shown in the series.</desc>
@@ -1635,11 +1645,6 @@
   <programme start="20261128210000 -0500" stop="20261128220100 -0500" channel="A&amp;E.US">
     <title>Storage Wars</title>
     <desc>Storage Wars follows professional buyers and their teams as they scour repossessed storage units in search of hidden treasure. Part gamblers, part detectives, these auction pros have found everything from coffins to the world's most valuable comic book collection, paying as little as ten dollars for items valued in the millions.Each episode of Storage Wars follows a group of bidders as they get a quick peek inside the units, aided only by the beam of a flashlight. They then must assess on the spot if the unit is worth a bid and how high they will actually go to grasp the gold. The high-stakes fun begins as we see if the resulting buy is full of mostly trash... or true treasure.</desc>
-    <category>TV Show</category>
-  </programme>
-  <programme start="20261128220000 -0500" stop="20261128230000 -0500" channel="CBS.US">
-    <title>48 Hours</title>
-    <desc>48 Hours is a CBS news magazine that investigates intriguing crime and justice cases that touch on all aspects of the human experience. Over its long run, the show has helped exonerate wrongly convicted people, driven the reopening -- and resolution -- of cold cases, and changed numerous lives. CBS News correspondents offer an in-depth look into each story, with the emphasis on solving the mystery at its heart. The program and its team have earned critical acclaim, including 20 Emmys and three Peabody Awards.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261128220000 -0500" stop="20261128230000 -0500" channel="CBS.US">
