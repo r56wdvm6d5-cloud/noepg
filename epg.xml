@@ -124,6 +124,10 @@
     <display-name>Quest</display-name>
     <country>GB</country>
   </channel>
+  <channel id="E4.GB">
+    <display-name>E4</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="Comedy Central.GB">
     <display-name>Comedy Central</display-name>
     <country>GB</country>
@@ -575,6 +579,11 @@
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261125160000 -0500" stop="20261125180000 -0500" channel="MS NOW.US">
+    <title>Deadline: White House</title>
+    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261125180000 -0500" stop="20261125190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
@@ -835,11 +844,6 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261126140000 -0500" stop="20261126150000 -0500" channel="ABC.US">
-    <title>General Hospital</title>
-    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261126160000 -0500" stop="20261126170000 -0500" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
@@ -980,14 +984,19 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261127140000 -0500" stop="20261127150000 -0500" channel="ABC.US">
-    <title>General Hospital</title>
-    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261127160000 -0500" stop="20261127170000 -0500" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261127160000 -0500" stop="20261127180000 -0500" channel="MS NOW.US">
+    <title>Deadline: White House</title>
+    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261127180000 -0500" stop="20261127200000 -0500" channel="MS NOW.US">
+    <title>The Briefing with Jen Psaki</title>
+    <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261127183000 -0500" stop="20261127190000 -0500" channel="NBC.US">
@@ -1370,14 +1379,34 @@
     <desc>Ride along as officers face the dangers and decisions that define the night shift.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261129230000 -0500" stop="20261130000000 -0500" channel="HBO.US">
+  <programme start="20261129230000 -0500" stop="20261129233000 -0500" channel="HBO.US">
     <title>Oobah: Scams for a Better Tomorrow</title>
-    <desc>Known for his viral stunts, including creating London's #1-rated fake restaurant, Oobah Butler sets his sights on the world's biggest industries and most powerful institutions. To infiltrate the worlds of wine, wellness, royalty, and more, Oobah hatches elaborate and increasingly audacious schemes by gaming online reviews, assuming made-up personas, and launching fake companies with entirely bogus backstories. Subversive, funny, and irreverent, Oobah: Scams for a Better Tomorrow proves that hacking the system might be the best path toward a brighter future.</desc>
+    <desc>Through elaborate schemes and pranks, Oobah Butler gets one over on the world's biggest industries and most powerful institutions.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261130060000 -0500" stop="20261130090000 -0500" channel="MS NOW.US">
     <title>Morning Joe</title>
     <desc>On Morning Joe, the hosts Joe Scarborough, Mika Brzezinski, and Willie Geist engage in dynamic discussion about political news and issues important to all Americans. Morning Joe attracts a variety of guests, including top newsmakers, politicians and cultural influencers.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130070000 -0500" stop="20261130090000 -0500" channel="ABC.US">
+    <title>Good Morning America</title>
+    <desc>Good Morning America is a two-hour, live program anchored by Robin Roberts, George Stephanopoulos and Michael Strahan. Lara Spencer is the entertainmnt anchor, and Ginger Zee is the chief meteorologist.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130070000 -0500" stop="20261130090000 -0500" channel="NBC.US">
+    <title>Today</title>
+    <desc>Today is an American news and talk morning television show that airs on NBC. The program debuted on January 14, 1952. It was the first of its genre on American television and in the world, and is the fifth-longest-running American television series.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130070000 -0500" stop="20261130090000 -0500" channel="CBS.US">
+    <title>CBS Mornings</title>
+    <desc>CBS Mornings offers a thoughtful, substantive and insightful source of news and information to a daily audience of 3 million viewers. The Emmy Award-winning broadcast presents a mix of daily news, coverage of developing stories of national and global significance, and interviews with leading figures in politics, business and entertainment.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130080000 -0500" stop="20261130100000 -0500" channel="NFL Network.US">
+    <title>Good Morning Football</title>
+    <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261130090000 -0500" stop="20261130110000 -0500" channel="Fox News Channel.US">
@@ -1388,6 +1417,21 @@
   <programme start="20261130090000 -0500" stop="20261130100000 -0500" channel="Syndication.US">
     <title>The 700 Club</title>
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130090000 -0500" stop="20261130100000 -0500" channel="NBC.US">
+    <title>Today 3rd Hour</title>
+    <desc>A news program intended to inform, entertain, inspire and set the agenda each morning. Each daily live broadcast provides current domestic and international news, weather reports, and interviews with newsmakers from the worlds of politics, business, media, entertainment and sports.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130100000 -0500" stop="20261130120000 -0500" channel="ESPN.US">
+    <title>First Take</title>
+    <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130100000 -0500" stop="20261130110000 -0500" channel="NBC.US">
+    <title>TODAY with Jenna &amp; Sheinelle</title>
+    <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261130130000 -0500" stop="20261130150000 -0500" channel="Fox News Channel.US">
@@ -1405,6 +1449,11 @@
     <desc>American Agenda with hosts Bob Brooks &amp;amp; Katrina Szish is a live, fast-paced look at national news and international events. The program brings viewers the latest from Washington, with insightful analysis from lawmakers and experts, and media reports from New York and around the globe.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261130140000 -0500" stop="20261130150000 -0500" channel="ABC.US">
+    <title>General Hospital</title>
+    <desc>General Hospital, which celebrated its golden anniversary on April 1, 2013, continues its tradition of passion, intrigue and adventure that takes place in the fictional town of Port Charles in upstate New York. The glamour and excitement of those who have come to find their destinies in this familiar seaport town intertwine with the lives, loves and fortunes of beloved, well-known faces. As always, love, danger and mind blowing plot twists continue to abound on General Hospital with contemporary storylines and unforgettable characters.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261130140000 -0500" stop="20261130150000 -0500" channel="CBS.US">
     <title>Beyond the Gates</title>
     <desc>Beyond the Gates is set in a leafy Maryland suburb just outside of Washington D.C., and in one the most affluent African American counties in the United States. Here you'll find a posh gated community with winding tree-lined streets and luxurious mansions to call home. At the center of this community are the Duprees, a powerful and prestigious multi-generational family that is the very definition of Black royalty. But behind these pristine walls and lush, manicured gardens are juicy secrets and scandals waiting to be uncovered. And those that live outside these gates are watching closely. These are the places where our characters live, love, work and play. Those who have "made it" and those who haven't are all trying to navigate life … and some with more grace than others.</desc>
@@ -1418,6 +1467,11 @@
   <programme start="20261130160000 -0500" stop="20261130170000 -0500" channel="CNN.US">
     <title>The Arena with Kasie Hunt</title>
     <desc>Kasie Hunt brings key players into the arena for sharp analysis and panel discussion on the latest news in politics and culture.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130160000 -0500" stop="20261130180000 -0500" channel="MS NOW.US">
+    <title>Deadline: White House</title>
+    <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261130180000 -0500" stop="20261130201500 -0500" channel="ESPN.US">
@@ -1983,6 +2037,11 @@
   <programme start="20261129210000 -0500" stop="20261129233000 -0500" channel="Channel 4.GB">
     <title>Formula 1</title>
     <desc>Steve Jones presents Channel 4's Formula1® comprehensive highlights coverage with expert analysis provided by 13-time Grands Prix winner David Coulthard.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261129210000 -0500" stop="20261129220000 -0500" channel="E4.GB">
+    <title>One Born Every Minute</title>
+    <desc>A ground-breaking look at the drama and emotion of a maternity unit, from the perspective of the parents-to-be and the maternity ward staff.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261129223000 -0500" stop="20261130000000 -0500" channel="BBC One.GB">
