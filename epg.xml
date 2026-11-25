@@ -433,11 +433,6 @@
     <desc>In this new iteration, Beavis and Butt-Head are entering a whole new Gen Z world. Comedy Central has ordered two seasons of the new series with meta-themes relatable to both new and old fans - Gen X parents and their Gen Z kids. Judge is set to write, produce and provide voice over for both iconic characters.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261125230000 -0500" stop="20261126000000 -0500" channel="MS NOW.US">
-    <title>The 11th Hour with Ali Velshi</title>
-    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
-    <category>TV Show</category>
-  </programme>
   <programme start="20261125230000 -0500" stop="20261126000000 -0500" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
@@ -913,6 +908,11 @@
     <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261128190000 -0500" stop="20261128193000 -0500" channel="NBC.US">
+    <title>B1G College Countdown</title>
+    <desc>B1G College Countdown will capture college football's unique gameday atmosphere by providing pre-game and halftime commentary from the site of that week's primetime game – 11 Big Ten and two Notre Dame games. The show will also provide pre-game and halftime content for most of NBC Sports' college football afternoon games throughout the season on NBC and Peacock.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261128193000 -0500" stop="20261128230000 -0500" channel="NBC.US">
     <title>Big Ten Saturday Night</title>
     <desc />
@@ -1026,6 +1026,11 @@
   <programme start="20261129190000 -0500" stop="20261129201500 -0500" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261129190000 -0500" stop="20261129200000 -0500" channel="CBS.US">
+    <title>60 Minutes</title>
+    <desc>60 Minutes has been on the air since 1968, beginning on a Tuesday, but spending most of its time on Sundays, where it remains today. This popular news magazine provides both hard hitting investigations, interviews and features, along with people in the news and current events. 60 Minutes has set unprecedented records in the Nielsen's ratings with a number 1 rating, five times, making it among the most successful TV programs in all of television history. This series has won more Emmy awards than any other news program and in 2003, Don Hewitt, the creator (back in 1968), was awarded the Lifetime Achievement Emmy, along with the 60 Minute correspondents. Added to the 11 Peabody awards, this phenomenally long-lived series has collected 78 awards up to the 2005 season and remains among the viewers top choice for news magazine features.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261129200000 -0500" stop="20261129210000 -0500" channel="CBS.US">
@@ -1198,6 +1203,16 @@
     <desc>Monday Night Countdown, which debuted in 1993 on ESPN, is a television program featuring analysis and news on that night's NFL match to be broadcast on ESPN. The show was originally titled NFL Prime Monday from 1993-97 before it was renamed Monday Night Countdown in 1998. The official name of the show is Monday Night Countdown served by Applebee's. The show's previous sponsor was UPS. When it debuted, it was one of the first cross-pollinations between ESPN and ABC Sports, which each largely operated under separate management at the time.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261130180000 -0500" stop="20261130190000 -0500" channel="MS NOW.US">
+    <title>The Beat with Ari Melber</title>
+    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130190000 -0500" stop="20261130200000 -0500" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261130200000 -0500" stop="20261130210100 -0500" channel="CBS.US">
     <title>FBI</title>
     <desc>FBI is a fast-paced drama about the inner workings of the New York Field Office of the Federal Bureau of Investigation. These first-class agents, including Special Agent Maggie Bell and her partner, Special Agent Omar Adom 'OA' Zidan, bring all their talents, intellect and technical expertise on major cases in order to keep New York and the country safe.</desc>
@@ -1268,6 +1283,11 @@
     <desc>In CNN NewsNight with Abby Phillip, she delivers a thoughtful, sharp approach to the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261130230000 -0500" stop="20261201000000 -0500" channel="MS NOW.US">
+    <title>The 11th Hour with Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261130230000 -0500" stop="20261201000000 -0500" channel="PBS.US">
     <title>Amanpour &amp; Co.</title>
     <desc>Featuring conversations with global leaders and decision makers on the issues affecting the world today, Amanpour and Company adds to the long tradition of public affairs programming that has been a hallmark of public media for decades.</desc>
@@ -1281,6 +1301,11 @@
   <programme start="20261130230000 -0500" stop="20261201000000 -0500" channel="CNN.US">
     <title>Laura Coates Live</title>
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130233500 -0500" stop="20261201003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261130000000 -0500" stop="20261130020000 -0500" channel="CNN.US">
@@ -1388,9 +1413,19 @@
     <desc>Hosted by Nicolle Wallace, this program provides in-depth reporting and dynamic discussions on the political stories driving the news cycle. Nicolle Wallace brings viewers the latest political developments of the day, in addition to interviews with leading newsmakers and influential politicians. Drawing on her years of experience as communications chief for President George W. Bush and senior advisor for the McCain-Palin campaign, Wallace provides political insight and clarity on where key decision-makers stand on complex issues.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261201180000 -0500" stop="20261201190000 -0500" channel="MS NOW.US">
+    <title>The Beat with Ari Melber</title>
+    <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261201190000 -0500" stop="20261201193000 -0500" channel="ESPN.US">
     <title>College Football Playoff: Top 25</title>
     <desc>The College Football Playoff: Top 25 is a weekly sports talk show that began in October 2014 because the BCS (Bowl Championship Selection committee) no longer existed. A new committee was then formed to decide the best Top 25 NCAA football teams in the Nation. Based on a very complicated system of points the Top 4 teams at the end of the regular college football season would be required to play each other in a playoff to determine the best team in the Nation which would be the last team standing. This show beginning every October will announce the Top 25 teams each week and then the College Football analysts and experts will discuss that week's poll results.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261201190000 -0500" stop="20261201200000 -0500" channel="MS NOW.US">
+    <title>The Weeknight</title>
+    <desc>One-on-one conversations with politicians and newsmakers, and the breaking issues of the day.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261201200000 -0500" stop="20261201220000 -0500" channel="The CW.US">
@@ -1496,6 +1531,11 @@
   <programme start="20261201230000 -0500" stop="20261201233500 -0500" channel="Comedy Central.US">
     <title>The Daily Show</title>
     <desc>Hosted by a rotating cast of comedy greats, The Daily Show remains the go-to source for provocative satire, insightful interviews and an award-winning team of correspondents and contributors.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261201230000 -0500" stop="20261202000000 -0500" channel="MS NOW.US">
+    <title>The 11th Hour with Ali Velshi</title>
+    <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261125123000 -0500" stop="20261125130000 -0500" channel="ITV1.GB">
