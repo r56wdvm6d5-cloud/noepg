@@ -193,7 +193,7 @@
     <desc>The 700 Club is a talk show featuring guests, news and spiritual stories from a Christian perspective. News stories are often related to Bible passages. Fundamentalist preacher and one-time presidential candidate Pat Robertson hosts this long-running religious show.</desc>
     <category>TV Show</category>
   </programme>
-  <programme start="20261126100000 -0500" stop="20261126120000 -0500" channel="ESPN.US">
+  <programme start="20261126100000 -0500" stop="20261126110000 -0500" channel="ESPN.US">
     <title>First Take</title>
     <desc>First Take (aka: ESPN First Take) is a weekday sports talk show co-hosted by Stephen A. Smith, Max Kellerman and Molly Qerim who are joined by regular contributors and special guests. The show includes daily sports news, interviews with sports journalists, athletes and personalities, spirited debates, and an assortment of other topics. The show debuted 7 May 2007 as "Cold Pizza".</desc>
     <category>TV Show</category>
@@ -201,6 +201,11 @@
   <programme start="20261126120000 -0500" stop="20261126140000 -0500" channel="NBC.US">
     <title>The National Dog Show</title>
     <desc>The National Dog Show is a conformation show sanctioned by the American Kennel Club. The National Dog Show has been ongoing since 1879 with its only interruption being the Great Depression from 1928 through 1932. The show is held by The Kennel Club of Philadelphia, a founding club of AKC. It traditionally takes place on the third from last weekend in November over two days. The National Dog show is one of the three major dog shows in the United States, along with the AKC/Eukanuba National Championship and the Westminster Dog Show. Winners may be invited to compete at Crufts. As with all AKC conformation shows, mixed-breed dogs are not eligible to participate. The show is nationally televised (on tape delay) in the United States on NBC every Thanksgiving; the show immediately follows the network's coverage of the Macy's Thanksgiving Day Parade and airs at noon in all time zones. Actor John O'Hurley is the program's host, and the show's presenting sponsor is Nestlé Purina PetCare.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261126120000 -0500" stop="20261126130000 -0500" channel="CBS.US">
+    <title>The NFL Today</title>
+    <desc>The NFL Today is an American sports-talk television program on CBS that serves as the pre-game show for the network's National Football League (NFL) game telecasts under the NFL on CBS brand. The program features commentary on the latest news around the NFL from its hosts and studio analysts, as well as predictions for the day's games and interviews with players and coaches. Originally debuting as Pro Football Kickoff on September 17, 1961, the program airs before all NFL games broadcast by CBS (usually on Sundays at 12:00 p.m. Eastern Time), and generally runs for one hour (except for Thursday prime time games during the first half of the season, during which a 45-minute edition airs, as well as on Thanksgiving and during the postseason).</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261126130000 -0500" stop="20261126160000 -0500" channel="CBS.US">
@@ -763,6 +768,11 @@
     <desc>In Universal Basic Guys brothers Mark and Hank Hoagies suddenly find themselves with no jobs when the Glantontown Hot Dog factory switches over to automation. Lucky for them, the town started a radical Universal Basic Income pilot program, giving all residents of Glantontown $3,000 per month with no strings attached. Now, Mark, Hank and the rest of their local buddies are once again kids in the summertime, overflowing with the perilous combo of free time and stupid ideas. This is a show about men trying to find purpose in a world where they're no longer needed.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261129210000 -0500" stop="20261129213000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261129213100 -0500" stop="20261129220100 -0500" channel="FOX.US">
     <title>Grimsburg</title>
     <desc>Marvin Flute may be the greatest detective ever to catch a cannibal clown or correctly identify a mid-century modern armoire. But there's one mystery he still can't crack - his family. Now that he's back in Grimsburg, a town where everyone has a secret or three, Flute will follow every lead he's got to redeem himself with the ex-wife he never stopped loving, even if it means hanging out with the son he never bothered to get to know.</desc>
@@ -953,6 +963,11 @@
     <desc>The Source with Kaitlan Collins - Kaitlan Collins chases the facts, asks the tough questions, and connects with her sources in primetime.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261130210000 -0500" stop="20261130213000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261130210100 -0500" stop="20261130220000 -0500" channel="CBS.US">
     <title>CIA</title>
     <desc>CIA centers on two unlikely partners — a fast-talking, rule-breaking loose cannon CIA case officer, and a by-the-book, seasoned and smart FBI agent who believes in the rule of law. When this odd couple are assigned to work out of CIA's New York Station, they must learn to work together to investigate cases and criminals posing threats on U.S. soil, finding that their differences may actually be their strength.</desc>
@@ -986,6 +1001,11 @@
   <programme start="20261130230000 -0500" stop="20261201000000 -0500" channel="CNN.US">
     <title>Laura Coates Live</title>
     <desc>In Laura Coates Live, Laura goes inside the story with a relentless pursuit of the facts. She is CNN's chief legal analyst, playing a central role in the network's extensive legal programming.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130233500 -0500" stop="20261201003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261130233500 -0500" stop="20261201003500 -0500" channel="NBC.US">
@@ -1183,6 +1203,11 @@
     <desc>Based in Washington, D.C., The Briefing with Jen Psaki will pull from Psaki's decades-long experiences on campaign buses, in the Oval Office, at the State Department, and in the briefing room to dissect the most important stories of the day. Every day the show will aim to help viewers better understand the happenings in Washington and around the country, how it impacts their communities, and what leaders are doing to stand up for the people they represent.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261201210000 -0500" stop="20261201213000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261201213000 -0500" stop="20261201220100 -0500" channel="A&amp;E.US">
     <title>Road Wars</title>
     <desc>Roadways can be a wild place. With violent road rage incidents increasing 500% over the last decade, "road raging" is a human behavior that has become widely known. Road Wars takes a deep dive into American roadways, examining extreme human behavior, wild weather, insane accidents and a few welcome instances of acts of kindness.</desc>
@@ -1226,6 +1251,11 @@
   <programme start="20261201230000 -0500" stop="20261202000000 -0500" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261201233500 -0500" stop="20261202003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261201020000 -0500" stop="20261201030000 -0500" channel="ABC.US">
@@ -1286,6 +1316,11 @@
   <programme start="20261202100000 -0500" stop="20261202110000 -0500" channel="NBC.US">
     <title>TODAY with Jenna &amp; Sheinelle</title>
     <desc>America's feel-good morning show with big stars and sweet surprises; Jenna Bush Hager and Sheinelle Jones host an hour of heartfelt connection, inspirational stories, fun and laughs.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261202110000 -0500" stop="20261202120000 -0500" channel="ABC.US">
+    <title>The View</title>
+    <desc>The View is a live, one-hour daily talk show from ABC co-hosted by Whoopi Goldberg, Joy Behar, Sunny Hostin, Sara Haines, and Meghan McCain. It is the original forum in which real women discuss everyday issues, share their opinions and engage in colorful conversations.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261202130000 -0500" stop="20261202150000 -0500" channel="Fox News Channel.US">
@@ -1413,6 +1448,11 @@
     <desc>These days, we're faced with the atrocious fear of viruses like Ebola because we've seen it cross our borders. But there's more than Ebola out there. Prepare to be shocked, disgusted and afraid... very, very afraid. An organism could be inside you, feeding on you or infecting you at this very moment! A parasitic, bacterial, viral or fungal attack is like a tumultuous roller coaster within the body that can take terrifying - sometimes deadly - twists and turns. Host/biologist Dan Riskin provides scientific perspective throughout this 10-part series that vividly recounts the stories of people tormented by sinister creatures that have invaded their bodies.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261202220000 -0500" stop="20261202223000 -0500" channel="Bravo.US">
+    <title>Watch What Happens Live</title>
+    <desc>Watch What Happens Live is an interactive series hosted by Bravo programming executive Andy Cohen, Bravo's Senior Vice President of Original Programming and Development, is best known to viewers as the host of the network's often explosive Watch What Happens reunion specials. Watch What Happens originally debuted as a live online show on www.bravotv.com. Watch What Happens welcomes guests from some of the cable network's most popular series, as well as other entertainment stars, to chat about pop culture and celebrities in the news!</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261202220300 -0500" stop="20261202230500 -0500" channel="History.US">
     <title>Mountain Men</title>
     <desc>Have you ever wondered what it would be like to live your life off the grid? Have you wished you could shed the complications of modern society and live in the wilderness, using only the things nature has provided? Meet Eustace Conway, Tom Oar and Marty Meierotto of the new History series Mountain Men, three men who have devoted their lives to survival in its simplest form. But how simple is it really for the Mountain Men?From the rugged Blue Ridge Mountains of North Carolina to the seven-month-long winters on the Yaak River in Montana to the frigid northern range of Alaska, the country is full of some very unforgiving terrain. Watch as these men face off against mudslides, falling trees, ravaging weather and even hungry animals, to make sure they obtain the food and supplies they will need to make it through the brutal winter months ahead.</desc>
@@ -1441,6 +1481,11 @@
   <programme start="20261202230000 -0500" stop="20261203000000 -0500" channel="MS NOW.US">
     <title>The 11th Hour with Ali Velshi</title>
     <desc>Ali Velshi delivers sharp, data-driven analysis of the day's biggest stories.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261202233500 -0500" stop="20261203003500 -0500" channel="ABC.US">
+    <title>Jimmy Kimmel Live</title>
+    <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261126123000 -0500" stop="20261126130000 -0500" channel="ITV1.GB">
