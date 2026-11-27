@@ -84,6 +84,10 @@
     <display-name>National Geographic</display-name>
     <country>US</country>
   </channel>
+  <channel id="BBC One.GB">
+    <display-name>BBC One</display-name>
+    <country>GB</country>
+  </channel>
   <channel id="5.GB">
     <display-name>5</display-name>
     <country>GB</country>
@@ -94,10 +98,6 @@
   </channel>
   <channel id="ITV1.GB">
     <display-name>ITV1</display-name>
-    <country>GB</country>
-  </channel>
-  <channel id="BBC One.GB">
-    <display-name>BBC One</display-name>
     <country>GB</country>
   </channel>
   <channel id="BBC Two.GB">
@@ -554,6 +554,11 @@
     <desc>Rev. Al Sharpton highlights important political stories and issues that require a national platform.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261129183000 -0500" stop="20261129190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261129190000 -0500" stop="20261129201500 -0500" channel="NBC.US">
     <title>Football Night in America</title>
     <desc>Football Night in America is an American pre-game show that is broadcast on NBC, preceding its broadcasts of Sunday night and Wild Card Saturday National Football League (NFL) games. The program debuted on September 10, 2006, when the network inaugurated its Sunday prime time game package. The 80-minute program airs live at 7:00 p.m. Eastern Time, and is broadcast from Studio 1 at NBC Sports Headquarters in Stamford, Connecticut. Prior to 2012, Football Night in America originally broadcast from the GE Building in New York City, first out of Studio 8G from 2006 to 2012 and in 2013, from Studio 8H, where Saturday Night Live is also taped.The program's title closely resembles CBC Television's long-running Hockey Night in Canada franchise. In addition, NBC – along with ABC and Major League Baseball in a joint effort called "The Baseball Network" – had previously aired baseball games as the similarly titled Baseball Night in America from 1994 to 1995.</desc>
@@ -752,6 +757,11 @@
   <programme start="20261130180000 -0500" stop="20261130190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261130183000 -0500" stop="20261130190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261130190000 -0500" stop="20261130200000 -0500" channel="MS NOW.US">
@@ -984,6 +994,11 @@
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261201183000 -0500" stop="20261201190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261201190000 -0500" stop="20261201193000 -0500" channel="ESPN.US">
     <title>College Football Playoff: Top 25</title>
     <desc>The College Football Playoff: Top 25 is a weekly sports talk show that began in October 2014 because the BCS (Bowl Championship Selection committee) no longer existed. A new committee was then formed to decide the best Top 25 NCAA football teams in the Nation. Based on a very complicated system of points the Top 4 teams at the end of the regular college football season would be required to play each other in a playoff to determine the best team in the Nation which would be the last team standing. This show beginning every October will announce the Top 25 teams each week and then the College Football analysts and experts will discuss that week's poll results.</desc>
@@ -1149,6 +1164,11 @@
     <desc>Prior to the start of the 2016 NFL regular season, NFL Network has announced a new daily morning show, Good Morning Football, premiering Monday, August 1. Hosted by Kay Adams, Nate Burleson, Peter Schrager and Kyle Brandt, and Executive Produced by Michael Davies, Good Morning Football airs live Monday–Friday at 7:00 a.m. ET on NFL Network from CBS Broadcast Center in New York City. The three-hour live show is NFL Network's first show to originate from New York City in the network's nearly 13 year history. Good Morning Football will re-air Monday–Friday starting at 10:00 a.m. ET.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261202083000 -0500" stop="20261202090000 -0500" channel="NFL Network.US">
+    <title>NFL Films Presents</title>
+    <desc>NFL Films Presents is devoted to producing commercials, television programs, feature films, and documentaries on the National Football League, as well as other unrelated major events and awards shows. It is currently owned by the NFL and produces most of its videotaped content except its live game coverage, which is handled separately by the individual networks."</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261202090000 -0500" stop="20261202110000 -0500" channel="Fox News Channel.US">
     <title>America's Newsroom</title>
     <desc>Watch 'America's Newsroom' on Fox News Channel - follow Bill Hemmer and Dana Perino Weekdays 9 a.m. - 11 a.m. ET as they bring you the news that matters to you.</desc>
@@ -1222,6 +1242,11 @@
   <programme start="20261202180000 -0500" stop="20261202190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261202183000 -0500" stop="20261202190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261202190000 -0500" stop="20261202200000 -0500" channel="MS NOW.US">
@@ -1349,6 +1374,11 @@
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
     <category>TV Show</category>
   </programme>
+  <programme start="20261202233500 -0500" stop="20261203003500 -0500" channel="NBC.US">
+    <title>The Tonight Show Starring Jimmy Fallon</title>
+    <desc>Emmy Award and Grammy Award winner Jimmy Fallon brought NBC's "The Tonight Show" back to its New York origins when he launched The Tonight Show Starring Jimmy Fallon from Rockefeller Center. Fallon puts his own stamp on the storied NBC late-night franchise with his unique comedic wit, on-point pop culture awareness, welcoming style and impeccable taste in music with the award-winning house band, The Roots.</desc>
+    <category>TV Show</category>
+  </programme>
   <programme start="20261202020000 -0500" stop="20261202030000 -0500" channel="ABC.US">
     <title>ABC World News Now</title>
     <desc>ABC World News Now gives viewers up-to-date information on current events and news from around the world, airing in the overnight hours. Its tone is somewhat lighter than a regular news broadcast, though reports are filed from the usual ABC News correspondents. Weather and pop culture stories round out the reports.</desc>
@@ -1452,6 +1482,11 @@
   <programme start="20261203180000 -0500" stop="20261203190000 -0500" channel="MS NOW.US">
     <title>The Beat with Ari Melber</title>
     <desc>The Beat with Ari Melber delivers the biggest political and news stories of the day, with interviews and original reporting from around the nation. An Emmy-winning journalist, attorney and former Senate staffer, Melber cuts through the spin and the noise to tell you what's really happening. Real news, every night.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261203183000 -0500" stop="20261203190000 -0500" channel="NBC.US">
+    <title>NBC Nightly News</title>
+    <desc>NBC Nightly News is the most-watched evening newscast in America, providing the very latest on the day's top stories and going beyond the headlines to add context and analysis to the most pressing issues of our time, both at home and abroad. We go to the heart of breaking news stories, introduce you to everyday people caught up in extraordinary events, offer in-depth reporting on health and medicine, cover international news as it unfolds and we profile those who inspire us to do better in our popular Making A Difference reports. The award-winning broadcast carries a legacy that spans more than six decades, beginning in 1948 - when NBC started broadcasting television's first-ever regularly scheduled network evening newscast.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261203190000 -0500" stop="20261203200000 -0500" channel="MS NOW.US">
@@ -1562,6 +1597,16 @@
   <programme start="20261203233500 -0500" stop="20261204003500 -0500" channel="ABC.US">
     <title>Jimmy Kimmel Live</title>
     <desc>Jimmy Kimmel Live features a diverse lineup of guests that include celebrities, athletes, musical acts, comedians and human-interest subjects, along with comedy bits and a house band.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127072800 -0500" channel="BBC One.GB">
+    <title>Death in Paradise</title>
+    <desc>Murders and mojitos. Fresh off the plane, a British detective joins the police force on the luscious Caribbean island of Saint Marie.</desc>
+    <category>TV Show</category>
+  </programme>
+  <programme start="20261127060000 -0500" stop="20261127065800 -0500" channel="BBC One.GB">
+    <title>Beyond Paradise</title>
+    <desc>Death in Devon. DI Humphrey Goodman relocates from tropical Saint Marie to sleepy Shipton Abbott, cracking cases and hoping for happily ever after with fiancée Martha.</desc>
     <category>TV Show</category>
   </programme>
   <programme start="20261127124500 -0500" stop="20261127125000 -0500" channel="5.GB">
